@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Без Дураков",
+    "desc": [
+      "Игра Ровшана Аскерова и Бориса Левина. Онлайн вариант предлагается играть в виде туров каждый рабочий день, отвечая на вопросы с подсказками с 12:00 до 22:00 (по чуть-чуть каждые 2 часа)."
+    ],
+    "url": [
+      "http://bezdurakovclub.ru/online",
+      "https://www.youtube.com/channel/UCuWVIpGmlfE_7qnzOMWosDw/videos"
+    ],
+    "hasEvent": true,
+    "hasOffline": true,
+    "check": "2020.04.01T01:00:00+03:00"
+  },
+  {
+    "name": "Время подумать",
+    "desc": [
+      "YouTube-канал с видео-вопросами."
+    ],
+    "url": [
+      "https://www.youtube.com/channel/UC8PsskD8G2fAMKoTNmjr3tA/videos"
+    ],
+    "hasEvent": false,
+    "hasOffline": true
+  }
+]

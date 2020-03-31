@@ -6,9 +6,9 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
           integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <title>Агрегатор online-квизов</title>
-    <meta property="og:title" content="Агрегатор онлайн-игр" />
-    <meta property="og:description" content="Агрегатор онлайн-игр: все игры в одном месте." />
-    <meta property="og:image" content="https://stalnuhhin.github.io/quiz/sm.png" />
+    <meta property="og:title" content="Агрегатор онлайн-игр"/>
+    <meta property="og:description" content="Агрегатор онлайн-игр: все игры в одном месте."/>
+    <meta property="og:image" content="https://stalnuhhin.github.io/quiz/sm.png"/>
 
 </head>
 <body>
@@ -47,17 +47,22 @@
                         {{ g.time ? g.time.fromNow() : '' }}<br/>
                         <small class="text-muted">{{ g.time ? g.time.format("HH:mm") : '' }}</small>
                         <span v-if="g.time.diff(now) < 0" class="badge badge-danger">Игра идёт</span>
-                        <span v-if="g.time.diff(now) > 0 && g.time.diff(now, 'minutes') < 45" class="badge badge-success">Игра скоро начнётся</span>
+                        <span v-if="g.time.diff(now) > 0 && g.time.diff(now, 'minutes') < 45"
+                              class="badge badge-success">Игра скоро начнётся</span>
                     </div>
-                    <div class="col-9">
+                    <div class="col-1">
+                        <img v-if="g.image" v-bind:src="'data/images/' + g.image" />
+                    </div>
+                    <div class="col-8">
                         {{g.name}}
                         <br/>
                         <a href="#" class="badge badge-info" data-toggle="modal"
                            v-bind:data-target="'#info' + i + '_' + j">ИНФО</a>
-                        <span v-if="!g.price" class="badge badge-secondary">Бесплатно (донаты)</span>
+                        <span v-if="!g.price" class="badge badge-secondary">Бесплатно (см. ИНФО)</span>
                         <span v-if="g.price" class="badge badge-danger">{{g.price + " " + g.currency}} / {{g.pricetype === "person" ? "человек" : "команда"}}</span>
                         <span v-if="g.registration" class="badge badge-danger">Есть регистрация</span>
-                        <span v-for="(u, i) in g.url"><a v-bind:href="u" target="_blank" class="badge badge-primary mr-1">cсылка{{i+1}}</a></span>
+                        <span v-for="(u, i) in g.url"><a v-bind:href="u" target="_blank"
+                                                         class="badge badge-primary mr-1">cсылка{{i+1}}</a></span>
                         <br/>
                         <small class="text-muted">{{g.org}}</small>
 
@@ -96,6 +101,12 @@
                                 некоторая информация по игре (кнопка "ИНФО"). Также даны ссылки на то, где начать игру
                                 или регистрацию. Обратите внимание, что там, где важна регистрация, обычно надо
                                 регистрироваться заранее, и, возможно, количество мест ограничено.
+                            </p>
+                            <p>
+                                На закладке "Ресурсы" собраны различные ресурсы, которые сканятся на наличие игр. Там же
+                                есть и ссылки на каналы и сайты, где как таковых игр в реальном времени нет, но есть
+                                вопросы, которые можно поиграть в любое время (к таким ссылкам относятся и ссылки на
+                                различные интеллектуальные видеопередачи).
                             </p>
                             <p>
                                 Автор странички вручную вносит игры в <a href="https://github.com/stalnuhhin/quiz">Github</a>.

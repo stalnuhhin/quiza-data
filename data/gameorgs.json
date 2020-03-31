@@ -1,6 +1,7 @@
 {
   "umkaonline": {
     "org": "Ума Палата Online",
+    "image": "umkaonline.png",
     "registration": false,
     "url": [
       "https://www.facebook.com/pg/umapalataonline/posts"
@@ -19,8 +20,9 @@
       "4. Яндекс.Кошелёк: 4100110202439390"
     ]
   },
-  "klubonlinevoprosov":   {
+  "klubonlinevoprosov": {
     "org": "Клуб Онлайн Вопросов",
+    "image": "klubonlinevoprosov.png",
     "registration": true,
     "url": [
       "https://www.facebook.com/groups/klub.online.voprosov"
@@ -35,8 +37,9 @@
       "Оплата на регистрации. Цена участия - за команду."
     ]
   },
-  "imclub":   {
+  "imclub": {
     "org": "IMClub",
+    "image": "imclub.png",
     "registration": true,
     "url": [
       "https://imclub.eu"
@@ -48,6 +51,24 @@
     ],
     "payment": [
       "Оплата на регистрации. Цена участия - за команду."
+    ]
+  },
+  "bezdurakov": {
+    "org": "Без дураков (Ровшан Аскеров и Борис Левин)",
+    "image": "bezdurakov.png",
+    "registration": false,
+    "url": [
+      "https://www.youtube.com/channel/UCuWVIpGmlfE_7qnzOMWosDw/videos",
+      "http://bezdurakovclub.ru/online"
+    ],
+    "price": 0,
+    "currency": "",
+    "info": [
+      "В течение дня на YouTube выкладываются вопросы. Читайте подробнее в описании к видео.",
+      "Ответы вбиваются в их систему. Для участия за призы надо платить."
+    ],
+    "payment": [
+      "Можно играть бесплатно без призов, а можно платно (300р в неделю) за призы."
     ]
   }
 }

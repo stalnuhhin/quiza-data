@@ -39,6 +39,7 @@ const gm = new Vue({
                 o.duration = g.duration;
                 o.name = g.name;
                 const type = g.type && orgs[g.type] ? orgs[g.type] : {};
+                o.image = g.image ? g.image : type.image;
                 o.org = g.org ? g.org : type.org;
                 o.registration = g.registration ? g.registration : type.registration;
                 o.url = g.url ? g.url : type.url;
