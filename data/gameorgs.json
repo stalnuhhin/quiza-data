@@ -70,5 +70,25 @@
     "payment": [
       "Можно играть бесплатно без призов, а можно платно (300р в неделю) за призы."
     ]
+  },
+  "geniumonline": {
+    "org": "Genium (Максим Поташев)",
+    "image": "geniumonline.png",
+    "registration": true,
+    "url": [
+      "http://genium-quiz.com"
+    ],
+    "info": [
+      "Cтрим в Zoom.",
+      "Ответы вбиваются в их личную систему."
+    ]
+  },
+  "mzgbtln": {
+    "org": "Мозгобойня в Таллине",
+    "image": "mzgbtln.png",
+    "registration": true,
+    "url": [
+      "https://www.facebook.com/pg/mzgb.tln/posts"
+    ]
   }
 }

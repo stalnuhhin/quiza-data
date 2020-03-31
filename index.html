@@ -43,17 +43,17 @@
                     <h2>{{moment(date).format('D MMMM (dddd)')}}</h2>
                 </div>
                 <div class="row mt-3" v-for="(g, j) in games.data[date]">
-                    <div class="col-3">
+                    <div class="col-2">
                         {{ g.time ? g.time.fromNow() : '' }}<br/>
                         <small class="text-muted">{{ g.time ? g.time.format("HH:mm") : '' }}</small>
                         <span v-if="g.time.diff(now) < 0" class="badge badge-danger">Игра идёт</span>
                         <span v-if="g.time.diff(now) > 0 && g.time.diff(now, 'minutes') < 45"
                               class="badge badge-success">Игра скоро начнётся</span>
                     </div>
-                    <div class="col-1">
+                    <div class="col-2 col-md-1">
                         <img v-if="g.image" v-bind:src="'data/images/' + g.image" />
                     </div>
-                    <div class="col-8">
+                    <div class="col-8 col-md-9">
                         {{g.name}}
                         <br/>
                         <a href="#" class="badge badge-info" data-toggle="modal"

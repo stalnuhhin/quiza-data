@@ -115,8 +115,7 @@
     "name": "Клуб Онлайн Вопросов - ИГРА 1",
     "type": "klubonlinevoprosov",
     "url": [
-      "https://cutt.ly/TtT7GmM",
-      "https://www.facebook.com/groups/klub.online.voprosov"
+      "https://cutt.ly/TtT7GmM"
     ]
   },
   {
@@ -125,25 +124,19 @@
     "name": "Клуб Онлайн Вопросов - ИГРА 1 (повтор дневной)",
     "type": "klubonlinevoprosov",
     "url": [
-      "https://cutt.ly/PtT7Hmw",
-      "https://www.facebook.com/groups/klub.online.voprosov"
+      "https://cutt.ly/PtT7Hmw"
     ]
   },
   {
     "time": "2020-04-01T20:30:00+03:00",
     "duration": 2,
     "name": "Genium Challenge Online",
-    "org": "Genium (Максим Поташев)",
-    "registration": true,
+    "type": "geniumonline",
     "url": [
       "http://genium-quiz.com/events/challenge-online-1",
       "https://www.facebook.com/events/591992718074457"
     ],
     "price": 0,
-    "info": [
-      "Cтрим в Zoom.",
-      "Ответы вбиваются в их личную систему."
-    ],
     "payment": [
       "Пока что бесплатно. Система тестируется."
     ]
@@ -152,8 +145,7 @@
     "time": "2020-04-02T19:00:00+03:00",
     "duration": 2,
     "name": "Мозгобойня в Таллине",
-    "org": "Мозгобойня в Таллине",
-    "registration": true,
+    "type": "mzgbtln",
     "url": [
       "https://www.facebook.com/mzgb.tln/photos/a.450249325419535/900242207086909"
     ],
