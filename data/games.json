@@ -42,12 +42,6 @@
     "type": "umkaonline"
   },
   {
-    "time": "2020-04-01T20:00:00+03:00",
-    "duration": 2,
-    "name": "Ума Палата",
-    "type": "umkaonline"
-  },
-  {
     "time": "2020-04-01T22:00:00+03:00",
     "duration": 2,
     "name": "Ума Палата",
@@ -99,6 +93,25 @@
       "https://imclub.eu/divan"
     ],
     "price": 12,
+    "currency": "EUR",
+    "info": [
+      "Cтрим в YouTube",
+      "Ответы вбиваются в систему."
+    ],
+    "payment": [
+      "Оплата на регистрации - несколько способов"
+    ]
+  },
+  {
+    "time": "2020-04-07T19:00:00+03:00",
+    "duration": 2.5,
+    "name": "60 Секунд (Таллин)",
+    "org": "IMClub",
+    "registration": true,
+    "url": [
+
+    ],
+    "price": 25,
     "currency": "EUR",
     "info": [
       "Cтрим в YouTube",
