@@ -30,7 +30,10 @@
     "time": "2020-03-31T22:00:00+03:00",
     "duration": 2,
     "name": "Ума Палата",
-    "type": "umkaonline"
+    "type": "umkaonline",
+    "url": [
+      "https://www.facebook.com/umapalataonline/posts/2565088100263329"
+    ]
   },
   {
     "time": "2020-04-01T16:00:00+03:00",
