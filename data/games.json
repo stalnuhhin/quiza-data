@@ -87,39 +87,21 @@
     "time": "2020-03-31T19:00:00+03:00",
     "duration": 2.5,
     "name": "Сообразим на двоих? - Игра для пар",
-    "org": "IMClub",
-    "registration": true,
+    "type": "imclub",
     "url": [
       "https://imclub.eu/divan"
     ],
-    "price": 12,
-    "currency": "EUR",
-    "info": [
-      "Cтрим в YouTube",
-      "Ответы вбиваются в систему."
-    ],
-    "payment": [
-      "Оплата на регистрации - несколько способов"
-    ]
+    "price": 12
   },
   {
     "time": "2020-04-07T19:00:00+03:00",
     "duration": 2.5,
     "name": "60 Секунд (Таллин)",
-    "org": "IMClub",
-    "registration": true,
+    "type": "imclub",
     "url": [
 
     ],
-    "price": 25,
-    "currency": "EUR",
-    "info": [
-      "Cтрим в YouTube",
-      "Ответы вбиваются в систему."
-    ],
-    "payment": [
-      "Оплата на регистрации - несколько способов"
-    ]
+    "price": 25
   },
   {
     "time": "2020-04-04T14:00:00+03:00",
