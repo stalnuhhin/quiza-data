@@ -51,6 +51,8 @@
                     <div class="col-3">
                         {{ g.time ? g.time.fromNow() : '' }}<br/>
                         <small class="text-muted">{{ g.time ? g.time.format("HH:mm") : '' }}</small>
+                        <span v-if="g.time.diff(now) < 0" class="badge badge-danger">Игра идёт</span>
+                        <span v-if="g.time.diff(now) > 0 && g.time.diff(now, 'minutes') < 45" class="badge badge-success">Игра скоро начнётся</span>
                     </div>
                     <div class="col-9">
                         {{g.name}}
