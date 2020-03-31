@@ -42,6 +42,7 @@ const gm = new Vue({
                 o.org = g.org ? g.org : type.org;
                 o.registration = g.registration ? g.registration : type.registration;
                 o.url = g.url ? g.url : type.url;
+                o.pricetype = g.pricetype ? g.pricetype : type.pricetype;
                 o.price = g.price ? g.price : type.price;
                 o.currency = g.currency ? g.currency : type.currency;
                 o.info = g.info ? g.info : type.info;
