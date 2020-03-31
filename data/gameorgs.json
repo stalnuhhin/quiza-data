@@ -1,0 +1,22 @@
+{
+  "umkaonline": {
+    "org": "Ума Палата Online",
+    "registration": false,
+    "url": [
+      "https://www.facebook.com/pg/umapalataonline/posts"
+    ],
+    "price": 0,
+    "currency": "",
+    "info": [
+      "Открытый стрим в YouTube",
+      "Ответы вбиваются в Google Form."
+    ],
+    "payment": [
+      "Игра бесплатная, но донаты приветствуются:",
+      "1. https://www.paypal.me/umkaonline",
+      "2. Revolut: +37069071027",
+      "3. PaySera: LT653500010003462442",
+      "4. Яндекс.Кошелёк: 4100110202439390"
+    ]
+  }
+}
