@@ -16,8 +16,8 @@ const gm = new Vue({
         },
         load: function () {
             Promise.all([
-                fetch(`data/gameorgs.json`).then(r => r.json()),
-                fetch(`data/games.json`).then(r => r.json())])
+                fetch("data/gameorgs.json?" + new Date().getTime()).then(r => r.json()),
+                fetch("data/games.json?" + new Date().getTime()).then(r => r.json())])
                 .then(r => {
                     this.games = this.process(r[0], r[1]);
                 });
