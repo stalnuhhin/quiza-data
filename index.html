@@ -8,10 +8,10 @@
     <title>Агрегатор online-квизов</title>
 </head>
 <body>
-<div id="app" class="container-fluid">
+<div id="app" class="container-fluid mb-5">
 
     <div class="alert alert-light" role="alert">
-        Ваше время: {{ now.format("HH:mm, DD.MM.YYYY (dddd)") }}
+        Ваше время: {{ now.locale("ru").format("HH:mm, DD.MM.YYYY (dddd)") }}
     </div>
 
     <ul class="nav nav-tabs" id="main" role="tablist">
@@ -20,10 +20,20 @@
                id="games-tab" data-toggle="tab" href="#games" role="tab" aria-controls="games" aria-selected="true">
                 Игры</a>
         </li>
+        <!--        <li class="nav-item">-->
+        <!--            <a class="nav-link"-->
+        <!--               id="check-tab" data-toggle="tab" href="#ressu" role="tab" aria-controls="check" aria-selected="false">-->
+        <!--                Чеклист</a>-->
+        <!--        </li>-->
+        <!--        <li class="nav-item">-->
+        <!--            <a class="nav-link"-->
+        <!--               id="ressu-tab" data-toggle="tab" href="#ressu" role="tab" aria-controls="ressu" aria-selected="false">-->
+        <!--                Ресурсы</a>-->
+        <!--        </li>-->
         <li class="nav-item">
             <a class="nav-link"
-               id="ressu-tab" data-toggle="tab" href="#ressu" role="tab" aria-controls="ressu" aria-selected="false">
-                Ресурсы</a>
+               id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="about" aria-selected="false">
+                О страничке</a>
         </li>
     </ul>
 
@@ -41,15 +51,17 @@
                     <div class="col-9">
                         {{g.name}}
                         <br/>
-                        <a href="#" class="badge badge-info" data-toggle="modal" v-bind:data-target="'#info' + i + '_' + j">ИНФО</a>
-                        <span v-if="g.price === 0" class="badge badge-secondary">Бесплатно</span>
-                        <span v-if="g.price !== 0" class="badge badge-danger">{{g.price + " " + g.currency}}</span>
+                        <a href="#" class="badge badge-info" data-toggle="modal"
+                           v-bind:data-target="'#info' + i + '_' + j">ИНФО</a>
+                        <span v-if="!g.price" class="badge badge-secondary">Бесплатно</span>
+                        <span v-if="g.price" class="badge badge-danger">{{g.price + " " + g.currency}}</span>
                         <span v-if="g.registration" class="badge badge-danger">Есть регистрация</span>
-                        <span v-for="(u, i) in g.url"><a v-bind:href="u" target="_blank" class="badge badge-primary">cсылка{{i+1}}</a> </span>
+                        <span v-for="(u, i) in g.url"><a v-bind:href="u" target="_blank" class="badge badge-primary mr-1">cсылка{{i+1}}</a></span>
                         <br/>
                         <small class="text-muted">{{g.org}}</small>
 
-                        <div class="modal fade" v-bind:id="'info' + i + '_' + j" tabindex="-1" role="dialog" v-bind:aria-labelledby="'#info' + i + '_' + j" aria-hidden="true">
+                        <div class="modal fade" v-bind:id="'info' + i + '_' + j" tabindex="-1" role="dialog"
+                             v-bind:aria-labelledby="'#info' + i + '_' + j" aria-hidden="true">
                             <div class="modal-dialog modal-dialog-centered" role="document">
                                 <div class="modal-content">
                                     <div class="modal-body">
@@ -66,23 +78,43 @@
                 </div>
             </div>
         </div>
+        <div class="tab-pane fade" id="check" role="tabpanel" aria-labelledby="check-tab">
+        </div>
         <div class="tab-pane fade" id="ressu" role="tabpanel" aria-labelledby="ressu-tab">
-            <table class="table table-sm table-hover mt-3">
-                <thead>
-                <tr>
-                    <th scope="col">Что?</th>
-                    <th scope="col">Ссылки</th>
-                    <th scope="col">Описание</th>
-                </tr>
-                </thead>
-                <tbody>
-                <tr>
-                    <th scope="row">1</th>
-                    <td>Mark</td>
-                    <td>Otto</td>
-                </tr>
-                </tbody>
-            </table>
+        </div>
+        <div class="tab-pane fade" id="about" role="tabpanel" aria-labelledby="about-tab">
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <div class="jumbotron mt-5">
+                            <h1 class="display-4">Что это?</h1>
+                            <p class="lead">
+                                На этой страничке представлен список онлайн-игр для удобного их отслеживания.
+                            </p>
+                            <hr class="my-4">
+                            <p>
+                                Для каждой игры отмечено начало игры, название, стоимость, обязательна ли регистрация и
+                                некоторая информация по игре (кнопка "ИНФО"). Также даны ссылки на то, где начать игру
+                                или регистрацию. Обратите внимание, что там, где важна регистрация, обычно надо
+                                регистрироваться заранее, и, возможно, количество мест ограничено.
+                            </p>
+                            <p>
+                                Автор странички вручную вносит игры в <a href="https://github.com/stalnuhhin/quiz">Github</a>.
+                                Если вы знаете о других интересных квизах и играх, то либо напишите мне на <b>anton.stalnuhhin
+                                [at] gmail.com</b>, либо <a href="https://anton.stalnuhhin.ee/cv" target="_blank">свяжитесь
+                                другим способом</a>, либо сами <a
+                                    href="https://github.com/stalnuhhin/quiz/tree/master/data">добавляйте в
+                                репозиторий</a> в json формате и делайте merge request.
+                            </p>
+                        </div>
+                        <p>
+
+                        </p>
+
+
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
@@ -104,7 +136,11 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-30793561-3"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
     gtag('js', new Date());
 
     gtag('config', 'UA-30793561-3');

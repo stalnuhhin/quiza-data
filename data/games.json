@@ -107,5 +107,44 @@
     "payment": [
       "Оплата на регистрации - несколько способов"
     ]
+  },
+  {
+    "time": "2020-04-04T14:00:00+03:00",
+    "duration": 2,
+    "name": "Клуб Онлайн Вопросов - ИГРА 1",
+    "type": "klubonlinevoprosov",
+    "url": [
+      "https://cutt.ly/TtT7GmM",
+      "https://www.facebook.com/groups/klub.online.voprosov"
+    ]
+  },
+  {
+    "time": "2020-04-04T19:00:00+03:00",
+    "duration": 2,
+    "name": "Клуб Онлайн Вопросов - ИГРА 1 (повтор дневной)",
+    "type": "klubonlinevoprosov",
+    "url": [
+      "https://cutt.ly/PtT7Hmw",
+      "https://www.facebook.com/groups/klub.online.voprosov"
+    ]
+  },
+  {
+    "time": "2020-04-01T20:30:00+03:00",
+    "duration": 2,
+    "name": "Genium Challenge Online",
+    "org": "Genium (Максим Поташев)",
+    "registration": true,
+    "url": [
+      "http://genium-quiz.com/events/challenge-online-1",
+      "https://www.facebook.com/events/591992718074457"
+    ],
+    "price": 0,
+    "info": [
+      "Cтрим в Zoom.",
+      "Ответы вбиваются в их личную систему."
+    ],
+    "payment": [
+      "Пока что бесплатно. Система тестируется."
+    ]
   }
 ]
