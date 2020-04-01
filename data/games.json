@@ -186,5 +186,14 @@
     "duration": 10,
     "name": "Без дураков - разоблачение",
     "type": "bezdurakov"
+  },
+  {
+    "time": "2020-04-01T18:00:00+02:00",
+    "duration": 10,
+    "name": "City Quiz Online (Германия)",
+    "type": "cityquizger",
+    "url": [
+      "https://www.facebook.com/groups/1900106536896781/permalink/2569970699910358"
+    ]
   }
 ]

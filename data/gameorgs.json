@@ -90,5 +90,21 @@
     "url": [
       "https://www.facebook.com/pg/mzgb.tln/posts"
     ]
+  },
+  "cityquizger": {
+    "org": "City Quiz в Германии",
+    "image": "cityquiz.png",
+    "registration": true,
+    "url": [
+      "https://www.facebook.com/groups/1900106536896781/"
+    ],
+    "price": 20,
+    "currency": "EUR",
+    "info": [
+      "Вопросы на YouTube, ответы в Google-форму."
+    ],
+    "payment": [
+      "Оплата на регистрации по реквизитам."
+    ]
   }
 }
