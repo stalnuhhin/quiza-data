@@ -2,6 +2,7 @@
   "umkaonline": {
     "org": "Ума Палата Online",
     "image": "umkaonline.png",
+    "duration": 2.5,
     "registration": false,
     "url": [
       "https://www.facebook.com/pg/umapalataonline/posts",
@@ -24,6 +25,7 @@
   "klubonlinevoprosov": {
     "org": "Клуб Онлайн Вопросов",
     "image": "klubonlinevoprosov.png",
+    "duration": 2,
     "registration": true,
     "url": [
       "https://www.facebook.com/groups/klub.online.voprosov"
