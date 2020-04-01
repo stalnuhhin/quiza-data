@@ -43,6 +43,7 @@
   "imclub": {
     "org": "IMClub",
     "image": "imclub.png",
+    "duration": 2.5,
     "registration": true,
     "url": [
       "https://imclub.eu"
