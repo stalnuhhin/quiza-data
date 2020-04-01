@@ -1,6 +1,59 @@
 [
   {
+    "name": "Ума Палата Online",
+    "image": "umkaonline.png",
+    "desc": [
+      "Игры 'Ума Палата' и не только. Олег проводит игры очень часто и каждый день. Иногда проводит ЧГК. Бывают марафоны на 8 часов, например. Технически - трансляция на YouTube и Google-формы."
+    ],
+    "url": [
+      "https://www.facebook.com/pg/umapalataonline/posts"
+    ],
+    "hasEvent": true,
+    "hasOffline": true,
+    "check": "2020.04.01T03:00:00+03:00"
+  },
+  {
+    "name": "Клуб Онлайн Вопросов",
+    "image": "klubonlinevoprosov.png",
+    "desc": [
+      "Игры Клуба Онлайн Вопросов. Одна из самых технически доработанных систем. Игры обычно на выходных, по 299 рублей на команду. В игре 30 вопросов."
+    ],
+    "url": [
+      "https://www.facebook.com/groups/klub.online.voprosov"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020.04.01T03:00:00+03:00"
+  },
+  {
+    "name": "IMClub",
+    "image": "imclub.png",
+    "desc": [
+      "Игры Таллинского клуба IMClub: есть разные типы игр."
+    ],
+    "url": [
+      "https://imclub.eu"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020.04.01T03:00:00+03:00"
+  },
+  {
+    "name": "Genium (Максим Поташев)",
+    "image": "geniumonline.png",
+    "desc": [
+      "Игры Максима Поташева: есть разные типы игр."
+    ],
+    "url": [
+      "http://genium-quiz.com"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020.04.01T03:00:00+03:00"
+  },
+  {
     "name": "Без Дураков",
+    "image": "bezdurakov.png",
     "desc": [
       "Игра Ровшана Аскерова и Бориса Левина. Онлайн вариант предлагается играть в виде туров каждый рабочий день, отвечая на вопросы с подсказками с 12:00 до 22:00 (по чуть-чуть каждые 2 часа)."
     ],
@@ -13,7 +66,64 @@
     "check": "2020.04.01T01:00:00+03:00"
   },
   {
-    "name": "Время подумать",
+    "name": "Мозгобойня в Таллине",
+    "image": "mzgbtln.png",
+    "desc": [
+      "Популярная франшиза 'Мозгобойня' в городе Таллин."
+    ],
+    "url": [
+      "https://www.facebook.com/pg/mzgb.tln/posts"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020.04.01T02:00:00+03:00"
+  },
+  {
+    "name": "FB-группа: Спортивное ЧГК",
+    "desc": [
+      "FB-группа с информацией по спортивному ЧГК."
+    ],
+    "url": [
+      "https://www.facebook.com/groups/chgk.global"
+    ],
+    "hasEvent": false,
+    "hasOffline": false
+  },
+  {
+    "name": "FB-группа: Интеллектуальные игры онлайн",
+    "desc": [
+      "FB-группа с информацией по любым онлайн играм."
+    ],
+    "url": [
+      "https://www.facebook.com/groups/229434871583483"
+    ],
+    "hasEvent": false,
+    "hasOffline": false
+  },
+  {
+    "name": "FB-группа: Автоматизация игрового процесса ЧГК и других интеллектуальных игр",
+    "desc": [
+      "FB-группа с информацией по некоторым онлайн играм."
+    ],
+    "url": [
+      "https://www.facebook.com/groups/428584278064877"
+    ],
+    "hasEvent": false,
+    "hasOffline": false
+  },
+  {
+    "name": "YouTube: Своя игра",
+    "desc": [
+      "YouTube-канал с играми 'Своя игра'. Каждую субботу и воскресенье выкладывается по одной игре."
+    ],
+    "url": [
+      "https://www.youtube.com/channel/UCvYkzPH2Dj9BJDL05LgBCsw/videos"
+    ],
+    "hasEvent": false,
+    "hasOffline": true
+  },
+  {
+    "name": "YouTube: Время подумать",
     "desc": [
       "YouTube-канал с видео-вопросами."
     ],
