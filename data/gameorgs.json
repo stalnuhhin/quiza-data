@@ -126,9 +126,13 @@
     "registration": true,
     "url": [
       "https://www.facebook.com/pg/smart.quiz.zp/posts",
-      "https://smart-quiz.net"
+      "https://smart-quiz.net",
+      "https://www.youtube.com/channel/UCoSEssO0pJ0YBi9zHc0cn2w"
     ],
     "price": 0,
+    "info": [
+      "Трансляция на YouTube-канале."
+    ],
     "payment": [
       "Игры бесплатные, но клуб будет благодарен за поддержку: Приват24: 5168745603142578."
     ]
