@@ -106,5 +106,18 @@
     "payment": [
       "Оплата на регистрации по реквизитам."
     ]
+  },
+  "klub60sec": {
+    "org": "Клуб 60 секунд",
+    "image": "klub60sec.png",
+    "registration": true,
+    "url": [
+      "https://www.facebook.com/pg/60secs/posts",
+      "https://club60sec.ru/"
+    ],
+    "currency": "RUB",
+    "payment": [
+      "Оплата на регистрации на сайте."
+    ]
   }
 }

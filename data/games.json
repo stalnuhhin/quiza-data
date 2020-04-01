@@ -189,11 +189,31 @@
   },
   {
     "time": "2020-04-01T18:00:00+02:00",
-    "duration": 10,
+    "duration": 2,
     "name": "City Quiz Online (Германия)",
     "type": "cityquizger",
     "url": [
       "https://www.facebook.com/groups/1900106536896781/permalink/2569970699910358"
+    ]
+  },
+  {
+    "time": "2020-04-03T20:00:00+03:00",
+    "duration": 2,
+    "name": "Алкоквиз",
+    "type": "klub60sec",
+    "price": 1600,
+    "url": [
+      "https://www.facebook.com/events/2346542922310426"
+    ]
+  },
+  {
+    "time": "2020-04-05T14:00:00+03:00",
+    "duration": 2,
+    "name": "Открытая лига выходного дня (повтор от 31.03)",
+    "type": "klub60sec",
+    "price": 1200,
+    "url": [
+      "https://www.facebook.com/events/516468295950968"
     ]
   }
 ]
