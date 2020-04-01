@@ -113,21 +113,19 @@
                                             cсылка{{i+1}}
                                         </a>
                                     </span>
-                                </td>
-                                <td>
-                                    <small data-toggle="tooltip"
-                                           data-placement="left"
-                                           v-bind:title="'Последняя проверка в ' + m.check.format('HH:mm (DD.MM)')"
-                                           v-bind:class="'text-' + (moment().diff(m.check, 'days') > 3 ? 'danger' : 'muted')">
-                                        {{m.check.fromNow()}}
-                                    </small>
-                                    <br/>
                                     <span data-toggle="tooltip"
                                           data-placement="left"
                                           title="Есть игры в записи или можно играть в любое время"
                                           v-if="m.hasOffline" class="badge badge-success">
                                         Любое время
                                     </span>
+                                </td>
+                                <td data-toggle="tooltip"
+                                    data-placement="left"
+                                    v-bind:title="'Последняя проверка в ' + m.check.format('HH:mm (DD.MM)')">
+                                    <small v-bind:class="'text-' + (moment().diff(m.check, 'days') > 3 ? 'danger' : 'muted')">
+                                        {{m.check.fromNow()}}
+                                    </small>
                                 </td>
                             </tr>
                             </tbody>

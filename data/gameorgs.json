@@ -111,10 +111,11 @@
   "klub60sec": {
     "org": "Клуб 60 секунд",
     "image": "klub60sec.png",
+    "duration": 2,
     "registration": true,
     "url": [
       "https://www.facebook.com/pg/60secs/posts",
-      "https://club60sec.ru/"
+      "https://club60sec.ru/city/moskva?events"
     ],
     "currency": "RUB",
     "payment": [
