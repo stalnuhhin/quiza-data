@@ -33,11 +33,26 @@
     "price": 299,
     "currency": "RUB",
     "info": [
-      "Cтрим в их собственной системе, там же вбиваются ответы.",
+      "Cтрим в quizy.pro, там же вбиваются ответы.",
       "В стриме показан ведущий, есть комментарии и обратная связь."
     ],
     "payment": [
       "Оплата на регистрации. Цена участия - за команду."
+    ]
+  },
+  "madheadshow": {
+    "org": "Mad Head Show Kyiv",
+    "image": "madheadshow.png",
+    "duration": 2,
+    "registration": true,
+    "url": [
+      "https://www.facebook.com/pg/MadHeadKyiv/posts",
+      "https://t.me/madheadkyiv"
+    ],
+    "price": 0,
+    "info": [
+      "Cтрим в quizy.pro, там же вбиваются ответы.",
+      "В стриме показан ведущий, есть комментарии и обратная связь."
     ]
   },
   "imclub": {

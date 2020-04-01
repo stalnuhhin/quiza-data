@@ -42,6 +42,18 @@
     "check": "2020-04-01T14:00:00+03:00"
   },
   {
+    "name": "Mad Head Show Kyiv",
+    "image": "madheadshow.png",
+    "desc": "Mad Head будет интересен людям с разной интеллектуальной подготовкой, так как большинство вопросов берутся логикой, сообразительностью и не редко на помощь приходит чувство юмора.",
+    "url": [
+      "https://www.facebook.com/pg/MadHeadKyiv/posts",
+      "https://t.me/madheadkyiv"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020-04-02T01:00:00+03:00"
+  },
+  {
     "name": "Эйнштейн Party",
     "image": "einsteinparty.png",
     "desc": "",
