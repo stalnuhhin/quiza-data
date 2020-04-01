@@ -144,6 +144,18 @@
     "check": "2020.04.01T12:00:00+03:00"
   },
   {
+    "name": "Telegram: Своя Игра в Telegram",
+    "desc": [
+      "Бот в в Telegram, который позволяет играть пакеты Своей Игры."
+    ],
+    "url": [
+      "https://telegra.ph/FAQ-po-Svoej-Igre-02-06",
+      "https://t.me/ktoto_zanyal_svoyak"
+    ],
+    "hasEvent": false,
+    "hasOffline": true
+  },
+  {
     "name": "FB-группа: Спортивное ЧГК",
     "desc": [
       "FB-группа с информацией по спортивному ЧГК."
