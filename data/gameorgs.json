@@ -187,5 +187,19 @@
     "info": [
       "Игры проходят в Instagram сторис."
     ]
+  },
+  "squiz": {
+    "org": "SQUIZ Online",
+    "duration": 2,
+    "image": "squiz.png",
+    "registration": true,
+    "url": [
+      "https://squiz.ru/#schedule"
+    ],
+    "price": 1000,
+    "currency": "RUB",
+    "info": [
+      "Ссылки выдаются перед игрой, вопросы вводятся на сайт, около 50 вопросов за игру."
+    ]
   }
 }

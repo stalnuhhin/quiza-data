@@ -53,6 +53,17 @@
     "check": "2020-04-01T19:00:00+03:00"
   },
   {
+    "name": "SQUIZ Online",
+    "image": "squiz.png",
+    "desc": "",
+    "url": [
+      "https://squiz.ru/#schedule"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020-04-01T19:00:00+03:00"
+  },
+  {
     "name": "Клуб 60 секунд",
     "image": "klub60sec.png",
     "desc": "Игры Клуба '60 секунд'.",
