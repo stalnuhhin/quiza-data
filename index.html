@@ -59,7 +59,7 @@
                         <a href="#" class="badge badge-info" data-toggle="modal"
                            v-bind:data-target="'#info' + i + '_' + j">ИНФО</a>
                         <span v-if="!g.price" class="badge badge-secondary">Условно бесплатно (см. ИНФО)</span>
-                        <span v-if="g.price" class="badge badge-danger">{{g.price + " " + g.currency}} / {{g.pricetype === "person" ? "человек" : "команда"}}</span>
+                        <span v-if="g.price" class="badge badge-danger">{{g.price + " " + g.currency}} / {{g.pricetype === "person" ? "человек" : "команда"}} (см. ИНФО)</span>
                         <span v-if="g.registration" class="badge badge-danger">Есть регистрация</span>
                         <span v-for="(u, i) in g.url"><a v-bind:href="u" target="_blank"
                                                          class="badge badge-primary mr-1">cсылка{{i+1}}</a></span>
