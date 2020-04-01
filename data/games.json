@@ -105,7 +105,6 @@
     "name": "60 Секунд (Таллин)",
     "type": "imclub",
     "url": [
-
     ],
     "price": 25
   },
@@ -230,9 +229,9 @@
     "duration": 3,
     "name": "B-Quiz Online #1",
     "type": "bquizonline",
-	"url": [
+    "url": [
       "https://www.facebook.com/events/752902931907924/permalink/753326541865563/",
-	  "https://vk.com/wall-193516419_4"
+      "https://vk.com/wall-193516419_4"
     ]
   }
 ]
