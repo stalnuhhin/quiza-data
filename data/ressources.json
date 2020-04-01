@@ -79,7 +79,19 @@
     "image": "indigo.png",
     "desc": "",
     "url": [
-      "https://vk.com/li_online_li"
+      "https://vk.com/li_online_li",
+      "http://ligaindigo.ru/rating-online"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020-04-01T20:00:00+03:00"
+  },
+  {
+    "name": "Квиз, плиз!",
+    "image": "kvizpliz.png",
+    "desc": "",
+    "url": [
+      "https://moscow.quizplease.ru/schedule"
     ],
     "hasEvent": true,
     "hasOffline": false,

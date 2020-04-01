@@ -102,7 +102,19 @@
     "registration": true,
     "currency": "RUB",
     "url": [
-      "https://vk.com/li_online_li"
+      "https://vk.com/li_online_li",
+      "http://ligaindigo.ru/rating-online"
+    ]
+  },
+  "kvizpliz": {
+    "org": "Квиз, плиз!",
+    "image": "kvizpliz.png",
+    "duration": 2,
+    "registration": true,
+    "price": 1000,
+    "currency": "RUB",
+    "url": [
+      "https://moscow.quizplease.ru/schedule"
     ]
   },
   "cityquizger": {
