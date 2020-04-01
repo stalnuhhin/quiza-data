@@ -119,5 +119,18 @@
     "payment": [
       "Оплата на регистрации на сайте."
     ]
+  },
+  "smartquiz": {
+    "org": "Smart-Quiz",
+    "image": "smartquiz.png",
+    "registration": true,
+    "url": [
+      "https://www.facebook.com/pg/smart.quiz.zp/posts",
+      "https://smart-quiz.net"
+    ],
+    "price": 0,
+    "payment": [
+      "Игры бесплатные, но клуб будет благодарен за поддержку: Приват24: 5168745603142578."
+    ]
   }
 }

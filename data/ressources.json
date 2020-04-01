@@ -121,10 +121,23 @@
     "name": "PubQuiz",
     "image": "pubquiz.png",
     "desc": [
-      ""
+      "Украинский клуб PubQuiz"
     ],
     "url": [
       "https://www.facebook.com/pg/PubQuiz.Me/posts"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020.04.01T12:00:00+03:00"
+  },
+  {
+    "name": "Smart-Quiz",
+    "image": "smartquiz.png",
+    "desc": [
+      "Украинский клуб Smart-Quiz"
+    ],
+    "url": [
+      "https://www.facebook.com/pg/smart.quiz.zp/posts"
     ],
     "hasEvent": true,
     "hasOffline": false,

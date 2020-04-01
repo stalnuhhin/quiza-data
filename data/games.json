@@ -215,5 +215,14 @@
     "url": [
       "https://www.facebook.com/events/516468295950968"
     ]
+  },
+  {
+    "time": "2020-04-03T19:00:00+03:00",
+    "duration": 2,
+    "name": "Smart-Quiz",
+    "type": "smartquiz",
+    "url": [
+      "https://www.facebook.com/events/3287378217961746"
+    ]
   }
 ]
