@@ -163,5 +163,29 @@
       "6. ЕРИП по реквизитам",
       "Все детали в техническом чате"
     ]
+  },
+  "einsteinclassic": {
+    "org": "Эйнштейн Party Классика",
+    "duration": 2,
+    "image": "einsteinparty.png",
+    "registration": true,
+    "url": [
+      "https://www.albertparty.ru"
+    ],
+    "price": 500,
+    "currency": "RUB"
+  },
+  "einsteininsta": {
+    "org": "Эйнштейн Party Instagram",
+    "duration": 1.5,
+    "image": "einsteinparty.png",
+    "registration": true,
+    "url": [
+      "https://www.instagram.com/einsteinparty"
+    ],
+    "price": 0,
+    "info": [
+      "Игры проходят в Instagram сторис."
+    ]
   }
 }

@@ -233,5 +233,30 @@
       "https://www.facebook.com/events/752902931907924/permalink/753326541865563/",
       "https://vk.com/wall-193516419_4"
     ]
+  },
+  {
+    "time": "2020-04-02T14:00:00+03:00",
+    "name": "#7",
+    "type": "einsteininsta"
+  },
+  {
+    "time": "2020-04-04T18:00:00+03:00",
+    "name": "#8",
+    "type": "einsteininsta"
+  },
+  {
+    "time": "2020-04-07T20:00:00+03:00",
+    "name": "#9",
+    "type": "einsteininsta"
+  },
+  {
+    "time": "2020-04-09T20:00:00+03:00",
+    "name": "#10",
+    "type": "einsteininsta"
+  },
+  {
+    "time": "2020-04-02T19:00:00+03:00",
+    "name": "ONLINE #1",
+    "type": "einsteinclassic"
   }
 ]

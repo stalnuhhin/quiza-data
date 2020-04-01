@@ -10,6 +10,16 @@
     "check": "2020-03-01T09:00:00+03:00"
   },
   {
+    "name": "Find Quiz",
+    "desc": "Ещё один агрегатор онлайн игр.",
+    "url": [
+      "https://online.findquiz.ru"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020-04-01T18:00:00+03:00"
+  },
+  {
     "name": "Ума Палата Online",
     "image": "umkaonline.png",
     "desc": "Игры 'Ума Палата' и не только. Олег Сероухов проводит игры очень часто и каждый день. Иногда проводит ЧГК. Бывают марафоны на 8 часов, например. Технически - трансляция на YouTube и Google-формы.",
@@ -30,6 +40,17 @@
     "hasEvent": true,
     "hasOffline": false,
     "check": "2020-04-01T14:00:00+03:00"
+  },
+  {
+    "name": "Эйнштейн Party",
+    "image": "einsteinparty.png",
+    "desc": "",
+    "url": [
+      "https://www.albertparty.ru/schedule"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020-04-01T19:00:00+03:00"
   },
   {
     "name": "Клуб 60 секунд",
