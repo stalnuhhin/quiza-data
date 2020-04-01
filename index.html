@@ -12,20 +12,24 @@
 
 </head>
 <body>
-<div id="app" class="container-fluid mb-5">
+<div class="container-fluid mb-5">
 
-    <div class="alert alert-light" role="alert">
-        Ваше время: {{ now.locale("ru").format("HH:mm, DD.MM.YYYY (dddd)") }}
+    <div class="alert alert-light" role="alert" id="time">
+        Ваше время: {{ moment().locale("ru").format("HH:mm, DD.MM.YYYY (dddd)") }}
+    </div>
+
+    <div class="alert alert-success" role="alert">
+        Добавлены "Ресурсы".
     </div>
 
     <ul class="nav nav-tabs" id="main" role="tablist">
         <li class="nav-item">
-            <a class="nav-link active"
+            <a class="nav-link"
                id="games-tab" data-toggle="tab" href="#games" role="tab" aria-controls="games" aria-selected="true">
                 Игры</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link"
+            <a class="nav-link active"
                id="ressu-tab" data-toggle="tab" href="#ressu" role="tab" aria-controls="ressu" aria-selected="false">
                 Ресурсы</a>
         </li>
@@ -37,7 +41,7 @@
     </ul>
 
     <div class="tab-content" id="mainContent">
-        <div class="tab-pane fade show active" id="games" role="tabpanel" aria-labelledby="games-tab">
+        <div class="tab-pane fade" id="games" role="tabpanel" aria-labelledby="games-tab">
             <div class="container" v-for="(date, i) in games.dates">
                 <div class="row mt-3">
                     <h2>{{moment(date).format('D MMMM (dddd)')}}</h2>
@@ -46,8 +50,8 @@
                     <div class="col-2">
                         {{ g.time ? g.time.fromNow() : '' }}<br/>
                         <small class="text-muted">{{ g.time ? g.time.format("HH:mm") : '' }}</small>
-                        <span v-if="g.time.diff(now) < 0" class="badge badge-danger">Игра идёт</span>
-                        <span v-if="g.time.diff(now) > 0 && g.time.diff(now, 'minutes') < 45"
+                        <span v-if="g.time.diff(moment()) < 0" class="badge badge-danger">Игра идёт</span>
+                        <span v-if="g.time.diff(moment()) > 0 && g.time.diff(moment(), 'minutes') < 45"
                               class="badge badge-success">Игра скоро начнётся</span>
                     </div>
                     <div class="col-2 col-md-1">
@@ -61,8 +65,11 @@
                         <span v-if="!g.price" class="badge badge-secondary">Условно бесплатно (см. ИНФО)</span>
                         <span v-if="g.price" class="badge badge-danger">{{g.price + " " + g.currency}} / {{g.pricetype === "person" ? "человек" : "команда"}} (см. ИНФО)</span>
                         <span v-if="g.registration" class="badge badge-danger">Есть регистрация</span>
-                        <span v-for="(u, i) in g.url"><a v-bind:href="u" target="_blank"
-                                                         class="badge badge-primary mr-1">cсылка{{i+1}}</a></span>
+                        <span v-for="(u, i) in g.url">
+                            <a v-bind:href="u" target="_blank" class="badge badge-primary mr-1">
+                                cсылка{{i+1}}
+                            </a>
+                        </span>
                         <br/>
                         <small class="text-muted">{{g.org}}</small>
 
@@ -84,11 +91,79 @@
                 </div>
             </div>
         </div>
-        <div class="tab-pane fade" id="ressu" role="tabpanel" aria-labelledby="ressu-tab">
+        <div class="tab-pane fade show active" id="ressu" role="tabpanel" aria-labelledby="ressu-tab">
             <div class="container">
+                <div class="row mt-3">
+                    <h2>Сканируемые на события</h2>
+                </div>
                 <div class="row">
                     <div class="col">
-                        <p>В процессе доработки</p>
+                        <table class="table table-hover table-sm">
+                            <tbody>
+                            <tr v-for="(m, i) in ressources.main">
+                                <td>
+                                    <span data-toggle="tooltip"
+                                          data-placement="bottom"
+                                          v-bind:title="m.desc">
+                                        {{m.name}}
+                                    </span>
+                                    <br/>
+                                    <span v-for="(u, i) in m.url">
+                                        <a v-bind:href="u" target="_blank" class="badge badge-primary mr-1">
+                                            cсылка{{i+1}}
+                                        </a>
+                                    </span>
+                                </td>
+                                <td>
+                                    <small data-toggle="tooltip"
+                                           data-placement="left"
+                                           v-bind:title="'Последняя проверка в ' + m.check.format('HH:mm (DD.MM)')"
+                                           v-bind:class="'text-' + (moment().diff(m.check, 'days') > 3 ? 'danger' : 'muted')">
+                                        {{m.check.fromNow()}}
+                                    </small>
+                                    <br/>
+                                    <span data-toggle="tooltip"
+                                          data-placement="left"
+                                          title="Есть игры в записи или можно играть в любое время"
+                                          v-if="m.hasOffline" class="badge badge-success">
+                                        Любое время
+                                    </span>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <h2>Дополнительные</h2>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <table class="table table-hover table-sm">
+                            <tbody>
+                            <tr v-for="(e, i) in ressources.extra">
+                                <td>
+                                    <span data-toggle="tooltip"
+                                          data-placement="bottom"
+                                          v-bind:title="e.desc">
+                                        {{e.name}}
+                                    </span>
+                                    <br/>
+                                    <span v-for="(u, i) in e.url">
+                                        <a v-bind:href="u" target="_blank" class="badge badge-primary mr-1">
+                                            cсылка{{i+1}}
+                                        </a>
+                                    </span>
+                                    <span data-toggle="tooltip"
+                                          data-placement="right"
+                                          title="Есть игры в записи или можно играть в любое время"
+                                          v-if="e.hasOffline" class="badge badge-success">
+                                        Любое время
+                                    </span>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
                     </div>
                 </div>
             </div>

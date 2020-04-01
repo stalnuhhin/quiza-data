@@ -1,35 +1,23 @@
-const gm = new Vue({
-    el: '#app',
+const time = new Vue({el: '#time'});
+const games = new Vue({
+    el: '#games',
     created() {
-        this.init();
         this.load();
     },
     data() {
         return {
-            now: moment(),
             games: 'loading'
         }
     },
     methods: {
-        init: function () {
-            moment.locale("ru");
-        },
         load: function () {
+            moment.locale("ru");
             Promise.all([
                 fetch("data/gameorgs.json?" + new Date().getTime()).then(r => r.json()),
                 fetch("data/games.json?" + new Date().getTime()).then(r => r.json())])
                 .then(r => {
                     this.games = this.process(r[0], r[1]);
                 });
-        },
-        fillItem: function (o, g, type) {
-            o.org = g.org ? g.org : type.org
-            if (g.org) {
-
-            }
-        },
-        groupBy: function(xs, key) {
-            return
         },
         process: function (orgs, games) {
             const result = [];
@@ -56,7 +44,7 @@ const gm = new Vue({
             const data = result
                 .filter(o => now.isBefore(moment(o.time).add(o.duration, 'hours')))
                 .sort((a, b) => a.time - b.time)
-                .reduce(function(res, o) {
+                .reduce(function (res, o) {
                     const key = o.time.format('YYYYMMDD');
                     if (!res[key]) {
                         res[key] = [];
@@ -66,6 +54,38 @@ const gm = new Vue({
                     return res;
                 }, {});
             return {dates, data}
+        }
+    }
+});
+
+const ressu = new Vue({
+    el: '#ressu',
+    created() {
+        this.load();
+    },
+    data() {
+        return {
+            ressources: 'loading'
+        }
+    },
+    methods: {
+        load: function () {
+            fetch("data/ressources.json?" + new Date().getTime())
+                .then(r => r.json())
+                .then(r => {
+                    this.ressources = this.process(r);
+                });
+        },
+        process: function (rs) {
+            const main = [];
+            const extra = [];
+            rs.forEach(r => {
+                r.check = r.check ? moment(r.check) : undefined;
+                r.hasEvent ? main.push(r) : extra.push(r);
+            });
+            main.sort((a, b) => a.check - b.check);
+            extra.sort((a, b) => a.name - b.name);
+            return {main, extra};
         }
     }
 });
