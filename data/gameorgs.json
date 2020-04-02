@@ -72,6 +72,25 @@
       "Игра проходит по Zoom, читайте FAQ по ссылкам."
     ]
   },
+  "derzhi5": {
+    "org": "Держи пять! Самара",
+    "image": "derzhi5.png",
+    "duration": 2,
+    "registration": true,
+    "url": [
+      "http://smr.d5quiz.ru/raspisanie/"
+    ]
+  },
+  "kleveria": {
+    "org": "Клеверия",
+    "image": "kleveria.png",
+    "duration": 2,
+    "registration": true,
+    "price": 0,
+    "url": [
+      "https://kleveria.ru/"
+    ]
+  },
   "imclub": {
     "org": "IMClub",
     "image": "imclub.png",

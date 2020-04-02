@@ -199,6 +199,26 @@
     "check": "2020-04-01T12:00:00+03:00"
   },
   {
+    "name": "Держи пять! Самара",
+    "image": "derzhi5.png",
+    "url": [
+      "http://smr.d5quiz.ru/raspisanie/"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020-04-02T11:00:00+03:00"
+  },
+  {
+    "name": "Клеверия",
+    "image": "kleveria.png",
+    "url": [
+      "https://kleveria.ru/"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020-04-02T11:00:00+03:00"
+  },
+  {
     "name": "Smart-Quiz",
     "image": "smartquiz.png",
     "desc": "Украинский клуб Smart-Quiz",
@@ -218,6 +238,20 @@
     "hasEvent": true,
     "hasOffline": false,
     "check": "2020-04-01T13:00:00+03:00"
+  },
+  {
+    "name": "IQ Battle Sweden",
+    "image": "iqbattle.png",
+    "desc": "Игра проходит по Zoom, читайте FAQ по ссылкам.",
+    "url": [
+      "https://www.facebook.com/pg/iqbattlesweden/posts",
+      "https://telegra.ph/iQ-Battle-Online-03-14",
+      "https://telegra.ph/iQ-Battle-Online-Kak-podklyuchitsya-k-igre-03-20",
+      "https://telegra.ph/iQ-Battle-Online-FAQ-03-18"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020-04-02T11:00:00+03:00"
   },
   {
     "name": "Telegram: Своя Игра в Telegram",
