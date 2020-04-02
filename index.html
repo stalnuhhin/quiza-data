@@ -56,20 +56,25 @@
                     <div class="col-8 col-md-9">
                         {{g.name}}
                         <br/>
+                        <span v-if="!g.price" class="badge badge-success">
+                            Условно бесплатно {{g.payment ? '(см. ИНФО)' : ''}}
+                        </span>
+                        <span v-if="g.price" class="badge alert-danger">{{g.price + " " + g.currency}} / {{g.pricetype === "person" ? "человек" : "команда"}} (см. ИНФО)</span>
                         <a href="#" class="badge badge-info" data-toggle="modal"
+                           v-if="g.info || g.payment"
                            v-bind:data-target="'#info' + i + '_' + j">ИНФО</a>
-                        <span v-if="!g.price" class="badge badge-secondary">Условно бесплатно (см. ИНФО)</span>
-                        <span v-if="g.price" class="badge badge-danger">{{g.price + " " + g.currency}} / {{g.pricetype === "person" ? "человек" : "команда"}} (см. ИНФО)</span>
-                        <span v-if="g.registration" class="badge badge-danger">Есть регистрация</span>
+
+
+                        <span v-if="g.registration" class="badge alert-warning">Есть регистрация</span>
                         <span v-for="(u, i) in g.url">
-                            <a v-bind:href="u" target="_blank" class="badge badge-primary mr-1">
+                            <a v-bind:href="u" target="_blank" class="badge alert-primary mr-1">
                                 cсылка{{i+1}}
                             </a>
                         </span>
                         <br/>
                         <small class="text-muted">{{g.org}}</small>
 
-                        <div class="modal fade" v-bind:id="'info' + i + '_' + j" tabindex="-1" role="dialog"
+                        <div v-if="g.info || g.payment" class="modal fade" v-bind:id="'info' + i + '_' + j" tabindex="-1" role="dialog"
                              v-bind:aria-labelledby="'#info' + i + '_' + j" aria-hidden="true">
                             <div class="modal-dialog modal-dialog-centered" role="document">
                                 <div class="modal-content">
@@ -98,6 +103,9 @@
                             <tbody>
                             <tr v-for="(m, i) in ressources.main">
                                 <td>
+                                    <img v-if="m.image" v-bind:src="'data/images/' + m.image"/>
+                                </td>
+                                <td>
                                     <span data-toggle="tooltip"
                                           data-placement="bottom"
                                           v-bind:title="m.desc">
@@ -105,7 +113,7 @@
                                     </span>
                                     <br/>
                                     <span v-for="(u, i) in m.url">
-                                        <a v-bind:href="u" target="_blank" class="badge badge-primary mr-1">
+                                        <a v-bind:href="u" target="_blank" class="badge alert-primary mr-1">
                                             cсылка{{i+1}}
                                         </a>
                                     </span>
@@ -144,7 +152,7 @@
                                     </span>
                                     <br/>
                                     <span v-for="(u, i) in e.url">
-                                        <a v-bind:href="u" target="_blank" class="badge badge-primary mr-1">
+                                        <a v-bind:href="u" target="_blank" class="badge alert-primary mr-1">
                                             cсылка{{i+1}}
                                         </a>
                                     </span>
