@@ -218,6 +218,17 @@
     "check": "2020-04-02T13:00:00+03:00"
   },
   {
+    "org": "СибКвиз",
+    "image": "sibkviz.png",
+    "url": [
+      "https://vk.com/sibquiz",
+      "https://quizy.pro/"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020-04-02T13:00:00+03:00"
+  },
+  {
     "name": "City Quiz в Германии",
     "image": "cityquiz.png",
     "desc": "Франшиза 'City Quiz' в Германии.",

@@ -156,6 +156,18 @@
       "https://quizy.pro/"
     ]
   },
+  "sibkviz": {
+    "org": "СибКвиз",
+    "image": "sibkviz.png",
+    "duration": 2,
+    "registration": true,
+    "price": 300,
+    "currency": "RUB",
+    "url": [
+      "https://vk.com/sibquiz",
+      "https://quizy.pro/"
+    ]
+  },
   "neoquiz": {
     "org": "NeoQuiz",
     "image": "neoquiz.png",
