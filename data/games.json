@@ -429,6 +429,66 @@
   {
     "time": "2020-04-02T12:00:00+03:00",
     "name": "Ламповая лига #3 (повтор)",
-    "type": "mozgomania"
+    "type": "mozgomania",
+    "url": [
+      "https://quizy.pro/streams/1466"
+    ]
+  },
+  {
+    "time": "2020-04-02T15:00:00+03:00",
+    "name": "Ламповая лига #3 (повтор)",
+    "type": "mozgomania",
+    "url": [
+      "https://quizy.pro/streams/1467"
+    ]
+  },
+  {
+    "time": "2020-04-02T16:00:00+03:00",
+    "duration": 1,
+    "name": "Школьники, студенты и молодежные организации",
+    "type": "mozgomania",
+    "url": [
+      "https://quizy.pro/streams/1306"
+    ]
+  },
+  {
+    "time": "2020-04-02T18:00:00+03:00",
+    "name": "Ламповая лига #3 (повтор)",
+    "type": "mozgomania",
+    "url": [
+      "https://quizy.pro/streams/1468"
+    ]
+  },
+  {
+    "time": "2020-04-02T21:00:00+03:00",
+    "name": "Игромания #2 (премьера)",
+    "type": "mozgomania",
+    "url": [
+      "https://quizy.pro/streams/1443"
+    ]
+  },
+  {
+    "time": "2020-04-03T12:00:00+03:00",
+    "name": "Игромания #2 (повтор)",
+    "type": "mozgomania",
+    "url": [
+      "https://quizy.pro/streams/1445"
+    ]
+  },
+  {
+    "time": "2020-04-03T15:00:00+03:00",
+    "name": "Игромания #2 (повтор)",
+    "type": "mozgomania",
+    "url": [
+      "https://quizy.pro/streams/1446"
+    ]
+  },
+  {
+    "time": "2020-04-03T18:00:00+03:00",
+    "name": "Игромания #2 (повтор)",
+    "type": "mozgomania",
+    "url": [
+      "https://quizy.pro/streams/1447"
+    ]
   }
 ]
