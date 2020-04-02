@@ -127,6 +127,17 @@
       "https://www.facebook.com/pg/mozgomania.ru/posts"
     ]
   },
+  "skorohod": {
+    "org": "Квизы Скороход",
+    "image": "skorohod.png",
+    "duration": 2,
+    "registration": true,
+    "price": 300,
+    "currency": "RUB",
+    "url": [
+      "https://vk.com/skorohod_quiz"
+    ]
+  },
   "imclub": {
     "org": "IMClub",
     "image": "imclub.png",
