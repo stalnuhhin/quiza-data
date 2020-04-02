@@ -1,4 +1,14 @@
 {
+  "chgkworld": {
+    "org": "CHGK-WORLD",
+    "duration": 2,
+    "registration": true,
+    "url": [
+      "https://profi.t.chgk-world.ru/"
+    ],
+    "price": 2,
+    "currency": "USD"
+  },
   "umkaonline": {
     "org": "Ума Палата Online",
     "image": "umkaonline.png",

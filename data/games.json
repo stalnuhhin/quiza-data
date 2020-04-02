@@ -533,5 +533,13 @@
     "url": [
       "https://quizy.pro/streams/1515"
     ]
+  },
+  {
+    "time": "2020-04-05T13:00:00+03:00",
+    "name": "ЧГК: Большая игра. Пролог №2 (36 вопросов)",
+    "type": "chgkworld",
+    "url": [
+      "https://profi.chgk-world.ru/tournaments/9"
+    ]
   }
 ]
