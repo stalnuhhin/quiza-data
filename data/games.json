@@ -511,7 +511,8 @@
   {
     "time": "2020-04-02T15:30:00+03:00",
     "name": "Киноугадаечка",
-    "type": "clicklive",
+    "duration": 1,
+    "registration": true,
     "price": 0,
     "url": [
       "https://quizy.pro/streams/1512"
@@ -540,6 +541,26 @@
     "type": "chgkworld",
     "url": [
       "https://profi.chgk-world.ru/tournaments/9"
+    ]
+  },
+  {
+    "time": "2020-04-02T19:30:00+03:00",
+    "name": "ЧГК: Кино ЧГК. Online",
+    "org": "BrainHub",
+    "duration": 2,
+    "price": 0,
+    "url": [
+      "https://www.facebook.com/events/3264348610242473/"
+    ]
+  },
+  {
+    "time": "2020-04-03T16:00:00+03:00",
+    "name": "ЧГК: Кино ЧГК. Online",
+    "org": "BrainHub",
+    "duration": 2,
+    "price": 0,
+    "url": [
+      "https://www.facebook.com/events/3264348610242473/"
     ]
   }
 ]
