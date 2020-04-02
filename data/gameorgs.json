@@ -138,6 +138,15 @@
       "https://vk.com/skorohod_quiz"
     ]
   },
+  "inquizicia": {
+    "org": "ИнQUIZиция",
+    "image": "inquizicia.png",
+    "duration": 2,
+    "registration": true,
+    "url": [
+      "https://vk.com/quiztag"
+    ]
+  },
   "imclub": {
     "org": "IMClub",
     "image": "imclub.png",

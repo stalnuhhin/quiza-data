@@ -498,5 +498,14 @@
     "url": [
       "https://quizy.pro/streams/1513"
     ]
+  },
+  {
+    "time": "2020-04-02T19:00:00+03:00",
+    "name": "ИнQUIZиция",
+    "type": "inquizicia",
+    "price": 0,
+    "url": [
+      "https://quizy.pro/streams/1475"
+    ]
   }
 ]
