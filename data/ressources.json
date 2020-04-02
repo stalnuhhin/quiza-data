@@ -219,6 +219,17 @@
     "check": "2020-04-02T11:00:00+03:00"
   },
   {
+    "name": "Збышек КВИЗ // Битва Мудрецов",
+    "image": "zq.png",
+    "url": [
+      "https://vk.com/zb_quiz",
+      "https://www.instagram.com/zbyshek_quiz/"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020-04-02T11:00:00+03:00"
+  },
+  {
     "name": "Smart-Quiz",
     "image": "smartquiz.png",
     "desc": "Украинский клуб Smart-Quiz",

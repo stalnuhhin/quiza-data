@@ -91,6 +91,18 @@
       "https://kleveria.ru/"
     ]
   },
+  "zq": {
+    "org": "Збышек КВИЗ // Битва Мудрецов",
+    "image": "zq.png",
+    "duration": 2,
+    "registration": true,
+    "price": 500,
+    "currency": "RUB",
+    "pricetype": "person",
+    "url": [
+      "https://vk.com/zb_quiz"
+    ]
+  },
   "imclub": {
     "org": "IMClub",
     "image": "imclub.png",
