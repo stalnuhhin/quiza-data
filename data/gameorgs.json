@@ -114,6 +114,19 @@
       "https://vk.com/shakerpiter"
     ]
   },
+  "mozgomania": {
+    "org": "Мозгомания",
+    "image": "mozgomania.png",
+    "duration": 2,
+    "registration": true,
+    "price": 100,
+    "pricetype": "person",
+    "currency": "RUB",
+    "url": [
+      "https://mozgomania.ru/",
+      "https://www.facebook.com/pg/mozgomania.ru/posts"
+    ]
+  },
   "imclub": {
     "org": "IMClub",
     "image": "imclub.png",

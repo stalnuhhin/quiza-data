@@ -229,6 +229,18 @@
     "check": "2020-04-02T11:30:00+03:00"
   },
   {
+    "name": "Мозгомания",
+    "image": "mozgomania.png",
+    "url": [
+      "https://quizy.pro/",
+      "https://mozgomania.ru/",
+      "https://www.facebook.com/pg/mozgomania.ru/posts"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020-04-02T12:00:00+03:00"
+  },
+  {
     "name": "Збышек КВИЗ // Битва Мудрецов",
     "image": "zq.png",
     "url": [
