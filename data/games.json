@@ -507,5 +507,14 @@
     "url": [
       "https://quizy.pro/streams/1475"
     ]
+  },
+  {
+    "time": "2020-04-02T15:30:00+03:00",
+    "name": "Киноугадаечка",
+    "type": "clicklive",
+    "price": 0,
+    "url": [
+      "https://quizy.pro/streams/1512"
+    ]
   }
 ]

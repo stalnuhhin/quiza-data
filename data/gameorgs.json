@@ -147,6 +147,15 @@
       "https://vk.com/quiztag"
     ]
   },
+  "clicklive": {
+    "org": "Click Live",
+    "image": "clicklive.png",
+    "duration": 2,
+    "registration": true,
+    "url": [
+      "https://quizy.pro/"
+    ]
+  },
   "imclub": {
     "org": "IMClub",
     "image": "imclub.png",
