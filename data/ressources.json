@@ -207,6 +207,17 @@
     "check": "2020-04-02T12:00:00+03:00"
   },
   {
+    "name": "NeoQuiz",
+    "image": "neoquiz.png",
+    "url": [
+      "https://vk.com/neoquiz",
+      "https://quizy.pro/"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020-04-02T13:00:00+03:00"
+  },
+  {
     "name": "City Quiz в Германии",
     "image": "cityquiz.png",
     "desc": "Франшиза 'City Quiz' в Германии.",
