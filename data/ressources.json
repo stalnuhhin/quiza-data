@@ -219,6 +219,16 @@
     "check": "2020-04-02T11:00:00+03:00"
   },
   {
+    "name": "Шейкер квиз",
+    "image": "sheikerquiz.png",
+    "url": [
+      "https://vk.com/shakerpiter"
+    ],
+    "hasEvent": true,
+    "hasOffline": false,
+    "check": "2020-04-02T11:30:00+03:00"
+  },
+  {
     "name": "Збышек КВИЗ // Битва Мудрецов",
     "image": "zq.png",
     "url": [

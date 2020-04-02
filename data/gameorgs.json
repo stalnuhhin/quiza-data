@@ -103,6 +103,17 @@
       "https://vk.com/zb_quiz"
     ]
   },
+  "sheikerquiz": {
+    "org": "Шейкер квиз",
+    "image": "sheikerquiz.png",
+    "duration": 2,
+    "registration": true,
+    "price": 1000,
+    "currency": "RUB",
+    "url": [
+      "https://vk.com/shakerpiter"
+    ]
+  },
   "imclub": {
     "org": "IMClub",
     "image": "imclub.png",
