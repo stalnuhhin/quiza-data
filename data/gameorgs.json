@@ -161,6 +161,7 @@
     "image": "neoquiz.png",
     "duration": 2,
     "registration": true,
+    "currency": "RUB",
     "url": [
       "https://vk.com/neoquiz",
       "https://quizy.pro/"
