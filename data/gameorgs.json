@@ -55,6 +55,23 @@
       "В стриме показан ведущий, есть комментарии и обратная связь."
     ]
   },
+  "iqbattleswe": {
+    "org": "IQ Battle Sweden",
+    "image": "iqbattle.png",
+    "duration": 2,
+    "registration": true,
+    "url": [
+      "https://www.facebook.com/pg/iqbattlesweden/posts",
+      "https://telegra.ph/iQ-Battle-Online-03-14",
+      "https://telegra.ph/iQ-Battle-Online-Kak-podklyuchitsya-k-igre-03-20",
+      "https://telegra.ph/iQ-Battle-Online-FAQ-03-18"
+    ],
+    "price": 100,
+    "currency": "SEK",
+    "info": [
+      "Игра проходит по Zoom, читайте FAQ по ссылкам."
+    ]
+  },
   "imclub": {
     "org": "IMClub",
     "image": "imclub.png",
