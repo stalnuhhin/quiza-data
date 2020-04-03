@@ -3,6 +3,7 @@
     "org": "City Quiz в Германии",
     "latestCheck": "2020-04-01T12:00:00+03:00",
     "type": "events",
+    "duration": 2,
     "image": "cityquiz.png",
     "registration": true,
     "price": [
@@ -17,6 +18,15 @@
     ],
     "payment": [
       "Оплата на регистрации по реквизитам."
+    ],
+    "games": [
+      {
+        "time": "2020-04-01T18:00:00+02:00",
+        "name": "City Quiz Online (Германия)",
+        "url": [
+          "https://www.facebook.com/groups/1900106536896781/permalink/2569970699910358"
+        ]
+      }
     ]
   }
 ]

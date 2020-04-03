@@ -1,0 +1,25 @@
+[
+  {
+    "org": "quizy.pro (игры без франшиз, одиночные)",
+    "latestCheck": "2020-04-02T13:00:00+03:00",
+    "type": "events",
+    "desc": "Платформа для онлайн игр.",
+    "url": [
+      "https://quizy.pro"
+    ],
+    "games": [
+      {
+        "time": "2020-04-02T15:30:00+03:00",
+        "name": "Киноугадаечка",
+        "duration": 1,
+        "registration": true,
+        "price": [
+          "free"
+        ],
+        "url": [
+          "https://quizy.pro/streams/1512"
+        ]
+      }
+    ]
+  }
+]

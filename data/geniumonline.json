@@ -4,6 +4,7 @@
     "latestCheck": "2020-04-01T03:00:00+03:00",
     "type": "events",
     "image": "geniumonline.png",
+    "duration": 2,
     "registration": true,
     "url": [
       "http://genium-quiz.com"
@@ -12,6 +13,22 @@
     "info": [
       "Cтрим в Zoom.",
       "Ответы вбиваются в их личную систему."
+    ],
+    "games": [
+      {
+        "time": "2020-04-01T20:30:00+03:00",
+        "name": "Genium Challenge Online",
+        "url": [
+          "http://genium-quiz.com/events/challenge-online-1",
+          "https://www.facebook.com/events/591992718074457"
+        ],
+        "price": [
+          "free"
+        ],
+        "payment": [
+          "Пока что бесплатно. Система тестируется."
+        ]
+      }
     ]
   }
 ]
