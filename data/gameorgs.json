@@ -9,29 +9,7 @@
     "price": 2,
     "currency": "USD"
   },
-  "umkaonline": {
-    "org": "Ума Палата Online",
-    "image": "umkaonline.png",
-    "duration": 2.5,
-    "registration": false,
-    "url": [
-      "https://www.facebook.com/pg/umapalataonline/posts",
-      "https://www.youtube.com/channel/UCikg_XCEWz118rznf7t1uAg/videos"
-    ],
-    "price": 0,
-    "currency": "",
-    "info": [
-      "Открытый стрим в YouTube",
-      "Ответы вбиваются в Google Form."
-    ],
-    "payment": [
-      "Игра бесплатная, но донаты приветствуются:",
-      "1. https://www.paypal.me/umkaonline",
-      "2. Revolut: +37069071027",
-      "3. PaySera: LT653500010003462442",
-      "4. Яндекс.Кошелёк: 4100110202439390"
-    ]
-  },
+  ,
   "klubonlinevoprosov": {
     "org": "Клуб Онлайн Вопросов",
     "image": "klubonlinevoprosov.png",
