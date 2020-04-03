@@ -2,18 +2,16 @@
   {
     "org": "Ума Палата Online",
     "latestCheck": "2020-04-01T03:00:00+03:00",
-    "hasEvents": true,
+    "type": "events",
     "hasContent": true,
     "image": "umkaonline.png",
-    "desc": "Игры 'Ума Палата' и не только. Олег Сероухов проводит игры очень часто и каждый день. Иногда проводит ЧГК. Бывают марафоны на 8 часов, например. Технически - трансляция на YouTube и Google-формы.",
+    "pricetype": "donation",
     "duration": 2.5,
-    "registration": false,
     "url": [
       "https://www.facebook.com/pg/umapalataonline/posts",
       "https://www.youtube.com/channel/UCikg_XCEWz118rznf7t1uAg/videos"
     ],
-    "price": 0,
-    "currency": "",
+    "desc": "Игры 'Ума Палата' и не только. Олег Сероухов проводит игры очень часто и каждый день. Иногда проводит ЧГК. Бывают марафоны на 8 часов, например. Технически - трансляция на YouTube и Google-формы.",
     "info": [
       "Открытый стрим в YouTube",
       "Ответы вбиваются в Google Form."
@@ -74,7 +72,7 @@
       },
       {
         "time": "2020-04-03T20:00:00+03:00",
-        "name": "Detective Stories (премьера)"
+        "name": "Melomania"
       },
       {
         "time": "2020-04-03T22:00:00+03:00",
