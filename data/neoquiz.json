@@ -1,0 +1,26 @@
+[
+  {
+    "org": "NeoQuiz",
+    "latestCheck": "2020-04-02T13:00:00+03:00",
+    "type": "events",
+    "image": "neoquiz.png",
+    "duration": 2,
+    "registration": true,
+    "url": [
+      "https://vk.com/neoquiz",
+      "https://quizy.pro/"
+    ],
+    "games": [
+      {
+        "time": "2020-04-02T15:00:00+03:00",
+        "name": "Антивирус",
+        "price": [
+          "444 RUB/ком"
+        ],
+        "url": [
+          "https://quizy.pro/streams/1464"
+        ]
+      }
+    ]
+  }
+]

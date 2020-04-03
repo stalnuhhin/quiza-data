@@ -1,0 +1,26 @@
+[
+  {
+    "org": "Квиз, плиз!",
+    "latestCheck": "2020-04-01T20:00:00+03:00",
+    "type": "events",
+    "image": "kvizpliz.png",
+    "duration": 2,
+    "registration": true,
+    "price": [
+      "1000 RUB/ком"
+    ],
+    "url": [
+      "https://moscow.quizplease.ru/schedule"
+    ],
+    "games": [
+      {
+        "time": "2020-04-03T20:00:00+03:00",
+        "name": "Квиз, плиз! #4"
+      },
+      {
+        "time": "2020-04-05T16:00:00+03:00",
+        "name": "Кино и музыка #1"
+      }
+    ]
+  }
+]

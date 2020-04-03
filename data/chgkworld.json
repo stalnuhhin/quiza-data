@@ -1,0 +1,25 @@
+[
+  {
+    "org": "CHGK-WORLD",
+    "latestCheck": "2020-04-02T10:00:00+03:00",
+    "type": "events",
+    "registration": true,
+    "duration": 2,
+    "price": [
+      "150 RUB/ком",
+      "2 USD/ком"
+    ],
+    "url": [
+      "https://profi.t.chgk-world.ru/"
+    ],
+    "games": [
+      {
+        "time": "2020-04-05T13:00:00+03:00",
+        "name": "ЧГК: Большая игра. Пролог №2 (36 вопросов)",
+        "url": [
+          "https://profi.chgk-world.ru/tournaments/9"
+        ]
+      }
+    ]
+  }
+]

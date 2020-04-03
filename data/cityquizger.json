@@ -1,0 +1,22 @@
+[
+  {
+    "org": "City Quiz в Германии",
+    "latestCheck": "2020-04-01T12:00:00+03:00",
+    "type": "events",
+    "image": "cityquiz.png",
+    "registration": true,
+    "price": [
+      "20 EUR/ком"
+    ],
+    "url": [
+      "https://www.facebook.com/groups/1900106536896781/"
+    ],
+    "desc": "Франшиза 'City Quiz' в Германии.",
+    "info": [
+      "Вопросы на YouTube, ответы в Google-форму."
+    ],
+    "payment": [
+      "Оплата на регистрации по реквизитам."
+    ]
+  }
+]

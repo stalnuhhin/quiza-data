@@ -5,8 +5,10 @@
     "type": "events",
     "hasContent": true,
     "image": "umkaonline.png",
-    "pricetype": "donation",
     "duration": 2.5,
+    "price": [
+      "free", "donate"
+    ],
     "url": [
       "https://www.facebook.com/pg/umapalataonline/posts",
       "https://www.youtube.com/channel/UCikg_XCEWz118rznf7t1uAg/videos"

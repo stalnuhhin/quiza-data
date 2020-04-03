@@ -1,0 +1,26 @@
+[
+  {
+    "org": "СибКвиз",
+    "latestCheck": "2020-04-02T13:00:00+03:00",
+    "type": "events",
+    "image": "sibkviz.png",
+    "duration": 2,
+    "registration": true,
+    "price": [
+      "300 RUB/ком"
+    ],
+    "url": [
+      "https://vk.com/sibquiz",
+      "https://quizy.pro/"
+    ],
+    "games": [
+      {
+        "time": "2020-04-03T19:30:00+07:00",
+        "name": "СИБКВИЗ ONLINE #1",
+        "url": [
+          "https://quizy.pro/streams/1515"
+        ]
+      }
+    ]
+  }
+]

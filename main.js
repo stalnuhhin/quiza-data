@@ -1,3 +1,38 @@
+const DATAFILES = [
+    "beeclever.json",
+    "bezdurakov.json",
+    "bquizonline.json",
+    "chgkworld.json",
+    "cityquizger.json",
+    "collection_aggr.json",
+    "collection_extra.json",
+    "derzhi5.json",
+    "einsteinclassic.json",
+    "einsteininsta.json",
+    "eureka.json",
+    "geniumonline.json",
+    "imclub.json",
+    "indigo.json",
+    "inquizicia.json",
+    "iqbattleswe.json",
+    "kleveria.json",
+    "klub60sec.json",
+    "klubonlinevoprosov.json",
+    "kvizpliz.json",
+    "madheadshow.json",
+    "mozgomania.json",
+    "mzgbtln.json",
+    "neoquiz.json",
+    "pubquiz.json",
+    "sheikerquiz.json",
+    "sibkviz.json",
+    "skorohod.json",
+    "smartquiz.json",
+    "squiz.json",
+    "umkaonline.json",
+    "zbyshekkviz.json"
+]
+
 const time = new Vue({el: '#time'});
 const games = new Vue({
     el: '#games',

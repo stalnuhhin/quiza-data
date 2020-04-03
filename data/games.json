@@ -1,121 +1,9 @@
 [
 
-  {
-    "time": "2020-03-31T19:00:00+03:00",
-    "name": "Сообразим на двоих? - Игра для пар",
-    "type": "imclub",
-    "url": [
-      "https://imclub.eu/divan"
-    ],
-    "price": 12
-  },
-  {
-    "time": "2020-04-14T19:00:00+03:00",
-    "name": "Сообразим на двоих? - Игра для пар",
-    "type": "imclub",
-    "price": 12
-  },
-  {
-    "time": "2020-04-28T19:00:00+03:00",
-    "name": "Сообразим на двоих? - Игра для пар",
-    "type": "imclub",
-    "price": 12
-  },
-  {
-    "time": "2020-04-07T19:00:00+03:00",
-    "name": "60 Секунд (Таллин) Карантинка #2",
-    "type": "imclub",
-    "price": 25,
-    "url": [
-      "https://www.facebook.com/events/693024051505655"
-    ]
-  },
-  {
-    "time": "2020-04-21T19:00:00+03:00",
-    "name": "60 Секунд (Таллин)",
-    "type": "imclub",
-    "price": 25
-  },
-  {
-    "time": "2020-04-01T19:00:00+03:00",
-    "name": "Киномузыка",
-    "type": "indigo",
-    "price": 500
-  },
-  {
-    "time": "2020-04-04T19:00:00+03:00",
-    "name": "Классическая Оли",
-    "type": "indigo",
-    "price": 500
-  },
-  {
-    "time": "2020-04-03T14:00:00+03:00",
-    "name": "Сольная игра",
-    "type": "indigo",
-    "price": 200
-  },
-  {
-    "time": "2020-04-03T19:00:00+03:00",
-    "name": "Сольная игра (повтор от 14:00)",
-    "type": "indigo",
-    "price": 200
-  },
-  {
-    "time": "2020-04-03T20:00:00+03:00",
-    "name": "Квиз, плиз! #4",
-    "type": "kvizpliz"
-  },
-  {
-    "time": "2020-04-05T16:00:00+03:00",
-    "name": "Кино и музыка #1",
-    "type": "kvizpliz"
-  },
-  {
-    "time": "2020-04-04T14:00:00+03:00",
-    "name": "Клуб Онлайн Вопросов - ИГРА 1",
-    "type": "klubonlinevoprosov",
-    "url": [
-      "https://cutt.ly/TtT7GmM"
-    ]
-  },
-  {
-    "time": "2020-04-04T19:00:00+03:00",
-    "name": "Клуб Онлайн Вопросов - ИГРА 1 (повтор дневной)",
-    "type": "klubonlinevoprosov",
-    "url": [
-      "https://cutt.ly/PtT7Hmw"
-    ]
-  },
-  {
-    "time": "2020-04-11T14:00:00+03:00",
-    "name": "Клуб Онлайн Вопросов - ИГРА 2",
-    "type": "klubonlinevoprosov"
-  },
-  {
-    "time": "2020-04-11T19:00:00+03:00",
-    "name": "Клуб Онлайн Вопросов - ИГРА 2 (повтор дневной)",
-    "type": "klubonlinevoprosov"
-  },
-  {
-    "time": "2020-04-18T14:00:00+03:00",
-    "name": "Клуб Онлайн Вопросов - ИГРА 3",
-    "type": "klubonlinevoprosov"
-  },
-  {
-    "time": "2020-04-18T19:00:00+03:00",
-    "name": "Клуб Онлайн Вопросов - ИГРА 3 (повтор дневной)",
-    "type": "klubonlinevoprosov"
-  },
-  {
-    "time": "2020-04-24T14:00:00+03:00",
-    "name": "Клуб Онлайн Вопросов - ИГРА 4",
-    "type": "klubonlinevoprosov"
-  },
-  {
-    "time": "2020-04-24T19:00:00+03:00",
-    "name": "Клуб Онлайн Вопросов - ИГРА 4 (повтор дневной)",
-    "type": "klubonlinevoprosov"
-  },
+
+
+
+
   {
     "time": "2020-04-01T20:30:00+03:00",
     "duration": 2,
@@ -146,36 +34,7 @@
       "Пока что бесплатно. Система тестируется."
     ]
   },
-  {
-    "time": "2020-03-30T12:00:00+03:00",
-    "duration": 10,
-    "name": "Без дураков - разоблачение",
-    "type": "bezdurakov"
-  },
-  {
-    "time": "2020-03-31T14:00:00+03:00",
-    "duration": 8,
-    "name": "Без дураков - блиц",
-    "type": "bezdurakov"
-  },
-  {
-    "time": "2020-04-01T12:00:00+03:00",
-    "duration": 10,
-    "name": "Без дураков - разоблачение",
-    "type": "bezdurakov"
-  },
-  {
-    "time": "2020-04-02T14:00:00+03:00",
-    "duration": 8,
-    "name": "Без дураков - блиц",
-    "type": "bezdurakov"
-  },
-  {
-    "time": "2020-04-03T12:00:00+03:00",
-    "duration": 10,
-    "name": "Без дураков - разоблачение",
-    "type": "bezdurakov"
-  },
+
   {
     "time": "2020-04-01T18:00:00+02:00",
     "duration": 2,
@@ -215,223 +74,18 @@
     "type": "klub60sec",
     "price": 1600
   },
-  {
-    "time": "2020-04-03T19:00:00+03:00",
-    "duration": 2,
-    "name": "Smart-Quiz",
-    "type": "smartquiz",
-    "url": [
-      "https://www.facebook.com/events/3287378217961746"
-    ]
-  },
-  {
-    "time": "2020-04-02T19:00:00+03:00",
-    "duration": 3,
-    "name": "B-Quiz Online #1",
-    "type": "bquizonline",
-    "url": [
-      "https://www.facebook.com/events/752902931907924/permalink/753326541865563/",
-      "https://vk.com/wall-193516419_4"
-    ]
-  },
-  {
-    "time": "2020-04-02T14:00:00+03:00",
-    "name": "#7",
-    "type": "einsteininsta"
-  },
-  {
-    "time": "2020-04-04T18:00:00+03:00",
-    "name": "#8",
-    "type": "einsteininsta"
-  },
-  {
-    "time": "2020-04-07T20:00:00+03:00",
-    "name": "#9",
-    "type": "einsteininsta"
-  },
-  {
-    "time": "2020-04-09T20:00:00+03:00",
-    "name": "#10",
-    "type": "einsteininsta"
-  },
-  {
-    "time": "2020-04-02T19:00:00+03:00",
-    "name": "ONLINE #1",
-    "type": "einsteinclassic"
-  },
-  {
-    "time": "2020-04-01T19:00:00+03:00",
-    "name": "Игра 5",
-    "type": "squiz"
-  },
-  {
-    "time": "2020-04-02T19:00:00+03:00",
-    "name": "Гарри Поттер Игра 1",
-    "type": "squiz"
-  },
-  {
-    "time": "2020-04-03T19:00:00+03:00",
-    "name": "Игра 6",
-    "type": "squiz"
-  },
-  {
-    "time": "2020-04-04T17:00:00+03:00",
-    "name": "Игра 7",
-    "type": "squiz"
-  },
-  {
-    "time": "2020-04-05T17:00:00+03:00",
-    "name": "Игра 8",
-    "type": "squiz"
-  },
-  {
-    "time": "2020-04-05T18:00:00+02:00",
-    "name": "IQ Battle Sweden",
-    "type": "iqbattleswe"
-  },
-  {
-    "time": "2020-04-04T18:00:00+04:00",
-    "name": "Держи пять!",
-    "price": 0,
-    "type": "derzhi5"
-  },
-  {
-    "time": "2020-04-05T20:00:00+03:00",
-    "name": "Збышек КВИЗ",
-    "type": "zq"
-  },
-  {
-    "time": "2020-04-03T20:00:00+03:00",
-    "name": "ВЛАСТЕЛИН КОЛЕЦ И ХОББИТ #1",
-    "type": "sheikerquiz"
-  },
-  {
-    "time": "2020-04-04T14:00:00+03:00",
-    "name": "ГАРРИ ПОТТЕР. LITE #1",
-    "type": "sheikerquiz"
-  },
-  {
-    "time": "2020-04-04T17:00:00+03:00",
-    "name": "ШЕЙКЕР #ОБОВСЁМ #1",
-    "type": "sheikerquiz"
-  },
-  {
-    "time": "2020-04-05T14:00:00+03:00",
-    "name": "МУЛЬТФИЛЬМЫ #1",
-    "type": "sheikerquiz"
-  },
-  {
-    "time": "2020-04-05T17:00:00+03:00",
-    "name": "РУССКИЙ РОК #1",
-    "type": "sheikerquiz"
-  },
-  {
-    "time": "2020-04-10T20:00:00+03:00",
-    "name": "КИНО #1",
-    "type": "sheikerquiz"
-  },
-  {
-    "time": "2020-04-11T14:00:00+03:00",
-    "name": "ГАРРИ ПОТТЕР. КНИГИ #1",
-    "type": "sheikerquiz"
-  },
-  {
-    "time": "2020-04-11T17:00:00+03:00",
-    "name": "ШЕЙКЕР #ОБОВСЁМ #2",
-    "type": "sheikerquiz"
-  },
-  {
-    "time": "2020-04-12T14:00:00+03:00",
-    "name": "F.R.I.E.N.D.S #1",
-    "type": "sheikerquiz"
-  },
-  {
-    "time": "2020-04-12T17:00:00+03:00",
-    "name": "18+ #1",
-    "type": "sheikerquiz"
-  },
-  {
-    "time": "2020-04-02T12:00:00+03:00",
-    "name": "Ламповая лига #3 (повтор)",
-    "type": "mozgomania",
-    "url": [
-      "https://quizy.pro/streams/1466"
-    ]
-  },
-  {
-    "time": "2020-04-02T15:00:00+03:00",
-    "name": "Ламповая лига #3 (повтор)",
-    "type": "mozgomania",
-    "url": [
-      "https://quizy.pro/streams/1467"
-    ]
-  },
-  {
-    "time": "2020-04-02T16:00:00+03:00",
-    "duration": 1,
-    "name": "Школьники, студенты и молодежные организации",
-    "type": "mozgomania",
-    "url": [
-      "https://quizy.pro/streams/1306"
-    ]
-  },
-  {
-    "time": "2020-04-02T18:00:00+03:00",
-    "name": "Ламповая лига #3 (повтор)",
-    "type": "mozgomania",
-    "url": [
-      "https://quizy.pro/streams/1468"
-    ]
-  },
-  {
-    "time": "2020-04-02T21:00:00+03:00",
-    "name": "Игромания #2 (премьера)",
-    "type": "mozgomania",
-    "url": [
-      "https://quizy.pro/streams/1443"
-    ]
-  },
-  {
-    "time": "2020-04-03T12:00:00+03:00",
-    "name": "Игромания #2 (повтор)",
-    "type": "mozgomania",
-    "url": [
-      "https://quizy.pro/streams/1445"
-    ]
-  },
-  {
-    "time": "2020-04-03T15:00:00+03:00",
-    "name": "Игромания #2 (повтор)",
-    "type": "mozgomania",
-    "url": [
-      "https://quizy.pro/streams/1446"
-    ]
-  },
-  {
-    "time": "2020-04-03T18:00:00+03:00",
-    "name": "Игромания #2 (повтор)",
-    "type": "mozgomania",
-    "url": [
-      "https://quizy.pro/streams/1447"
-    ]
-  },
-  {
-    "time": "2020-04-03T17:00:00+03:00",
-    "name": "Фильмоскоп",
-    "type": "skorohod",
-    "url": [
-      "https://quizy.pro/streams/1513"
-    ]
-  },
-  {
-    "time": "2020-04-02T19:00:00+03:00",
-    "name": "ИнQUIZиция",
-    "type": "inquizicia",
-    "price": 0,
-    "url": [
-      "https://quizy.pro/streams/1475"
-    ]
-  },
+
+
+
+
+
+
+
+
+
+
+
+
   {
     "time": "2020-04-02T15:30:00+03:00",
     "name": "Киноугадаечка",
@@ -442,31 +96,9 @@
       "https://quizy.pro/streams/1512"
     ]
   },
-  {
-    "time": "2020-04-02T15:00:00+03:00",
-    "name": "Антивирус",
-    "type": "neoquiz",
-    "price": 444,
-    "url": [
-      "https://quizy.pro/streams/1464"
-    ]
-  },
-  {
-    "time": "2020-04-03T19:30:00+07:00",
-    "name": "СИБКВИЗ ONLINE #1",
-    "type": "sibkviz",
-    "url": [
-      "https://quizy.pro/streams/1515"
-    ]
-  },
-  {
-    "time": "2020-04-05T13:00:00+03:00",
-    "name": "ЧГК: Большая игра. Пролог №2 (36 вопросов)",
-    "type": "chgkworld",
-    "url": [
-      "https://profi.chgk-world.ru/tournaments/9"
-    ]
-  },
+
+
+
   {
     "time": "2020-04-02T19:30:00+03:00",
     "name": "ЧГК: Кино ЧГК. Online",
