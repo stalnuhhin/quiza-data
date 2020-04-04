@@ -3,6 +3,9 @@
     "org": "Одиночные на quizy.pro",
     "latestCheck": "2020-04-02T13:00:00+03:00",
     "type": "events",
+    "duration": 1,
+    "registration": true,
+    "free": true,
     "desc": "Платформа для онлайн игр.",
     "url": [
       "https://quizy.pro"
@@ -11,11 +14,15 @@
       {
         "time": "2020-04-02T15:30:00+03:00",
         "name": "Киноугадаечка",
-        "duration": 1,
-        "registration": true,
-        "free": true,
         "url": [
           "https://quizy.pro/streams/1512"
+        ]
+      },
+      {
+        "time": "2020-04-04T16:00:00+03:00",
+        "name": "POP QUIZ MUSIC",
+        "url": [
+          "https://quizy.pro/streams/1520"
         ]
       }
     ]
