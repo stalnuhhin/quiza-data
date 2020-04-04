@@ -7,8 +7,7 @@ const DATAFILES = [
     "collection_aggr.json",
     "collection_extra.json",
     "derzhi5.json",
-    "einsteinclassic.json",
-    "einsteininsta.json",
+    "einsteinparty.json",
     "eureka.json",
     "geniumonline.json",
     "imclub.json",
@@ -74,18 +73,20 @@ const app = new Vue({
                     org.games = org.games ? org.games : [];
                     org.games.forEach(game => {
                         game.time = moment(game.time);
-                        game.duration = game.duration || org.duration;
-                        game.image = game.image || org.image;
-                        game.org = game.org || org.org;
-                        game.registration = game.registration || org.registration;
+                        const tem = game.template ? org.templates[game.template] : {};
+                        game.duration = game.duration || tem.duration || org.duration;
+                        game.image = game.image || tem.image || org.image;
+                        game.org = game.org || tem.org || org.org;
+                        game.registration = game.registration || tem.registration || org.registration;
                         game.url = game.url || [];
                         game.url = org.url ? game.url.concat(org.url) : game.url;
-                        game.free = game.free || org.free;
-                        game.donate = game.donate || org.donate;
-                        game.price = game.price || org.price;
-                        game.desc = game.desc || org.desc;
-                        game.info = game.info || org.info;
-                        game.payment = game.payment || org.payment;
+                        game.url = tem.url ? game.url.concat(tem.url) : game.url;
+                        game.free = game.free || tem.free || org.free;
+                        game.donate = game.donate || tem.donate || org.donate;
+                        game.price = game.price || tem.price || org.price;
+                        game.desc = game.desc || tem.desc || org.desc;
+                        game.info = game.info || tem.info || org.info;
+                        game.payment = game.payment || tem.payment || org.payment;
 
                         if (now.isBefore(moment(game.time).add(game.duration, 'hours'))) {
                             const key = game.time.format('YYYYMMDD');
