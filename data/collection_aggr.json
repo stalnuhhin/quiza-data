@@ -9,6 +9,14 @@
     ]
   },
   {
+    "org": "Список онлайн турниров по ЧГК",
+    "latestCheck": "2020-03-01T09:00:00+03:00",
+    "type": "aggr",
+    "url": [
+      "http://chgkstat.org/online"
+    ]
+  },
+  {
     "org": "Find Quiz",
     "latestCheck": "2020-04-01T18:00:00+03:00",
     "type": "aggr",
