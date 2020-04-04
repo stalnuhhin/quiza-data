@@ -5,10 +5,8 @@
     "type": "events",
     "duration": 2,
     "registration": true,
-    "price": [
-      "free",
-      "donate"
-    ],
+    "free": true,
+    "donate": true,
     "url": [
       "https://www.facebook.com/BrainHubKiev"
     ],

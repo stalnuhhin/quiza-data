@@ -6,9 +6,7 @@
     "image": "madheadshow.png",
     "duration": 2,
     "registration": true,
-    "price": [
-      "free"
-    ],
+    "free": true,
     "url": [
       "https://www.facebook.com/pg/MadHeadKyiv/posts",
       "https://t.me/madheadkyiv"

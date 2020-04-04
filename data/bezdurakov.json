@@ -5,8 +5,8 @@
     "type": "events",
     "hasContent": true,
     "image": "bezdurakov.png",
+    "free": true,
     "price": [
-      "free",
       "300 RUB/чел/нед"
     ],
     "url": [

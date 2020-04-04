@@ -6,9 +6,7 @@
     "image": "inquizicia.png",
     "duration": 2,
     "registration": true,
-    "price": [
-      "free"
-    ],
+    "free": true,
     "url": [
       "https://vk.com/quiztag"
     ],

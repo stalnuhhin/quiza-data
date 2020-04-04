@@ -6,9 +6,7 @@
     "image": "kleveria.png",
     "duration": 2,
     "registration": true,
-    "pricetype": [
-      "free"
-    ],
+    "free": true,
     "url": [
       "https://kleveria.ru"
     ]

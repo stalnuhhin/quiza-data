@@ -17,9 +17,7 @@
       {
         "time": "2020-04-02T19:00:00+03:00",
         "name": "Мозгобойня в Таллине",
-        "price": [
-          "free"
-        ],
+        "free": true,
         "url": [
           "https://www.facebook.com/mzgb.tln/photos/a.450249325419535/900242207086909"
         ],

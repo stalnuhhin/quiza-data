@@ -34,94 +34,79 @@ const DATAFILES = [
     "zbyshekkviz.json"
 ]
 
-const time = new Vue({el: '#time'});
-const games = new Vue({
-    el: '#games',
+const app = new Vue({
+    el: '#app',
     created() {
         this.load();
     },
     data() {
         return {
-            games: 'loading'
+            activeGames: [],
+            rsAggr: [],
+            rsMain: [],
+            rsExtra: []
         }
     },
     methods: {
         load: function () {
             moment.locale("ru");
-            Promise.all([
-                fetch("data/gameorgs.json?" + new Date().getTime()).then(r => r.json()),
-                fetch("data/games.json?" + new Date().getTime()).then(r => r.json())])
-                .then(r => {
-                    this.games = this.process(r[0], r[1]);
-                });
-        },
-        process: function (orgs, games) {
-            const result = [];
-            games.forEach(g => {
-                const o = {}
-                o.time = moment(g.time);
-                o.name = g.name;
-                const type = g.type && orgs[g.type] ? orgs[g.type] : {};
-                o.duration = g.duration ? g.duration : type.duration;
-                o.image = g.image ? g.image : type.image;
-                o.org = g.org ? g.org : type.org;
-                o.registration = g.registration ? g.registration : type.registration;
-                o.url = g.url ? g.url : [];
-                o.url = type.url ? o.url.concat(type.url) : o.url;
-                o.pricetype = g.pricetype ? g.pricetype : type.pricetype;
-                o.price = g.price ? g.price : type.price;
-                o.currency = g.currency ? g.currency : type.currency;
-                o.info = g.info ? g.info : type.info;
-                o.payment = g.payment ? g.payment : type.payment;
-                result.push(o);
-            });
             const now = moment();
             const dates = [];
-            const data = result
-                .filter(o => now.isBefore(moment(o.time).add(o.duration, 'hours')))
-                .sort((a, b) => a.time - b.time)
-                .reduce(function (res, o) {
-                    const key = o.time.format('YYYYMMDD');
-                    if (!res[key]) {
-                        res[key] = [];
-                        dates.push(key);
-                    }
-                    res[key].push(o);
-                    return res;
-                }, {});
-            return {dates, data}
-        }
-    }
-});
+            const data = {};
 
-const ressu = new Vue({
-    el: '#ressu',
-    created() {
-        this.load();
-    },
-    data() {
-        return {
-            ressources: 'loading'
-        }
-    },
-    methods: {
-        load: function () {
-            fetch("data/ressources.json?" + new Date().getTime())
-                .then(r => r.json())
-                .then(r => {
-                    this.ressources = this.process(r);
+            const promises = DATAFILES.map(file =>
+                fetch("data/" + file + "?" + new Date().getTime())
+                    .then(r => r.json()));
+            Promise.all(promises).then(r => {
+                const db = r.flat(2);
+                db.forEach(org => {
+                    org.latestCheck = org.latestCheck ? moment(org.latestCheck) : undefined;
+                    switch (org.type) {
+                        case 'events':
+                            this.rsMain.push(org);
+                            break;
+                        case 'aggr':
+                            this.rsAggr.push(org);
+                            break;
+                        default:
+                            this.rsExtra.push(org);
+                    }
+                    org.games = org.games ? org.games : [];
+                    org.games.forEach(game => {
+                        game.time = moment(game.time);
+                        game.duration = game.duration || org.duration;
+                        game.image = game.image || org.image;
+                        game.org = game.org || org.org;
+                        game.registration = game.registration || org.registration;
+                        game.url = game.url || [];
+                        game.url = org.url ? game.url.concat(org.url) : game.url;
+                        game.free = game.free || org.free;
+                        game.donate = game.donate || org.donate;
+                        game.price = game.price || org.price;
+                        game.desc = game.desc || org.desc;
+                        game.info = game.info || org.info;
+                        game.payment = game.payment || org.payment;
+
+                        if (now.isBefore(moment(game.time).add(game.duration, 'hours'))) {
+                            const key = game.time.format('YYYYMMDD');
+                            if (!data[key]) {
+                                data[key] = [];
+                                dates.push(key);
+                            }
+                            data[key].push(game);
+                        }
+
+                        for (let [key, list] of Object.entries(data)) {
+                            list.sort((a, b) => a.time - b.time);
+                        }
+                    });
                 });
-        },
-        process: function (rs) {
-            const main = [];
-            const extra = [];
-            rs.forEach(r => {
-                r.check = r.check ? moment(r.check) : undefined;
-                r.hasEvent ? main.push(r) : extra.push(r);
+                this.rsMain.sort((a, b) => a.latestCheck - b.latestCheck);
+                this.rsExtra.sort((a, b) => a.name - b.name);
+                this.rsAggr.sort((a, b) => a.name - b.name);
+                dates.sort();
+                this.activeGames = {dates, data};
             });
-            main.sort((a, b) => a.check - b.check);
-            extra.sort((a, b) => a.name - b.name);
-            return {main, extra};
         }
     }
 });

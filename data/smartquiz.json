@@ -7,13 +7,12 @@
     "image": "smartquiz.png",
     "duration": 2,
     "registration": true,
+    "free": true,
+    "donate": true,
     "url": [
       "https://www.facebook.com/pg/smart.quiz.zp/posts",
       "https://smart-quiz.net",
       "https://www.youtube.com/channel/UCoSEssO0pJ0YBi9zHc0cn2w"
-    ],
-    "price": [
-      "free", "donate"
     ],
     "desc": "Украинский клуб Smart-Quiz",
     "info": [
