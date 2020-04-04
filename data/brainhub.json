@@ -6,6 +6,7 @@
     "image": "brainhub.png",
     "duration": 2,
     "registration": true,
+    "chgk": true,
     "free": true,
     "donate": true,
     "url": [
