@@ -1,6 +1,7 @@
 const DATAFILES = [
     "beeclever.json",
     "bezdurakov.json",
+    "braingazm.json",
     "brainhub.json",
     "bquizonline.json",
     "chgkworld.json",
