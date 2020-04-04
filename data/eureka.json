@@ -1,12 +1,25 @@
 [
   {
     "org": "Эврика Online",
-    "latestCheck": "2020-04-01T14:00:00+03:00",
+    "latestCheck": "2020-04-04T13:00:00+03:00",
     "type": "events",
     "image": "eureka.png",
+    "registration": true,
+    "price": [
+      "20 EUR/ком"
+    ],
     "url": [
       "https://www.facebook.com/pg/eurekaintellectualgames/posts"
     ],
-    "desc": "Таллинские игры клуба 'Эврика', проводимые Александром Ведехиным."
+    "desc": "Таллинские игры клуба 'Эврика', проводимые Александром Ведехиным.",
+    "games": [
+      {
+        "time": "2020-04-07T19:00:00+03:00",
+        "name": "Eureka #1 (135): 28 дней спустя",
+        "url": [
+          "https://www.facebook.com/events/557824981503408"
+        ]
+      }
+    ]
   }
 ]

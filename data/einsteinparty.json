@@ -1,21 +1,19 @@
 [
   {
     "org": "Эйнштейн Party",
-    "latestCheck": "2020-04-01T19:00:00+03:00",
+    "latestCheck": "2020-04-04T13:00:00+03:00",
     "type": "events",
     "image": "einsteinparty.png",
     "registration": true,
+    "duration": 2,
+    "price": [
+      "500 RUB/ком"
+    ],
     "url": [
       "https://www.albertparty.ru/schedule",
       "https://www.instagram.com/einsteinparty"
     ],
     "templates": {
-      "classic": {
-        "duration": 2,
-        "price": [
-          "500 RUB/ком"
-        ]
-      },
       "instagram": {
         "duration": 1.5,
         "free": true,
@@ -27,8 +25,7 @@
     "games": [
       {
         "time": "2020-04-02T19:00:00+03:00",
-        "name": "ONLINE #1",
-        "template": "classic"
+        "name": "ONLINE #1"
       },
       {
         "time": "2020-04-02T14:00:00+03:00",
@@ -36,19 +33,48 @@
         "template": "instagram"
       },
       {
+        "time": "2020-04-04T14:00:00+03:00",
+        "name": "ONLINE 90-ые"
+      },
+      {
         "time": "2020-04-04T18:00:00+03:00",
-        "name": "#8",
-        "template": "instagram"
+        "name": "ONLINE FUN #43_1"
       },
       {
-        "time": "2020-04-07T20:00:00+03:00",
-        "name": "#9",
-        "template": "instagram"
+        "time": "2020-04-05T14:00:00+03:00",
+        "name": "ONLINE Гарри Поттер"
       },
       {
-        "time": "2020-04-09T20:00:00+03:00",
-        "name": "#10",
-        "template": "instagram"
+        "time": "2020-04-05T18:00:00+03:00",
+        "name": "ONLINE Классика №206_1"
+      },
+      {
+        "time": "2020-04-06T19:00:00+03:00",
+        "name": "ONLINE Мультфильмы"
+      },
+      {
+        "time": "2020-04-08T19:00:00+03:00",
+        "name": "ONLINE FUN #43_2"
+      },
+      {
+        "time": "2020-04-09T19:00:00+03:00",
+        "name": "ONLINE 18+"
+      },
+      {
+        "time": "2020-04-10T19:00:00+03:00",
+        "name": "ONLINE Классика №206_2"
+      },
+      {
+        "time": "2020-04-11T14:00:00+03:00",
+        "name": "ONLINE Marvel"
+      },
+      {
+        "time": "2020-04-12T14:00:00+03:00",
+        "name": "ONLINE Назад в детство"
+      },
+      {
+        "time": "2020-04-14T19:00:00+03:00",
+        "name": "ONLINE FUN #44_1"
       }
     ]
   }
