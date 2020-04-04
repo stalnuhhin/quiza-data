@@ -3,6 +3,7 @@
     "org": "Одиночные на quizy.pro",
     "latestCheck": "2020-04-02T13:00:00+03:00",
     "type": "events",
+    "image": "quizypro",
     "duration": 1,
     "registration": true,
     "free": true,
