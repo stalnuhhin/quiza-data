@@ -40,6 +40,7 @@ const app = new Vue({
     },
     data() {
         return {
+            filter: {},
             activeGames: [],
             rsAggr: [],
             rsMain: [],
@@ -107,6 +108,9 @@ const app = new Vue({
                 this.rsAggr.sort((a, b) => a.name - b.name);
                 dates.sort();
                 this.activeGames = {dates, data};
+                this.filter = {
+                    onlyFree: false
+                }
             });
         }
     }

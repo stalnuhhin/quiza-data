@@ -54,11 +54,21 @@
         <!-- GAMES -->
 
         <div class="tab-pane fade show active" id="games" role="tabpanel" aria-labelledby="games-tab">
+            <div class="row mt-3">
+                <div class="col clearfix">
+                    <div class="btn-group-toggle float-right" data-toggle="buttons">
+                        <label class="btn btn-sm btn-primary {{filter.onlyFree ? 'active' : ''}}">
+                            <input type="checkbox" v-model="filter.onlyFree" />
+                            {{filter.onlyFree ? 'Показать все игры' : 'Показать только бесплатные'}}
+                        </label>
+                    </div>
+                </div>
+            </div>
             <div class="container" v-for="(date, i) in activeGames.dates">
                 <div class="row mt-3">
                     <h2>{{moment(date).format('D MMMM (dddd)')}}</h2>
                 </div>
-                <div class="row mt-3" v-for="(g, j) in activeGames.data[date]">
+                <div class="row mt-3" v-for="(g, j) in activeGames.data[date]" v-if="!filter.onlyFree || g.free">
                     <div class="col-2">
                         {{ g.time ? g.time.fromNow() : '' }}
                         <br/>
@@ -256,6 +266,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col">
+                        <h5 class="mt-3"><b>04.04.2020</b></h5>
+                        <p>
+                            Добавлен фильтр для показа только бесплатных игр.
+                        </p>
                         <h5 class="mt-3"><b>03.04.2020</b></h5>
                         <p>
                             За два дня появилось так много квизов, что понадобилось придумать другую структуру данных.
@@ -299,7 +313,7 @@
                                 На этой страничке представлен список интеллектуальных онлайн-игр для удобного их
                                 отслеживания.
                             </p>
-                            <hr class="my-4">
+                            <hr class="my-4" />
                             <p>
                                 Для каждой игры отмечено начало игры, название, стоимость, обязательна ли регистрация и
                                 некоторая информация по игре (кнопка "ИНФО"). Также даны ссылки на то, где начать игру
