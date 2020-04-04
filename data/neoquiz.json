@@ -1,13 +1,14 @@
 [
   {
     "org": "NeoQuiz",
-    "latestCheck": "2020-04-02T13:00:00+03:00",
+    "latestCheck": "2020-04-04T14:00:00+03:00",
     "type": "events",
     "image": "neoquiz.png",
     "duration": 2,
     "registration": true,
     "url": [
       "https://vk.com/neoquiz",
+      "http://neoquiz.ru/",
       "https://quizy.pro/"
     ],
     "games": [

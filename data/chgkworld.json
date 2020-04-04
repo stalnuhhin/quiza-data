@@ -1,8 +1,9 @@
 [
   {
     "org": "CHGK-WORLD",
-    "latestCheck": "2020-04-02T10:00:00+03:00",
+    "latestCheck": "2020-04-04T14:00:00+03:00",
     "type": "events",
+    "image": "chgk.png",
     "registration": true,
     "duration": 2,
     "price": [
