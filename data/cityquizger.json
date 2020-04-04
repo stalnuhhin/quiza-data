@@ -1,7 +1,8 @@
 [
   {
     "org": "City Quiz в Германии",
-    "latestCheck": "2020-04-01T12:00:00+03:00",
+    "name": "City Quiz Online (Германия)",
+    "latestCheck": "2020-04-04T12:00:00+03:00",
     "type": "events",
     "duration": 2,
     "image": "cityquiz.png",
@@ -22,9 +23,16 @@
     "games": [
       {
         "time": "2020-04-01T18:00:00+02:00",
-        "name": "City Quiz Online (Германия)",
+        "name": "City Quiz Online (Германия) #2",
         "url": [
           "https://www.facebook.com/groups/1900106536896781/permalink/2569970699910358"
+        ]
+      },
+      {
+        "time": "2020-04-08T18:00:00+02:00",
+        "name": "City Quiz Online (Германия) #3",
+        "url": [
+          "https://www.facebook.com/events/631673740729348/"
         ]
       }
     ]

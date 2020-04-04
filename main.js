@@ -75,6 +75,7 @@ const app = new Vue({
                     org.games.forEach(game => {
                         game.time = moment(game.time);
                         const tem = game.template ? org.templates[game.template] : {};
+                        game.name = game.name || tem.name || org.name;
                         game.duration = game.duration || tem.duration || org.duration;
                         game.image = game.image || tem.image || org.image;
                         game.org = game.org || tem.org || org.org;

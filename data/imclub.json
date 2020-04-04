@@ -1,13 +1,13 @@
 [
   {
     "org": "IMClub",
-    "latestCheck": "2020-04-01T03:00:00+03:00",
+    "latestCheck": "2020-04-04T12:00:00+03:00",
     "type": "events",
     "image": "imclub.png",
     "duration": 2.5,
     "registration": true,
     "url": [
-      "https://imclub.eu"
+      "https://imclub.eu/divan"
     ],
     "desc": "Игры Таллинского клуба IMClub: есть разные типы игр.",
     "info": [
@@ -17,47 +17,44 @@
     "payment": [
       "Оплата на регистрации. Цена участия - за команду."
     ],
+    "templates": {
+      "pair": {
+        "name": "Сообразим на двоих? - Игра для пар",
+        "price": [
+          "12 EUR/ком"
+        ]
+      },
+      "60sec": {
+        "name": "60 Секунд (Таллин)",
+        "price": [
+          "25 EUR/ком"
+        ]
+      }
+    },
     "games": [
       {
         "time": "2020-03-31T19:00:00+03:00",
-        "name": "Сообразим на двоих? - Игра для пар",
-        "url": [
-          "https://imclub.eu/divan"
-        ],
-        "price": [
-          "12 EUR/ком"
-        ]
+        "template": "pair"
       },
       {
         "time": "2020-04-14T19:00:00+03:00",
-        "name": "Сообразим на двоих? - Игра для пар",
-        "price": [
-          "12 EUR/ком"
-        ]
+        "template": "pair"
       },
       {
         "time": "2020-04-28T19:00:00+03:00",
-        "name": "Сообразим на двоих? - Игра для пар",
-        "price": [
-          "12 EUR/ком"
-        ]
+        "template": "pair"
       },
       {
         "time": "2020-04-07T19:00:00+03:00",
         "name": "60 Секунд (Таллин) Карантинка #2",
-        "price": [
-          "25 EUR/ком"
-        ],
+        "template": "60sec",
         "url": [
           "https://www.facebook.com/events/693024051505655"
         ]
       },
       {
         "time": "2020-04-21T19:00:00+03:00",
-        "name": "60 Секунд (Таллин)",
-        "price": [
-          "25 EUR/ком"
-        ]
+        "template": "60sec"
       }
     ]
   }

@@ -1,11 +1,32 @@
 [
   {
     "org": "Bee Clever",
-    "latestCheck": "2020-04-01T12:00:00+03:00",
+    "latestCheck": "2020-04-04T12:00:00+03:00",
     "type": "events",
+    "registration": true,
     "image": "beeclever.png",
     "url": [
       "https://www.facebook.com/pg/BEEEECLEVER/posts"
+    ],
+    "templates": {
+      "chgk": {
+        "chgk": true,
+        "duration": 2.5
+      }
+    },
+    "games": [
+      {
+        "time": "2020-04-11T15:00:00+03:00",
+        "name": "ЧГК: Весенняя кинолига (Эдуард Голуб)",
+        "template": "chgk",
+        "url": [
+          "https://www.facebook.com/events/601486300436154/"
+        ],
+        "price": [
+          "7.5 USD/ком",
+          "200 UAH/ком"
+        ]
+      }
     ]
   }
 ]
