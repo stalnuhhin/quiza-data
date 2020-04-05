@@ -3,13 +3,20 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
           integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
     <title>Агрегатор интеллектуальных online-игр</title>
     <meta property="og:title" content="Агрегатор интеллектуальных онлайн-игр"/>
     <meta property="og:description" content="Агрегатор интеллектуальных онлайн-игр: все игры в одном месте."/>
-    <meta property="og:image" content="https://stalnuhhin.github.io/quiz/sm.png"/>
-
+    <meta property="og:image" content="https://stalnuhhin.github.io/quiz/preview.png"/>
+    <meta name="keywords"
+          content="онлайн квиз, онлайн квизы, виртуальный квиз, виртуальные квизы, онлайн викторина, онлайн викторины,
+          виртуальный викторина, виртуальные викторины, интеллектуальные игры онлайн, чгк онлайн, онлайн чгк, онлайн,
+          квиз, квизы, викторина, викторины, поломать мозг, поиграть и подумать, разгадывать загадки, угадывать ответы,
+          угадывать кадры из фильмов, угадывать песни, пабквиз онлайн, пабквизы онлайн, агрегатор квизов, агрегатор
+          пабквизов, агрегатор викторин, играть квиз онлайн бесплатно, играть викторину онлайн бесплатно"/>
 </head>
 <body>
 <div id="app" class="container-fluid mb-5">
@@ -58,7 +65,7 @@
                 <div class="col clearfix">
                     <div class="btn-group-toggle float-right" data-toggle="buttons">
                         <label class="btn btn-sm btn-primary {{filter.onlyFree ? 'active' : ''}}">
-                            <input type="checkbox" v-model="filter.onlyFree" />
+                            <input type="checkbox" v-model="filter.onlyFree"/>
                             {{filter.onlyFree ? 'Показать все игры' : 'Показать только бесплатные'}}
                         </label>
                     </div>
@@ -313,7 +320,7 @@
                                 На этой страничке представлен список интеллектуальных онлайн-игр для удобного их
                                 отслеживания.
                             </p>
-                            <hr class="my-4" />
+                            <hr class="my-4"/>
                             <p>
                                 Для каждой игры отмечено начало игры, название, стоимость, обязательна ли регистрация и
                                 некоторая информация по игре (кнопка "ИНФО"). Также даны ссылки на то, где начать игру
