@@ -109,8 +109,10 @@ const app = new Vue({
                             list.sort((a, b) => a.time - b.time);
                         }
                     });
+                    org.games.sort((a, b) => a.time - b.time)
+                    org.latestGameTime = org.games.length > 0 ? org.games[org.games.length - 1].time : moment().add(-1, 'years');
                 });
-                this.rsMain.sort((a, b) => a.latestCheck - b.latestCheck);
+                this.rsMain.sort((a, b) => a.latestGameTime - b.latestGameTime);
                 this.rsExtra.sort((a, b) => a.name - b.name);
                 this.rsAggr.sort((a, b) => a.name - b.name);
                 dates.sort();
