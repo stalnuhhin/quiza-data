@@ -117,7 +117,7 @@ const app = new Vue({
                 dates.sort();
                 this.activeGames = {dates, data};
                 this.filter = {
-                    onlyFree: false
+                    mode: undefined
                 }
             });
         }
