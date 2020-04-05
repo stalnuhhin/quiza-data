@@ -1,0 +1,21 @@
+[
+  {
+    "org": "QuizFun Online",
+    "latestCheck": "2020-04-05T01:00:00+03:00",
+    "type": "events",
+    "registration": true,
+    "duration": 2,
+    "image": "quizfun.png",
+    "url": [
+      "https://vk.com/quizfun_online"
+    ],
+    "games": [
+      {
+        "time": "2020-04-05T18:00:00+03:00",
+        "name": "Первая игра КвизФан ОНЛАЙН",
+        "free": true,
+        "donate": true
+      }
+    ]
+  }
+]

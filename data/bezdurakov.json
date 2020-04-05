@@ -1,7 +1,7 @@
 [
   {
     "org": "Без дураков (Ровшан Аскеров и Борис Левин)",
-    "latestCheck": "2020-04-01T01:00:00+03:00",
+    "latestCheck": "2020-04-05T01:00:00+03:00",
     "type": "events",
     "hasContent": true,
     "image": "bezdurakov.png",
@@ -21,31 +21,56 @@
     "payment": [
       "Можно играть бесплатно без призов, а можно платно (300р в неделю) за призы."
     ],
+    "templates": {
+      "disclosure": {
+        "duration": 10,
+        "name": "Без дураков - разоблачение"
+      },
+      "blitz": {
+        "duration": 8,
+        "name": "Без дураков - блиц"
+      }
+    },
     "games": [
       {
         "time": "2020-03-30T12:00:00+03:00",
-        "duration": 10,
-        "name": "Без дураков - разоблачение"
+        "template": "disclosure"
       },
       {
         "time": "2020-03-31T14:00:00+03:00",
-        "duration": 8,
-        "name": "Без дураков - блиц"
+        "template": "blitz"
       },
       {
         "time": "2020-04-01T12:00:00+03:00",
-        "duration": 10,
-        "name": "Без дураков - разоблачение"
+        "template": "disclosure"
       },
       {
         "time": "2020-04-02T14:00:00+03:00",
-        "duration": 8,
-        "name": "Без дураков - блиц"
+        "template": "blitz"
       },
       {
         "time": "2020-04-03T12:00:00+03:00",
-        "duration": 10,
-        "name": "Без дураков - разоблачение"
+        "template": "disclosure"
+      },
+      {
+        "time": "2020-04-06T12:00:00+03:00",
+        "template": "disclosure"
+      },
+      {
+        "time": "2020-04-07T14:00:00+03:00",
+        "template": "blitz"
+      },
+      {
+        "time": "2020-04-08T12:00:00+03:00",
+        "template": "disclosure"
+      },
+      {
+        "time": "2020-04-09T14:00:00+03:00",
+        "template": "blitz"
+      },
+      {
+        "time": "2020-04-10T12:00:00+03:00",
+        "template": "disclosure"
       }
     ]
   }
