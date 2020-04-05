@@ -1,0 +1,55 @@
+[
+  {
+    "org": "Список онлайн турниров по ЧГК",
+    "latestCheck": "2020-03-05T16:00:00+03:00",
+    "type": ["aggr", "events"],
+    "image": "chgkrating.png",
+    "registration": true,
+    "chgk": true,
+    "duration": 2.5,
+    "url": ["https://rating.chgk.info/tournaments?name=Онлайн%3A+&tournament_type=2"],
+    "games": [
+      {
+        "time": "2020-04-03T21:00:00+03:00",
+        "name": "Не числом, а умением",
+        "url": ["https://rating.chgk.info/tournament/6378"]
+      },
+      {
+        "time": "2020-04-04T13:00:00+03:00",
+        "name": "Не числом, а умением",
+        "url": ["https://rating.chgk.info/tournament/6379"]
+      },
+      {
+        "time": "2020-04-05T13:00:00+03:00",
+        "name": "Большая игра: Пролог №2",
+        "price": ["150 RUB/ком", "2 USD/ком"],
+        "url": ["https://rating.chgk.info/tournament/6389", "https://profi.t.chgk-world.ru", "https://profi.chgk-world.ru/tournaments/9"]
+      },
+      {
+        "time": "2020-04-05T15:00:00+03:00",
+        "name": "Не числом, а умением",
+        "url": ["https://rating.chgk.info/tournament/6369"]
+      },
+      {
+        "time": "2020-04-06T21:00:00+03:00",
+        "name": "Не числом, а умением",
+        "url": ["https://rating.chgk.info/tournament/6381"]
+      },
+      {
+        "time": "2020-04-07T15:00:00+03:00",
+        "name": "Не числом, а умением",
+        "url": ["https://rating.chgk.info/tournament/6382"]
+      },
+      {
+        "time": "2020-04-08T17:00:00+03:00",
+        "name": "Игра Quantum Cloud",
+        "url": ["https://rating.chgk.info/tournament/6390"]
+      },
+      {
+        "time": "2020-04-12T00:00:00+03:00",
+        "name": "Коронавирус 2020. Весна",
+        "url": ["https://rating.chgk.info/tournament/6393"]
+      }
+    ]
+  }
+]

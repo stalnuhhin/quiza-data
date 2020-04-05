@@ -4,7 +4,7 @@ const DATAFILES = [
     "braingazm.json",
     "brainhub.json",
     "bquizonline.json",
-    "chgkstat.json",
+    "chgkrating.json",
     "chgkworld.json",
     "cityquizger.json",
     "collection.json",
@@ -85,6 +85,7 @@ const app = new Vue({
                         game.duration = game.duration || tem.duration || org.duration;
                         game.image = game.image || tem.image || org.image;
                         game.org = game.org || tem.org || org.org;
+                        game.chgk = game.chgk || tem.chgk || org.chgk;
                         game.registration = game.registration || tem.registration || org.registration;
                         game.url = game.url || [];
                         game.url = org.url ? game.url.concat(org.url) : game.url;
