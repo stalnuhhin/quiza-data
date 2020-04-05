@@ -2,24 +2,17 @@
   {
     "org": "Sherlock Quiz",
     "latestCheck": "2020-04-05T09:00:00+03:00",
-    "type": "events",
+    "type": ["events"],
     "registration": true,
     "duration": 2.5,
     "image": "sherlockquiz.png",
-    "price": [
-      "300 RUB/ком"
-    ],
-    "url": [
-      "https://vk.com/club156622966",
-      "http://sherlockquiz.com/ru"
-    ],
+    "price": ["300 RUB/ком"],
+    "url": ["https://vk.com/club156622966", "http://sherlockquiz.com/ru"],
     "games": [
       {
         "time": "2020-04-08T19:00:00+05:00",
         "name": "Бесконтактный Шерлок Квиз #1",
-        "url": [
-          "http://sherlockquiz.com/ru/game/view/2345"
-        ]
+        "url": ["http://sherlockquiz.com/ru/game/view/2345"]
       }
     ]
   }

@@ -4,10 +4,10 @@ const DATAFILES = [
     "braingazm.json",
     "brainhub.json",
     "bquizonline.json",
+    "chgkstat.json",
     "chgkworld.json",
     "cityquizger.json",
-    "collection_aggr.json",
-    "collection_extra.json",
+    "collection.json",
     "derzhi5.json",
     "einsteinparty.json",
     "eureka.json",
@@ -68,15 +68,14 @@ const app = new Vue({
                 const db = r.flat(2);
                 db.forEach(org => {
                     org.latestCheck = org.latestCheck ? moment(org.latestCheck) : undefined;
-                    switch (org.type) {
-                        case 'events':
-                            this.rsMain.push(org);
-                            break;
-                        case 'aggr':
-                            this.rsAggr.push(org);
-                            break;
-                        default:
-                            this.rsExtra.push(org);
+                    if (org.type.includes('events')) {
+                        this.rsMain.push(org);
+                    }
+                    if (org.type.includes('aggr')) {
+                        this.rsAggr.push(org);
+                    }
+                    if (org.type.includes('extra')) {
+                        this.rsExtra.push(org);
                     }
                     org.games = org.games ? org.games : [];
                     org.games.forEach(game => {

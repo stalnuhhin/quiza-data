@@ -2,14 +2,12 @@
   {
     "org": "Держи пять! Самара",
     "latestCheck": "2020-04-04T14:00:00+03:00",
-    "type": "events",
+    "type": ["events"],
     "image": "derzhi5.png",
     "duration": 2,
     "registration": true,
     "free": true,
-    "url": [
-      "http://smr.d5quiz.ru/raspisanie/"
-    ],
+    "url": ["http://smr.d5quiz.ru/raspisanie/"],
     "games": [
       {
         "time": "2020-04-04T18:00:00+04:00",

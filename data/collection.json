@@ -1,54 +1,55 @@
 [
   {
+    "org": "Календарь игр",
+    "latestCheck": "2020-03-01T09:00:00+03:00",
+    "type": ["aggr"],
+    "desc": "Ещё один способ отслеживать игры - через общий календарь, который ведётся создателем FB-группы 'Интеллектуальные игры онлайн'.",
+    "url": ["https://bit.ly/IGOnlineCal"]
+  },
+  {
+    "org": "Find Quiz",
+    "latestCheck": "2020-04-05T09:00:00+03:00",
+    "type": ["aggr"],
+    "desc": "Ещё один агрегатор онлайн игр.",
+    "url": ["https://online.findquiz.ru"]
+  },
+  {
     "org": "Telegram: Своя Игра в Telegram",
-    "type": "extra",
+    "type": ["extra"],
     "hasContent": true,
     "desc": "Бот в в Telegram, который позволяет играть пакеты Своей Игры.",
-    "url": [
-      "https://telegra.ph/FAQ-po-Svoej-Igre-02-06",
-      "https://t.me/ktoto_zanyal_svoyak"
-    ]
+    "url": ["https://telegra.ph/FAQ-po-Svoej-Igre-02-06", "https://t.me/ktoto_zanyal_svoyak"]
   },
   {
     "org": "FB-группа: Спортивное ЧГК",
-    "type": "extra",
+    "type": ["extra"],
     "desc": "FB-группа с информацией по спортивному ЧГК.",
-    "url": [
-      "https://www.facebook.com/groups/chgk.global"
-    ]
+    "url": ["https://www.facebook.com/groups/chgk.global"]
   },
   {
     "org": "FB-группа: Интеллектуальные игры онлайн",
-    "type": "extra",
+    "type": ["extra"],
     "desc": "FB-группа с информацией по любым онлайн играм.",
-    "url": [
-      "https://www.facebook.com/groups/229434871583483"
-    ]
+    "url": ["https://www.facebook.com/groups/229434871583483"]
   },
   {
     "org": "FB-группа: Автоматизация игрового процесса ЧГК и других интеллектуальных игр",
-    "type": "extra",
+    "type": ["extra"],
     "desc": "FB-группа с информацией по некоторым онлайн играм.",
-    "url": [
-      "https://www.facebook.com/groups/428584278064877"
-    ]
+    "url": ["https://www.facebook.com/groups/428584278064877"]
   },
   {
     "org": "YouTube: Своя игра",
-    "type": "extra",
+    "type": ["extra"],
     "hasContent": true,
     "desc": "YouTube-канал с играми 'Своя игра'. Каждую субботу и воскресенье выкладывается по одной игре.",
-    "url": [
-      "https://www.youtube.com/channel/UCvYkzPH2Dj9BJDL05LgBCsw/videos"
-    ]
+    "url": ["https://www.youtube.com/channel/UCvYkzPH2Dj9BJDL05LgBCsw/videos"]
   },
   {
     "org": "YouTube: Время подумать",
-    "type": "extra",
+    "type": ["extra"],
     "hasContent": true,
     "desc": "YouTube-канал с видео-вопросами.",
-    "url": [
-      "https://www.youtube.com/channel/UC8PsskD8G2fAMKoTNmjr3tA/videos"
-    ]
+    "url": ["https://www.youtube.com/channel/UC8PsskD8G2fAMKoTNmjr3tA/videos"]
   }
 ]

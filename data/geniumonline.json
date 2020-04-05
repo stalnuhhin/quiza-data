@@ -2,30 +2,20 @@
   {
     "org": "Genium (Максим Поташев)",
     "latestCheck": "2020-04-01T03:00:00+03:00",
-    "type": "events",
+    "type": ["events"],
     "image": "geniumonline.png",
     "duration": 2,
     "registration": true,
     "free": true,
-    "url": [
-      "http://genium-quiz.com"
-    ],
+    "url": ["http://genium-quiz.com"],
     "desc": "Игры Максима Поташева: есть разные типы игр.",
-    "info": [
-      "Cтрим в Zoom.",
-      "Ответы вбиваются в их личную систему."
-    ],
+    "info": ["Cтрим в Zoom.", "Ответы вбиваются в их личную систему."],
     "games": [
       {
         "time": "2020-04-01T20:30:00+03:00",
         "name": "Genium Challenge Online",
-        "url": [
-          "http://genium-quiz.com/events/challenge-online-1",
-          "https://www.facebook.com/events/591992718074457"
-        ],
-        "payment": [
-          "Пока что бесплатно. Система тестируется."
-        ]
+        "url": ["http://genium-quiz.com/events/challenge-online-1", "https://www.facebook.com/events/591992718074457"],
+        "payment": ["Пока что бесплатно. Система тестируется."]
       }
     ]
   }

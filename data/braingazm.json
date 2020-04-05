@@ -2,21 +2,17 @@
   {
     "org": "Braingazm",
     "latestCheck": "2020-04-04T15:00:00+03:00",
-    "type": "events",
+    "type": ["events"],
     "registration": true,
     "duration": 2,
     "image": "braingazm.png",
-    "url": [
-      "http://braingazm.ru"
-    ],
+    "url": ["http://braingazm.ru"],
     "games": [
       {
         "time": "2020-04-04T16:00:00+03:00",
         "name": "Braingazm Online #1",
         "free": true,
-        "url": [
-          "https://quizy.pro/streams/1555"
-        ]
+        "url": ["https://quizy.pro/streams/1555"]
       }
     ]
   }

@@ -2,16 +2,12 @@
   {
     "org": "Шейкер квиз",
     "latestCheck": "2020-04-04T14:00:00+03:00",
-    "type": "events",
+    "type": ["events"],
     "image": "sheikerquiz.png",
     "duration": 2,
     "registration": true,
-    "price": [
-      "1000 RUB/ком"
-    ],
-    "url": [
-      "https://vk.com/shakerpiter"
-    ],
+    "price": ["1000 RUB/ком"],
+    "url": ["https://vk.com/shakerpiter"],
     "games": [
       {
         "time": "2020-04-03T20:00:00+03:00",

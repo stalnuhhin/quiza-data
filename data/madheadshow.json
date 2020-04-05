@@ -2,19 +2,15 @@
   {
     "org": "Mad Head Show Kyiv",
     "latestCheck": "2020-04-02T01:00:00+03:00",
-    "type": "events",
+    "type": ["events"],
     "image": "madheadshow.png",
     "duration": 2,
     "registration": true,
     "free": true,
-    "url": [
-      "https://www.facebook.com/pg/MadHeadKyiv/posts",
-      "https://t.me/madheadkyiv"
-    ],
+    "url": ["https://www.facebook.com/pg/MadHeadKyiv/posts", "https://t.me/madheadkyiv"],
     "desc": "Mad Head будет интересен людям с разной интеллектуальной подготовкой, так как большинство вопросов берутся логикой, сообразительностью и не редко на помощь приходит чувство юмора.",
     "info": [
-      "Cтрим в quizy.pro, там же вбиваются ответы.",
-      "В стриме показан ведущий, есть комментарии и обратная связь."
+      "Cтрим в quizy.pro, там же вбиваются ответы.", "В стриме показан ведущий, есть комментарии и обратная связь."
     ]
   }
 ]

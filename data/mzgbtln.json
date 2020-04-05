@@ -2,38 +2,26 @@
   {
     "org": "Мозгобойня в Таллине",
     "latestCheck": "2020-04-04T12:00:00+03:00",
-    "type": "events",
+    "type": ["events"],
     "image": "mzgbtln.png",
     "duration": 1.5,
     "registration": true,
-    "url": [
-      "https://www.facebook.com/pg/mzgb.tln/posts"
-    ],
+    "url": ["https://www.facebook.com/pg/mzgb.tln/posts"],
     "desc": "Франшиза 'Мозгобойня' в городе Таллин.",
-    "info": [
-      "Игра проходит в Zoom."
-    ],
+    "info": ["Игра проходит в Zoom."],
     "games": [
       {
         "time": "2020-04-02T19:00:00+03:00",
         "name": "Мозгобойня в Таллине",
         "free": true,
-        "url": [
-          "https://www.facebook.com/mzgb.tln/photos/a.450249325419535/900242207086909"
-        ],
-        "payment": [
-          "Пока что бесплатно. Система тестируется."
-        ]
+        "url": ["https://www.facebook.com/mzgb.tln/photos/a.450249325419535/900242207086909"],
+        "payment": ["Пока что бесплатно. Система тестируется."]
       },
       {
         "time": "2020-04-08T19:00:00+03:00",
         "name": "Мозгобойня в Таллине",
-        "price": [
-          "10 EUR/ком"
-        ],
-        "url": [
-          "https://www.facebook.com/mzgb.tln/photos/a.450249325419535/903163420128121"
-        ]
+        "price": ["10 EUR/ком"],
+        "url": ["https://www.facebook.com/mzgb.tln/photos/a.450249325419535/903163420128121"]
       }
     ]
   }

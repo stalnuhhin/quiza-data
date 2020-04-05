@@ -2,16 +2,12 @@
   {
     "org": "Ё-Квиз",
     "latestCheck": "2020-04-05T01:00:00+03:00",
-    "type": "events",
+    "type": ["events"],
     "registration": true,
     "duration": 2,
-    "price": [
-      "2000 RUB/ком"
-    ],
+    "price": ["2000 RUB/ком"],
     "image": "yokviz.png",
-    "url": [
-      "http://www.yourkviz.ru/#rec152388128"
-    ],
+    "url": ["http://www.yourkviz.ru/#rec152388128"],
     "games": [
       {
         "time": "2020-04-05T18:00:00+03:00",

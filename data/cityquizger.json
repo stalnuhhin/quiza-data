@@ -3,37 +3,25 @@
     "org": "City Quiz в Германии",
     "name": "City Quiz Online (Германия)",
     "latestCheck": "2020-04-04T12:00:00+03:00",
-    "type": "events",
+    "type": ["events"],
     "duration": 2,
     "image": "cityquiz.png",
     "registration": true,
-    "price": [
-      "20 EUR/ком"
-    ],
-    "url": [
-      "https://www.facebook.com/groups/1900106536896781/"
-    ],
+    "price": ["20 EUR/ком"],
+    "url": ["https://www.facebook.com/groups/1900106536896781/"],
     "desc": "Франшиза 'City Quiz' в Германии.",
-    "info": [
-      "Вопросы на YouTube, ответы в Google-форму."
-    ],
-    "payment": [
-      "Оплата на регистрации по реквизитам."
-    ],
+    "info": ["Вопросы на YouTube, ответы в Google-форму."],
+    "payment": ["Оплата на регистрации по реквизитам."],
     "games": [
       {
         "time": "2020-04-01T18:00:00+02:00",
         "name": "City Quiz Online (Германия) #2",
-        "url": [
-          "https://www.facebook.com/groups/1900106536896781/permalink/2569970699910358"
-        ]
+        "url": ["https://www.facebook.com/groups/1900106536896781/permalink/2569970699910358"]
       },
       {
         "time": "2020-04-08T18:00:00+02:00",
         "name": "City Quiz Online (Германия) #3",
-        "url": [
-          "https://www.facebook.com/events/631673740729348/"
-        ]
+        "url": ["https://www.facebook.com/events/631673740729348/"]
       }
     ]
   }

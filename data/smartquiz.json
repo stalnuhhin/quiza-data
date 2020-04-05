@@ -2,7 +2,7 @@
   {
     "org": "Smart-Quiz",
     "latestCheck": "2020-04-04T14:00:00+03:00",
-    "type": "events",
+    "type": ["events"],
     "hasContent": true,
     "image": "smartquiz.png",
     "duration": 2,
@@ -10,24 +10,17 @@
     "free": true,
     "donate": true,
     "url": [
-      "https://www.facebook.com/pg/smart.quiz.zp/posts",
-      "https://smart-quiz.net",
+      "https://www.facebook.com/pg/smart.quiz.zp/posts", "https://smart-quiz.net",
       "https://www.youtube.com/channel/UCoSEssO0pJ0YBi9zHc0cn2w"
     ],
     "desc": "Украинский клуб Smart-Quiz",
-    "info": [
-      "Трансляция на YouTube-канале."
-    ],
-    "payment": [
-      "Игры бесплатные, но клуб будет благодарен за поддержку: Приват24: 5168745603142578."
-    ],
+    "info": ["Трансляция на YouTube-канале."],
+    "payment": ["Игры бесплатные, но клуб будет благодарен за поддержку: Приват24: 5168745603142578."],
     "games": [
       {
         "time": "2020-04-03T19:00:00+03:00",
         "name": "Smart-Quiz",
-        "url": [
-          "https://www.facebook.com/events/3287378217961746"
-        ]
+        "url": ["https://www.facebook.com/events/3287378217961746"]
       }
     ]
   }

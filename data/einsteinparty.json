@@ -2,24 +2,17 @@
   {
     "org": "Эйнштейн Party",
     "latestCheck": "2020-04-04T13:00:00+03:00",
-    "type": "events",
+    "type": ["events"],
     "image": "einsteinparty.png",
     "registration": true,
     "duration": 2,
-    "price": [
-      "500 RUB/ком"
-    ],
-    "url": [
-      "https://www.albertparty.ru/schedule",
-      "https://www.instagram.com/einsteinparty"
-    ],
+    "price": ["500 RUB/ком"],
+    "url": ["https://www.albertparty.ru/schedule", "https://www.instagram.com/einsteinparty"],
     "templates": {
       "instagram": {
         "duration": 1.5,
         "free": true,
-        "info": [
-          "Игры проходят в Instagram сторис."
-        ]
+        "info": ["Игры проходят в Instagram сторис."]
       }
     },
     "games": [

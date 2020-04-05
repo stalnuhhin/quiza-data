@@ -1,30 +1,24 @@
 [
   {
-    "org": "Одиночные на quizy.pro",
+    "org": "Quizy",
     "latestCheck": "2020-04-02T13:00:00+03:00",
-    "type": "events",
+    "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
     "registration": true,
     "free": true,
     "desc": "Платформа для онлайн игр.",
-    "url": [
-      "https://quizy.pro"
-    ],
+    "url": ["https://quizy.pro"],
     "games": [
       {
         "time": "2020-04-02T15:30:00+03:00",
         "name": "Киноугадаечка",
-        "url": [
-          "https://quizy.pro/streams/1512"
-        ]
+        "url": ["https://quizy.pro/streams/1512"]
       },
       {
         "time": "2020-04-04T16:00:00+03:00",
         "name": "POP QUIZ MUSIC",
-        "url": [
-          "https://quizy.pro/streams/1520"
-        ]
+        "url": ["https://quizy.pro/streams/1520"]
       }
     ]
   }

@@ -2,25 +2,18 @@
   {
     "org": "Без дураков (Ровшан Аскеров и Борис Левин)",
     "latestCheck": "2020-04-05T01:00:00+03:00",
-    "type": "events",
+    "type": ["events"],
     "hasContent": true,
     "image": "bezdurakov.png",
     "free": true,
-    "price": [
-      "300 RUB/чел/нед"
-    ],
-    "url": [
-      "https://www.youtube.com/channel/UCuWVIpGmlfE_7qnzOMWosDw/videos",
-      "http://bezdurakovclub.ru/online"
-    ],
+    "price": ["300 RUB/чел/нед"],
+    "url": ["https://www.youtube.com/channel/UCuWVIpGmlfE_7qnzOMWosDw/videos", "http://bezdurakovclub.ru/online"],
     "desc": "Игра Ровшана Аскерова и Бориса Левина. Онлайн вариант предлагается играть в виде туров каждый рабочий день, отвечая на вопросы с подсказками с 12:00 до 22:00 (по чуть-чуть каждые 2 часа).",
     "info": [
       "В течение дня на YouTube выкладываются вопросы. Читайте подробнее в описании к видео.",
       "Ответы вбиваются в их систему. Для участия за призы надо платить."
     ],
-    "payment": [
-      "Можно играть бесплатно без призов, а можно платно (300р в неделю) за призы."
-    ],
+    "payment": ["Можно играть бесплатно без призов, а можно платно (300р в неделю) за призы."],
     "templates": {
       "disclosure": {
         "duration": 10,

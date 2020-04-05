@@ -2,16 +2,12 @@
   {
     "org": "IQ Battle",
     "latestCheck": "2020-04-04T13:00:00+03:00",
-    "type": "events",
+    "type": ["events"],
     "image": "iqbattle.png",
     "duration": 2.5,
     "registration": true,
-    "price": [
-      "500 RUB/ком"
-    ],
-    "url": [
-      "https://iq-battle.ru"
-    ],
+    "price": ["500 RUB/ком"],
+    "url": ["https://iq-battle.ru"],
     "games": [
       {
         "time": "2020-04-05T19:00:00+03:00",

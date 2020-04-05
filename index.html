@@ -155,21 +155,12 @@
                         <table class="table table-hover table-sm">
                             <tbody>
                             <tr class="d-flex" v-for="(m, i) in rsAggr">
-                                <td class="col-2"
-                                    data-toggle="tooltip"
-                                    data-placement="left"
-                                    v-bind:title="'Последняя проверка в ' + m.latestCheck.format('HH:mm (DD.MM)')">
-                                    <small v-bind:class="'text-' + (moment().diff(m.latestCheck, 'days') > 3 ? 'danger' : 'muted')">
-                                        {{m.latestCheck.fromNow()}}
-                                    </small>
-                                </td>
-                                <td class="col-10">
+                                <td class="col">
                                     <span data-toggle="tooltip"
                                           data-placement="bottom"
                                           v-bind:title="m.desc">
                                         {{m.org}}
                                     </span>
-                                    <br/>
                                     <span v-for="(u, i) in m.url">
                                         <a v-bind:href="u" target="_blank" class="badge alert-primary mr-1">
                                             cсылка{{i+1}}

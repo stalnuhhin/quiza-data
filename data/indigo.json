@@ -2,70 +2,51 @@
   {
     "org": "Лига Индиго",
     "latestCheck": "2020-04-05T09:00:00+03:00",
-    "type": "events",
+    "type": ["events"],
     "image": "indigo.png",
     "duration": 2,
     "registration": true,
-    "url": [
-      "https://vk.com/li_online_li",
-      "http://ligaindigo.ru/rating-online"
-    ],
+    "url": ["https://vk.com/li_online_li", "http://ligaindigo.ru/rating-online"],
     "games": [
       {
         "time": "2020-04-01T19:00:00+03:00",
         "name": "Киномузыка",
-        "price": [
-          "500 RUB/ком"
-        ]
+        "price": ["500 RUB/ком"]
       },
       {
         "time": "2020-04-03T14:00:00+03:00",
         "name": "Сольная игра",
-        "price": [
-          "200 RUB/ком"
-        ]
+        "price": ["200 RUB/ком"]
       },
       {
         "time": "2020-04-03T19:00:00+03:00",
         "name": "Сольная игра (повтор от 14:00)",
-        "price": [
-          "200 RUB/ком"
-        ]
+        "price": ["200 RUB/ком"]
       },
       {
         "time": "2020-04-04T19:00:00+03:00",
         "name": "Классическая Игра",
-        "price": [
-          "500 RUB/ком"
-        ]
+        "price": ["500 RUB/ком"]
       },
       {
         "time": "2020-04-05T15:00:00+03:00",
         "name": "Киномузыка (повтор от 01.04)",
-        "price": [
-          "500 RUB/ком"
-        ]
+        "price": ["500 RUB/ком"]
       },
       {
         "time": "2020-04-08T14:00:00+03:00",
         "name": "90-е и 00-е",
-        "price": [
-          "200 RUB/ком"
-        ]
+        "price": ["200 RUB/ком"]
       },
       {
         "time": "2020-04-08T19:00:00+03:00",
         "name": "90-е и 00-е (повтор от 14:00)",
-        "price": [
-          "200 RUB/ком"
-        ]
+        "price": ["200 RUB/ком"]
       },
       {
         "time": "2020-04-11T19:00:00+03:00",
         "name": "Классическая игра",
-        "price": [
-          "500 RUB/ком"
-        ]
+        "price": ["500 RUB/ком"]
       }
     ]
   }

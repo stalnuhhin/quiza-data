@@ -2,99 +2,69 @@
   {
     "org": "Мозгомания",
     "latestCheck": "2020-04-04T14:00:00+03:00",
-    "type": "events",
+    "type": ["events"],
     "image": "mozgomania.png",
     "duration": 2,
     "registration": true,
-    "price": [
-      "100 RUB/чел"
-    ],
-    "url": [
-      "https://mozgomania.ru/",
-      "https://www.facebook.com/pg/mozgomania.ru/posts",
-      "https://quizy.pro/"
-    ],
+    "price": ["100 RUB/чел"],
+    "url": ["https://mozgomania.ru/", "https://www.facebook.com/pg/mozgomania.ru/posts", "https://quizy.pro/"],
     "games": [
       {
         "time": "2020-04-02T12:00:00+03:00",
         "name": "Ламповая лига #3 (повтор)",
-        "url": [
-          "https://quizy.pro/streams/1466"
-        ]
+        "url": ["https://quizy.pro/streams/1466"]
       },
       {
         "time": "2020-04-02T15:00:00+03:00",
         "name": "Ламповая лига #3 (повтор)",
-        "url": [
-          "https://quizy.pro/streams/1467"
-        ]
+        "url": ["https://quizy.pro/streams/1467"]
       },
       {
         "time": "2020-04-02T16:00:00+03:00",
         "duration": 1,
         "name": "Школьники, студенты и молодежные организации",
-        "url": [
-          "https://quizy.pro/streams/1306"
-        ]
+        "url": ["https://quizy.pro/streams/1306"]
       },
       {
         "time": "2020-04-02T18:00:00+03:00",
         "name": "Ламповая лига #3 (повтор)",
-        "url": [
-          "https://quizy.pro/streams/1468"
-        ]
+        "url": ["https://quizy.pro/streams/1468"]
       },
       {
         "time": "2020-04-02T21:00:00+03:00",
         "name": "Игромания #2 (премьера)",
-        "url": [
-          "https://quizy.pro/streams/1443"
-        ]
+        "url": ["https://quizy.pro/streams/1443"]
       },
       {
         "time": "2020-04-03T12:00:00+03:00",
         "name": "Игромания #2 (повтор)",
-        "url": [
-          "https://quizy.pro/streams/1445"
-        ]
+        "url": ["https://quizy.pro/streams/1445"]
       },
       {
         "time": "2020-04-03T15:00:00+03:00",
         "name": "Игромания #2 (повтор)",
-        "url": [
-          "https://quizy.pro/streams/1446"
-        ]
+        "url": ["https://quizy.pro/streams/1446"]
       },
       {
         "time": "2020-04-03T18:00:00+03:00",
         "name": "Игромания #2 (повтор)",
-        "url": [
-          "https://quizy.pro/streams/1447"
-        ]
+        "url": ["https://quizy.pro/streams/1447"]
       },
       {
         "time": "2020-04-04T15:00:00+03:00",
         "name": "Экспертная лига #2 (повтор)",
-        "url": [
-          "https://quizy.pro/streams/1590"
-        ]
+        "url": ["https://quizy.pro/streams/1590"]
       },
       {
         "time": "2020-04-04T18:00:00+03:00",
         "name": "Экспертная лига #2 (повтор)",
-        "url": [
-          "https://quizy.pro/streams/1591"
-        ]
+        "url": ["https://quizy.pro/streams/1591"]
       },
       {
         "time": "2020-04-04T21:00:00+03:00",
         "name": "Футбомания. Премьера",
-        "price": [
-          "200 RUB/чел"
-        ],
-        "url": [
-          "https://quizy.pro/streams/1616"
-        ]
+        "price": ["200 RUB/чел"],
+        "url": ["https://quizy.pro/streams/1616"]
       }
     ]
   }
