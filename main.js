@@ -9,6 +9,7 @@ const DATAFILES = [
     "collection.json",
     "derzhi5.json",
     "einsteinparty.json",
+    "einsteinpartybel.json",
     "eureka.json",
     "geniumonline.json",
     "imclub.json",

@@ -1,0 +1,25 @@
+[
+  {
+    "org": "Эйнштейн Party (Беларусь)",
+    "latestCheck": "2020-04-06T12:00:00+03:00",
+    "type": ["events"],
+    "image": "einsteinparty.png",
+    "registration": true,
+    "duration": 2.5,
+    "price": ["10 BYN/ком"],
+    "url": ["https://vk.com/einstein_glb"],
+    "games": [
+      {
+        "time": "2020-03-29T18:00:00+03:00",
+        "name": "Бесплатная ONLINE #1",
+        "price": null,
+        "free": true
+      },
+      {
+        "time": "2020-04-12T18:00:00+03:00",
+        "name": "Онлайн игра",
+        "url": ["https://vk.com/einstein_glb?w=wall-182062294_4566"]
+      }
+    ]
+  }
+]
