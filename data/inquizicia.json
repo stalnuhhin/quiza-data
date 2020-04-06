@@ -6,13 +6,19 @@
     "image": "inquizicia.png",
     "duration": 2,
     "registration": true,
-    "free": true,
+    "price": ["500 RUB/ком"],
     "url": ["https://vk.com/quiztag"],
     "games": [
       {
         "time": "2020-04-02T19:00:00+03:00",
         "name": "ИнQUIZиция",
+        "free": true,
         "url": ["https://quizy.pro/streams/1475"]
+      },
+      {
+        "time": "2020-04-07T19:00:00+03:00",
+        "name": "ИнQUIZиция",
+        "url": ["https://quizy.pro/streams/1666"]
       }
     ]
   }

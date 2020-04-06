@@ -1,7 +1,7 @@
 [
   {
     "org": "СибКвиз",
-    "latestCheck": "2020-04-04T14:00:00+03:00",
+    "latestCheck": "2020-04-06T10:00:00+03:00",
     "type": ["events"],
     "image": "sibkviz.png",
     "duration": 2,
@@ -18,6 +18,16 @@
         "time": "2020-04-05T21:00:00+07:00",
         "name": "СИБКВИЗ ONLINE #2",
         "url": ["https://quizy.pro/streams/1619", "https://vk.com/sibquiz?w=wall-139403768_8262"]
+      },
+      {
+        "time": "2020-04-07T12:00:00+03:00",
+        "name": "СИБКВИЗ ONLINE #1 (повтор)",
+        "url": ["https://quizy.pro/streams/1743"]
+      },
+      {
+        "time": "2020-04-07T21:00:00+07:00",
+        "name": "СИБКВИЗ ONLINE Гарри Поттер",
+        "url": ["https://quizy.pro/streams/1739", "https://vk.com/sibquiz?w=wall-139403768_8307"]
       }
     ]
   }

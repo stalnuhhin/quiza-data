@@ -7,6 +7,12 @@
     "duration": 2,
     "registration": true,
     "free": true,
-    "url": ["https://kleveria.ru"]
+    "url": ["https://kleveria.ru"],
+    "games": [
+      {
+        "time": "2020-04-07T19:30:00+03:00",
+        "name": "Клеверия"
+      }
+    ]
   }
 ]
