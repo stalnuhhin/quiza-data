@@ -19,6 +19,13 @@
         "template": "chgk",
         "url": ["https://www.facebook.com/events/601486300436154/"],
         "price": ["7.5 USD/ком", "200 UAH/ком"]
+      },
+      {
+        "time": "2020-04-12T20:00:00+03:00",
+        "name": "ЧГК: Город грехов - 2020: Пир во время чумы (Эдуард Голуб)",
+        "template": "chgk",
+        "url": ["https://www.facebook.com/events/507501263274298/"],
+        "price": ["10 USD/ком", "300 UAH/ком"]
       }
     ]
   }
