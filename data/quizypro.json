@@ -20,6 +20,30 @@
         "name": "Киноугадаечка 2",
         "price": ["300 RUB/ком"],
         "url": ["https://quizy.pro/streams/1689"]
+      },
+      {
+        "time": "2020-04-06T19:00:00+03:00",
+        "name": "Мозголомка - обо всем на свете",
+        "price": ["100 RUB/ком"],
+        "url": ["https://quizy.pro/streams/1570"]
+      },
+      {
+        "time": "2020-04-06T19:00:00+03:00",
+        "name": "ТаБуретКа Online #3",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/1694"]
+      },
+      {
+        "time": "2020-04-07T15:00:00+03:00",
+        "name": "KGCLub (42) #1",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/1720"]
+      },
+      {
+        "time": "2020-04-07T19:00:00+03:00",
+        "name": "Битва умов - Домашняя Битва №1",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/1768"]
       }
     ]
   }
