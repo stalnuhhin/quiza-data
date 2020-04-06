@@ -13,6 +13,7 @@ const DATAFILES = [
     "geniumonline.json",
     "imclub.json",
     "indigo.json",
+    "intellcasinosanfra.json",
     "inquizicia.json",
     "iqbattle.json",
     "iqbattleswe.json",
