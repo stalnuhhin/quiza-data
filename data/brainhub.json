@@ -1,35 +1,53 @@
 [
   {
     "org": "BrainHub",
-    "latestCheck": "2020-04-06T08:00:00+03:00",
+    "latestCheck": "2020-04-06T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
     "registration": true,
     "chgk": true,
-    "free": true,
-    "donate": true,
     "url": ["https://www.facebook.com/BrainHubKiev", "www.twitch.tv/brainhubua"],
     "games": [
       {
         "time": "2020-04-02T19:30:00+03:00",
         "name": "ЧГК: Кино ЧГК. Online",
+        "free": true,
+        "donate": true,
         "url": ["https://www.facebook.com/events/3264348610242473/"]
       },
       {
         "time": "2020-04-03T16:00:00+03:00",
         "name": "ЧГК: Кино ЧГК. Online",
+        "free": true,
+        "donate": true,
         "url": ["https://www.facebook.com/events/3264348610242473/"]
       },
       {
         "time": "2020-04-03T20:00:00+03:00",
         "name": "ЧГК: Синхрон-lite (XXXIII) - Март. Online",
+        "free": true,
+        "donate": true,
         "url": ["https://www.facebook.com/events/218886776013959/"]
       },
       {
         "time": "2020-04-05T16:30:00+03:00",
         "name": "ЧГК: Синхрон-lite (XXXIII) - Март. Online",
+        "free": true,
+        "donate": true,
         "url": ["https://www.facebook.com/events/218886776013959/"]
+      },
+      {
+        "time": "2020-04-06T20:00:00+03:00",
+        "name": "ЧГК: Лига Старта - Март (Выпуск XIII). Online",
+        "price": ["50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/676036456497052/"]
+      },
+      {
+        "time": "2020-04-07T16:30:00+03:00",
+        "name": "ЧГК: Лига Старта - Март (Выпуск XIII). Online",
+        "price": ["50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/676036456497052/"]
       }
     ]
   }
