@@ -26,13 +26,12 @@
 <body>
 <div id="app" class="container-fluid mb-5" v-cloak>
 
-    <div class="row">
+    <div class="row pt-2">
         <div class="col">
+            <img src="title.png" />
             <small class="text-muted float-right">
                 <b>Все времена на сайте учитывают ваш часовой пояс.</b>
-            </small>
-            <br/>
-            <small class="text-muted float-right">
+                <br/>
                 Сейчас: {{ moment().locale("ru").format("HH:mm, DD.MM.YYYY (dddd)") }}
             </small>
         </div>
