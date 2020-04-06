@@ -113,13 +113,26 @@ const app = new Vue({
                     org.games.sort((a, b) => a.time - b.time)
                     org.latestGameTime = org.games.length > 0 ? org.games[org.games.length - 1].time : moment().add(-1, 'years');
                 });
-                this.rsMain.sort((a, b) => a.latestGameTime - b.latestGameTime);
-                this.rsExtra.sort((a, b) => a.name - b.name);
-                this.rsAggr.sort((a, b) => a.name - b.name);
+                const compareFn = (a, b) => a.org.localeCompare(b.org);
+                this.rsMain.sort(compareFn);
+                this.rsExtra.sort(compareFn);
+                this.rsAggr.sort(compareFn);
                 dates.sort();
                 this.activeGames = {dates, data};
                 this.filter = {
                     mode: undefined
+                }
+            });
+        },
+        sort: function (type) {
+            this.rsMain.sort((a, b) => {
+                switch (type) {
+                    case 'game':
+                        return a.latestGameTime - b.latestGameTime;
+                    case 'check':
+                        return a.latestCheck - b.latestCheck;
+                    case 'name':
+                        return a.org.localeCompare(b.org);
                 }
             });
         }

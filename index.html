@@ -66,24 +66,26 @@
         <!-- GAMES -->
 
         <div class="tab-pane fade show active" id="games" role="tabpanel" aria-labelledby="games-tab">
-            <div class="row mt-3">
-                <div class="col clearfix">
-                    <div class="btn-group float-right" role="group" aria-label="Basic example">
-                        <button type="button" class="btn btn-sm"
-                                v-bind:class="[!filter.mode ? 'btn-success' : 'btn-secondary']"
-                                v-on:click="filter.mode = undefined">
-                            Все
-                        </button>
-                        <button type="button" class="btn btn-sm"
-                                v-bind:class="[filter.mode === 'free' ? 'btn-success' : 'btn-secondary']"
-                                v-on:click="filter.mode = 'free'">
-                            Бесплатные
-                        </button>
-                        <button type="button" class="btn btn-sm"
-                                v-bind:class="[filter.mode === 'chgk' ? 'btn-success' : 'btn-secondary']"
-                                v-on:click="filter.mode = 'chgk'">
-                            ЧГК
-                        </button>
+            <div class="container">
+                <div class="row mt-3">
+                    <div class="col clearfix">
+                        <div class="btn-group float-right" role="group" aria-label="Basic example">
+                            <button type="button" class="btn btn-sm"
+                                    v-bind:class="[!filter.mode ? 'btn-success' : 'btn-secondary']"
+                                    v-on:click="filter.mode = undefined">
+                                Все
+                            </button>
+                            <button type="button" class="btn btn-sm"
+                                    v-bind:class="[filter.mode === 'free' ? 'btn-success' : 'btn-secondary']"
+                                    v-on:click="filter.mode = 'free'">
+                                Бесплатные
+                            </button>
+                            <button type="button" class="btn btn-sm"
+                                    v-bind:class="[filter.mode === 'chgk' ? 'btn-success' : 'btn-secondary']"
+                                    v-on:click="filter.mode = 'chgk'">
+                                ЧГК
+                            </button>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -168,7 +170,9 @@
         <div class="tab-pane fade" id="resou" role="tabpanel" aria-labelledby="resou-tab">
             <div class="container">
                 <div class="row mt-3">
-                    <h2>Агрегаторы</h2>
+                    <div class="col">
+                        <h2>Агрегаторы</h2>
+                    </div>
                 </div>
                 <div class="row">
                     <div class="col">
@@ -199,24 +203,26 @@
                     </div>
                 </div>
                 <div class="row mt-3">
-                    <h2>Франшизы</h2>
+                    <div class="col-7">
+                        <h2>Франшизы</h2>
+                    </div>
+
+                    <div class="col-5">
+                        <div class="float-right">
+                            <small>Сортировка:</small>
+                            <span type="button" class="badge badge-secondary" v-on:click="sort('name')">А-Я</span>
+                            <span type="button" class="badge badge-secondary" v-on:click="sort('game')">Игра</span>
+                            <span type="button" class="badge badge-secondary" v-on:click="sort('check')">Проверка</span>
+                        </div>
+                    </div>
                 </div>
                 <div class="row">
                     <div class="col">
                         <table class="table table-hover table-sm">
-                            <thead>
-                            <tr class="d-flex">
-                                <th class="col-2" scope="col">Известно до</th>
-                                <th class="col-8" scope="col">Данные</th>
-                                <th class="col-2" scope="col">Лого</th>
-                            </tr>
-                            </thead>
                             <tbody>
                             <tr class="d-flex" v-for="(m, i) in rsMain">
                                 <td class="col-2">
-                                    <small v-bind:class="'text-' + (moment().diff(m.latestGameTime, 'days') > 1 ? 'danger' : 'muted')">
-                                        {{m.latestGameTime ? m.latestGameTime.fromNow() : '-'}}
-                                    </small>
+                                    <img v-if="m.image" v-bind:src="'data/images/' + m.image"/>
                                 </td>
                                 <td class="col-8">
                                     <span data-toggle="tooltip"
@@ -241,7 +247,9 @@
                                     </small>
                                 </td>
                                 <td class="col-2">
-                                    <img v-if="m.image" v-bind:src="'data/images/' + m.image"/>
+                                    <small v-bind:class="'text-' + (moment().diff(m.latestGameTime, 'days') > 1 ? 'danger' : 'muted')">
+                                        {{m.latestGameTime ? m.latestGameTime.fromNow() : '-'}}
+                                    </small>
                                 </td>
                             </tr>
                             </tbody>
@@ -249,7 +257,9 @@
                     </div>
                 </div>
                 <div class="row mt-3">
-                    <h2>Дополнительные</h2>
+                    <div class="col">
+                        <h2>Дополнительные</h2>
+                    </div>
                 </div>
                 <div class="row">
                     <div class="col">
