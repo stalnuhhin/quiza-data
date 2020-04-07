@@ -1,0 +1,18 @@
+[
+  {
+    "org": "Quantum",
+    "latestCheck": "2020-04-07T12:00:00+03:00",
+    "type": ["events", "aggr"],
+    "image": "quantum.png",
+    "url": ["https://qgame.online/tournaments"],
+    "games": [
+      {
+        "time": "2020-04-08T20:00:00+06:00",
+        "name": "Quantum Cloud #1 ОНЛАЙН",
+        "chgk": true,
+        "free": true,
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/231963074663996", "https://qgame.online/tournaments/1"]
+      }
+    ]
+  }
+]

@@ -29,6 +29,7 @@ const DATAFILES = [
     "mzgbtln.json",
     "neoquiz.json",
     "pubquiz.json",
+    "quantum.json",
     "quizfun.json",
     "quizypro.json",
     "sahar.json",
