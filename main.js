@@ -38,6 +38,7 @@ const DATAFILES = [
     "smartquiz.json",
     "squiz.json",
     "umkaonline.json",
+    "urok.json",
     "wowquiz.json",
     "yokviz.json",
     "zbyshekkviz.json"
