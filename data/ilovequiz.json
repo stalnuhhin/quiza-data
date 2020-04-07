@@ -1,0 +1,29 @@
+[
+  {
+    "org": "I Love Quiz",
+    "latestCheck": "2020-04-08T12:00:00+03:00",
+    "type": ["events"],
+    "registration": true,
+    "free": true,
+    "duration": 2,
+    "image": "ilovequiz.png",
+    "url": ["https://ilovequiz.ru", "https://www.facebook.com/ilovequiz"],
+    "games": [
+      {
+        "time": "2020-04-09T20:00:00+03:00",
+        "name": "Путешествия (день 1)",
+        "url": ["https://old.ilovequiz.ru/game/86"]
+      },
+      {
+        "time": "2020-04-10T20:00:00+03:00",
+        "name": "Алкоголь (повтор)",
+        "url": ["https://old.ilovequiz.ru/game/88"]
+      },
+      {
+        "time": "2020-04-11T17:00:00+03:00",
+        "name": "Путешествия (день 2)",
+        "url": ["https://old.ilovequiz.ru/game/87"]
+      }
+    ]
+  }
+]
