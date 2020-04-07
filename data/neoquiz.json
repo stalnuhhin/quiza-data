@@ -1,7 +1,7 @@
 [
   {
     "org": "NeoQuiz",
-    "latestCheck": "2020-04-06T12:00:00+03:00",
+    "latestCheck": "2020-04-07T12:00:00+03:00",
     "type": ["events"],
     "image": "neoquiz.png",
     "duration": 2,
@@ -19,6 +19,12 @@
         "name": "NeoQuiz #1 (повтор от 03.04)",
         "price": ["300 RUB/ком"],
         "url": ["https://quizy.pro/streams/1599"]
+      },
+      {
+        "time": "2020-04-07T18:00:00+03:00",
+        "name": "NeoQuiz #2 Кино",
+        "price": ["149 RUB/ком"],
+        "url": ["https://quizy.pro/streams/1775"]
       }
     ]
   }

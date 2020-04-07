@@ -6,7 +6,7 @@
     "registration": true,
     "duration": 2,
     "image": "braingazm.png",
-    "url": ["http://braingazm.ru"],
+    "url": ["http://braingazm.ru", "https://vk.com/braingazm_ru"],
     "games": [
       {
         "time": "2020-04-04T16:00:00+03:00",
