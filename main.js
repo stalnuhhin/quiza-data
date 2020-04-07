@@ -15,6 +15,7 @@ const DATAFILES = [
     "geniumonline.json",
     "imclub.json",
     "indigo.json",
+    "indigosolo.json",
     "intellcasinosanfra.json",
     "inquizicia.json",
     "iqbattle.json",
@@ -39,6 +40,7 @@ const DATAFILES = [
     "squiz.json",
     "umkaonline.json",
     "urok.json",
+    "vertigo.json",
     "wowquiz.json",
     "yokviz.json",
     "zbyshekkviz.json"

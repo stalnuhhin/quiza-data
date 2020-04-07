@@ -1,0 +1,19 @@
+[
+  {
+    "org": "ВертиGO",
+    "latestCheck": "2020-04-07T12:00:00+03:00",
+    "type": ["events"],
+    "image": "vertigo.png",
+    "duration": 1.5,
+    "price": ["300 RUB/ком"],
+    "registration": true,
+    "url": ["https://vk.com/vertigoquiz"],
+    "games": [
+      {
+        "time": "2020-04-09T19:00:00+03:00",
+        "name": "ВертиGO-online. Игра № 1",
+        "url": ["https://quizy.pro/streams/1687"]
+      }
+    ]
+  }
+]

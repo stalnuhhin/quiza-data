@@ -56,6 +56,18 @@
         "name": "Спортквиз by Jackobsher №1 (повтор)",
         "price": ["150 RUB/ком"],
         "url": ["https://quizy.pro/streams/1740"]
+      },
+      {
+        "time": "2020-04-08T15:00:00+03:00",
+        "name": "Quiz-club ON-LINE №1",
+        "price": ["299 RUB/ком"],
+        "url": ["https://quizy.pro/streams/1774"]
+      },
+      {
+        "time": "2020-04-08T19:00:00+04:00",
+        "name": "Брейнфест ДОМА",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/1750"]
       }
     ]
   }
