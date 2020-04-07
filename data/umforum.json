@@ -1,0 +1,22 @@
+[
+  {
+    "org": "UmForum",
+    "latestCheck": "2020-04-08T12:00:00+03:00",
+    "type": ["events"],
+    "registration": true,
+    "duration": 2.5,
+    "price": ["300 RUB/чел"],
+    "image": "umforum.png",
+    "url": ["https://vk.com/umforum", "https://vk.com/club193580211", "https://vk.com/umforum_vrn"],
+    "games": [
+      {
+        "time": "2020-04-09T19:00:00+03:00",
+        "name": "Вторая Online игра",
+        "price": [],
+        "free": true,
+        "donate": true,
+        "url": ["https://vk.com/umforum_vrn?w=wall-188151202_264"]
+      }
+    ]
+  }
+]
