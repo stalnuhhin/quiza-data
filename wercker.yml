@@ -3,6 +3,12 @@
 # Steps: https://devcenter.wercker.com/development/steps/
 
 box: node
+build:
+  steps:
+    - script:
+        name: echo information
+        code: |
+          echo "nothing to build"
 deploy:
   steps:
   - add-to-known_hosts:
