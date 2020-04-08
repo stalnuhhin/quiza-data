@@ -26,7 +26,7 @@ const DATAFILES = [
     "klub60sec.json",
     "klubonlinevoprosov.json",
     "kvizpliz.json",
-    "madheadshow.json",
+    "madheadshow.json?1",
     "mozgomania.json",
     "mzgbtln.json",
     "neoquiz.json",
