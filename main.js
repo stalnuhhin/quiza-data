@@ -72,7 +72,7 @@ const app = new Vue({
             const data = {};
 
             const promises = DATAFILES.map(file =>
-                fetch("data/" + file + "?" + new Date().getTime())
+                fetch("data/" + file) // + "?" + new Date().getTime())
                     .then(r => r.json()));
             Promise.all(promises).then(r => {
                 const db = r.flat(2);
