@@ -33,7 +33,7 @@ const DATAFILES = [
     "pubquiz.json",
     "quantum.json",
     "quizfun.json",
-    "quizypro.json?1",
+    "quizypro.json?2",
     "sahar.json",
     "sheikerquiz.json",
     "sherlockquiz.json",
