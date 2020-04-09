@@ -14,6 +14,7 @@ const DATAFILES = [
     "eureka.json",
     "footballsi.json",
     "geniumonline.json",
+    "headtrick.json",
     "ilovequiz.json",
     "imclub.json",
     "indigo.json",

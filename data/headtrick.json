@@ -1,0 +1,19 @@
+[
+  {
+    "org": "Head Trick Quiz",
+    "latestCheck": "2020-04-09T12:00:00+03:00",
+    "type": ["events"],
+    "registration": true,
+    "free": true,
+    "duration": 2,
+    "image": "headtrick.png",
+    "url": ["https://www.facebook.com/football.quiz.tashkent/"],
+    "games": [
+      {
+        "time": "2020-04-09T21:00:00+05:00",
+        "name": "Online игра #2",
+        "url": ["https://www.facebook.com/football.quiz.tashkent/photos/a.202711113828491/690428188390112/?type=3&theater"]
+      }
+    ]
+  }
+]
