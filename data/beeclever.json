@@ -1,7 +1,7 @@
 [
   {
     "org": "Bee Clever",
-    "latestCheck": "2020-04-06T12:00:00+03:00",
+    "latestCheck": "2020-04-10T12:00:00+03:00",
     "type": ["events"],
     "registration": true,
     "image": "beeclever.png",
@@ -26,6 +26,13 @@
         "template": "chgk",
         "url": ["https://www.facebook.com/events/507501263274298/"],
         "price": ["10 USD/ком", "300 UAH/ком"]
+      },
+      {
+        "time": "2020-04-15T19:00:00+03:00",
+        "name": "Своя игра: Quarantine Cup - 2",
+        "duration": 3,
+        "url": ["https://www.facebook.com/events/2672423882884487"],
+        "price": ["150 UAH/чел"]
       }
     ]
   }

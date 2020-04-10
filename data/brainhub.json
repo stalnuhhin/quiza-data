@@ -1,7 +1,7 @@
 [
   {
     "org": "BrainHub",
-    "latestCheck": "2020-04-06T12:00:00+03:00",
+    "latestCheck": "2020-04-10T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -59,6 +59,12 @@
         "name": "Киноквиз. Online",
         "free": true,
         "donate": true,
+        "url": ["https://www.facebook.com/events/267070677792464/"]
+      },
+      {
+        "time": "2020-04-13T20:00:00+03:00",
+        "name": "Online «Что? Где? Когда?» - Карантин-лига. Этап 1",
+        "price": ["300 UAH/ком"],
         "url": ["https://www.facebook.com/events/267070677792464/"]
       }
     ]

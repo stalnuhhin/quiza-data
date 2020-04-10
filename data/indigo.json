@@ -1,10 +1,10 @@
 [
   {
     "org": "Лига Индиго",
-    "latestCheck": "2020-04-05T09:00:00+03:00",
+    "latestCheck": "2020-04-10T12:00:00+03:00",
     "type": ["events"],
     "image": "indigo.png",
-    "duration": 2,
+    "duration": 1,
     "registration": true,
     "url": ["https://vk.com/li_online_li", "http://ligaindigo.ru/rating-online"],
     "games": [
@@ -36,6 +36,16 @@
       {
         "time": "2020-04-11T19:00:00+03:00",
         "name": "Классическая игра",
+        "price": ["500 RUB/ком"]
+      },
+      {
+        "time": "2020-04-15T14:00:00+03:00",
+        "name": "Киномузыка",
+        "price": ["500 RUB/ком"]
+      },
+      {
+        "time": "2020-04-15T19:00:00+03:00",
+        "name": "Киномузыка (повтор)",
         "price": ["500 RUB/ком"]
       }
     ]
