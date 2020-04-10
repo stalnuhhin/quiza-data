@@ -1,0 +1,24 @@
+[
+  {
+    "org": "BRAINDO",
+    "latestCheck": "2020-04-10T12:00:00+03:00",
+    "type": ["events"],
+    "registration": true,
+    "duration": 2,
+    "price": ["2400 RUB/ком"],
+    "image": "braindo.png",
+    "url": ["https://www.facebook.com/Braindoclub"],
+    "games": [
+      {
+        "time": "2020-04-11T18:00:00+10:00",
+        "name": "Кубок Бродского",
+        "url": ["https://quizy.pro/streams/1798"]
+      },
+      {
+        "time": "2020-04-12T18:00:00+10:00",
+        "name": "Кубок Бродского (повтор)",
+        "url": ["https://quizy.pro/streams/1799"]
+      }
+    ]
+  }
+]

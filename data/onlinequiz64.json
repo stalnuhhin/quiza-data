@@ -1,0 +1,24 @@
+[
+  {
+    "org": "Online Quiz 64",
+    "latestCheck": "2020-04-10T12:00:00+03:00",
+    "type": ["events"],
+    "registration": true,
+    "duration": 2,
+    "price": ["150 RUB/ком"],
+    "image": "onlinequiz64.png",
+    "url": ["https://vk.com/onlinequiz64"],
+    "games": [
+      {
+        "time": "2020-04-10T19:00:00+03:00",
+        "name": "География #1",
+        "url": ["https://quizy.pro/streams/1798"]
+      },
+      {
+        "time": "2020-04-11T15:00:00+03:00",
+        "name": "География #1 (повтор)",
+        "url": ["https://quizy.pro/streams/1799"]
+      }
+    ]
+  }
+]
