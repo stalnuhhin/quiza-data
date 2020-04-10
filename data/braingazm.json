@@ -1,7 +1,7 @@
 [
   {
     "org": "Braingazm",
-    "latestCheck": "2020-04-06T12:00:00+03:00",
+    "latestCheck": "2020-04-10T12:00:00+03:00",
     "type": ["events"],
     "registration": true,
     "duration": 2,
@@ -10,9 +10,14 @@
     "games": [
       {
         "time": "2020-04-04T16:00:00+03:00",
-        "name": "Braingazm Online #1",
+        "name": "Braingazm Online",
         "free": true,
         "url": ["https://quizy.pro/streams/1555"]
+      },
+      {
+        "time": "2020-04-11T16:00:00+03:00",
+        "name": "Braingazm Online",
+        "url": []
       }
     ]
   }

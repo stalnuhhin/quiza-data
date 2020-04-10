@@ -20,12 +20,6 @@
         "url": ["https://rating.chgk.info/tournament/6379"]
       },
       {
-        "time": "2020-04-05T13:00:00+03:00",
-        "name": "Большая игра: Пролог №2",
-        "price": ["150 RUB/ком", "2 USD/ком"],
-        "url": ["https://rating.chgk.info/tournament/6389", "https://profi.t.chgk-world.ru", "https://profi.chgk-world.ru/tournaments/9"]
-      },
-      {
         "time": "2020-04-05T15:00:00+03:00",
         "name": "Не числом, а умением",
         "url": ["https://rating.chgk.info/tournament/6369"]
@@ -41,9 +35,27 @@
         "url": ["https://rating.chgk.info/tournament/6382"]
       },
       {
+        "time": "2020-04-10T15:30:00+03:00",
+        "name": "Пегас и лирохвост",
+        "price": ["200 RUB/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/235826367611000"]
+      },
+      {
+        "time": "2020-04-10T19:30:00+03:00",
+        "name": "Пегас и лирохвост",
+        "price": ["200 RUB/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/235826367611000"]
+      },
+      {
         "time": "2020-04-12T00:00:00+03:00",
         "name": "Коронавирус 2020. Весна",
         "url": ["https://www.facebook.com/groups/chgk.global/permalink/1496076007222356","https://rating.chgk.info/tournament/6393"]
+      },
+      {
+        "time": "2020-04-15T18:00:00+03:00",
+        "name": "Пегас и лирохвост",
+        "price": ["200 RUB/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/235826367611000"]
       }
     ]
   }

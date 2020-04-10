@@ -1,7 +1,7 @@
 [
   {
     "org": "Sherlock Quiz",
-    "latestCheck": "2020-04-05T09:00:00+03:00",
+    "latestCheck": "2020-04-10T12:00:00+03:00",
     "type": ["events"],
     "registration": true,
     "duration": 2.5,
@@ -13,6 +13,11 @@
         "time": "2020-04-08T19:00:00+05:00",
         "name": "Бесконтактный Шерлок Квиз #1",
         "url": ["http://sherlockquiz.com/ru/game/view/2345"]
+      },
+      {
+        "time": "2020-04-18T19:00:00+05:00",
+        "name": "Бесконтактный Шерлок Квиз #2",
+        "url": ["http://sherlockquiz.com/ru/game/view/2368"]
       }
     ]
   }

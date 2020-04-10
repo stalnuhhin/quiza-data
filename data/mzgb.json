@@ -1,0 +1,31 @@
+[
+  {
+    "org": "Мозгобойня",
+    "latestCheck": "2020-04-10T12:00:00+03:00",
+    "type": ["events"],
+    "image": "mzgb.png",
+    "duration": 1.5,
+    "registration": true,
+    "url": ["https://taplink.cc/mzgb_msk"],
+    "games": [
+      {
+        "time": "2020-04-11T18:00:00+03:00",
+        "name": "MozgoCash: привет из 90-х",
+        "price": ["399 RUB/ком"],
+        "url": ["https://quizy.pro/streams/1829"]
+      },
+      {
+        "time": "2020-04-12T14:00:00+03:00",
+        "name": "MozgoCash: классическая игра",
+        "price": ["399 RUB/ком"],
+        "url": ["https://quizy.pro/streams/1830"]
+      },
+      {
+        "time": "2020-04-12T18:00:00+03:00",
+        "name": "MozgoCash: классическая игра",
+        "price": ["399 RUB/ком"],
+        "url": ["https://quizy.pro/streams/1831"]
+      }
+    ]
+  }
+]

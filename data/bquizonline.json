@@ -1,12 +1,12 @@
 [
   {
     "org": "B-Quiz Online",
-    "latestCheck": "2020-04-04T13:00:00+03:00",
+    "latestCheck": "2020-04-10T12:00:00+03:00",
     "type": ["events"],
     "image": "bquiz.png",
     "duration": 3,
     "registration": true,
-    "price": ["150 RUB/чел", "5 BYN/чел"],
+    "price": ["7 BYN/чел"],
     "desc": "Один из лучших белорусских квизов теперь в режиме онлайн! Только уникальные вопросы, разработанные опытными авторами. Ведущий читает и показывает текст вопроса на стриме, жюри в реальном времени обрабатывает ваши ответы, данные через гуглформу. В конце игры мы объявляем результаты, победители получают призы!",
     "url": ["https://www.facebook.com/minsk.bquiz", "https://vk.com/bquiz_online"],
     "info": ["Стрим в YouTube", "Технический чат для решения оперативных вопросов", "Ответы вбиваются в Google Form."],
@@ -29,9 +29,17 @@
       {
         "time": "2020-04-09T19:00:00+03:00",
         "name": "B-Quiz Online #2",
+        "price": ["150 RUB/чел", "5 BYN/чел"],
         "url": [
           "https://vk.com/bquiz_online?w=wall-193516419_31",
           "https://www.facebook.com/minsk.bquiz/photos/a.118795726189653/252601822809042"
+        ]
+      },
+      {
+        "time": "2020-04-16T19:00:00+03:00",
+        "name": "B-Quiz Online #58",
+        "url": [
+          "https://www.facebook.com/minsk.bquiz/photos/a.118795726189653/254476025954955"
         ]
       }
     ]

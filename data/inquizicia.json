@@ -1,7 +1,7 @@
 [
   {
     "org": "ИнQUIZиция",
-    "latestCheck": "2020-04-09T12:00:00+03:00",
+    "latestCheck": "2020-04-10T12:00:00+03:00",
     "type": ["events"],
     "image": "inquizicia.png",
     "duration": 2,
@@ -11,19 +11,24 @@
     "games": [
       {
         "time": "2020-04-02T19:00:00+03:00",
-        "name": "ИнQUIZиция",
+        "name": "ИнQUIZиция #1",
         "free": true,
         "url": ["https://quizy.pro/streams/1475"]
       },
       {
         "time": "2020-04-07T19:00:00+03:00",
-        "name": "ИнQUIZиция",
+        "name": "ИнQUIZиция #2",
         "url": ["https://quizy.pro/streams/1666"]
       },
       {
         "time": "2020-04-09T19:00:00+03:00",
-        "name": "ИнQUIZиция",
+        "name": "ИнQUIZиция #3",
         "url": ["https://quizy.pro/streams/1806"]
+      },
+      {
+        "time": "2020-04-16T19:00:00+03:00",
+        "name": "ИнQUIZиция #4",
+        "url": ["https://quizy.pro/streams/1910"]
       }
     ]
   }
