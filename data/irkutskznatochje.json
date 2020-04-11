@@ -1,0 +1,24 @@
+[
+  {
+    "org": "Иркутское знаточьё",
+    "latestCheck": "2020-04-11T12:00:00+03:00",
+    "type": ["events"],
+    "image": "chgk.png",
+    "duration": 2,
+    "chgk": true,
+    "free": true,
+    "url": ["https://vk.com/chgk_irk"],
+    "games": [
+      {
+        "time": "2020-04-11T13:00:00+08:00",
+        "name": "Лига старта-13 (март-апрель), повторная игра",
+        "url": ["https://vk.com/chgk_irk?w=wall-1093550_2852"]
+      },
+      {
+        "time": "2020-04-12T13:00:00+08:00",
+        "name": "Год театра",
+        "url": ["https://vk.com/chgk_irk?w=wall-1093550_2852"]
+      }
+    ]
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "org": "Quiz Night (Днепр)",
+    "latestCheck": "2020-04-11T12:00:00+03:00",
+    "type": ["events"],
+    "image": "quiznightdp.png",
+    "duration": 2,
+    "price": ["100 UAH/чел"],
+    "url": ["https://www.facebook.com/pg/quiz.night.dp/events", "https://quiznight.com.ua"],
+    "games": [
+      {
+        "time": "2020-04-11T15:00:00+03:00",
+        "name": "HOME QUIZ. Lite version",
+        "url": ["https://www.facebook.com/events/1418174605028929"]
+      }
+    ]
+  }
+]

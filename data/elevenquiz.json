@@ -1,0 +1,26 @@
+[
+  {
+    "org": "Eleve11 Quiz",
+    "latestCheck": "2020-04-10T12:00:00+03:00",
+    "type": ["events"],
+    "image": "elevenquiz.png",
+    "duration": 2,
+    "price": ["600 RUB/ком", "200 RUB/чел"],
+    "url": ["https://vk.com/eleven_quiz_online"],
+    "games": [
+      {
+        "time": "2020-03-29T14:00:00+03:00",
+        "name": "ElevenQuiz #1"
+      },
+      {
+        "time": "2020-04-04T14:00:00+03:00",
+        "name": "ElevenQuiz #2"
+      },
+      {
+        "time": "2020-04-12T14:00:00+03:00",
+        "name": "ElevenQuiz #3",
+        "url": ["https://vk.com/wall-183530227_643"]
+      }
+    ]
+  }
+]

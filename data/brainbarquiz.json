@@ -1,0 +1,18 @@
+[
+  {
+    "org": "BrainBarQuiz",
+    "latestCheck": "2020-04-11T12:00:00+03:00",
+    "type": ["events"],
+    "image": "brainbarquiz.png",
+    "duration": 2.5,
+    "price": ["1000 RUB/ком"],
+    "url": ["https://vk.com/bbquizmoscow", "https://www.brainbarquiz.ru"],
+    "games": [
+      {
+        "time": "2020-04-11T17:00:00+03:00",
+        "name": "BBQuizHome",
+        "url": ["https://vk.com/bbquizmoscow?w=wall-138515221_4426"]
+      }
+    ]
+  }
+]

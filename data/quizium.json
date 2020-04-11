@@ -1,0 +1,17 @@
+[
+  {
+    "org": "Квизиум",
+    "latestCheck": "2020-04-11T12:00:00+03:00",
+    "type": ["events"],
+    "image": "quizium.png",
+    "duration": 2,
+    "price": ["1000 RUB/ком"],
+    "url": ["https://quizium.ru", "https://vk.com/quizium"],
+    "games": [
+      {
+        "time": "2020-04-11T18:00:00+03:00",
+        "name": "Квизиум Онлайн #3"
+      }
+    ]
+  }
+]

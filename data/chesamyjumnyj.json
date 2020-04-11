@@ -1,0 +1,23 @@
+[
+  {
+    "org": "Чё, самый умный?!",
+    "latestCheck": "2020-04-11T12:00:00+03:00",
+    "type": ["events"],
+    "image": "chesamyjumnyj.png",
+    "duration": 1.5,
+    "price": ["8 BYN/чел"],
+    "url": ["https://vk.com/game.brains.minsk", "https://brains.xxx/"],
+    "games": [
+      {
+        "time": "2020-04-11T15:00:00+03:00",
+        "name": "Онлайн-игра #1",
+        "url": ["https://vk.com/game.brains.minsk?w=wall-28490858_321650"]
+      },
+      {
+        "time": "2020-04-12T18:00:00+03:00",
+        "name": "Онлайн-игра #2",
+        "url": ["https://vk.com/game.brains.minsk?w=wall-186939005_587"]
+      }
+    ]
+  }
+]

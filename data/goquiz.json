@@ -1,0 +1,17 @@
+[
+  {
+    "org": "Go! Квиз",
+    "latestCheck": "2020-04-11T12:00:00+03:00",
+    "type": ["events"],
+    "image": "goquiz.png",
+    "duration": 2,
+    "price": ["500 RUB/ком"],
+    "url": ["https://gokviz.ru/#anons", "https://vk.com/gokviz"],
+    "games": [
+      {
+        "time": "2020-04-11T19:00:00+03:00",
+        "name": "Назад в 90-ые"
+      }
+    ]
+  }
+]
