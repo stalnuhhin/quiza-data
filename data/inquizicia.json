@@ -5,7 +5,6 @@
     "type": ["events"],
     "image": "inquizicia.png",
     "duration": 2,
-    "registration": true,
     "price": ["500 RUB/ком"],
     "url": ["https://vk.com/quiztag"],
     "games": [

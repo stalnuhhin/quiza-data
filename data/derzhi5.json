@@ -5,7 +5,6 @@
     "type": ["events"],
     "image": "derzhi5.png",
     "duration": 2,
-    "registration": true,
     "free": true,
     "url": ["http://smr.d5quiz.ru/raspisanie/"],
     "games": [

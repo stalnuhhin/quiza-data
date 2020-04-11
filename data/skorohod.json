@@ -5,7 +5,6 @@
     "type": ["events"],
     "image": "skorohod.png",
     "duration": 1,
-    "registration": true,
     "price": ["200 RUB/ком"],
     "url": ["https://vk.com/skorohod_quiz"],
     "games": [

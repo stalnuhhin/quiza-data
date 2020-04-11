@@ -5,8 +5,7 @@
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
-    "registration": true,
-    "url": ["https://www.facebook.com/BrainHubKiev", "www.twitch.tv/brainhubua"],
+    "url": ["https://www.facebook.com/BrainHubKiev", "https://www.twitch.tv/brainhubua"],
     "games": [
       {
         "time": "2020-04-02T19:30:00+03:00",

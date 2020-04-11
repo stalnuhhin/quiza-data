@@ -5,7 +5,6 @@
     "type": ["events"],
     "image": "neoquiz.png",
     "duration": 2,
-    "registration": true,
     "url": ["https://vk.com/neoquiz", "http://neoquiz.ru/", "https://quizy.pro/"],
     "games": [
       {

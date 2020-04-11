@@ -6,7 +6,6 @@
     "image": "indigosolo.png",
     "duration": 1,
     "price": ["200 RUB/ком"],
-    "registration": true,
     "url": ["https://vk.com/ligaindigo_solo", "http://ligaindigo.ru"],
     "games": [
       {

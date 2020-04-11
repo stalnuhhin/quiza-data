@@ -5,7 +5,6 @@
     "type": ["events"],
     "image": "imclub.png",
     "duration": 2.5,
-    "registration": true,
     "url": ["https://imclub.eu/divan"],
     "desc": "Игры Таллинского клуба IMClub: есть разные типы игр.",
     "info": ["Cтрим в YouTube", "Ответы вбиваются в их систему."],

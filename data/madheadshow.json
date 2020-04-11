@@ -5,7 +5,6 @@
     "type": ["events"],
     "image": "madheadshow.png",
     "duration": 2,
-    "registration": true,
     "donate": true,
     "price": ["70 UAH/чел"],
     "url": ["https://www.facebook.com/pg/MadHeadKyiv/posts", "https://t.me/madheadkyiv"],

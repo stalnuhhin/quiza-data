@@ -6,7 +6,6 @@
     "type": ["events"],
     "duration": 2,
     "image": "cityquiz.png",
-    "registration": true,
     "price": ["20 EUR/ком"],
     "url": ["https://www.facebook.com/groups/1900106536896781/"],
     "desc": "Франшиза 'City Quiz' в Германии.",

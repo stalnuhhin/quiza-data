@@ -5,7 +5,6 @@
     "type": ["events"],
     "image": "indigo.png",
     "duration": 1,
-    "registration": true,
     "url": ["https://vk.com/li_online_li", "http://ligaindigo.ru/rating-online"],
     "games": [
       {

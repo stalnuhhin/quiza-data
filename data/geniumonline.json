@@ -5,7 +5,6 @@
     "type": ["events"],
     "image": "geniumonline.png",
     "duration": 2,
-    "registration": true,
     "price": ["250 RUB/1-2чел", "600 RUB/ком"],
     "url": ["http://genium-quiz.com/gde-i-kogda-igrayem"],
     "desc": "Игры Максима Поташева: есть разные типы игр.",

@@ -5,7 +5,6 @@
     "type": ["events"],
     "image": "zq.png",
     "duration": 2,
-    "registration": true,
     "price": ["500 RUB/чел"],
     "url": ["https://vk.com/zb_quiz", "https://www.instagram.com/zbyshek_quiz/"],
     "games": [

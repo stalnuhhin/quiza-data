@@ -6,7 +6,6 @@
     "image": "vertigo.png",
     "duration": 1.5,
     "price": ["300 RUB/ком"],
-    "registration": true,
     "url": ["https://vk.com/vertigoquiz"],
     "games": [
       {

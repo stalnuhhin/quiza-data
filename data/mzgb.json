@@ -5,7 +5,6 @@
     "type": ["events"],
     "image": "mzgb.png",
     "duration": 1.5,
-    "registration": true,
     "url": ["https://taplink.cc/mzgb_msk"],
     "games": [
       {

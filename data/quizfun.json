@@ -3,7 +3,6 @@
     "org": "QuizFun Online",
     "latestCheck": "2020-04-10T12:00:00+03:00",
     "type": ["events"],
-    "registration": true,
     "duration": 2,
     "image": "quizfun.png",
     "url": ["https://vk.com/quizfun_online"],

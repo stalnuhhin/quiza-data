@@ -113,8 +113,13 @@
                     </div>
                     <div class="col-8 col-md-9">
                         {{g.name}}
-                        <span v-if="g.registration" class="badge alert-secondary">
-                            Надо регистрироваться
+                        <a href="#" class="ml-2 badge badge-info" data-toggle="modal"
+                           v-if="g.info || g.payment"
+                           v-bind:data-target="'#info' + i + '_' + j">
+                            Читать инфо
+                        </a>
+                        <span v-if="g.noregistration" class="badge alert-secondary">
+                            Нет регистрации
                         </span>
                         <br/>
                         <span v-if="g.chgk" class="badge badge-warning">
@@ -129,14 +134,10 @@
                         <span v-for="p in g.price" class="badge alert-danger mr-1">
                             {{p}}
                         </span>
-                        <a href="#" class="badge badge-info" data-toggle="modal"
-                           v-if="g.info || g.payment"
-                           v-bind:data-target="'#info' + i + '_' + j">
-                            ИНФО
-                        </a>
-                        <span v-for="(u, i) in g.url">
+                        <small class="text-muted">Ссылки: </small>
+                        <span v-for="u in g.url">
                             <a v-bind:href="u" target="_blank" class="badge alert-primary mr-1">
-                                cсылка{{i+1}}
+                                {{getUrlName(u)}}
                             </a>
                         </span>
                         <br/>
@@ -150,11 +151,15 @@
                             <div class="modal-dialog modal-dialog-centered" role="document">
                                 <div class="modal-content">
                                     <div class="modal-body">
-                                        <b>Информация по игре:</b><br/>
-                                        <span v-for="p in g.info">{{p}}<br/></span>
-                                        <br/>
-                                        <b>Информация по оплате:</b><br/>
-                                        <span v-for="p in g.payment">{{p}}<br/></span>
+                                        <span v-if="g.info">
+                                            <b>Информация по игре:</b><br/>
+                                            <span v-for="p in g.info">{{p}}<br/></span>
+                                            <br/>
+                                        </span>
+                                        <span v-if="g.payment">
+                                            <b>Информация по оплате:</b><br/>
+                                            <span v-for="p in g.payment">{{p}}<br/></span>
+                                        </span>
                                     </div>
                                 </div>
                             </div>
@@ -184,9 +189,9 @@
                                           v-bind:title="m.desc">
                                         {{m.org}}
                                     </span>
-                                    <span v-for="(u, i) in m.url">
+                                    <span v-for="u in m.url">
                                         <a v-bind:href="u" target="_blank" class="badge alert-primary mr-1">
-                                            cсылка{{i+1}}
+                                            {{getUrlName(u)}}
                                         </a>
                                     </span>
                                     <span data-toggle="tooltip"
@@ -229,9 +234,9 @@
                                           v-bind:title="m.desc">
                                         {{m.org}}
                                     </span>
-                                    <span v-for="(u, i) in m.url">
+                                    <span v-for="u in m.url">
                                         <a v-bind:href="u" target="_blank" class="badge alert-primary mr-1">
-                                            cсылка{{i+1}}
+                                            {{getUrlName(u)}}
                                         </a>
                                     </span>
                                     <span data-toggle="tooltip"
@@ -272,9 +277,9 @@
                                         {{e.org}}
                                     </span>
                                     <br/>
-                                    <span v-for="(u, i) in e.url">
+                                    <span v-for="u in e.url">
                                         <a v-bind:href="u" target="_blank" class="badge alert-primary mr-1">
-                                            cсылка{{i+1}}
+                                            {{getUrlName(u)}}
                                         </a>
                                     </span>
                                     <span data-toggle="tooltip"
@@ -298,11 +303,21 @@
             <div class="container">
                 <div class="row">
                     <div class="col">
+                        <h5 class="mt-3"><b>11.04.2020</b></h5>
+                        <p>
+                            Убрана плашка "Есть регистрация" - в большинстве случаев она нужна, поэтому теперь наобот.
+                            Если ничего нет, то регистрация есть или неизвестно, и вдобавок есть плашка "Нет
+                            регистрации".
+                        </p>
+                        <p>
+                            Для ссылок сделаны нормальные тексты. Теперь лучше видно, куда перенаправит ссылка.
+                        </p>
                         <h5 class="mt-3"><b>07.04.2020</b></h5>
                         <p>
                             Случились первые проблемы с Github Pages (я не ожидал их так рано), поэтому страница была
                             срочно перенесена на <a href="https://quiza.stalnuhhin.ee">quiza.stalnuhhin.ee</a>. В связи
-                            с этим заодно сменил репозиторий с github.com/stalnuhhin/quiz на github.com/stalnuhhin/quiza.
+                            с этим заодно сменил репозиторий с github.com/stalnuhhin/quiz на
+                            github.com/stalnuhhin/quiza.
                             В старый репозиторий добавил страничку с информацией о переезде.
                         </p>
                         <h5 class="mt-3"><b>06.04.2020</b></h5>

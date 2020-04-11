@@ -3,7 +3,6 @@
     "org": "Wow Quiz",
     "latestCheck": "2020-04-10T12:00:00+03:00",
     "type": ["events"],
-    "registration": true,
     "duration": 2,
     "image": "wowquiz.png",
     "price": ["499 RUB/чел"],

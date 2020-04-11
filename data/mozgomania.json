@@ -5,9 +5,8 @@
     "type": ["events"],
     "image": "mozgomania.png",
     "duration": 2,
-    "registration": true,
     "price": ["100 RUB/чел"],
-    "url": ["https://vk.com/online_mzg", "https://mozgomania.ru/", "https://www.facebook.com/pg/mozgomania.ru/posts", "https://quizy.pro/"],
+    "url": ["https://vk.com/online_mzg", "https://mozgomania.ru/", "https://www.facebook.com/pg/mozgomania.ru/posts"],
     "games": [
       {
         "time": "2020-04-02T12:00:00+03:00",

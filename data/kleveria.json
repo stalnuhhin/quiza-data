@@ -5,7 +5,6 @@
     "type": ["events"],
     "image": "kleveria.png",
     "duration": 2,
-    "registration": true,
     "free": true,
     "url": ["https://kleveria.ru"],
     "games": [

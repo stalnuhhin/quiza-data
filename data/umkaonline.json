@@ -5,6 +5,7 @@
     "latestCheck": "2020-04-10T12:00:00+03:00",
     "type": ["events"],
     "hasContent": true,
+    "noregistration": true,
     "image": "umkaonline.png",
     "duration": 2.5,
     "free": true,

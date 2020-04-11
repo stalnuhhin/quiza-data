@@ -1,71 +1,71 @@
 const DATAFILES = [
-    "beeclever.json?1",
-    "bezdurakov.json?1",
-    "brainbarquiz.json",
-    "brainbattle.json?1",
-    "braindo.json?2",
-    "braingazm.json?1",
-    "brainhub.json?1",
-    "bquizonline.json?1",
-    "chgkrating.json?2",
-    "chgkworld.json",
-    "chesamyjumnyj.json",
-    "cityquizkiev.json",
-    "cityquizger.json?1",
-    "collection.json",
-    "derzhi5.json?1",
-    "einsteinparty.json?1",
-    "einsteinpartybel.json?1",
-    "elevenquiz.json",
-    "eureka.json?1",
-    "footballsi.json?1",
-    "geniumonline.json?1",
-    "goquiz.json",
-    "headtrick.json?1",
-    "ilovequiz.json?1",
-    "imclub.json?1",
-    "indigo.json?1",
-    "indigosolo.json?1",
-    "intellcasinosanfra.json?1",
-    "inquizicia.json?2",
-    "iqbattle.json?2",
-    "iqbattleswe.json?1",
-    "irkutskznatochje.json",
-    "kleveria.json?1",
-    "klub60sec.json?1",
-    "klubonlinevoprosov.json?1",
-    "kvizhn.json",
-    "kvizpliz.json?1",
-    "madheadshow.json?2",
-    "mozgomania.json?3",
-    "mzgb.json?1",
-    "mzgbtln.json?1",
-    "neoquiz.json?1",
-    "onlinequiz64.json?1",
-    "panopticumzhitomir.json",
-    "potterquiz.json",
-    "pubquiz.json?1",
-    "quantum.json",
-    "quizfun.json?2",
-    "quizium.json",
-    "quiznightdp.json",
-    "quizypro.json?2",
-    "sahar.json?1",
-    "sheikerquiz.json?1",
-    "sherlockquiz.json?1",
-    "sibkviz.json?2",
-    "skorohod.json?1",
-    "smartquiz.json?1",
-    "squiz.json?1",
-    "thequizodessa.json?1",
-    "umforum.json?1",
-    "umkaonline.json?3",
-    "urok.json",
-    "uznavaizing.json",
-    "vertigo.json?1",
-    "wowquiz.json?1",
-    "yokviz.json?1",
-    "zbyshekkviz.json?1"
+    "beeclever.json?2",
+    "bezdurakov.json?2",
+    "brainbarquiz.json?2",
+    "brainbattle.json?2",
+    "braindo.json?3",
+    "braingazm.json?2",
+    "brainhub.json?2",
+    "bquizonline.json?2",
+    "chgkrating.json?3",
+    "chgkworld.json?2",
+    "chesamyjumnyj.json?2",
+    "cityquizkiev.json?2",
+    "cityquizger.json?2",
+    "collection.json?2",
+    "derzhi5.json?2",
+    "einsteinparty.json?2",
+    "einsteinpartybel.json?2",
+    "elevenquiz.json?2",
+    "eureka.json?2",
+    "footballsi.json?2",
+    "geniumonline.json?2",
+    "goquiz.json?2",
+    "headtrick.json?2",
+    "ilovequiz.json?2",
+    "imclub.json?2",
+    "indigo.json?2",
+    "indigosolo.json?2",
+    "intellcasinosanfra.json?2",
+    "inquizicia.json?3",
+    "iqbattle.json?3",
+    "iqbattleswe.json?2",
+    "irkutskznatochje.json?2",
+    "kleveria.json?2",
+    "klub60sec.json?2",
+    "klubonlinevoprosov.json?2",
+    "kvizhn.json?2",
+    "kvizpliz.json?2",
+    "madheadshow.json?3",
+    "mozgomania.json?4",
+    "mzgb.json?2",
+    "mzgbtln.json?2",
+    "neoquiz.json?2",
+    "onlinequiz64.json?2",
+    "panopticumzhitomir.json?2",
+    "potterquiz.json?2",
+    "pubquiz.json?2",
+    "quantum.json?2",
+    "quizfun.json?3",
+    "quizium.json?2",
+    "quiznightdp.json?2",
+    "quizypro.json?3",
+    "sahar.json?2",
+    "sheikerquiz.json?2",
+    "sherlockquiz.json?2",
+    "sibkviz.json?3",
+    "skorohod.json?2",
+    "smartquiz.json?2",
+    "squiz.json?2",
+    "thequizodessa.json?2",
+    "umforum.json?2",
+    "umkaonline.json?4",
+    "urok.json?2",
+    "uznavaizing.json?2",
+    "vertigo.json?2",
+    "wowquiz.json?2",
+    "yokviz.json?2",
+    "zbyshekkviz.json?2"
 ]
 
 const app = new Vue({
@@ -114,7 +114,7 @@ const app = new Vue({
                         game.image = game.image || tem.image || org.image;
                         game.org = game.org || tem.org || org.org;
                         game.chgk = game.chgk || tem.chgk || org.chgk;
-                        game.registration = game.registration || tem.registration || org.registration;
+                        game.noregistration = game.noregistration || tem.noregistration || org.noregistration;
                         game.url = game.url || [];
                         game.url = org.url ? game.url.concat(org.url) : game.url;
                         game.url = tem.url ? game.url.concat(tem.url) : game.url;
@@ -163,6 +163,49 @@ const app = new Vue({
                         return a.org.localeCompare(b.org);
                 }
             });
+        },
+        getUrlName: function (url, index) {
+            if (url.includes("vk.com")) {
+                if (url.includes("?w=")) {
+                    return 'VK post';
+                }
+                return 'VKontakte';
+            }
+            if (url.includes("facebook.com")) {
+                if (url.includes("/events/")) {
+                    return 'FB event';
+                }
+                return 'Facebook';
+            }
+            if (url.includes("quizy.pro/streams/")) {
+                return 'Стрим на Quizy'
+            }
+            if (url.includes("youtube.com")) {
+                return 'Youtube';
+            }
+            if (url.includes("youtube.com")) {
+                return 'Youtube';
+            }
+            if (url.includes("twitch.tv")) {
+                return 'Twitch';
+            }
+            return this.extractHostname(url);
+        },
+        extractHostname: function (url) {
+            var hostname;
+            //find & remove protocol (http, ftp, etc.) and get hostname
+            if (url.indexOf("//") > -1) {
+                hostname = url.split('/')[2];
+            } else {
+                hostname = url.split('/')[0];
+            }
+
+            //find & remove port number
+            hostname = hostname.split(':')[0];
+            //find & remove "?"
+            hostname = hostname.split('?')[0];
+
+            return hostname.startsWith('www.') ? hostname.substring(4) : hostname;
         }
     }
 });

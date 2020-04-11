@@ -3,7 +3,6 @@
     "org": "I Love Quiz",
     "latestCheck": "2020-04-10T12:00:00+03:00",
     "type": ["events"],
-    "registration": true,
     "free": true,
     "duration": 2,
     "image": "ilovequiz.png",

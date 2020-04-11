@@ -3,7 +3,6 @@
     "org": "Сахар",
     "latestCheck": "2020-04-10T12:00:00+03:00",
     "type": ["events"],
-    "registration": true,
     "chgk": true,
     "duration": 2.5,
     "image": "sahar.png",

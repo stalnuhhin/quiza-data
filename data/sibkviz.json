@@ -5,7 +5,6 @@
     "type": ["events"],
     "image": "sibkviz.png",
     "duration": 2,
-    "registration": true,
     "price": ["300 RUB/ком"],
     "url": ["https://vk.com/sibquiz", "https://quizy.pro/"],
     "games": [

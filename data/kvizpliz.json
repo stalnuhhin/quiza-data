@@ -5,7 +5,6 @@
     "type": ["events"],
     "image": "kvizpliz.png",
     "duration": 2,
-    "registration": true,
     "price": ["1000 RUB/ком"],
     "url": ["https://moscow.quizplease.ru/schedule"],
     "games": [

@@ -5,7 +5,6 @@
     "type": ["events"],
     "image": "mzgb.png",
     "duration": 1.5,
-    "registration": true,
     "url": ["https://www.facebook.com/pg/mzgb.tln/posts"],
     "desc": "Франшиза 'Мозгобойня' в городе Таллин.",
     "info": ["Игра проходит в Zoom."],

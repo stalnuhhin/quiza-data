@@ -4,7 +4,6 @@
     "latestCheck": "2020-04-10T12:00:00+03:00",
     "type": ["events"],
     "image": "intellcasinosanfra.png",
-    "registration": true,
     "chgk": true,
     "free": true,
     "donate": true,
