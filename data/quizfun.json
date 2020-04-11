@@ -12,6 +12,13 @@
         "time": "2020-04-05T18:00:00+03:00",
         "name": "Первая игра КвизФан ОНЛАЙН",
         "free": true,
+        "donate": true,
+        "url": ["https://vk.com/quizfun_online?w=wall-193637731_34"]
+      },
+      {
+        "time": "2020-04-19T18:00:00+03:00",
+        "name": "КвизФан ОНЛАЙН",
+        "free": true,
         "donate": true
       }
     ]
