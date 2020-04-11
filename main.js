@@ -7,7 +7,7 @@ const DATAFILES = [
     "braingazm.json?1",
     "brainhub.json?1",
     "bquizonline.json?1",
-    "chgkrating.json?1",
+    "chgkrating.json?2",
     "chgkworld.json",
     "chesamyjumnyj.json",
     "cityquizkiev.json",
