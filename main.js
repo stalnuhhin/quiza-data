@@ -3,7 +3,7 @@ const DATAFILES = [
     "bezdurakov.json?1",
     "brainbarquiz.json",
     "brainbattle.json?1",
-    "braindo.json?1",
+    "braindo.json?2",
     "braingazm.json?1",
     "brainhub.json?1",
     "bquizonline.json?1",
