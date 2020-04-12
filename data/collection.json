@@ -8,7 +8,7 @@
   },
   {
     "org": "Find Quiz",
-    "latestCheck": "2020-04-10T12:00:00+03:00",
+    "latestCheck": "2020-04-12T12:00:00+03:00",
     "type": ["aggr"],
     "desc": "Ещё один агрегатор онлайн игр.",
     "url": ["https://online.findquiz.ru"]

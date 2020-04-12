@@ -1,0 +1,18 @@
+[
+  {
+    "org": "Brain Wars",
+    "latestCheck": "2020-04-12T12:00:00+03:00",
+    "type": ["events"],
+    "image": "brainwars.png",
+    "duration": 2,
+    "price": ["400 RUB/ком"],
+    "url": ["https://vk.com/quizdez"],
+    "games": [
+      {
+        "time": "2020-04-14T19:30:00+03:00",
+        "name": "Brain Wars #1",
+        "url": ["https://quizy.pro/streams/1943", "https://vk.com/quizdez?w=wall-152157756_9235"]
+      }
+    ]
+  }
+]
