@@ -48,7 +48,7 @@
       {
         "time": "2020-04-12T17:00:00+04:00",
         "name": "ЧГК: CHGK Is... On-line (парный ЧГК)",
-        "url": ["https://www.facebook.com/events/264337704584908"]
+        "url": ["https://www.facebook.com/events/264337704584908", "https://play.google.com/store/apps/details?id=com.openapps.chgk_captain"]
       },
       {
         "time": "2020-04-12T23:00:00+03:00",
@@ -60,7 +60,7 @@
         "time": "2020-04-15T18:00:00+03:00",
         "name": "ЧГК: Пегас и лирохвост",
         "price": ["200 RUB/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/235826367611000", "https://play.google.com/store/apps/details?id=com.openapps.chgk_captain"]
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/235826367611000"]
       }
     ]
   }
