@@ -183,8 +183,13 @@ const app = new Vue({
             if (url.includes("youtube.com")) {
                 return 'Youtube';
             }
-            if (url.includes("youtube.com")) {
-                return 'Youtube';
+            if (url.includes("instagram.com")) {
+                return 'Instagram';
+            }
+            if (url.includes(".t.me")
+                || url.includes("//t.me")
+                || url.includes("ttttt.me")) {
+                return 'Telegram';
             }
             if (url.includes("twitch.tv")) {
                 return 'Twitch';
