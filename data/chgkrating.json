@@ -5,57 +5,62 @@
     "type": ["aggr", "events"],
     "image": "chgkrating.png",
     "chgk": true,
-    "duration": 2.5,
+    "duration": 2,
     "url": ["https://rating.chgk.info/tournaments?name=Онлайн%3A+&tournament_type=2"],
     "games": [
       {
         "time": "2020-04-03T21:00:00+03:00",
-        "name": "Не числом, а умением",
+        "name": "ЧГК: Не числом, а умением",
         "url": ["https://rating.chgk.info/tournament/6378"]
       },
       {
         "time": "2020-04-04T13:00:00+03:00",
-        "name": "Не числом, а умением",
+        "name": "ЧГК: Не числом, а умением",
         "url": ["https://rating.chgk.info/tournament/6379"]
       },
       {
         "time": "2020-04-05T15:00:00+03:00",
-        "name": "Не числом, а умением",
+        "name": "ЧГК: Не числом, а умением",
         "url": ["https://rating.chgk.info/tournament/6369"]
       },
       {
         "time": "2020-04-06T21:00:00+03:00",
-        "name": "Не числом, а умением",
+        "name": "ЧГК: Не числом, а умением",
         "url": ["https://rating.chgk.info/tournament/6381"]
       },
       {
         "time": "2020-04-07T15:00:00+03:00",
-        "name": "Не числом, а умением",
+        "name": "ЧГК: Не числом, а умением",
         "url": ["https://rating.chgk.info/tournament/6382"]
       },
       {
         "time": "2020-04-10T15:30:00+03:00",
-        "name": "Пегас и лирохвост",
+        "name": "ЧГК: Пегас и лирохвост",
         "price": ["200 RUB/ком"],
         "url": ["https://www.facebook.com/groups/229434871583483/permalink/235826367611000"]
       },
       {
         "time": "2020-04-10T19:30:00+03:00",
-        "name": "Пегас и лирохвост",
+        "name": "ЧГК: Пегас и лирохвост",
         "price": ["200 RUB/ком"],
         "url": ["https://www.facebook.com/groups/229434871583483/permalink/235826367611000"]
       },
       {
+        "time": "2020-04-12T17:00:00+04:00",
+        "name": "ЧГК: CHGK Is... On-line (парный ЧГК)",
+        "url": ["https://www.facebook.com/events/264337704584908"]
+      },
+      {
         "time": "2020-04-12T23:00:00+03:00",
-        "name": "Коронавирус 2020. Весна (последний шанс сыграть через Google-форму)",
+        "name": "ЧГК: Коронавирус 2020. Весна (последний шанс сыграть через Google-форму)",
         "duration": 1,
         "url": ["https://www.facebook.com/groups/chgk.global/permalink/1496076007222356","https://rating.chgk.info/tournament/6393"]
       },
       {
         "time": "2020-04-15T18:00:00+03:00",
-        "name": "Пегас и лирохвост",
+        "name": "ЧГК: Пегас и лирохвост",
         "price": ["200 RUB/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/235826367611000"]
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/235826367611000", "https://play.google.com/store/apps/details?id=com.openapps.chgk_captain"]
       }
     ]
   }
