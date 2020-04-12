@@ -1,0 +1,19 @@
+[
+  {
+    "org": "Quriosity (Telegram)",
+    "latestCheck": "2020-04-12T12:00:00+03:00",
+    "type": ["events"],
+    "duration": 1,
+    "image": "quriosity.png",
+    "free": true,
+    "donate": true,
+    "url": ["https://ttttt.me/quriosity_quiz"],
+    "games": [
+      {
+        "time": "2020-04-12T16:00:00+03:00",
+        "name": "Онлайн игра #3",
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/237063350820635"]
+      }
+    ]
+  }
+]

@@ -131,6 +131,9 @@
                         <span v-if="g.noregistration" class="badge alert-secondary">
                             Нет регистрации
                         </span>
+                        <span v-if="g.lang" class="badge alert-warning">
+                            {{g.lang}}
+                        </span>
                         <span v-for="p in g.price" class="badge alert-danger mr-1">
                             {{p}}
                         </span>

@@ -1,0 +1,19 @@
+[
+  {
+    "org": "Game On",
+    "latestCheck": "2020-04-12T12:00:00+03:00",
+    "type": ["events"],
+    "duration": 2,
+    "image": "gameon.png",
+    "free": true,
+    "lang": "По-английски",
+    "url": ["https://www.facebook.com/pg/gameontashkent/posts", "https://www.instagram.com/p/B-2ENN-Dybz"],
+    "games": [
+      {
+        "time": "2020-04-15T20:30:00+05:00",
+        "name": "Game On online edition 1",
+        "url": ["https://t.me/gameontashkent/98"]
+      }
+    ]
+  }
+]

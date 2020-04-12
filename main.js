@@ -18,6 +18,7 @@ const DATAFILES = [
     "einsteinpartybel.json?2",
     "elevenquiz.json?2",
     "eureka.json?2",
+    "gameon.json",
     "geniumonline.json?2",
     "goquiz.json?2",
     "headtrick.json?2",
@@ -50,6 +51,7 @@ const DATAFILES = [
     "quizium.json?2",
     "quiznightdp.json?2",
     "quizypro.json?3",
+    "quriosity.json",
     "sahar.json?2",
     "sheikerquiz.json?2",
     "sherlockquiz.json?2",
@@ -114,6 +116,7 @@ const app = new Vue({
                         game.image = game.image || tem.image || org.image;
                         game.org = game.org || tem.org || org.org;
                         game.chgk = game.chgk || tem.chgk || org.chgk;
+                        game.lang = game.lang || tem.lang || org.lang;
                         game.noregistration = game.noregistration || tem.noregistration || org.noregistration;
                         game.url = game.url || [];
                         game.url = org.url ? game.url.concat(org.url) : game.url;
