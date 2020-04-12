@@ -1,12 +1,13 @@
 [
   {
     "org": "PubQuiz",
-    "latestCheck": "2020-04-10T12:00:00+03:00",
+    "latestCheck": "2020-04-12T12:00:00+03:00",
     "type": ["events"],
     "image": "pubquiz.png",
     "duration": 3,
     "free": true,
     "donate": true,
+    "noregistration": true,
     "url": ["https://www.facebook.com/pg/PubQuiz.Me/posts"],
     "desc": "Украинский клуб PubQuiz",
     "games": [
@@ -19,6 +20,11 @@
         "time": "2020-04-09T20:00:00+03:00",
         "name": "Movie Quiz Online",
         "url": ["https://www.facebook.com/events/233283184744708/"]
+      },
+      {
+        "time": "2020-04-16T20:00:00+03:00",
+        "name": "PubQuiz Online vol.3",
+        "url": ["https://www.facebook.com/events/710863739653376/"]
       }
     ]
   }

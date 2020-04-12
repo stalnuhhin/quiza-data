@@ -2,7 +2,7 @@
   {
     "org": "Ума Палата Online",
     "name": "Ума Палата",
-    "latestCheck": "2020-04-10T12:00:00+03:00",
+    "latestCheck": "2020-04-12T12:00:00+03:00",
     "type": ["events"],
     "hasContent": true,
     "noregistration": true,
@@ -129,11 +129,6 @@
         "time": "2020-04-11T15:00:00+03:00",
         "name": "Марафон игр «Кругосветка»",
         "duration": 7
-      },
-      {
-        "time": "2020-04-12T17:00:00+03:00",
-        "name": "ЧГК онлайн",
-        "chgk": true
       }
     ]
   }
