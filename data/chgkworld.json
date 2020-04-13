@@ -27,6 +27,12 @@
         "url": ["https://profi.chgk-world.ru/tournaments/16"]
       },
       {
+        "time": "2020-04-15T19:00:00+03:00",
+        "name": "Delivery Cup",
+        "price": ["800 RUB/ком", "10 USD/ком"],
+        "url": ["https://intgame.ru/d-cup"]
+      },
+      {
         "time": "2020-04-19T13:00:00+03:00",
         "name": "Международная лига. Большая игра №2",
         "price": ["450 RUB/ком", "6 USD/ком", "1500 RUB/ком/4 игры", "20 USD/ком/4 игры"],
