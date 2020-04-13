@@ -1,7 +1,7 @@
 [
   {
     "org": "Sherlock Quiz",
-    "latestCheck": "2020-04-10T12:00:00+03:00",
+    "latestCheck": "2020-04-13T12:00:00+03:00",
     "type": ["events"],
     "duration": 2.5,
     "image": "sherlockquiz.png",
@@ -10,13 +10,66 @@
     "games": [
       {
         "time": "2020-04-08T19:00:00+05:00",
-        "name": "Бесконтактный Шерлок Квиз #1",
+        "name": "Бесконтактный Шерлок Квиз #1 (Екатеринбург)",
         "url": ["http://sherlockquiz.com/ru/game/view/2345"]
       },
       {
+        "time": "2020-04-08T19:00:00+03:00",
+        "name": "Бесконтактный Шерлок Квиз #2 (Гродно)",
+        "price": ["10 BYN/1-2чел", "20 BYN/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2361"]
+      },
+      {
+        "time": "2020-04-12T19:00:00+03:00",
+        "name": "Ясный перец (Чебоксары)",
+        "price": ["300 RUB/чел"],
+        "url": ["http://sherlockquiz.com/ru/game/view/1916"]
+      },
+      {
+        "time": "2020-04-13T19:15:00+02:00",
+        "name": "Бесконтактный Шерлок Квиз #1 (Мюнхен)",
+        "price": ["5 EUR/1-2чел", "10 EUR/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2318"]
+      },
+      {
+        "time": "2020-04-14T19:00:00+02:00",
+        "name": "Бесконтактный Шерлок Квиз #1 (Гамбург)",
+        "price": ["30 EUR/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2277"]
+      },
+      {
+        "time": "2020-04-15T19:00:00+03:00",
+        "name": "Бесконтактный Шерлок Квиз #4 (Минск)",
+        "price": ["10 BYN/1-2чел", "20 BYN/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2344"]
+      },
+      {
+        "time": "2020-04-15T19:00:00-07:00",
+        "name": "Шерлокобойня 2 (Сакраменто)",
+        "price": ["80 USD/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2349"]
+      },
+      {
+        "time": "2020-04-15T19:30:00+05:00",
+        "name": "Угадай мелодию. Дискотека 90-х - 2 часть (Екатеринбург)",
+        "price": ["500 RUB/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2370"]
+      },
+      {
+        "time": "2020-04-16T19:00:00+03:00",
+        "name": "Бесконтактный Чёрный Квиз #4 (Минск)",
+        "price": ["12 BYN/1-2чел", "24 BYN/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2307"]
+      },
+      {
         "time": "2020-04-18T19:00:00+05:00",
-        "name": "Бесконтактный Шерлок Квиз #2",
+        "name": "Бесконтактный Шерлок Квиз #2 (Екатеринбург)",
         "url": ["http://sherlockquiz.com/ru/game/view/2368"]
+      },
+      {
+        "time": "2020-04-19T19:00:00+03:00",
+        "name": "Угадай кино, личный зачет (Екатеринбург)",
+        "url": ["http://sherlockquiz.com/ru/game/view/2374"]
       }
     ]
   }
