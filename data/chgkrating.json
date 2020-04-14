@@ -52,15 +52,27 @@
       },
       {
         "time": "2020-04-12T23:00:00+03:00",
-        "name": "ЧГК: Коронавирус 2020. Весна (последний шанс сыграть через Google-форму)",
+        "name": "ЧГК: Коронавирус 2020. Весна (последний шанс сыграть через Google-форму",
         "duration": 1,
         "url": ["https://www.facebook.com/groups/chgk.global/permalink/1496076007222356","https://rating.chgk.info/tournament/6393"]
+      },
+      {
+        "time": "2020-04-14T19:30:00+03:00",
+        "name": "ЧГК: «Tet-a-tet+»",
+        "price": ["100 RUB/2чел", "150 RUB/3чел"],
+        "url": ["https://www.facebook.com/groups/chgk.global/permalink/1504893669673923/"]
       },
       {
         "time": "2020-04-15T18:00:00+03:00",
         "name": "ЧГК: Пегас и лирохвост",
         "price": ["200 RUB/ком"],
         "url": ["https://www.facebook.com/groups/229434871583483/permalink/235826367611000"]
+      },
+      {
+        "time": "2020-04-16T20:00:00+03:00",
+        "name": "ЧГК: «Tet-a-tet+»",
+        "price": ["100 RUB/2чел", "150 RUB/3чел"],
+        "url": ["https://www.facebook.com/groups/chgk.global/permalink/1504893669673923/"]
       }
     ]
   }
