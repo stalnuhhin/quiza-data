@@ -1,7 +1,7 @@
 [
   {
     "org": "Smart-Quiz",
-    "latestCheck": "2020-04-12T12:00:00+03:00",
+    "latestCheck": "2020-04-14T12:00:00+03:00",
     "type": ["events"],
     "hasContent": true,
     "image": "smartquiz.png",
@@ -25,6 +25,11 @@
         "time": "2020-04-10T19:00:00+03:00",
         "name": "Smart-Quiz",
         "url": ["https://www.facebook.com/events/1082903288750387"]
+      },
+      {
+        "time": "2020-04-17T19:00:00+03:00",
+        "name": "Smart-Quiz",
+        "url": ["https://www.facebook.com/events/2687193281406837"]
       }
     ]
   }

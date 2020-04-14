@@ -45,6 +45,12 @@
         "time": "2020-04-12T18:30:00+03:00",
         "name": "Фильмоскоп Online #5",
         "url": ["https://quizy.pro/streams/1987", "https://vk.com/skorohod_quiz?w=wall-74247084_1656"]
+      },
+      {
+        "time": "2020-04-14T15:00:00+03:00",
+        "name": "Музыкальный Скороход Онлайн №1",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2063", "https://vk.com/wall-74247084_1672"]
       }
     ]
   }

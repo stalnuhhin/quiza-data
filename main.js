@@ -4,7 +4,7 @@ const DATAFILES = [
     "brainbarquiz.json?2",
     "brainbattle.json?2",
     "braindo.json?3",
-    "braingazm.json?2",
+    "braingazm.json?3",
     "brainhub.json?2",
     "brainwars.json",
     "bquizonline.json?2",
@@ -12,19 +12,19 @@ const DATAFILES = [
     "chgkworld.json?2",
     "chesamyjumnyj.json?2",
     "cityquizkiev.json?2",
-    "cityquizger.json?2",
+    "cityquizger.json?3",
     "collection.json?2",
     "derzhi5.json?2",
     "einsteinparty.json?3",
-    "einsteinpartybel.json?2",
-    "elevenquiz.json?2",
+    "einsteinpartybel.json?3",
+    "elevenquiz.json?3",
     "eureka.json?2",
     "gameon.json",
     "geniumonline.json?3",
     "goquiz.json?3",
     "headtrick.json?2",
     "igravpass.json?2",
-    "ilovequiz.json?2",
+    "ilovequiz.json?3",
     "imclub.json?2",
     "indigo.json?2",
     "indigosolo.json?2",
@@ -35,6 +35,7 @@ const DATAFILES = [
     "irkutskznatochje.json?2",
     "kleveria.json?2",
     "klub60sec.json?2",
+    "klub60secgatchina.json",
     "klubonlinevoprosov.json?2",
     "kvizhn.json?2",
     "kvizpliz.json?2",
@@ -56,17 +57,17 @@ const DATAFILES = [
     "sahar.json?3",
     "sheikerquiz.json?2",
     "sherlockquiz.json?2",
-    "sibkviz.json?3",
-    "skorohod.json?2",
-    "smartquiz.json?2",
+    "sibkviz.json?4",
+    "skorohod.json?3",
+    "smartquiz.json?3",
     "squiz.json?2",
     "thequizodessa.json?2",
     "umforum.json?2",
     "umkaonline.json?5",
-    "urok.json?2",
+    "urok.json?3",
     "uznavaizing.json?2",
     "vertigo.json?2",
-    "wowquiz.json?2",
+    "wowquiz.json?3",
     "yokviz.json?2",
     "zbyshekkviz.json?2"
 ]
@@ -172,6 +173,9 @@ const app = new Vue({
             if (url.includes("vk.com")) {
                 if (url.includes("?w=")) {
                     return 'VK post';
+                }
+                if (url.includes("/topic-")) {
+                    return 'VK topic';
                 }
                 return 'VKontakte';
             }
