@@ -16,7 +16,7 @@ const DATAFILES = [
     "collection.json?2",
     "derzhi5.json?2",
     "einsteinparty.json?3",
-    "einsteinpartybel.json?3",
+    "einsteinpartybel.json?4",
     "elevenquiz.json?3",
     "eureka.json?2",
     "gameon.json",
