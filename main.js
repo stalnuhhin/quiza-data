@@ -36,7 +36,7 @@ const DATAFILES = [
     "kleveria.json?2",
     "klub60sec.json?2",
     "klub60secgatchina.json",
-    "klubonlinevoprosov.json?2",
+    "klubonlinevoprosov.json?3",
     "kvizhn.json?2",
     "kvizpliz.json?2",
     "madheadshow.json?3",
