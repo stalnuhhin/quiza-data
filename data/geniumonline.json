@@ -33,8 +33,13 @@
         "url": ["http://genium-quiz.com/events/sprint-online-2"]
       },
       {
+        "time": "2020-04-18T20:00:00+03:00",
+        "name": "Genium Challenge Online",
+        "url": ["http://genium-quiz.com/events/challenge-online-3"]
+      },
+      {
         "time": "2020-04-22T20:00:00+03:00",
-        "name": "Genium Sprint Online (повтор)",
+        "name": "Genium Sprint Online",
         "url": ["http://genium-quiz.com/events/sprint-online-2-2"]
       }
     ]
