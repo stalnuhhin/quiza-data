@@ -1,7 +1,7 @@
 [
   {
     "org": "Quantum",
-    "latestCheck": "2020-04-07T12:00:00+03:00",
+    "latestCheck": "2020-04-15T12:00:00+03:00",
     "type": ["events", "aggr"],
     "image": "quantum.png",
     "url": ["https://qgame.online/tournaments"],

@@ -1,27 +1,24 @@
 [
   {
     "org": "Клеверия",
-    "latestCheck": "2020-04-12T12:00:00+03:00",
+    "name": "Клеверия",
+    "latestCheck": "2020-04-15T12:00:00+03:00",
     "type": ["events"],
     "image": "kleveria.png",
     "duration": 2,
-    "free": true,
+    "price": ["700 RUB/ком"],
     "url": ["https://kleveria.ru"],
     "games": [
       {
         "time": "2020-04-07T19:30:00+03:00",
-        "name": "Клеверия",
         "free": true
       },
       {
         "time": "2020-04-10T19:30:00+03:00",
-        "name": "Клеверия",
         "free": true
       },
       {
-        "time": "2020-04-14T19:30:00+03:00",
-        "name": "Клеверия",
-        "price": ["700 RUB/ком"]
+        "time": "2020-04-17T19:30:00+03:00"
       }
     ]
   }

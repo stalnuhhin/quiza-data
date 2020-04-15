@@ -1,7 +1,7 @@
 [
   {
     "org": "Quizy",
-    "latestCheck": "2020-04-12T12:00:00+03:00",
+    "latestCheck": "2020-04-15T12:00:00+03:00",
     "type": ["aggr", "events"],
     "duration": 1,
     "registration": true,
@@ -97,6 +97,36 @@
         "name": "Киноугадаечка - Фантастика!",
         "price": ["300 RUB/ком"],
         "url": ["https://quizy.pro/streams/1874"]
+      },
+      {
+        "time": "2020-04-15T18:00:00+03:00",
+        "name": "Что было в кадре? - Звездный войны",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2087"]
+      },
+      {
+        "time": "2020-04-15T18:00:00+03:00",
+        "name": "Стоп! Снято! №3 Новые вопросы",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2095"]
+      },
+      {
+        "time": "2020-04-15T19:00:00+03:00",
+        "name": "ТаБуретКа Online #7",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2139"]
+      },
+      {
+        "time": "2020-04-16T15:00:00+03:00",
+        "name": "KGCLub (54) #2",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2122"]
+      },
+      {
+        "time": "2020-04-17T18:30:00+03:00",
+        "name": "Киноугадаечка!",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2145"]
       }
     ]
   }

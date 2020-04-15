@@ -1,11 +1,11 @@
 [
   {
     "org": "Мозгобойня",
-    "latestCheck": "2020-04-10T12:00:00+03:00",
+    "latestCheck": "2020-04-15T12:00:00+03:00",
     "type": ["events"],
     "image": "mzgb.png",
     "duration": 1.5,
-    "url": ["https://taplink.cc/mzgb_msk"],
+    "url": ["https://taplink.cc/mzgb_msk", "https://live.mozgo.com"],
     "games": [
       {
         "time": "2020-04-11T18:00:00+03:00",
@@ -24,6 +24,34 @@
         "name": "MozgoCash: классическая игра",
         "price": ["399 RUB/ком"],
         "url": ["https://quizy.pro/streams/1831"]
+      },
+      {
+        "time": "2020-04-14T18:30:00+03:00",
+        "name": "Мозгобойня live",
+        "price": ["899 RUB/ком"]
+      },
+      {
+        "time": "2020-04-15T19:00:00+03:00",
+        "name": "MozgoCash: 18+",
+        "price": ["399 RUB/ком"],
+        "url": ["https://quizy.pro/streams/1912"]
+      },
+      {
+        "time": "2020-04-17T18:30:00+03:00",
+        "name": "Мозгобойня live",
+        "price": ["899 RUB/ком"]
+      },
+      {
+        "time": "2020-04-18T18:00:00+03:00",
+        "name": "MozgoCash: классическая игра",
+        "price": ["399 RUB/ком"],
+        "url": ["https://quizy.pro/streams/1929"]
+      },
+      {
+        "time": "2020-04-19T16:00:00+03:00",
+        "name": "MozgoCash: Гарри Поттер",
+        "price": ["399 RUB/ком"],
+        "url": ["https://quizy.pro/streams/1930"]
       }
     ]
   }

@@ -1,7 +1,7 @@
 [
   {
     "org": "ВертиGO",
-    "latestCheck": "2020-04-12T12:00:00+03:00",
+    "latestCheck": "2020-04-15T12:00:00+03:00",
     "type": ["events"],
     "image": "vertigo.png",
     "duration": 1.5,
@@ -10,8 +10,13 @@
     "games": [
       {
         "time": "2020-04-09T19:00:00+03:00",
-        "name": "ВертиGO-online. Игра № 1",
+        "name": "ВертиGO-online. Игра №1",
         "url": ["https://quizy.pro/streams/1687"]
+      },
+      {
+        "time": "2020-04-16T19:00:00+03:00",
+        "name": "ВертиGO-online. Игра №2",
+        "url": ["https://quizy.pro/streams/2015"]
       }
     ]
   }

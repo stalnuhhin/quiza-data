@@ -1,7 +1,7 @@
 [
   {
     "org": "BrainHub",
-    "latestCheck": "2020-04-10T12:00:00+03:00",
+    "latestCheck": "2020-04-15T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -82,6 +82,24 @@
         "chgk": true,
         "price": ["300 UAH/ком"],
         "url": ["https://www.facebook.com/events/233667907752920/"]
+      },
+      {
+        "time": "2020-04-22T20:00:00+03:00",
+        "name": "BrainHub Online Cup по Своей игре",
+        "price": ["120 UAH/чел"],
+        "url": ["https://www.facebook.com/events/2366185513681088/"]
+      },
+      {
+        "time": "2020-04-23T20:00:00+03:00",
+        "name": "BrainHub Online Cup по Своей игре",
+        "price": ["120 UAH/чел"],
+        "url": ["https://www.facebook.com/events/2366185513681088/"]
+      },
+      {
+        "time": "2020-04-24T20:00:00+03:00",
+        "name": "BrainHub Online Cup по Своей игре",
+        "price": ["120 UAH/чел"],
+        "url": ["https://www.facebook.com/events/2366185513681088/"]
       }
     ]
   }

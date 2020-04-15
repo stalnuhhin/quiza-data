@@ -1,7 +1,7 @@
 [
   {
     "org": "Brain Battle",
-    "latestCheck": "2020-04-10T12:00:00+03:00",
+    "latestCheck": "2020-04-15T12:00:00+03:00",
     "type": ["events"],
     "image": "brainbattle.png",
     "duration": 2,
@@ -12,9 +12,12 @@
       {
         "time": "2020-04-12T18:00:00+03:00",
         "name": "Brain Battle #2",
-        "url": [
-          "https://vk.com/brainbattleram?w=wall-162154434_3421"
-        ]
+        "url": ["https://vk.com/wall-162154434_3421"]
+      },
+      {
+        "time": "2020-04-19T18:00:00+03:00",
+        "name": "Brain Battle #3",
+        "url": ["https://vk.com/wall-162154434_3473"]
       }
     ]
   }
