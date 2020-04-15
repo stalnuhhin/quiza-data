@@ -44,6 +44,7 @@ const DATAFILES = [
     "kvizplizmsk.json",
     "kvizplizspb.json",
     "madheadshow.json",
+    "manhattanclub.json",
     "mozgomania.json",
     "mzgb.json",
     "mzgbtln.json",
