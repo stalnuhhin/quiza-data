@@ -1,0 +1,20 @@
+[
+  {
+    "org": "ЧГК в Киеве",
+    "latestCheck": "2020-04-15T12:00:00+03:00",
+    "type": ["events"],
+    "image": "kievchgk.png",
+    "duration": 2,
+    "url": ["https://www.facebook.com/pg/chgk.kiev.ua/events/"],
+    "games": [
+      {
+        "time": "2020-04-16T19:30:00+03:00",
+        "name": "Онлайн ЧГК IV от #kyïvchgk",
+        "chgk": true,
+        "donate": true,
+        "free": true,
+        "url": ["https://www.facebook.com/events/237304820972288"]
+      }
+    ]
+  }
+]

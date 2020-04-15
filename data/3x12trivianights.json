@@ -1,0 +1,20 @@
+[
+  {
+    "org": "3x12 Trivia Nights",
+    "latestCheck": "2020-04-15T12:00:00+03:00",
+    "type": ["events"],
+    "image": "3x12trivianights.png",
+    "duration": 2,
+    "url": ["https://www.facebook.com/trivia3x12"],
+    "games": [
+      {
+        "time": "2020-04-18T18:30:00+01:00",
+        "name": "Irish Online Trivia by 3x12",
+        "lang": "По-английски",
+        "donate": true,
+        "free": true,
+        "url": ["https://www.facebook.com/events/811566339253174/"]
+      }
+    ]
+  }
+]
