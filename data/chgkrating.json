@@ -73,6 +73,48 @@
         "name": "ЧГК: «Tet-a-tet+»",
         "price": ["100 RUB/2чел", "150 RUB/3чел"],
         "url": ["https://www.facebook.com/groups/chgk.global/permalink/1504893669673923/"]
+      },
+      {
+        "time": "2020-04-16T19:00:00+03:00",
+        "name": "ЧГК: Не числом, а умением",
+        "price": ["50 UAH/чел", "170 RUB/чел", "max 200 UAH/ком", "max 680 RUB/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/238083247385312/"]
+      },
+      {
+        "time": "2020-04-17T15:00:00+03:00",
+        "name": "ЧГК: Не числом, а умением",
+        "price": ["50 UAH/чел", "170 RUB/чел", "max 200 UAH/ком", "max 680 RUB/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/238083247385312/"]
+      },
+      {
+        "time": "2020-04-19T19:00:00+03:00",
+        "name": "ЧГК: Не числом, а умением - 2",
+        "price": ["50 UAH/чел", "170 RUB/чел", "max 200 UAH/ком", "max 680 RUB/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/238083247385312/"]
+      },
+      {
+        "time": "2020-04-20T16:00:00+03:00",
+        "name": "ЧГК: Не числом, а умением - 2",
+        "price": ["50 UAH/чел", "170 RUB/чел", "max 200 UAH/ком", "max 680 RUB/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/238083247385312/"]
+      },
+      {
+        "time": "2020-04-22T15:00:00+03:00",
+        "name": "ЧГК: Не числом, а умением",
+        "price": ["50 UAH/чел", "170 RUB/чел", "max 200 UAH/ком", "max 680 RUB/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/238083247385312/"]
+      },
+      {
+        "time": "2020-04-21T15:00:00+03:00",
+        "name": "ЧГК: Не числом, а умением - 2",
+        "price": ["50 UAH/чел", "170 RUB/чел", "max 200 UAH/ком", "max 680 RUB/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/238083247385312/"]
+      },
+      {
+        "time": "2020-04-23T19:00:00+03:00",
+        "name": "ЧГК: Не числом, а умением - 2",
+        "price": ["50 UAH/чел", "170 RUB/чел", "max 200 UAH/ком", "max 680 RUB/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/238083247385312/"]
       }
     ]
   }
