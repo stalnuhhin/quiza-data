@@ -1,7 +1,7 @@
 [
   {
     "org": "Bee Clever",
-    "latestCheck": "2020-04-15T12:00:00+03:00",
+    "latestCheck": "2020-04-16T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "url": ["https://www.facebook.com/pg/BEEEECLEVER/posts"],
@@ -32,6 +32,13 @@
         "duration": 3,
         "url": ["https://www.facebook.com/events/2672423882884487"],
         "price": ["150 UAH/чел"]
+      },
+      {
+        "time": "2020-04-26T20:00:00+03:00",
+        "name": "ЧГК: Город грехов - 2020: Пир во время чумы (Эдуард Голуб)",
+        "template": "chgk",
+        "url": ["https://www.facebook.com/events/507184906626833/"],
+        "price": ["11 USD/ком", "300 UAH/ком"]
       }
     ]
   }

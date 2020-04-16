@@ -1,0 +1,23 @@
+[
+  {
+    "org": "Quiz Time",
+    "latestCheck": "2020-04-16T12:00:00+03:00",
+    "type": ["events"],
+    "duration": 2,
+    "image": "quiztimekr.png",
+    "price": ["50 UAH/чел"],
+    "url": ["https://www.facebook.com/quiztime.kr"],
+    "games": [
+      {
+        "time": "2020-04-18T18:30:00+03:00",
+        "name": "QUIZ TIME online game",
+        "url": ["https://www.facebook.com/events/532597677657659/"]
+      },
+      {
+        "time": "2020-04-25T18:30:00+03:00",
+        "name": "QUIZ TIME online game",
+        "url": ["https://www.facebook.com/events/532597677657659/"]
+      }
+    ]
+  }
+]

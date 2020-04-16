@@ -1,4 +1,4 @@
-const DATA_VERSION = 8;
+const DATA_VERSION = 9;
 const DATAFILES = [
     "3x12trivianights.json",
     "beeclever.json",
@@ -57,6 +57,7 @@ const DATAFILES = [
     "quizfun.json",
     "quizium.json",
     "quiznightdp.json",
+    "quiztimekr.json",
     "quizypro.json",
     "quriosity.json",
     "sahar.json",
