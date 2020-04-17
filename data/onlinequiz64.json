@@ -1,7 +1,7 @@
 [
   {
     "org": "Online Quiz 64",
-    "latestCheck": "2020-04-15T12:00:00+03:00",
+    "latestCheck": "2020-04-17T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "price": ["150 RUB/ком"],
@@ -32,6 +32,26 @@
         "time": "2020-04-15T19:30:00+03:00",
         "name": "Спорт #2 (повтор)",
         "url": ["https://quizy.pro/streams/1995"]
+      },
+      {
+        "time": "2020-04-24T159:00:00+03:00",
+        "name": "География #2",
+        "url": ["https://quizy.pro/streams/2195", "https://vk.com/wall-193933447_31"]
+      },
+      {
+        "time": "2020-04-24T19:00:00+03:00",
+        "name": "География #2 (повтор)",
+        "url": ["https://quizy.pro/streams/2196", "https://vk.com/wall-193933447_31"]
+      },
+      {
+        "time": "2020-04-26T14:00:00+03:00",
+        "name": "Спорт #3",
+        "url": ["https://quizy.pro/streams/2192", "https://vk.com/wall-193933447_31"]
+      },
+      {
+        "time": "2020-04-26T19:00:00+03:00",
+        "name": "Спорт #3 (повтор)",
+        "url": ["https://quizy.pro/streams/2193", "https://vk.com/wall-193933447_31"]
       }
     ]
   }

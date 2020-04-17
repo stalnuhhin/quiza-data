@@ -1,7 +1,8 @@
 [
   {
-    "org": "Чё, самый умный?!",
-    "latestCheck": "2020-04-15T12:00:00+03:00",
+    "org": "Чё, самый умный?! (Минск)",
+    "name": "Онлайн-игра",
+    "latestCheck": "2020-04-17T12:00:00+03:00",
     "type": ["events"],
     "image": "chesamyjumnyj.png",
     "duration": 1.5,
@@ -10,13 +11,15 @@
     "games": [
       {
         "time": "2020-04-11T15:00:00+03:00",
-        "name": "Онлайн-игра #1",
-        "url": ["https://vk.com/game.brains.minsk?w=wall-28490858_321650"]
+        "url": ["https://vk.com/wall-28490858_321650"]
       },
       {
         "time": "2020-04-12T18:00:00+03:00",
-        "name": "Онлайн-игра #2",
-        "url": ["https://vk.com/game.brains.minsk?w=wall-186939005_587"]
+        "url": ["https://vk.com/wall-186939005_587"]
+      },
+      {
+        "time": "2020-04-23T19:30:00+03:00",
+        "url": ["https://vk.com/wall-186939005_614"]
       }
     ]
   }

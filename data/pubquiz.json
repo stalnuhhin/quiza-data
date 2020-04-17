@@ -1,7 +1,7 @@
 [
   {
     "org": "PubQuiz",
-    "latestCheck": "2020-04-15T12:00:00+03:00",
+    "latestCheck": "2020-04-17T12:00:00+03:00",
     "type": ["events"],
     "image": "pubquiz.png",
     "duration": 3,
@@ -25,6 +25,16 @@
         "time": "2020-04-16T20:00:00+03:00",
         "name": "PubQuiz Online vol.3",
         "url": ["https://www.facebook.com/events/710863739653376/"]
+      },
+      {
+        "time": "2020-04-21T20:00:00+03:00",
+        "name": "PubQuiz Online vol.4",
+        "url": ["https://www.facebook.com/events/540159840235552/"]
+      },
+      {
+        "time": "2020-04-23T20:00:00+03:00",
+        "name": "Movie Party Online",
+        "url": ["https://www.facebook.com/events/2506157136302640/"]
       }
     ]
   }

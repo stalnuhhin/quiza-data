@@ -1,8 +1,9 @@
 [
   {
     "org": "Quizy",
-    "latestCheck": "2020-04-15T12:00:00+03:00",
+    "latestCheck": "2020-04-17T12:00:00+03:00",
     "type": ["aggr", "events"],
+    "image": "quizypro.png",
     "duration": 1,
     "registration": true,
     "desc": "Платформа для онлайн игр.",
@@ -127,6 +128,60 @@
         "name": "Киноугадаечка!",
         "price": ["300 RUB/ком"],
         "url": ["https://quizy.pro/streams/2145"]
+      },
+      {
+        "time": "2020-04-17T19:00:00+03:00",
+        "name": "Стоп! Снято! КОМЕДИИ",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2216"]
+      },
+      {
+        "time": "2020-04-17T19:00:00+03:00",
+        "name": "ТаБуретКа Online #8",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2230"]
+      },
+      {
+        "time": "2020-04-17T20:00:00+03:00",
+        "name": "POP QUIZ: Games #2",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2194"]
+      },
+      {
+        "time": "2020-04-18T13:00:00+03:00",
+        "name": "ТаБуретКа Online #8",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2231"]
+      },
+      {
+        "time": "2020-04-18T15:00:00+03:00",
+        "name": "Cinema Quiz",
+        "price": ["150 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2198"]
+      },
+      {
+        "time": "2020-04-18T17:00:00+03:00",
+        "name": "Стоп! Снято!",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2202"]
+      },
+      {
+        "time": "2020-04-18T20:00:00+03:00",
+        "name": "POP CINEMA: Лучшее",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2248"]
+      },
+      {
+        "time": "2020-04-19T15:00:00+03:00",
+        "name": "Аниме Квиз",
+        "price": ["149 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2180"]
+      },
+      {
+        "time": "2020-04-19T17:00:00+03:00",
+        "name": "Стоп! Снято! Гарри Поттер",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2095"]
       }
     ]
   }

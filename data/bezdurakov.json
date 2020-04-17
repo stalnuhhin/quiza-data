@@ -1,7 +1,7 @@
 [
   {
     "org": "Без дураков (Ровшан Аскеров и Борис Левин)",
-    "latestCheck": "2020-04-15T12:00:00+03:00",
+    "latestCheck": "2020-04-17T12:00:00+03:00",
     "type": ["events"],
     "noregistration": true,
     "hasContent": true,
@@ -84,6 +84,26 @@
       },
       {
         "time": "2020-04-17T12:00:00+03:00",
+        "template": "disclosure"
+      },
+      {
+        "time": "2020-04-20T12:00:00+03:00",
+        "template": "disclosure"
+      },
+      {
+        "time": "2020-04-21T14:00:00+03:00",
+        "template": "blitz"
+      },
+      {
+        "time": "2020-04-22T12:00:00+03:00",
+        "template": "disclosure"
+      },
+      {
+        "time": "2020-04-23T14:00:00+03:00",
+        "template": "blitz"
+      },
+      {
+        "time": "2020-04-24T12:00:00+03:00",
         "template": "disclosure"
       }
     ]

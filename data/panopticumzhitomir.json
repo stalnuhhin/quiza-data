@@ -1,7 +1,7 @@
 [
   {
     "org": "Пан ОптикУМ",
-    "latestCheck": "2020-04-15T12:00:00+03:00",
+    "latestCheck": "2020-04-17T12:00:00+03:00",
     "type": ["events"],
     "image": "panopticumzhitomir.png",
     "duration": 2,
@@ -12,6 +12,11 @@
         "time": "2020-04-11T17:30:00+03:00",
         "name": "Жутко тихо и запредельно далеко",
         "url": ["https://www.facebook.com/events/2655222561433060"]
+      },
+      {
+        "time": "2020-04-25T17:30:00+03:00",
+        "name": "Далеко, далеко на лугу пасется Ко",
+        "url": ["https://www.facebook.com/events/156005512463518"]
       }
     ]
   }

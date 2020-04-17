@@ -1,7 +1,8 @@
 [
   {
     "org": "BrainBarQuiz",
-    "latestCheck": "2020-04-15T12:00:00+03:00",
+    "name": "BBQuizHome",
+    "latestCheck": "2020-04-175T12:00:00+03:00",
     "type": ["events"],
     "image": "brainbarquiz.png",
     "duration": 2,
@@ -10,13 +11,16 @@
     "games": [
       {
         "time": "2020-04-11T17:00:00+03:00",
-        "name": "BBQuizHome",
-        "url": ["https://vk.com/bbquizmoscow?w=wall-138515221_4426"]
+        "url": ["https://vk.com/wall-138515221_4426"]
       },
       {
         "time": "2020-04-15T19:00:00+03:00",
         "name": "Лайт BBQuizHome",
-        "url": ["https://vk.com/bbquizmoscow?w=wall-138515221_4466"]
+        "url": ["https://vk.com/wall-138515221_4466"]
+      },
+      {
+        "time": "2020-04-18T17:00:00+03:00",
+        "url": ["https://vk.com/wall-138515221_4484"]
       }
     ]
   }

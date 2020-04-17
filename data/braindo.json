@@ -1,7 +1,7 @@
 [
   {
     "org": "BRAINDO",
-    "latestCheck": "2020-04-15T12:00:00+03:00",
+    "latestCheck": "2020-04-17T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "price": ["2400 RUB/ком"],
@@ -17,6 +17,16 @@
         "time": "2020-04-12T18:00:00+10:00",
         "name": "Кубок Бродского (повтор)",
         "url": ["https://quizy.pro/streams/1932"]
+      },
+      {
+        "time": "2020-04-25T18:00:00+10:00",
+        "name": "Кубок Хаксли",
+        "url": ["https://www.facebook.com/events/760490457818462"]
+      },
+      {
+        "time": "2020-04-26T18:00:00+10:00",
+        "name": "Кубок Хаксли (повтор)",
+        "url": ["https://www.facebook.com/events/760490457818462"]
       }
     ]
   }

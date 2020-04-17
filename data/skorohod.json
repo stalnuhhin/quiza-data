@@ -1,7 +1,7 @@
 [
   {
     "org": "Квизы Скороход",
-    "latestCheck": "2020-04-15T12:00:00+03:00",
+    "latestCheck": "2020-04-17T12:00:00+03:00",
     "type": ["events"],
     "image": "skorohod.png",
     "duration": 1,
@@ -59,6 +59,16 @@
         "name": "Фильмоскоп Online #6",
         "price": ["300 RUB/ком"],
         "url": ["https://quizy.pro/streams/2118", "https://vk.com/wall-74247084_1686"]
+      },
+      {
+        "time": "2020-04-18T14:00:00+07:00",
+        "name": "Музыкальный Квиз",
+        "price": ["300 RUB/ком"]
+      },
+      {
+        "time": "2020-04-22T21:30:00+07:00",
+        "name": "Фильмоскоп Online #7",
+        "price": ["300 RUB/ком"]
       }
     ]
   }

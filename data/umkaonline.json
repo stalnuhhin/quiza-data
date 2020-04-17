@@ -2,7 +2,7 @@
   {
     "org": "Ума Палата Online",
     "name": "Ума Палата",
-    "latestCheck": "2020-04-15T12:00:00+03:00",
+    "latestCheck": "2020-04-17T12:00:00+03:00",
     "type": ["events"],
     "hasContent": true,
     "noregistration": true,
@@ -160,10 +160,6 @@
       },
       {
         "time": "2020-04-16T21:00:00+03:00",
-        "name": "Умка ONLINE"
-      },
-      {
-        "time": "2020-04-17T16:00:00+03:00",
         "name": "Умка ONLINE"
       },
       {
