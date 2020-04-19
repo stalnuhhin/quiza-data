@@ -1,12 +1,12 @@
 [
   {
     "org": "CHGK World",
-    "latestCheck": "2020-04-15T12:00:00+03:00",
+    "latestCheck": "2020-04-20T12:00:00+03:00",
     "type": ["events"],
     "image": "chgk.png",
     "chgk": true,
     "duration": 2.5,
-    "url": ["https://profi.chgk-world.ru"],
+    "url": ["http://intgame.ru"],
     "games": [
       {
         "time": "2020-04-05T13:00:00+03:00",

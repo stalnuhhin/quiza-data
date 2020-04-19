@@ -1,7 +1,7 @@
 [
   {
     "org": "3x12 Trivia Nights",
-    "latestCheck": "2020-04-17T12:00:00+03:00",
+    "latestCheck": "2020-04-20T12:00:00+03:00",
     "type": ["events"],
     "image": "3x12trivianights.png",
     "duration": 2,
@@ -14,6 +14,14 @@
         "donate": true,
         "free": true,
         "url": ["https://www.facebook.com/events/811566339253174/"]
+      },
+      {
+        "time": "2020-04-25T18:30:00+01:00",
+        "name": "'Friends' Online Trivia by 3x12",
+        "lang": "По-английски",
+        "donate": true,
+        "free": true,
+        "url": ["https://www.facebook.com/events/229140384813539/"]
       }
     ]
   }

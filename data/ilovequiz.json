@@ -1,12 +1,12 @@
 [
   {
     "org": "I Love Quiz",
-    "latestCheck": "2020-04-17T12:00:00+03:00",
+    "latestCheck": "2020-04-20T12:00:00+03:00",
     "type": ["events"],
     "free": true,
     "duration": 2,
     "image": "ilovequiz.png",
-    "url": ["https://ilovequiz.ru", "https://www.facebook.com/ilovequiz"],
+    "url": ["https://old.ilovequiz.ru/", "https://ilovequiz.ru", "https://www.facebook.com/ilovequiz"],
     "games": [
       {
         "time": "2020-04-09T20:00:00+03:00",
@@ -37,6 +37,21 @@
         "time": "2020-04-18T17:00:00+03:00",
         "name": "Онлайн-игра 2.2",
         "url": ["https://old.ilovequiz.ru/game/91"]
+      },
+      {
+        "time": "2020-04-22T20:00:00+03:00",
+        "name": "Тематическая игра 90-е (повтор)",
+        "url": ["https://old.ilovequiz.ru/game/92"]
+      },
+      {
+        "time": "2020-04-23T20:00:00+03:00",
+        "name": "Онлайн-игра 3.1",
+        "url": ["https://old.ilovequiz.ru/game/93"]
+      },
+      {
+        "time": "2020-04-25T17:00:00+03:00",
+        "name": "Онлайн-игра 3.2",
+        "url": ["https://old.ilovequiz.ru/game/94"]
       }
     ]
   }
