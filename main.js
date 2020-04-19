@@ -1,4 +1,4 @@
-const DATA_VERSION = 11;
+const DATA_VERSION = 12;
 const DATAFILES = [
     "3x12trivianights.json",
     "beeclever.json",
@@ -10,6 +10,7 @@ const DATAFILES = [
     "brainhub.json",
     "brainwars.json",
     "bquizonline.json",
+    "chgkfily.json",
     "chgkrating.json",
     "chgkworld.json",
     "chesamyjumnyj.json",

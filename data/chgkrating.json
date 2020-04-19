@@ -48,13 +48,19 @@
       {
         "time": "2020-04-12T17:00:00+04:00",
         "name": "ЧГК: CHGK Is... On-line (парный ЧГК)",
-        "url": ["https://www.facebook.com/events/264337704584908", "https://play.google.com/store/apps/details?id=com.openapps.chgk_captain"]
+        "url": [
+          "https://www.facebook.com/events/264337704584908",
+          "https://play.google.com/store/apps/details?id=com.openapps.chgk_captain"
+        ]
       },
       {
         "time": "2020-04-12T23:00:00+03:00",
         "name": "ЧГК: Коронавирус 2020. Весна (последний шанс сыграть через Google-форму",
         "duration": 1,
-        "url": ["https://www.facebook.com/groups/chgk.global/permalink/1496076007222356","https://rating.chgk.info/tournament/6393"]
+        "url": [
+          "https://www.facebook.com/groups/chgk.global/permalink/1496076007222356",
+          "https://rating.chgk.info/tournament/6393"
+        ]
       },
       {
         "time": "2020-04-14T19:30:00+03:00",
@@ -99,6 +105,15 @@
         "url": ["https://www.facebook.com/events/3133383086693310"]
       },
       {
+        "time": "2020-04-19T15:00:00+03:00",
+        "name": "ЧГК: Синхрон Урюбджирова",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": [
+          "https://www.facebook.com/groups/229434871583483/permalink/242174826976154/",
+          "https://docs.google.com/forms/d/e/1FAIpQLSdZPv5gb1sUW0is24EA1nOrbYfD9P_Vy6nnyWNYC-4rRol0mw/viewform?fbclid=IwAR3UpoZH2Lod8u_bf4wHbbIu2dYLZyR99zuvrl10HjXl-xQt1I8oR3Ck3f8"
+        ]
+      },
+      {
         "time": "2020-04-19T19:00:00+03:00",
         "name": "ЧГК: Не числом, а умением - 2",
         "price": ["50 UAH/чел", "170 RUB/чел", "max 200 UAH/ком", "max 680 RUB/ком"],
@@ -111,10 +126,22 @@
         "url": ["https://www.facebook.com/groups/229434871583483/permalink/238083247385312/"]
       },
       {
-        "time": "2020-04-22T15:00:00+03:00",
-        "name": "ЧГК: Не числом, а умением",
-        "price": ["50 UAH/чел", "170 RUB/чел", "max 200 UAH/ком", "max 680 RUB/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/238083247385312/"]
+        "time": "2020-04-20T19:00:00+03:00",
+        "name": "ЧГК: Синхрон Урюбджирова",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": [
+          "https://www.facebook.com/groups/229434871583483/permalink/242174826976154/",
+          "https://docs.google.com/forms/d/e/1FAIpQLSdZPv5gb1sUW0is24EA1nOrbYfD9P_Vy6nnyWNYC-4rRol0mw/viewform?fbclid=IwAR3UpoZH2Lod8u_bf4wHbbIu2dYLZyR99zuvrl10HjXl-xQt1I8oR3Ck3f8"
+        ]
+      },
+      {
+        "time": "2020-04-21T15:00:00+03:00",
+        "name": "ЧГК: Лига Старта - апрель",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": [
+          "https://www.facebook.com/groups/229434871583483/permalink/242174826976154/",
+          "https://docs.google.com/forms/d/e/1FAIpQLSdZPv5gb1sUW0is24EA1nOrbYfD9P_Vy6nnyWNYC-4rRol0mw/viewform?fbclid=IwAR3UpoZH2Lod8u_bf4wHbbIu2dYLZyR99zuvrl10HjXl-xQt1I8oR3Ck3f8"
+        ]
       },
       {
         "time": "2020-04-21T15:00:00+03:00",
@@ -123,10 +150,52 @@
         "url": ["https://www.facebook.com/groups/229434871583483/permalink/238083247385312/"]
       },
       {
+        "time": "2020-04-22T15:00:00+03:00",
+        "name": "ЧГК: Не числом, а умением",
+        "price": ["50 UAH/чел", "170 RUB/чел", "max 200 UAH/ком", "max 680 RUB/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/238083247385312/"]
+      },
+      {
+        "time": "2020-04-22T19:00:00+03:00",
+        "name": "ЧГК: Синхрон-lite - Выпуск XXXIV - апрель",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": [
+          "https://www.facebook.com/groups/229434871583483/permalink/242174826976154/",
+          "https://docs.google.com/forms/d/e/1FAIpQLSdZPv5gb1sUW0is24EA1nOrbYfD9P_Vy6nnyWNYC-4rRol0mw/viewform?fbclid=IwAR3UpoZH2Lod8u_bf4wHbbIu2dYLZyR99zuvrl10HjXl-xQt1I8oR3Ck3f8"
+        ]
+      },
+      {
+        "time": "2020-04-23T15:00:00+03:00",
+        "name": "ЧГК: Легкий Смоленск-5",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": [
+          "https://www.facebook.com/groups/229434871583483/permalink/242174826976154/",
+          "https://docs.google.com/forms/d/e/1FAIpQLSdZPv5gb1sUW0is24EA1nOrbYfD9P_Vy6nnyWNYC-4rRol0mw/viewform?fbclid=IwAR3UpoZH2Lod8u_bf4wHbbIu2dYLZyR99zuvrl10HjXl-xQt1I8oR3Ck3f8"
+        ]
+      },
+      {
         "time": "2020-04-23T19:00:00+03:00",
         "name": "ЧГК: Не числом, а умением - 2",
         "price": ["50 UAH/чел", "170 RUB/чел", "max 200 UAH/ком", "max 680 RUB/ком"],
         "url": ["https://www.facebook.com/groups/229434871583483/permalink/238083247385312/"]
+      },
+      {
+        "time": "2020-04-24T19:00:00+03:00",
+        "name": "ЧГК: Синхрон Урюбджирова",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": [
+          "https://www.facebook.com/groups/229434871583483/permalink/242174826976154/",
+          "https://docs.google.com/forms/d/e/1FAIpQLSdZPv5gb1sUW0is24EA1nOrbYfD9P_Vy6nnyWNYC-4rRol0mw/viewform?fbclid=IwAR3UpoZH2Lod8u_bf4wHbbIu2dYLZyR99zuvrl10HjXl-xQt1I8oR3Ck3f8"
+        ]
+      },
+      {
+        "time": "2020-04-25T15:00:00+03:00",
+        "name": "ЧГК: Синхрон-lite - Выпуск XXXIV - апрель",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": [
+          "https://www.facebook.com/groups/229434871583483/permalink/242174826976154/",
+          "https://docs.google.com/forms/d/e/1FAIpQLSdZPv5gb1sUW0is24EA1nOrbYfD9P_Vy6nnyWNYC-4rRol0mw/viewform?fbclid=IwAR3UpoZH2Lod8u_bf4wHbbIu2dYLZyR99zuvrl10HjXl-xQt1I8oR3Ck3f8"
+        ]
       },
       {
         "time": "2020-04-30T19:00:00+03:00",

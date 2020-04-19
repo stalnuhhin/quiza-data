@@ -1,7 +1,7 @@
 [
   {
     "org": "Мозгомания",
-    "latestCheck": "2020-04-17T12:00:00+03:00",
+    "latestCheck": "2020-04-19T12:00:00+03:00",
     "type": ["events"],
     "image": "mozgomania.png",
     "duration": 2,
@@ -412,6 +412,54 @@
         "name": "Любительская лига #5",
         "price": ["150 RUB/чел"],
         "url": ["https://quizy.pro/streams/2117"]
+      },
+      {
+        "time": "2020-04-20T21:00:00+03:00",
+        "name": "Киномания #5",
+        "price": ["200 RUB/чел"],
+        "url": ["https://quizy.pro/streams/2114"]
+      },
+      {
+        "time": "2020-04-21T12:00:00+03:00",
+        "name": "Киномания #5",
+        "price": ["200 RUB/чел"],
+        "url": ["https://quizy.pro/streams/2337"]
+      },
+      {
+        "time": "2020-04-21T15:00:00+03:00",
+        "name": "Киномания #5",
+        "price": ["200 RUB/чел"],
+        "url": ["https://quizy.pro/streams/2338"]
+      },
+      {
+        "time": "2020-04-21T18:00:00+03:00",
+        "name": "Киномания #5",
+        "price": ["200 RUB/чел"],
+        "url": ["https://quizy.pro/streams/2339"]
+      },
+      {
+        "time": "2020-04-23T21:00:00+03:00",
+        "name": "Музомания #2",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/2334"]
+      },
+      {
+        "time": "2020-04-24T12:00:00+03:00",
+        "name": "Музомания #2",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/2341"]
+      },
+      {
+        "time": "2020-04-24T15:00:00+03:00",
+        "name": "Музомания #2",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/2342"]
+      },
+      {
+        "time": "2020-04-24T18:00:00+03:00",
+        "name": "Музомания #2",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/2343"]
       }
     ]
   }
