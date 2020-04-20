@@ -8,7 +8,10 @@
     "image": "bezdurakov.png",
     "free": true,
     "price": ["300 RUB/чел/нед"],
-    "url": ["https://www.youtube.com/channel/UCuWVIpGmlfE_7qnzOMWosDw/videos", "http://bezdurakovclub.ru/online"],
+    "url": [
+      "https://vk.com/bezdurakovclub", "https://www.youtube.com/channel/UCuWVIpGmlfE_7qnzOMWosDw/videos",
+      "http://bezdurakovclub.ru/online"
+    ],
     "desc": "Игра Ровшана Аскерова и Бориса Левина. Онлайн вариант предлагается играть в виде туров каждый рабочий день, отвечая на вопросы с подсказками с 12:00 до 22:00 (по чуть-чуть каждые 2 часа).",
     "info": [
       "В течение дня на YouTube выкладываются вопросы. Читайте подробнее в описании к видео.",
@@ -87,24 +90,9 @@
         "template": "disclosure"
       },
       {
-        "time": "2020-04-20T12:00:00+03:00",
-        "template": "disclosure"
-      },
-      {
-        "time": "2020-04-21T14:00:00+03:00",
-        "template": "blitz"
-      },
-      {
-        "time": "2020-04-22T12:00:00+03:00",
-        "template": "disclosure"
-      },
-      {
-        "time": "2020-04-23T14:00:00+03:00",
-        "template": "blitz"
-      },
-      {
-        "time": "2020-04-24T12:00:00+03:00",
-        "template": "disclosure"
+        "time": "2020-04-18T20:00:00+03:00",
+        "name": "Без дураков ONLINE",
+        "price": ["2000 RUB/ком"]
       }
     ]
   }
