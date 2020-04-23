@@ -1,0 +1,18 @@
+[
+  {
+    "org": "Qlever",
+    "latestCheck": "2020-04-23T12:00:00+03:00",
+    "type": ["events"],
+    "image": "qlever.png",
+    "duration": 2,
+    "price": ["300 RUB/ком"],
+    "url": ["http://vk.com/qlever_quiz"],
+    "games": [
+      {
+        "time": "2020-04-25T16:00:00+03:00",
+        "name": "Qlever игра #1",
+        "url": ["https://quizy.pro/streams/2519"]
+      }
+    ]
+  }
+]

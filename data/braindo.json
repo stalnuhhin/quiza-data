@@ -1,12 +1,12 @@
 [
   {
     "org": "BRAINDO",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-04-23T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "price": ["2400 RUB/ком"],
     "image": "braindo.png",
-    "url": ["https://www.facebook.com/Braindoclub"],
+    "url": ["https://www.facebook.com/pg/Braindoclub/events/"],
     "games": [
       {
         "time": "2020-04-11T18:00:00+10:00",

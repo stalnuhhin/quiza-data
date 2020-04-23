@@ -1,12 +1,12 @@
 [
   {
     "org": "Узнавайзинг",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-04-23T12:00:00+03:00",
     "type": ["events"],
     "image": "uznavaizing.png",
     "duration": 1.5,
     "price": ["390 RUB/ком"],
-    "url": ["https://www.facebook.com/uznavayzing", "https://vk.com/uznavayzing", "https://uznavayzing.ru"],
+    "url": ["https://vk.com/uznavayzing", "https://www.facebook.com/pg/uznavayzing/posts", "https://uznavayzing.ru"],
     "games": [
       {
         "time": "2020-04-10T18:00:00+03:00",

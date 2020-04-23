@@ -1,7 +1,7 @@
 [
   {
     "org": "Quiz Night (Днепр)",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-04-23T12:00:00+03:00",
     "type": ["events"],
     "image": "quiznightdp.png",
     "duration": 2,
@@ -12,6 +12,11 @@
         "time": "2020-04-11T15:00:00+03:00",
         "name": "HOME QUIZ. Lite version",
         "url": ["https://www.facebook.com/events/1418174605028929"]
+      },
+      {
+        "time": "2020-04-25T15:00:00+03:00",
+        "name": "HOME QUIZ. Lite version",
+        "url": ["https://www.facebook.com/events/735828260284497/"]
       }
     ]
   }

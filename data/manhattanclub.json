@@ -1,7 +1,8 @@
 [
   {
     "org": "Manhattan Club (Николаев)",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "name": "Manhattan Club Online",
+    "latestCheck": "2020-04-23T12:00:00+03:00",
     "type": ["events"],
     "image": "manhattanclub.png",
     "duration": 1,
@@ -12,6 +13,11 @@
         "time": "2020-04-19T18:00:00+03:00",
         "name": "Первая Игра Manhattan Club Online",
         "url": ["https://www.facebook.com/events/3328572990505651/"]
+      },
+      {
+        "time": "2020-05-03T18:00:00+03:00",
+        "name": "Вторая Игра Manhattan Club Online",
+        "url": ["https://www.facebook.com/events/276510533353720/"]
       }
     ]
   }

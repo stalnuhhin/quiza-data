@@ -1,7 +1,7 @@
 [
   {
     "org": "СибКвиз",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-04-23T12:00:00+03:00",
     "type": ["events"],
     "image": "sibkviz.png",
     "duration": 2,
@@ -51,6 +51,11 @@
       {
         "time": "2020-04-19T20:00:00+07:00",
         "name": "СИБКВИЗ ONLINE #6"
+      },
+      {
+        "time": "2020-04-24T20:00:00+07:00",
+        "name": "СИБКВИЗ ONLINE #7",
+        "url": ["https://quizy.pro/streams/2568"]
       }
     ]
   }

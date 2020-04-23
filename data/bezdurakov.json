@@ -1,14 +1,15 @@
 [
   {
     "org": "Без дураков (Ровшан Аскеров и Борис Левин)",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "name": "Командная онлайн-игра Без дураков",
+    "latestCheck": "2020-04-23T12:00:00+03:00",
     "type": ["events"],
     "noregistration": true,
     "hasContent": true,
     "image": "bezdurakov.png",
-    "free": true,
-    "price": ["300 RUB/чел/нед"],
+    "price": ["2000 RUB/ком"],
     "url": [
+      "https://bezdurakov.timepad.ru/events/",
       "https://vk.com/bezdurakovclub", "https://www.youtube.com/channel/UCuWVIpGmlfE_7qnzOMWosDw/videos",
       "http://bezdurakovclub.ru/online"
     ],
@@ -21,11 +22,15 @@
     "templates": {
       "disclosure": {
         "duration": 10,
-        "name": "Без дураков - разоблачение"
+        "free": true,
+        "name": "Без дураков - разоблачение",
+        "price": ["300 RUB/чел/нед"]
       },
       "blitz": {
         "duration": 8,
-        "name": "Без дураков - блиц"
+        "free": true,
+        "name": "Без дураков - блиц",
+        "price": ["300 RUB/чел/нед"]
       }
     },
     "games": [
@@ -91,8 +96,19 @@
       },
       {
         "time": "2020-04-18T20:00:00+03:00",
-        "name": "Без дураков ONLINE",
-        "price": ["2000 RUB/ком"]
+        "url": ["https://bezdurakov.timepad.ru/event/1299205/"]
+      },
+      {
+        "time": "2020-04-22T20:00:00+03:00",
+        "url": ["https://bezdurakov.timepad.ru/event/1300587/"]
+      },
+      {
+        "time": "2020-04-25T20:00:00+03:00",
+        "url": ["https://bezdurakov.timepad.ru/event/1300589/"]
+      },
+      {
+        "time": "2020-04-29T20:00:00+03:00",
+        "url": ["https://bezdurakov.timepad.ru/event/1303108/"]
       }
     ]
   }

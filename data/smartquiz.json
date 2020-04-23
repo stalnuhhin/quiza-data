@@ -1,7 +1,8 @@
 [
   {
     "org": "Smart-Quiz",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "name": "Smart-Quiz",
+    "latestCheck": "2020-04-23T12:00:00+03:00",
     "type": ["events"],
     "hasContent": true,
     "image": "smartquiz.png",
@@ -18,18 +19,19 @@
     "games": [
       {
         "time": "2020-04-03T19:00:00+03:00",
-        "name": "Smart-Quiz",
         "url": ["https://www.facebook.com/events/3287378217961746"]
       },
       {
         "time": "2020-04-10T19:00:00+03:00",
-        "name": "Smart-Quiz",
         "url": ["https://www.facebook.com/events/1082903288750387"]
       },
       {
         "time": "2020-04-17T19:00:00+03:00",
-        "name": "Smart-Quiz",
         "url": ["https://www.facebook.com/events/2687193281406837"]
+      },
+      {
+        "time": "2020-04-24T19:00:00+03:00",
+        "url": ["https://www.facebook.com/events/236065574302949"]
       }
     ]
   }

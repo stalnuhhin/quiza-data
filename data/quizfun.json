@@ -1,24 +1,25 @@
 [
   {
     "org": "QuizFun Online",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "name": "КвизФан ОНЛАЙН",
+    "latestCheck": "2020-04-23T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
+    "free": true,
+    "donate": true,
     "image": "quizfun.png",
     "url": ["https://vk.com/quizfun_online"],
     "games": [
       {
         "time": "2020-04-05T18:00:00+03:00",
-        "name": "Первая игра КвизФан ОНЛАЙН",
-        "free": true,
-        "donate": true,
         "url": ["https://vk.com/quizfun_online?w=wall-193637731_34"]
       },
       {
-        "time": "2020-04-19T18:00:00+03:00",
-        "name": "КвизФан ОНЛАЙН",
-        "free": true,
-        "donate": true
+        "time": "2020-04-19T18:00:00+03:00"
+      },
+      {
+        "time": "2020-04-26T18:00:00+03:00",
+        "url": ["https://vk.com/wall-193637731_106"]
       }
     ]
   }

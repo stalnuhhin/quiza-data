@@ -1,7 +1,7 @@
 [
   {
     "org": "UmForum",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-04-23T12:00:00+03:00",
     "type": ["events"],
     "duration": 2.5,
     "price": ["1000 RUB/ком"],
@@ -32,6 +32,12 @@
         "time": "2020-04-19T18:00:00+03:00",
         "name": "Online игра",
         "price": ["500 RUB/ком"]
+      },
+      {
+        "time": "2020-04-24T19:00:00+03:00",
+        "name": "Online игра",
+        "price": ["700 RUB/ком"],
+        "url": ["https://vk.com/wall-156558867_5892"]
       }
     ]
   }

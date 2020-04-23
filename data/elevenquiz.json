@@ -1,7 +1,7 @@
 [
   {
     "org": "Eleve11 Quiz",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-04-23T12:00:00+03:00",
     "type": ["events"],
     "image": "elevenquiz.png",
     "duration": 2,
@@ -27,9 +27,9 @@
         "url": ["https://vk.com/wall-193324344_416"]
       },
       {
-        "time": "2020-04-21T19:00:00+03:00",
+        "time": "2020-04-26T15:00:00+03:00",
         "name": "Eleven Quiz #5",
-        "url": ["https://quizy.pro/streams/2200"]
+        "url": ["https://vk.com/wall-183530227_693"]
       }
     ]
   }
