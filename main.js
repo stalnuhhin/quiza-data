@@ -58,6 +58,7 @@ const DATAFILES = [
     "qlever.json",
     "quantum.json",
     "quizfun.json",
+    "quizheroes.json",
     "quizium.json",
     "quiznightdp.json",
     "quiztimekr.json",
