@@ -109,7 +109,7 @@
                         </span>
                     </div>
                     <div class="col-2 col-md-1">
-                        <img v-if="g.image" v-bind:src="'data/images/' + g.image"/>
+                        <img width="50px" v-if="g.image" v-bind:src="'data/images/' + g.image"/>
                     </div>
                     <div class="col-8 col-md-9">
                         {{g.name}}
@@ -229,7 +229,7 @@
                             <tbody>
                             <tr class="d-flex" v-for="(m, i) in rsMain">
                                 <td class="col-2">
-                                    <img v-if="m.image" v-bind:src="'data/images/' + m.image"/>
+                                    <img width="50px" v-if="m.image" v-bind:src="'data/images/' + m.image"/>
                                 </td>
                                 <td class="col-8">
                                     <span data-toggle="tooltip"
