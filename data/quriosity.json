@@ -1,7 +1,7 @@
 [
   {
     "org": "Quriosity (Telegram)",
-    "latestCheck": "2020-04-23T12:00:00+03:00",
+    "latestCheck": "2020-04-26T12:00:00+03:00",
     "type": ["events"],
     "duration": 1,
     "image": "quriosity.png",
@@ -21,7 +21,8 @@
       },
       {
         "time": "2020-04-26T16:00:00+03:00",
-        "name": "Онлайн игра #5"
+        "name": "Онлайн игра #5",
+        "url": ["https://www.facebook.com/groups/chgk.global/permalink/1515716321924991/"]
       }
     ]
   }

@@ -1,7 +1,7 @@
 [
   {
     "org": "Эврика Online",
-    "latestCheck": "2020-04-23T12:00:00+03:00",
+    "latestCheck": "2020-04-26T12:00:00+03:00",
     "type": ["events"],
     "image": "eureka.png",
     "price": ["20 EUR/ком", "4 EUR/чел"],
@@ -18,6 +18,10 @@
         "time": "2020-04-21T19:00:00+03:00",
         "name": "Eureka #2 (136): Цвет настроения: белый",
         "url": ["https://www.facebook.com/events/565220947455307"]
+      },
+      {
+        "time": "2020-05-05T19:00:00+03:00",
+        "name": "Eureka #3 (137)"
       }
     ]
   }

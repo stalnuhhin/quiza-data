@@ -1,4 +1,4 @@
-const DATA_VERSION = 19;
+const DATA_VERSION = 20;
 const DATAFILES = [
     "3x12trivianights.json",
     "beeclever.json",
@@ -24,6 +24,7 @@ const DATAFILES = [
     "eureka.json",
     "gameon.json",
     "geniumonline.json",
+    "gonchar.json",
     "goquiz.json",
     "headtrick.json",
     "igravpass.json",

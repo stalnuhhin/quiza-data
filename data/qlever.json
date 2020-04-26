@@ -1,7 +1,7 @@
 [
   {
     "org": "Qlever",
-    "latestCheck": "2020-04-23T12:00:00+03:00",
+    "latestCheck": "2020-04-26T12:00:00+03:00",
     "type": ["events"],
     "image": "qlever.png",
     "duration": 2,
@@ -12,6 +12,10 @@
         "time": "2020-04-25T16:00:00+03:00",
         "name": "Qlever игра #1",
         "url": ["https://quizy.pro/streams/2519"]
+      },
+      {
+        "time": "2020-04-27T19:00:00+03:00",
+        "name": "Qlever игра #2"
       }
     ]
   }

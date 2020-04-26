@@ -2,7 +2,7 @@
   {
     "org": "BrainBarQuiz",
     "name": "BBQuizHome",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-04-26T12:00:00+03:00",
     "type": ["events"],
     "image": "brainbarquiz.png",
     "duration": 2,
@@ -30,6 +30,11 @@
         "time": "2020-04-25T17:00:00+03:00",
         "name": "BBQuizHome: квиз по мультфильмам",
         "url": ["https://vk.com/wall-138515221_4517"]
+      },
+      {
+        "time": "2020-05-02T17:00:00+03:00",
+        "name": "BBQuizHome: Черный Квиз",
+        "url": ["https://vk.com/wall-138515221_4554"]
       }
     ]
   }

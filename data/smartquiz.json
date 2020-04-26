@@ -2,7 +2,7 @@
   {
     "org": "Smart-Quiz",
     "name": "Smart-Quiz",
-    "latestCheck": "2020-04-23T12:00:00+03:00",
+    "latestCheck": "2020-04-26T12:00:00+03:00",
     "type": ["events"],
     "hasContent": true,
     "image": "smartquiz.png",
@@ -10,7 +10,7 @@
     "free": true,
     "donate": true,
     "url": [
-      "https://www.facebook.com/pg/smart.quiz.zp/posts", "https://smart-quiz.net",
+      "https://www.facebook.com/pg/smart.quiz.zp/events", "https://smart-quiz.net",
       "https://www.youtube.com/channel/UCoSEssO0pJ0YBi9zHc0cn2w"
     ],
     "desc": "Украинский клуб Smart-Quiz",

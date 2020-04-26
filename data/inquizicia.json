@@ -1,7 +1,7 @@
 [
   {
     "org": "ИнQUIZиция",
-    "latestCheck": "2020-04-23T12:00:00+03:00",
+    "latestCheck": "2020-04-26T12:00:00+03:00",
     "type": ["events"],
     "image": "inquizicia.png",
     "duration": 2,
@@ -33,6 +33,11 @@
         "time": "2020-04-23T18:50:00+03:00",
         "name": "ИнQUIZиция #5",
         "url": ["https://quizy.pro/streams/2204"]
+      },
+      {
+        "time": "2020-04-30T19:00:00+03:00",
+        "name": "ИнQUIZиция #6",
+        "url": ["https://quizy.pro/streams/2658"]
       }
     ]
   }

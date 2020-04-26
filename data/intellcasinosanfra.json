@@ -1,14 +1,14 @@
 [
   {
     "org": "Интеллектуальное казино Сан Франциско",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-04-26T12:00:00+03:00",
     "type": ["events"],
     "image": "intellcasinosanfra.png",
     "chgk": true,
     "free": true,
     "donate": true,
     "duration": 2.5,
-    "url": ["https://www.facebook.com/intellectualcasino"],
+    "url": ["https://www.facebook.com/pg/intellectualcasino/events/"],
     "info": ["Игра проходит в Zoom. Читайте инструкции на эвенте в facebook."],
     "payment": [
       "Бесплатно, но так, как за Zoom для такого количества людей надо платить, мы просим тех, кто считает, что мы делаем хорошее дело, дать $5 donation на PayPal: formulaodin@yahoo.com"
