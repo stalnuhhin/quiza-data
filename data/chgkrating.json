@@ -1,7 +1,7 @@
 [
   {
     "org": "Список онлайн турниров по ЧГК",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-04-26T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "chgkrating.png",
     "chgk": true,
@@ -75,18 +75,6 @@
         "url": ["https://www.facebook.com/groups/chgk.tallinn/permalink/2669265639970691"]
       },
       {
-        "time": "2020-04-30T19:00:00+03:00",
-        "name": "ЧГК: Синхрон-lite. Выпуск XXXIV",
-        "price": ["5 USD/ком"],
-        "url": ["https://www.facebook.com/events/4283379348354210/"]
-      },
-      {
-        "time": "2020-05-03T18:00:00+03:00",
-        "name": "ЧГК: «Декамерон»",
-        "price": ["500 RUB/ком"],
-        "url": ["https://www.facebook.com/groups/chgk.global/permalink/1511391502357473/"]
-      },
-      {
         "time": "2020-04-27T20:00:00+03:00",
         "name": "ЧГК: Лига старта",
         "price": ["300 RUB/чел", "400 RUB/2чел", "600 RUB/ком"],
@@ -103,6 +91,18 @@
           "https://www.facebook.com/groups/229434871583483/permalink/246424239884546/",
           "https://forms.gle/VrEoAvuNf8x2PkrD8"
         ]
+      },
+      {
+        "time": "2020-04-30T19:00:00+03:00",
+        "name": "ЧГК: Синхрон-lite. Выпуск XXXIV",
+        "price": ["5 USD/ком"],
+        "url": ["https://www.facebook.com/events/4283379348354210/"]
+      },
+      {
+        "time": "2020-05-03T18:00:00+03:00",
+        "name": "ЧГК: «Декамерон»",
+        "price": ["500 RUB/ком"],
+        "url": ["https://www.facebook.com/groups/chgk.global/permalink/1511391502357473/"]
       },
       {
         "time": "2020-05-09T14:00:00+03:00",

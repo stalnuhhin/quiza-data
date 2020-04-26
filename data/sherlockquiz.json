@@ -1,7 +1,7 @@
 [
   {
     "org": "Sherlock Quiz",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-04-26T12:00:00+03:00",
     "type": ["events"],
     "duration": 2.5,
     "image": "sherlockquiz.png",
@@ -86,16 +86,82 @@
         "url": ["http://sherlockquiz.com/ru/game/view/2372"]
       },
       {
+        "time": "2020-04-22T19:00:00-07:00",
+        "name": "Кубок ШерлокоБойни (Сакраменто)",
+        "price": ["80 USD/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2373"]
+      },
+      {
         "time": "2020-04-24T19:00:00+02:00",
         "name": "Бесконтактный Шерлок #2 (Мюнхен)",
         "price": ["15 EUR/ком"],
         "url": ["http://sherlockquiz.com/ru/game/view/2109"]
       },
       {
-        "time": "2020-04-22T19:00:00-07:00",
-        "name": "Кубок ШерлокоБойни (Сакраменто)",
+        "time": "2020-04-27T19:00:00+03:00",
+        "name": "Угадай мелодию (Екатеринбург)",
+        "price": ["150 RUB/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2376"]
+      },
+      {
+        "time": "2020-04-28T19:00:00+03:00",
+        "name": "Игра 9 Тотализатор Ватсона (Бобруйск)",
+        "price": ["10 BYN/1-2чел", "20 BYN/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2339"]
+      },
+      {
+        "time": "2020-04-29T17:00:00+03:00",
+        "name": "Угадай мелодию (Екатеринбург)",
+        "price": ["500 RUB/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2379"]
+      },
+      {
+        "time": "2020-04-29T19:00:00+03:00",
+        "name": "Бесконтактный Шерлок 6 (Минск)",
+        "price": ["10 BYN/1-2чел", "20 BYN/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2398"]
+      },
+      {
+        "time": "2020-04-29T19:00:00-07:00",
+        "name": "Кубок ШерлокоБойни (Северная Америка)",
         "price": ["80 USD/ком"],
-        "url": ["http://sherlockquiz.com/ru/game/view/2373"]
+        "url": ["http://sherlockquiz.com/ru/game/view/2405"]
+      },
+      {
+        "time": "2020-04-30T19:00:00+03:00",
+        "name": "Угадай мелодию (Екатеринбург)",
+        "price": ["500 RUB/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2383"]
+      },
+      {
+        "time": "2020-04-30T19:00:00+03:00",
+        "name": "Бесконтактный Шерлок 3 (Гродно)",
+        "price": ["10 BYN/1-2чел", "20 BYN/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2362"]
+      },
+      {
+        "time": "2020-05-02T18:00:00+03:00",
+        "name": "Бесконтактный Шерлок Игра 3 (Екатеринбург)",
+        "price": ["500 RUB/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2418"]
+      },
+      {
+        "time": "2020-05-02T19:30:00+02:00",
+        "name": "Бесконтактный Шерлок (Мюнхен)",
+        "price": ["15 EUR/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2423"]
+      },
+      {
+        "time": "2020-05-03T17:00:00+03:00",
+        "name": "Угадай кино (Екатеринбург)",
+        "price": ["400 RUB/ком"],
+        "url": ["http://sherlockquiz.com/ru/game/view/2414"]
+      },
+      {
+        "time": "2020-05-03T17:00:00-07:00",
+        "name": "ШерлокоБойня для НОВИЧКОВ (Северная Америка)",
+        "free": true,
+        "url": ["http://sherlockquiz.com/ru/game/view/2412"]
       }
     ]
   }

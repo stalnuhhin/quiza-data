@@ -1,12 +1,12 @@
 [
   {
     "org": "Пан ОптикУМ",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-04-26T12:00:00+03:00",
     "type": ["events"],
     "image": "panopticumzhitomir.png",
     "duration": 2,
     "free": true,
-    "url": ["https://www.facebook.com/PanOpticUMZhitomir"],
+    "url": ["https://www.facebook.com/pg/PanOpticUMZhitomir/posts"],
     "games": [
       {
         "time": "2020-04-11T17:30:00+03:00",

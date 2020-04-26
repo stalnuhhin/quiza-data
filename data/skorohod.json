@@ -1,7 +1,7 @@
 [
   {
     "org": "Квизы Скороход",
-    "latestCheck": "2020-04-23T12:00:00+03:00",
+    "latestCheck": "2020-04-26T12:00:00+03:00",
     "type": ["events"],
     "image": "skorohod.png",
     "duration": 1,
@@ -79,8 +79,33 @@
       },
       {
         "time": "2020-04-24T22:00:00+07:00",
-        "name": "Фильмоскоп Саундтрек",
-        "price": ["300 RUB/ком"]
+        "name": "Фильмоскоп Саундтрек №1",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2627"]
+      },
+      {
+        "time": "2020-04-25T18:00:00+07:00",
+        "name": "Музыкальный Скороход №4",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2709"]
+      },
+      {
+        "time": "2020-04-25T18:00:00+07:00",
+        "name": "Фильмоскоп Саундтрек №1",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2628"]
+      },
+      {
+        "time": "2020-04-26T18:00:00+07:00",
+        "name": "Книжный Скороход №2",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2776"]
+      },
+      {
+        "time": "2020-04-26T23:00:00+07:00",
+        "name": "Star Wars №1",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2801"]
       }
     ]
   }
