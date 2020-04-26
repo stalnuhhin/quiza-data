@@ -1,0 +1,19 @@
+[
+  {
+    "org": "Jack Quiz",
+    "latestCheck": "2020-04-27T12:00:00+03:00",
+    "type": ["events"],
+    "image": "jackquiz.png",
+    "duration": 2,
+    "url": ["https://vk.com/jqborisov"],
+    "games": [
+      {
+        "time": "2020-04-30T18:30:00+03:00",
+        "name": "Jack Quiz Borisov Online #2",
+        "free": true,
+        "donation": true,
+        "url": ["https://vk.com/wall-153567237_2249"]
+      }
+    ]
+  }
+]
