@@ -1,9 +1,10 @@
 [
   {
     "org": "Bee Clever",
-    "latestCheck": "2020-04-26T12:00:00+03:00",
+    "latestCheck": "2020-04-28T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
+    "duration": 2,
     "url": ["https://www.facebook.com/pg/BEEEECLEVER/events"],
     "templates": {
       "chgk": {
@@ -46,6 +47,114 @@
         "template": "chgk",
         "url": ["https://www.facebook.com/events/507184906626833/"],
         "price": ["11 USD/ком", "300 UAH/ком"]
+      },
+      {
+        "time": "2020-04-30T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-01T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-02T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-03T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-04T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-05T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-06T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-07T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-08T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-09T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-10T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-11T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-12T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-13T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-14T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-15T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-16T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-17T20:00:00+03:00",
+        "name": "Своя игра: Кубок карантина",
+        "url": ["https://www.facebook.com/events/242608180181712"],
+        "price": ["4 USD/чел"]
       }
     ]
   }

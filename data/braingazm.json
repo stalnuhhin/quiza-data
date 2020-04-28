@@ -2,7 +2,7 @@
   {
     "org": "Braingazm",
     "name": "Braingazm Online",
-    "latestCheck": "2020-04-26T12:00:00+03:00",
+    "latestCheck": "2020-04-28T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "braingazm.png",
@@ -12,6 +12,7 @@
         "time": "2020-04-04T16:00:00+03:00",
         "name": "Braingazm Online",
         "free": true,
+        "donation": true,
         "url": ["https://quizy.pro/streams/1555"]
       },
       {
@@ -22,6 +23,9 @@
       },
       {
         "time": "2020-04-25T16:00:00+03:00"
+      },
+      {
+        "time": "2020-05-02T16:00:00+03:00"
       }
     ]
   }

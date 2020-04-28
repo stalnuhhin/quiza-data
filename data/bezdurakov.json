@@ -2,7 +2,7 @@
   {
     "org": "Без дураков (Ровшан Аскеров и Борис Левин)",
     "name": "Командная онлайн-игра Без дураков",
-    "latestCheck": "2020-04-26T12:00:00+03:00",
+    "latestCheck": "2020-04-28T12:00:00+03:00",
     "type": ["events"],
     "noregistration": true,
     "hasContent": true,
@@ -109,6 +109,10 @@
       {
         "time": "2020-04-29T20:00:00+03:00",
         "url": ["https://bezdurakov.timepad.ru/event/1303108/"]
+      },
+      {
+        "time": "2020-05-02T20:00:00+03:00",
+        "url": ["https://bezdurakov.timepad.ru/event/1305839/"]
       }
     ]
   }
