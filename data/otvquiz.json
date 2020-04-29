@@ -1,0 +1,59 @@
+[
+  {
+    "org": "QUIZ° | Отвечаю!",
+    "latestCheck": "2020-04-29T12:00:00+03:00",
+    "type": ["events"],
+    "image": "otvquiz.png",
+    "duration": 2.5,
+    "url": ["https://otvquiz.ru/online", "https://vk.com/otvquiz", "https://vk.com/quizalco"],
+    "desc": "Тематические квизы москвоского клуба Отвечаю!",
+    "templates": {
+      "youtube": {
+        "info": ["Cтрим - в YouTube", "Ответы принимаются через Google Формы"],
+        "payment": ["Оплата - при регистрации на сайте"]
+      },
+      "quizy.pro": {
+        "info": ["Стрим и прием ответов - через платформу quizy.pro"],
+        "payment": ["Оплата - на платформе quizy.pro"]
+      }
+    },
+    "games": [
+      {
+        "time": "2020-04-29T20:00:00+03:00",
+        "name": "Русский рок №1",
+        "price": ["1000 RUB/ком"],
+        "template": "youtube"
+      },
+      {
+        "time": "2020-04-30T20:00:00+03:00",
+        "name": "Логика Hard №1",
+        "price": ["1000 RUB/ком"],
+        "template": "youtube"
+      },
+      {
+        "time": "2020-05-01T19:30:00+03:00",
+        "name": "АлкоFUN №1 (повтор)",
+        "price": ["400 RUB/ком"],
+        "template": "quizy.pro"
+      },
+      {
+        "time": "2020-05-02T19:30:00+03:00",
+        "name": "АлкоFUN №2",
+        "price": ["1000 RUB/ком"],
+        "template": "youtube"
+      },
+      {
+        "time": "2020-04-05T18:00:00+03:00",
+        "name": "Русский рок №1 (повтор)",
+        "price": ["400 RUB/ком"],
+        "template": "quizy.pro"
+      },
+      {
+        "time": "2020-04-06T18:00:00+03:00",
+        "name": "Советские мультфильмы",
+        "price": ["500 RUB/ком"],
+        "template": "youtube"
+      }
+    ]
+  }
+]

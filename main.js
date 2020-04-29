@@ -55,6 +55,7 @@ const DATAFILES = [
     "mzgbtln.json",
     "neoquiz.json",
     "onlinequiz64.json",
+    "otvquiz.json",
     "panopticumzhitomir.json",
     "potterquiz.json",
     "pubquiz.json",
