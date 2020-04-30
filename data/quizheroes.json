@@ -6,7 +6,7 @@
     "duration": 2,
     "image": "quizheroes.png",
     "price": ["1000 RUB/ком"],
-    "url": ["https://quizheroes.ru"],
+    "url": ["https://quizheroes.ru","https://ttttt.me/PlagueQuiz","https://www.instagram.com/quizheroes/","https://vk.com/public194290286"],
     "info": ["Сюжетный квиз про борьбу с чумой. Ссылки выдаются перед игрой, ответы вводятся в Telegram бота."],
     "games": [
       {
@@ -19,6 +19,18 @@
       },
       {
         "time": "2020-05-01T20:00:00+03:00",
+        "name": "Чумной квиз III: Разносчики заразы"
+      },
+      {
+        "time": "2020-05-03T20:00:00+03:00",
+        "name": "Чумной квиз I: В поисках панацеи"
+      },
+      {
+        "time": "2020-05-05T20:00:00+03:00",
+        "name": "Чумной квиз II: Дорога к спасению"
+      },
+      {
+        "time": "2020-05-08T20:00:00+03:00",
         "name": "Чумной квиз III: Разносчики заразы"
       }
     ]
