@@ -1,10 +1,10 @@
 [
   {
     "org": "MindGames.md",
-    "latestCheck": "2020-04-26T12:00:00+03:00",
+    "latestCheck": "2020-05-01T12:00:00+03:00",
     "type": ["events"],
     "image": "mindgamesmd.png",
-    "url": ["https://www.facebook.com/mindgamesmd/posts", "http://quiz.mindgames.md"],
+    "url": ["https://www.facebook.com/mindgamesmd/events", "http://quiz.mindgames.md"],
     "games": [
       {
         "time": "2020-04-21T20:00:00+05:00",
@@ -15,6 +15,12 @@
         "time": "2020-04-25T18:00:00+03:00",
         "name": "Ok, Google Quiz",
         "url": ["https://www.facebook.com/mindgamesmd/posts/1541499212691673"]
+      },
+      {
+        "time": "2020-05-02T18:00:00+02:00",
+        "name": "St.Twins Detective",
+        "price": ["250 MDL/ком"],
+        "url": ["https://www.facebook.com/events/3228475703849239/?event_time_id=3642644965765642"]
       }
     ]
   }
