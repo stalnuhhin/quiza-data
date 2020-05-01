@@ -8,12 +8,12 @@
     "url": ["https://www.facebook.com/pg/UmniygorodBaku/events/"],
     "games": [
       {
-        "time": "2020-05-01T21:00:00-04:00",
+        "time": "2020-05-01T21:00:00+04:00",
         "name": "InQUIZitor Online v1",
         "url": ["https://www.facebook.com/events/2744904485768260/"]
       },
       {
-        "time": "2020-05-03T16:00:00-04:00",
+        "time": "2020-05-03T16:00:00+04:00",
         "name": "Интеллектуальная разминка",
         "free": true,
         "url": ["https://www.facebook.com/events/872020846598358/"]
