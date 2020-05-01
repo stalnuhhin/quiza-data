@@ -1,4 +1,4 @@
-const DATA_VERSION = 29;
+const DATA_VERSION = 30;
 const DATAFILES = [
     "3x12trivianights.json",
     "beeclever.json",
@@ -21,6 +21,7 @@ const DATAFILES = [
     "einsteinparty.json",
     "einsteinpartybel.json",
     "elevenquiz.json",
+    "eveningquiz.json",
     "eureka.json",
     "gameon.json",
     "geniumonline.json",
@@ -34,6 +35,7 @@ const DATAFILES = [
     "indigosolo.json",
     "intellcasinosanfra.json",
     "intellektualnyykubok.json",
+    "inquizitor.json",
     "inquizicia.json",
     "iqbattle.json",
     "iqbattleswe.json",
@@ -60,7 +62,6 @@ const DATAFILES = [
     "potterquiz.json",
     "pubquiz.json",
     "qlever.json",
-    "quantum.json",
     "quizfun.json",
     "quizheroes.json",
     "quizium.json",
@@ -77,6 +78,7 @@ const DATAFILES = [
     "squiz.json",
     "thequizodessa.json",
     "umforum.json",
+    "umkaquiz.json",
     "umkaonline.json",
     "urok.json",
     "uznavaizing.json",

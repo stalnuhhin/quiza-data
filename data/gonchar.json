@@ -1,7 +1,7 @@
 [
   {
     "org": "Денис Гончар",
-    "latestCheck": "2020-04-26T12:00:00+03:00",
+    "latestCheck": "2020-05-01T12:00:00+03:00",
     "type": ["events"],
     "image": "chgk.png",
     "chgk": true,
@@ -219,10 +219,22 @@
         "url": ["https://docs.google.com/forms/d/e/1FAIpQLSdZPv5gb1sUW0is24EA1nOrbYfD9P_Vy6nnyWNYC-4rRol0mw/viewform"]
       },
       {
+        "time": "2020-05-01T15:00:00+03:00",
+        "name": "ЧГК: Лига Старта - май",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      {
         "time": "2020-05-01T19:00:00+03:00",
         "name": "ЧГК: Лига Старта - май",
         "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://docs.google.com/forms/d/e/1FAIpQLSdZPv5gb1sUW0is24EA1nOrbYfD9P_Vy6nnyWNYC-4rRol0mw/viewform"]
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      {
+        "time": "2020-05-01T22:00:00+03:00",
+        "name": "ЧГК: Лига Старта - май",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": ["https://tinyurl.com/sinhron"]
       },
       {
         "time": "2020-05-02T15:00:00+03:00",
@@ -234,7 +246,7 @@
         "time": "2020-05-02T19:00:00+03:00",
         "name": "ЧГК: Лига Старта - май",
         "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://docs.google.com/forms/d/e/1FAIpQLSdZPv5gb1sUW0is24EA1nOrbYfD9P_Vy6nnyWNYC-4rRol0mw/viewform"]
+        "url": ["https://tinyurl.com/sinhron"]
       },
       {
         "time": "2020-05-02T21:30:00+03:00",
@@ -246,7 +258,37 @@
         "time": "2020-05-03T15:00:00+03:00",
         "name": "ЧГК: Лига Старта - май",
         "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://docs.google.com/forms/d/e/1FAIpQLSdZPv5gb1sUW0is24EA1nOrbYfD9P_Vy6nnyWNYC-4rRol0mw/viewform"]
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      {
+        "time": "2020-05-03T18:00:00+03:00",
+        "name": "ЧГК: Лига Старта - май",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      {
+        "time": "2020-05-04T19:00:00+03:00",
+        "name": "ЧГК: Декамерон",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      {
+        "time": "2020-05-05T15:00:00+03:00",
+        "name": "ЧГК: Лига Старта - май",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      {
+        "time": "2020-05-05T19:00:00+03:00",
+        "name": "ЧГК: Декамерон",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      {
+        "time": "2020-05-06T21:00:00+03:00",
+        "name": "ЧГК: Декамерон",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": ["https://tinyurl.com/sinhron"]
       }
     ]
   }

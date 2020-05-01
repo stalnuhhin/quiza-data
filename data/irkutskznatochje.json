@@ -1,13 +1,13 @@
 [
   {
     "org": "Иркутское знаточьё",
-    "latestCheck": "2020-04-26T12:00:00+03:00",
+    "latestCheck": "2020-05-01T12:00:00+03:00",
     "type": ["events"],
     "image": "chgk.png",
     "duration": 2,
     "chgk": true,
     "free": true,
-    "url": ["https://vk.com/chgk_irk"],
+    "url": ["https://airtable.com/shrC9DWZYq4xD4TlX/tblByrpjYUMGaCuIr", "https://vk.com/chgk_irk"],
     "games": [
       {
         "time": "2020-04-11T13:00:00+08:00",
@@ -40,8 +40,18 @@
         "url": ["https://vk.com/wall-1093550_2857"]
       },
       {
-        "time": "2020-05-02T13:00:00+08:00",
+        "time": "2020-05-04T13:00:00+08:00",
+        "name": "Декамерон",
+        "url": ["https://vk.com/wall-1093550_2857"]
+      },
+      {
+        "time": "2020-05-05T13:00:00+08:00",
         "name": "Чизкейк",
+        "url": ["https://vk.com/wall-1093550_2857"]
+      },
+      {
+        "time": "2020-05-11T13:00:00+08:00",
+        "name": "Кубок Бесконечности. VII этап: Финал",
         "url": ["https://vk.com/wall-1093550_2857"]
       }
     ]

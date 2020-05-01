@@ -1,0 +1,19 @@
+[
+  {
+    "org": "Evening Quiz",
+    "latestCheck": "2020-05-01T12:00:00+03:00",
+    "type": ["events"],
+    "duration": 2,
+    "image": "eveningquiz.png",
+    "free": true,
+    "donation": true,
+    "url": ["https://www.facebook.com/pg/EveningQuiz/events"],
+    "games": [
+      {
+        "time": "2020-05-03T20:00:00+03:00",
+        "name": "Cartoon Evening quiz",
+        "url": ["https://www.facebook.com/events/231164941286469/"]
+      }
+    ]
+  }
+]

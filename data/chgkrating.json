@@ -9,6 +9,16 @@
     "url": ["https://rating.chgk.info/tournaments?name=Онлайн%3A+&tournament_type=2"],
     "games": [
       {
+        "time": "2020-04-08T20:00:00+06:00",
+        "name": "Quantum Cloud #1 ОНЛАЙН",
+        "chgk": true,
+        "free": true,
+        "url": [
+          "https://www.facebook.com/groups/229434871583483/permalink/231963074663996",
+          "https://qgame.online/tournaments/1"
+        ]
+      },
+      {
         "time": "2020-04-10T15:30:00+03:00",
         "name": "ЧГК: Пегас и лирохвост",
         "price": ["200 RUB/ком"],
@@ -68,6 +78,18 @@
         "url": ["https://www.facebook.com/events/3133383086693310"]
       },
       {
+        "time": "2020-04-19T17:00:00+03:00",
+        "name": "ЧГК: Лига старта Эпизод XIV",
+        "price": ["5 USD/ком"],
+        "url": ["https://www.facebook.com/events/3133383086693310"]
+      },
+      {
+        "time": "2020-04-19T22:00:00+03:00",
+        "name": "ЧГК: Лига старта Эпизод XIV",
+        "price": ["5 USD/ком"],
+        "url": ["https://www.facebook.com/events/3133383086693310"]
+      },
+      {
         "time": "2020-04-26T15:00:00+03:00",
         "name": "ЧГК: Парный асинхронный турнир «ChGK is... — 2020»",
         "free": true,
@@ -97,6 +119,12 @@
         "name": "ЧГК: Синхрон-lite. Выпуск XXXIV",
         "price": ["5 USD/ком"],
         "url": ["https://www.facebook.com/events/4283379348354210/"]
+      },
+      {
+        "time": "2020-05-01T20:00:00+03:00",
+        "name": "ЧГК: Зеленый шум",
+        "price": ["300 RUB/чел", "400 RUB/2чел", "max 600 RUB/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/250115632848740"]
       },
       {
         "time": "2020-05-02T16:00:00+03:00",
