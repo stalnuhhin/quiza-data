@@ -1,22 +1,29 @@
 [
   {
     "org": "Qlever",
-    "latestCheck": "2020-04-28T12:00:00+03:00",
+    "latestCheck": "2020-05-01T12:00:00+03:00",
     "type": ["events"],
     "image": "qlever.png",
     "duration": 2,
-    "price": ["300 RUB/ком"],
     "url": ["http://vk.com/qlever_quiz"],
     "games": [
       {
         "time": "2020-04-25T16:00:00+03:00",
         "name": "Qlever игра #1",
+        "price": ["300 RUB/ком"],
         "url": ["https://quizy.pro/streams/2519"]
       },
       {
         "time": "2020-04-27T19:00:00+03:00",
         "name": "Qlever игра #1 (повтор)",
+        "price": ["300 RUB/ком"],
         "url": ["https://quizy.pro/streams/2792"]
+      },
+      {
+        "time": "2020-05-02T16:00:00+03:00",
+        "name": "Qlever игра #2",
+        "price": ["400 RUB/ком"],
+        "url": ["https://quizy.pro/streams/3105"]
       }
     ]
   }

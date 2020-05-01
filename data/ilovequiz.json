@@ -1,7 +1,7 @@
 [
   {
     "org": "I Love Quiz",
-    "latestCheck": "2020-04-26T12:00:00+03:00",
+    "latestCheck": "2020-05-01T12:00:00+03:00",
     "type": ["events"],
     "free": true,
     "duration": 2,
@@ -52,6 +52,16 @@
         "time": "2020-04-25T17:00:00+03:00",
         "name": "Онлайн-игра 3.2",
         "url": ["https://old.ilovequiz.ru/game/94"]
+      },
+      {
+        "time": "2020-05-01T20:00:00+03:00",
+        "name": "Онлайн-игра 4.1",
+        "url": ["https://old.ilovequiz.ru/game/98"]
+      },
+      {
+        "time": "2020-05-02T17:00:00+03:00",
+        "name": "Онлайн-игра 4.2",
+        "url": ["https://old.ilovequiz.ru/game/99"]
       }
     ]
   }

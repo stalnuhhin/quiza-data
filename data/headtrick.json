@@ -1,12 +1,12 @@
 [
   {
     "org": "Head Trick Quiz",
-    "latestCheck": "2020-04-27T12:00:00+03:00",
+    "latestCheck": "2020-05-01T12:00:00+03:00",
     "type": ["events"],
     "free": true,
     "duration": 2,
     "image": "headtrick.png",
-    "url": ["https://www.facebook.com/football.quiz.tashkent/"],
+    "url": ["https://www.facebook.com/pg/football.quiz.tashkent/posts/"],
     "games": [
       {
         "time": "2020-04-09T21:00:00+05:00",
