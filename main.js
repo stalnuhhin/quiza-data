@@ -75,6 +75,7 @@ const DATAFILES = [
     "sibkviz.json",
     "skorohod.json",
     "smartquiz.json",
+    "stopsnyatotlt.json",
     "squiz.json",
     "thequizodessa.json",
     "umforum.json",
