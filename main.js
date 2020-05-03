@@ -162,7 +162,7 @@ const app = new Vue({
                         }
                     });
                     org.games.sort((a, b) => a.time - b.time)
-                    org.latestGameTime = org.games.length > 0 ? org.games[org.games.length - 1].time : moment().add(-1, 'years');
+                    org.latestGameTime = org.games.length > 0 ? org.games[org.games.length - 1].time : null;
                 });
                 const compareFn = (a, b) => a.org.localeCompare(b.org);
                 this.rsMain.sort(compareFn);
