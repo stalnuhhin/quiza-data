@@ -9,30 +9,6 @@
     "url": ["https://www.facebook.com/pg/trivia3x12/events"],
     "games": [
       {
-        "time": "2020-04-18T18:30:00+01:00",
-        "name": "Irish Online Trivia by 3x12",
-        "lang": "По-английски",
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/811566339253174/"]
-      },
-      {
-        "time": "2020-04-25T18:30:00+01:00",
-        "name": "'Friends' Online Trivia by 3x12",
-        "lang": "По-английски",
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/229140384813539/"]
-      },
-      {
-        "time": "2020-04-30T18:30:00+01:00",
-        "name": "Free Online Trivia by 3x12",
-        "lang": "По-английски",
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/266468887854328/"]
-      },
-      {
         "time": "2020-05-02T18:30:00+01:00",
         "name": "Harry Potter Online Trivia",
         "lang": "По-английски",

@@ -10,29 +10,6 @@
     "lang": "По-английски",
     "url": ["https://www.facebook.com/pg/gameontashkent/posts"],
     "games": [
-      {
-        "time": "2020-04-15T20:30:00+05:00",
-        "name": "Game On online edition 1",
-        "url": ["https://t.me/gameontashkent/98", "https://www.instagram.com/p/B-2ENN-Dybz"]
-      },
-      {
-        "time": "2020-04-22T20:30:00+05:00",
-        "name": "Game On online edition 2",
-        "url": [
-          "https://t.me/gameontashkent/101",
-          "https://www.facebook.com/gameontashkent/photos/a.654311421737252/858455104656215/?type=3&theater",
-          "https://www.instagram.com/p/B_Kxz4FJEdL/"
-        ]
-      },
-      {
-        "time": "2020-04-29T20:30:00+05:00",
-        "name": "Game On online edition 3",
-        "url": [
-          "https://t.me/gameontashkent/104",
-          "https://www.facebook.com/gameontashkent/photos/a.654311421737252/863426684159057/?type=3&theater",
-          "https://www.instagram.com/p/B_cYCmmg11E"
-        ]
-      }
     ]
   }
 ]

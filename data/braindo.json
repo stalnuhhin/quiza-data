@@ -9,26 +9,6 @@
     "image": "braindo.png",
     "url": ["https://www.facebook.com/pg/Braindoclub/events/"],
     "games": [
-      {
-        "time": "2020-04-11T18:00:00+10:00",
-        "name": "Кубок Бродского",
-        "url": ["https://quizy.pro/streams/1787"]
-      },
-      {
-        "time": "2020-04-12T18:00:00+10:00",
-        "name": "Кубок Бродского (повтор)",
-        "url": ["https://quizy.pro/streams/1932"]
-      },
-      {
-        "time": "2020-04-25T18:00:00+10:00",
-        "name": "Кубок Хаксли",
-        "url": ["https://www.facebook.com/events/760490457818462"]
-      },
-      {
-        "time": "2020-04-26T18:00:00+10:00",
-        "name": "Кубок Хаксли (повтор)",
-        "url": ["https://www.facebook.com/events/760490457818462"]
-      }
     ]
   }
 ]

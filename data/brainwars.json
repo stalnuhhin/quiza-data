@@ -10,11 +10,6 @@
     "url": ["https://vk.com/quizdez"],
     "games": [
       {
-        "time": "2020-04-14T19:30:00+03:00",
-        "name": "Brain Wars #1",
-        "url": ["https://quizy.pro/streams/1943", "https://vk.com/wall-152157756_9235"]
-      },
-      {
         "time": "2020-05-01T19:30:00+03:00",
         "name": "Brain Wars #2",
         "url": ["https://quizy.pro/streams/2554", "https://vk.com/wall-152157756_9311"]

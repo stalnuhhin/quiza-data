@@ -10,22 +10,6 @@
     "url": ["http://braingazm.ru", "https://vk.com/braingazm_ru"],
     "games": [
       {
-        "time": "2020-04-04T16:00:00+03:00",
-        "name": "Braingazm Online",
-        "free": true,
-        "donation": true,
-        "url": ["https://quizy.pro/streams/1555"]
-      },
-      {
-        "time": "2020-04-11T16:00:00+03:00"
-      },
-      {
-        "time": "2020-04-18T16:00:00+03:00"
-      },
-      {
-        "time": "2020-04-25T16:00:00+03:00"
-      },
-      {
         "time": "2020-05-02T16:00:00+03:00"
       }
     ]

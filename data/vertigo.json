@@ -10,26 +10,6 @@
     "url": ["https://vk.com/vertigoquiz"],
     "games": [
       {
-        "time": "2020-04-09T19:00:00+03:00",
-        "name": "ВертиGO-online. Игра №1",
-        "url": ["https://quizy.pro/streams/1687"]
-      },
-      {
-        "time": "2020-04-16T19:00:00+03:00",
-        "name": "ВертиGO-online. Игра №2",
-        "url": ["https://quizy.pro/streams/2015"]
-      },
-      {
-        "time": "2020-04-23T19:00:00+03:00",
-        "name": "ВертиGO-online. Игра №3",
-        "url": ["https://quizy.pro/streams/2331"]
-      },
-      {
-        "time": "2020-04-30T19:00:00+03:00",
-        "name": "ВертиGO-online. Игра №4",
-        "url": ["https://quizy.pro/streams/2645"]
-      },
-      {
         "time": "2020-05-02T17:00:00+03:00",
         "name": "ВертиGO-online. Игра №4",
         "free": true,

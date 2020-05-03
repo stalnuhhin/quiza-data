@@ -10,37 +10,6 @@
     "url": ["https://vk.com/umforum", "https://vk.com/club193580211", "https://vk.com/umforum_vrn"],
     "games": [
       {
-        "time": "2020-04-09T19:00:00+03:00",
-        "name": "Вторая Online игра",
-        "price": [],
-        "free": true,
-        "donate": true,
-        "url": ["https://vk.com/wall-188151202_264"]
-      },
-      {
-        "time": "2020-04-12T18:15:00+03:00",
-        "name": "Online игра",
-        "price": ["500 RUB/ком"],
-        "url": ["https://vk.com/wall-156558867_5838"]
-      },
-      {
-        "time": "2020-04-16T19:15:00+03:00",
-        "name": "Online игра",
-        "price": ["500 RUB/ком"],
-        "url": ["https://vk.com/wall-156558867_5848"]
-      },
-      {
-        "time": "2020-04-19T18:00:00+03:00",
-        "name": "Online игра",
-        "price": ["500 RUB/ком"]
-      },
-      {
-        "time": "2020-04-24T19:00:00+03:00",
-        "name": "Online игра",
-        "price": ["700 RUB/ком"],
-        "url": ["https://vk.com/wall-156558867_5892"]
-      },
-      {
         "time": "2020-05-02T18:00:00+03:00",
         "name": "Online игра",
         "price": ["700 RUB/ком"],

@@ -10,26 +10,6 @@
     "price": ["300 UAH/ком"],
     "url": ["https://www.facebook.com/pg/cityquizshow/events", "https://cityquiz.club/kiev"],
     "games": [
-      {
-        "time": "2020-04-08T19:00:00+03:00",
-        "name": "City Quiz Online (Киев) #3",
-        "url": ["https://www.facebook.com/events/613792586017703"]
-      },
-      {
-        "time": "2020-04-15T20:00:00+03:00",
-        "name": "City Quiz Online (Киев) #4",
-        "url": ["https://www.facebook.com/events/257827892040972"]
-      },
-      {
-        "time": "2020-04-22T20:00:00+03:00",
-        "name": "City Quiz Online (Киев) #5",
-        "url": ["https://www.facebook.com/events/1505221826322729"]
-      },
-      {
-        "time": "2020-04-29T20:00:00+03:00",
-        "name": "City Quiz Online (Киев) #6",
-        "url": ["https://www.facebook.com/events/250410399412002"]
-      }
     ]
   }
 ]

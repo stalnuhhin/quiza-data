@@ -10,65 +10,6 @@
     "url": ["https://vk.com/sibquiz", "https://quizy.pro/"],
     "games": [
       {
-        "time": "2020-04-03T19:30:00+07:00",
-        "name": "СИБКВИЗ ONLINE #1",
-        "url": ["https://quizy.pro/streams/1515"]
-      },
-      {
-        "time": "2020-04-05T21:00:00+07:00",
-        "name": "СИБКВИЗ ONLINE #2",
-        "url": ["https://quizy.pro/streams/1619", "https://vk.com/sibquiz?w=wall-139403768_8262"]
-      },
-      {
-        "time": "2020-04-07T12:00:00+03:00",
-        "name": "СИБКВИЗ ONLINE #1 (повтор)",
-        "url": ["https://quizy.pro/streams/1743"]
-      },
-      {
-        "time": "2020-04-07T21:00:00+07:00",
-        "name": "СИБКВИЗ ONLINE Гарри Поттер",
-        "url": ["https://quizy.pro/streams/1739", "https://vk.com/sibquiz?w=wall-139403768_8307"]
-      },
-      {
-        "time": "2020-04-10T18:00:00+07:00",
-        "name": "СИБКВИЗ ONLINE #3",
-        "url": ["https://quizy.pro/streams/1844"]
-      },
-      {
-        "time": "2020-04-12T20:00:00+07:00",
-        "name": "СИБКВИЗ ONLINE #4",
-        "url": ["https://quizy.pro/streams/1961"]
-      },
-      {
-        "time": "2020-04-12T20:30:00+07:00",
-        "name": "МУЛЬТИКИ",
-        "url": ["https://quizy.pro/streams/2014", "https://vk.com/wall-139403768_8376"]
-      },
-      {
-        "time": "2020-04-17T20:00:00+07:00",
-        "name": "СИБКВИЗ ONLINE #5",
-        "url": ["https://quizy.pro/streams/2158"]
-      },
-      {
-        "time": "2020-04-19T20:00:00+07:00",
-        "name": "СИБКВИЗ ONLINE #6"
-      },
-      {
-        "time": "2020-04-24T20:00:00+07:00",
-        "name": "СИБКВИЗ ONLINE #7",
-        "url": ["https://quizy.pro/streams/2568"]
-      },
-      {
-        "time": "2020-04-26T20:00:00+07:00",
-        "name": "СИБКВИЗ ONLINE #8",
-        "url": ["https://quizy.pro/streams/2729"]
-      },
-      {
-        "time": "2020-04-28T22:00:00+07:00",
-        "name": "Тот самый СИБКВИЗ #2",
-        "url": ["https://quizy.pro/streams/2865"]
-      },
-      {
         "time": "2020-05-01T16:00:00+03:00",
         "name": "СИБКВИЗ ONLINE #9",
         "url": ["https://quizy.pro/streams/2996"]

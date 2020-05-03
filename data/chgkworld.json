@@ -10,41 +10,6 @@
     "url": ["http://intgame.ru"],
     "games": [
       {
-        "time": "2020-04-05T13:00:00+03:00",
-        "name": "Большая игра: Пролог №2",
-        "price": ["150 RUB/ком", "2 USD/ком"],
-        "url": ["https://rating.chgk.info/tournament/6389", "https://profi.t.chgk-world.ru", "https://profi.chgk-world.ru/tournaments/9"]
-      },
-      {
-        "time": "2020-04-11T12:30:00+03:00",
-        "name": "Delivery Cup",
-        "price": ["800 RUB/ком", "10 USD/ком"],
-        "url": ["https://dc.t.chgk-world.ru"]
-      },
-      {
-        "time": "2020-04-12T13:00:00+03:00",
-        "name": "Международная лига. Большая игра №1",
-        "price": ["450 RUB/ком", "6 USD/ком", "1500 RUB/ком/4 игры", "20 USD/ком/4 игры"],
-        "url": ["https://profi.chgk-world.ru/tournaments/16"]
-      },
-      {
-        "time": "2020-04-15T19:00:00+03:00",
-        "name": "Delivery Cup",
-        "price": ["800 RUB/ком", "10 USD/ком"],
-        "url": ["https://intgame.ru/d-cup"]
-      },
-      {
-        "time": "2020-04-19T13:00:00+03:00",
-        "name": "Международная лига. Большая игра №2",
-        "price": ["450 RUB/ком", "6 USD/ком", "1500 RUB/ком/4 игры", "20 USD/ком/4 игры"],
-        "url": ["https://profi.chgk-world.ru/tournaments/18"]
-      },
-      {
-        "time": "2020-04-26T13:00:00+03:00",
-        "name": "Международная лига. Большая игра №3",
-        "price": ["450 RUB/ком", "6 USD/ком"]
-      },
-      {
         "time": "2020-05-03T13:00:00+03:00",
         "name": "Международная лига. Большая игра №4. Финал",
         "price": ["750 RUB/ком", "10 USD/ком"]

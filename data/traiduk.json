@@ -8,13 +8,6 @@
     "url": ["https://www.facebook.com/profile.php?id=100017788444620"],
     "games": [
       {
-        "time": "2020-05-10T17:00:00+03:00",
-        "name": "ЧГК: Кубок бесконечности: Финал",
-        "price": ["8 USD/ком"],
-        "chgk": true,
-        "url": ["https://www.facebook.com/events/2528754370787623/"]
-      },
-      {
         "time": "2020-05-02T14:00:00+03:00",
         "name": "FatLazyRaccoon CUP",
         "price": ["10 USD/ком"],
@@ -32,6 +25,13 @@
         "price": ["5 USD/ком"],
         "chgk": true,
         "url": ["https://www.facebook.com/events/2656931181261837/"]
+      },
+      {
+        "time": "2020-05-10T17:00:00+03:00",
+        "name": "ЧГК: Кубок бесконечности: Финал",
+        "price": ["8 USD/ком"],
+        "chgk": true,
+        "url": ["https://www.facebook.com/events/2528754370787623/"]
       }
     ]
   }

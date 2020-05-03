@@ -17,39 +17,6 @@
     ],
     "games": [
       {
-        "time": "2020-04-02T19:00:00+03:00",
-        "name": "B-Quiz Online #1",
-        "price": ["250 RUB/чел", "7 BYN/чел"],
-        "url": [
-          "https://www.facebook.com/events/752902931907924/permalink/753326541865563/",
-          "https://vk.com/wall-193516419_4"
-        ]
-      },
-      {
-        "time": "2020-04-09T19:00:00+03:00",
-        "name": "B-Quiz Online #2",
-        "price": ["150 RUB/чел", "5 BYN/чел"],
-        "url": [
-          "https://vk.com/bquiz_online?w=wall-193516419_31",
-          "https://www.facebook.com/minsk.bquiz/photos/a.118795726189653/252601822809042"
-        ]
-      },
-      {
-        "time": "2020-04-16T19:00:00+03:00",
-        "name": "B-Quiz Belarus #58",
-        "url": [
-          "https://www.facebook.com/minsk.bquiz/photos/a.118795726189653/254476025954955"
-        ]
-      },
-      {
-        "time": "2020-04-23T19:00:00+03:00",
-        "name": "B-Quiz Online #3",
-        "url": [
-          "https://vk.com/wall-193516419_44",
-          "https://www.facebook.com/minsk.bquiz/photos/a.118795726189653/263040345098523/?type=3&theater"
-        ]
-      },
-      {
         "time": "2020-05-07T19:00:00+03:00",
         "name": "B-Quiz Online #4",
         "url": ["https://vk.com/wall-111884356_3812"]

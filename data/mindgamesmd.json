@@ -8,16 +8,6 @@
     "url": ["https://www.facebook.com/mindgamesmd/events", "http://quiz.mindgames.md"],
     "games": [
       {
-        "time": "2020-04-21T20:00:00+05:00",
-        "name": "Home Quiz #4",
-        "url": ["https://www.facebook.com/mindgamesmd/posts/1534120856762842"]
-      },
-      {
-        "time": "2020-04-25T18:00:00+03:00",
-        "name": "Ok, Google Quiz",
-        "url": ["https://www.facebook.com/mindgamesmd/posts/1541499212691673"]
-      },
-      {
         "time": "2020-05-02T18:00:00+02:00",
         "name": "St.Twins Detective",
         "price": ["250 MDL/ком"],
