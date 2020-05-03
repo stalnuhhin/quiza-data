@@ -22,6 +22,7 @@ const DATAFILES = [
     "einsteinpartybel.json",
     "elevenquiz.json",
     "eveningquiz.json",
+    "eurekaonline.json",
     "gameon.json",
     "geniumonline.json",
     "gonchar.json",

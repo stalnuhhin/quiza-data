@@ -7,7 +7,6 @@
     "image": "eureka.png",
     "price": ["20 EUR/ком", "4 EUR/чел"],
     "url": ["https://www.facebook.com/pg/eurekaintellectualgames/posts"],
-    "desc": "Таллинские игры клуба 'Эврика', проводимые Александром Ведехиным.",
     "games": [
       {
         "time": "2020-05-05T19:00:00+03:00",
