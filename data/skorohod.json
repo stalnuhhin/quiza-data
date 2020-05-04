@@ -2,7 +2,7 @@
   {
     "id": "eef21320-ac8d-4899-9be8-7d8a34c9936c",
     "org": "Квизы Скороход",
-    "latestCheck": "2020-05-01T12:00:00+03:00",
+    "latestCheck": "2020-05-04T12:00:00+03:00",
     "type": ["events"],
     "image": "skorohod.png",
     "duration": 1,
@@ -26,6 +26,12 @@
         "name": "Музыкальный Скороход №7",
         "price": ["300 RUB/ком"],
         "url": ["https://quizy.pro/streams/3200"]
+      },
+      {
+        "time": "2020-05-04T18:00:00+03:00",
+        "name": "Музыкальный Скороход №8",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/3383"]
       }
     ]
   }
