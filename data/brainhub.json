@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-05-01T12:00:00+03:00",
+    "latestCheck": "2020-05-04T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -21,6 +21,20 @@
         "chgk": true,
         "price": ["50 UAH/чел"],
         "url": ["https://www.facebook.com/events/1078057909226501/"]
+      },
+      {
+        "time": "2020-05-05T19:30:00+03:00",
+        "name": "ЧГК: Online «Что? Где? Когда?» - Декамерон",
+        "chgk": true,
+        "price": ["240 UAH/ком", "9 USD/ком", "8 EUR/ком", "700 RUB/ком"],
+        "url": ["https://www.facebook.com/events/691764791589425/"]
+      },
+      {
+        "time": "2020-05-06T20:00:00+03:00",
+        "name": "Online Melody Quiz",
+        "free": true,
+        "donate": true,
+        "url": ["https://www.facebook.com/events/2493354817643887/"]
       }
     ]
   }

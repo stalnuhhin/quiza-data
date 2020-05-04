@@ -2,7 +2,7 @@
   {
     "id": "9abb7240-5964-4ceb-a920-03909a2b6edc",
     "org": "Список онлайн турниров по ЧГК",
-    "latestCheck": "2020-05-01T12:00:00+03:00",
+    "latestCheck": "2020-05-04T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "chgkrating.png",
     "chgk": true,
@@ -38,6 +38,12 @@
         "name": "ЧГК: «Декамерон»",
         "price": ["500 RUB/ком"],
         "url": ["https://www.facebook.com/groups/chgk.global/permalink/1511391502357473/"]
+      },
+      {
+        "time": "2020-05-04T19:30:00+03:00",
+        "name": "ЧГК: «Лига старта XV»",
+        "price": ["300 RUB/чел", "400 RUB/2чел", "600 RUB/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/251593879367582/"]
       },
       {
         "time": "2020-05-09T14:00:00+03:00",
