@@ -2,13 +2,23 @@
   {
     "id": "dcf5c4cb-1d20-4879-bb7e-d4ad772aa9c8",
     "org": "Head Trick Quiz",
-    "latestCheck": "2020-05-01T12:00:00+03:00",
+    "latestCheck": "2020-05-04T12:00:00+03:00",
     "type": ["events"],
     "free": true,
     "duration": 2,
     "image": "headtrick.png",
     "url": ["https://www.facebook.com/pg/football.quiz.tashkent/posts/"],
     "games": [
+      {
+        "time": "2020-05-07T21:00:00+05:00",
+        "name": "Head Trick Quiz #6",
+        "url": [
+          "https://www.facebook.com/football.quiz.tashkent/photos/a.202711113828491/707855899980674/?type=3&theater",
+          "https://docs.google.com/forms/d/e/1FAIpQLSd71S7hJUsU4EB2AyEWOPy-MJno3EJSfz6TRAGN3-suHbKwYw/viewform",
+          "https://t.me/headtrickquiz/944",
+          "https://www.instagram.com/p/B_uoMvoFrZ6/"
+        ]
+      }
     ]
   }
 ]
