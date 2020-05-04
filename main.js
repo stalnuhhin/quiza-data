@@ -1,4 +1,4 @@
-const DATA_VERSION = 39;
+const DATA_VERSION = 40;
 const DATAFILES = [
     "3x12trivianights.json",
     "beeclever.json",

@@ -6,7 +6,7 @@
     "type": ["events"],
     "image": "pubquiz.png",
     "duration": 3,
-    "url": ["https://www.facebook.com/pg/PubQuiz.Me/posts", "https://online.event.in.ua/"],
+    "url": ["https://www.facebook.com/pg/PubQuiz.Me/events/", "https://online.event.in.ua/"],
     "desc": "Украинский клуб PubQuiz",
     "games": [
     ]
