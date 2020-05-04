@@ -17,6 +17,12 @@
         "url": ["http://genium-quiz.com/events/challenge-online-5/"]
       },
       {
+        "time": "2020-05-05T20:00:00+03:00",
+        "name": "Genium Challenge с Максимом Поташевым в #ЩедрыйВторник",
+        "price": ["400 RUB/чел", "1000 RUB/ком"],
+        "url": ["https://orbifond.ru/activity/onlajn-igra-genium-challenge-s-maksimom-potashevym-v-shhedryjvtornik"]
+      },
+      {
         "time": "2020-05-06T20:00:00+03:00",
         "name": "Genium Sprint Online",
         "url": ["http://genium-quiz.com/events/sprint-online-5/"]
