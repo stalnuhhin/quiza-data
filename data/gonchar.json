@@ -2,9 +2,9 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-05-04T12:00:00+03:00",
+    "latestCheck": "2020-05-05T12:00:00+03:00",
     "type": ["events"],
-    "image": "chgk.png",
+    "image": "gonchar.png",
     "chgk": true,
     "duration": 2,
     "url": ["https://www.facebook.com/denis.gonchar.39"],
@@ -76,8 +76,26 @@
         "url": ["https://tinyurl.com/sinhron"]
       },
       {
+        "time": "2020-05-05T22:00:00+03:00",
+        "name": "ЧГК: Зеленый шум",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      {
         "time": "2020-05-06T21:00:00+03:00",
         "name": "ЧГК: Декамерон",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      {
+        "time": "2020-05-07T19:00:00+03:00",
+        "name": "ЧГК: Зеленый шум",
+        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      {
+        "time": "2020-05-08T19:00:00+03:00",
+        "name": "ЧГК: Лига Старта - май",
         "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
         "url": ["https://tinyurl.com/sinhron"]
       }

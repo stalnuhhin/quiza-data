@@ -3,7 +3,7 @@
     "id": "148888a5-5e8c-434a-88e4-8d853b8658d7",
     "org": "City Quiz (Германия)",
     "name": "City Quiz Online (Германия)",
-    "latestCheck": "2020-05-04T12:00:00+03:00",
+    "latestCheck": "2020-05-05T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "cityquiz.png",
@@ -13,6 +13,11 @@
     "info": ["Вопросы на YouTube, ответы в Google-форму."],
     "payment": ["Оплата на регистрации по реквизитам."],
     "games": [
+      {
+        "time": "2020-05-06T19:00:00+02:00",
+        "name": "City Quiz Online #7",
+        "url": ["https://www.facebook.com/events/978002579281223/"]
+      }
     ]
   }
 ]

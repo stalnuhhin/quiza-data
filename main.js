@@ -1,8 +1,9 @@
-const DATA_VERSION = 42;
+const DATA_VERSION = 43;
 const DATAFILES = [
     "3x12trivianights.json",
     "beeclever.json",
     "bezdurakov.json",
+    "bolshayaigra.json",
     "brainbarquiz.json",
     "brainbattle.json",
     "braindo.json",
@@ -12,7 +13,6 @@ const DATAFILES = [
     "bquizonline.json",
     "chgkfily.json",
     "chgkrating.json",
-    "chgkworld.json",
     "chesamyjumnyj.json",
     "cityquizkiev.json",
     "cityquizger.json",
@@ -46,6 +46,7 @@ const DATAFILES = [
     "klub60sec.json",
     "klub60secgatchina.json",
     "klubonlinevoprosov.json",
+    "krugov.json",
     "kvizhn.json",
     "kvizplizmsk.json",
     "kvizplizspb.json",

@@ -18,6 +18,12 @@
         "name": "Интеллектуальная разминка",
         "free": true,
         "url": ["https://www.facebook.com/events/872020846598358/"]
+      },
+      {
+        "time": "2020-05-08T21:00:00+04:00",
+        "name": "InQUIZitor Online v2",
+        "price": ["12 AZN/ком"],
+        "url": ["https://www.facebook.com/events/1959360640870963/"]
       }
     ]
   }

@@ -894,9 +894,9 @@
       "https://profi.chgk-world.ru/tournaments/9", "http://intgame.ru"
     ],
     "duration": 2.5,
-    "image": "chgk.png",
+    "image": "bolshayaigra.png",
     "orgId": "5434288a-6ee6-43e9-95a0-d14b065041b4",
-    "org": "CHGK World",
+    "org": "Большая игра",
     "chgk": true
   },
   {
@@ -2782,9 +2782,9 @@
     "price": ["800 RUB/ком", "10 USD/ком"],
     "url": ["https://dc.t.chgk-world.ru", "http://intgame.ru"],
     "duration": 2.5,
-    "image": "chgk.png",
+    "image": "bolshayaigra.png",
     "orgId": "5434288a-6ee6-43e9-95a0-d14b065041b4",
-    "org": "CHGK World",
+    "org": "Большая игра",
     "chgk": true
   },
   {
@@ -3238,9 +3238,9 @@
     "price": ["450 RUB/ком", "6 USD/ком", "1500 RUB/ком/4 игры", "20 USD/ком/4 игры"],
     "url": ["https://profi.chgk-world.ru/tournaments/16", "http://intgame.ru"],
     "duration": 2.5,
-    "image": "chgk.png",
+    "image": "bolshayaigra.png",
     "orgId": "5434288a-6ee6-43e9-95a0-d14b065041b4",
-    "org": "CHGK World",
+    "org": "Большая игра",
     "chgk": true
   },
   {
@@ -4297,9 +4297,9 @@
     "price": ["800 RUB/ком", "10 USD/ком"],
     "url": ["https://intgame.ru/d-cup", "http://intgame.ru"],
     "duration": 2.5,
-    "image": "chgk.png",
+    "image": "bolshayaigra.png",
     "orgId": "5434288a-6ee6-43e9-95a0-d14b065041b4",
-    "org": "CHGK World",
+    "org": "Большая игра",
     "chgk": true
   },
   {
@@ -5897,9 +5897,9 @@
     "price": ["450 RUB/ком", "6 USD/ком", "1500 RUB/ком/4 игры", "20 USD/ком/4 игры"],
     "url": ["https://profi.chgk-world.ru/tournaments/18", "http://intgame.ru"],
     "duration": 2.5,
-    "image": "chgk.png",
+    "image": "bolshayaigra.png",
     "orgId": "5434288a-6ee6-43e9-95a0-d14b065041b4",
-    "org": "CHGK World",
+    "org": "Большая игра",
     "chgk": true
   },
   {
@@ -8637,9 +8637,9 @@
     "name": "Международная лига. Большая игра №3",
     "price": ["450 RUB/ком", "6 USD/ком"],
     "duration": 2.5,
-    "image": "chgk.png",
+    "image": "bolshayaigra.png",
     "orgId": "5434288a-6ee6-43e9-95a0-d14b065041b4",
-    "org": "CHGK World",
+    "org": "Большая игра",
     "chgk": true,
     "url": ["http://intgame.ru"]
   },
