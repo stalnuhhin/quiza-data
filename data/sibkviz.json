@@ -2,7 +2,7 @@
   {
     "id": "ab4a284a-ea0e-4c31-9935-981d29dbdf68",
     "org": "СибКвиз",
-    "latestCheck": "2020-05-04T12:00:00+03:00",
+    "latestCheck": "2020-05-06T12:00:00+03:00",
     "type": ["events"],
     "image": "sibkviz.png",
     "duration": 2,
@@ -18,6 +18,11 @@
         "time": "2020-05-05T18:00:00+03:00",
         "name": "Тот самый СИБКВИЗ #3",
         "url": ["https://quizy.pro/streams/3335"]
+      },
+      {
+        "time": "2020-05-08T16:00:00+03:00",
+        "name": "СИБКВИЗ ONLINE #11",
+        "url": ["https://quizy.pro/streams/3448"]
       }
     ]
   }

@@ -3,7 +3,7 @@
     "id": "2668f220-4f29-43bf-a9af-590cbee446ba",
     "org": "BrainBarQuiz",
     "name": "BBQuizHome",
-    "latestCheck": "2020-05-04T12:00:00+03:00",
+    "latestCheck": "2020-05-06T12:00:00+03:00",
     "type": ["events"],
     "image": "brainbarquiz.png",
     "duration": 2,
@@ -19,6 +19,10 @@
       {
         "time": "2020-05-05T17:00:00+03:00",
         "url": ["https://vk.com/wall-138515221_4591"]
+      },
+      {
+        "time": "2020-05-10T17:00:00+03:00",
+        "url": ["https://vk.com/wall-138515221_4604"]
       }
     ]
   }
