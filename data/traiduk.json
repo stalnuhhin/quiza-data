@@ -5,6 +5,7 @@
     "latestCheck": "2020-05-01T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
+    "image": "traiduk.png",
     "url": ["https://www.facebook.com/profile.php?id=100017788444620"],
     "games": [
       {
@@ -32,6 +33,12 @@
         "price": ["8 USD/ком"],
         "chgk": true,
         "url": ["https://www.facebook.com/events/2528754370787623/"]
+      },
+      {
+        "time": "2020-05-11T17:00:00+03:00",
+        "name": "FatLazyRaccoon CUP",
+        "price": ["10 USD/ком"],
+        "url": ["https://www.facebook.com/events/944616695941521/"]
       }
     ]
   }

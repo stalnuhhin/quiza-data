@@ -1,0 +1,18 @@
+[
+  {
+    "id": "185c70d6-759d-4e11-8198-b59b929f67e5",
+    "org": "FM QUIZ",
+    "latestCheck": "2020-05-07T12:00:00+03:00",
+    "type": ["events"],
+    "image": "fmquiz.png",
+    "duration": 2,
+    "price": ["20 BYN/ком"],
+    "url": ["https://vk.com/fmquiz"],
+    "games": [
+      {
+        "time": "2020-05-11T19:00:00+03:00",
+        "url": ["https://vk.com/wall-127402793_9480"]
+      }
+    ]
+  }
+]

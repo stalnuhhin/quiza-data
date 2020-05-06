@@ -2,7 +2,7 @@
   {
     "id": "0bf84dbe-b4f0-4c05-a89d-9a38cabd0307",
     "org": "Brain Battle",
-    "latestCheck": "2020-05-04T12:00:00+03:00",
+    "latestCheck": "2020-05-07T12:00:00+03:00",
     "type": ["events"],
     "image": "brainbattle.png",
     "duration": 2,
@@ -19,6 +19,11 @@
         "time": "2020-05-04T18:00:00+03:00",
         "name": "Brain Battle #5",
         "url": ["https://vk.com/wall-162154434_3561"]
+      },
+      {
+        "time": "2020-05-11T18:00:00+03:00",
+        "name": "Brain Battle #6",
+        "url": ["https://vk.com/wall-162154434_3624"]
       }
     ]
   }
