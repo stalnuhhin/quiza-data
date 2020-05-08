@@ -2,6 +2,7 @@
   {
     "id": "371a2d78-4081-4e1e-b94e-175fbb587b21",
     "org": "Quiz Time",
+    "name": "Online Quiz Time",
     "latestCheck": "2020-05-09T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
@@ -9,6 +10,10 @@
     "price": ["50 UAH/чел"],
     "url": ["https://www.facebook.com/pg/quiztime.kr/events"],
     "games": [
+      {
+        "time": "2020-05-09T19:00:00+03:00",
+        "url": ["https://www.facebook.com/quiztime.kr/photos/a.121086765995492/234237124680455/?type=3"]
+      }
     ]
   }
 ]
