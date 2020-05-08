@@ -2,7 +2,7 @@
   {
     "id": "a983715a-2638-4376-931a-1f67f3e3e21a",
     "org": "Наталья Трайдук",
-    "latestCheck": "2020-05-01T12:00:00+03:00",
+    "latestCheck": "2020-05-09T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "traiduk.png",
@@ -26,6 +26,12 @@
         "price": ["5 USD/ком"],
         "chgk": true,
         "url": ["https://www.facebook.com/events/2656931181261837/"]
+      },
+      {
+        "time": "2020-05-09T18:00:00+03:00",
+        "name": "Cinema Quiz",
+        "free": true,
+        "url": ["https://www.facebook.com/events/229715354977099/"]
       },
       {
         "time": "2020-05-10T17:00:00+03:00",

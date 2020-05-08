@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-05-04T12:00:00+03:00",
+    "latestCheck": "2020-05-09T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -35,6 +35,20 @@
         "free": true,
         "donate": true,
         "url": ["https://www.facebook.com/events/2493354817643887/"]
+      },
+      {
+        "time": "2020-05-11T20:00:00+03:00",
+        "name": "ЧГК: Чёрное «Что? Где? Когда?»",
+        "chgk": true,
+        "price": ["300 UAH/ком"],
+        "url": ["https://darker.ticketforevent.com"]
+      },
+      {
+        "time": "2020-05-12T19:30:00+03:00",
+        "name": "ЧГК: Online «Что? Где? Когда?» - Кубок Бесконечности. VII этап: Финал",
+        "chgk": true,
+        "price": ["240 UAH/ком", "9 USD/ком", "8 EUR/ком", "700 RUB/ком"],
+        "url": ["https://www.facebook.com/events/545800362742449/"]
       }
     ]
   }

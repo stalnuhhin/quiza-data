@@ -3,10 +3,8 @@
     "id": "a0cdcaac-c998-4ac5-bf57-c3fd9e04a32d",
     "org": "Без дураков (Ровшан Аскеров и Борис Левин)",
     "name": "Командная онлайн-игра Без дураков",
-    "latestCheck": "2020-05-04T12:00:00+03:00",
+    "latestCheck": "2020-05-09T12:00:00+03:00",
     "type": ["events"],
-    "noregistration": true,
-    "hasContent": true,
     "image": "bezdurakov.png",
     "price": ["3000 RUB/ком"],
     "url": [
@@ -33,7 +31,8 @@
       },
       {
         "time": "2020-05-09T20:00:00+03:00",
-        "name": "Майская игра #3"
+        "name": "Майская игра #3",
+        "url": ["https://bezdurakov.timepad.ru/event/1309966/"]
       },
       {
         "time": "2020-05-13T20:00:00+03:00",

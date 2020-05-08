@@ -1,4 +1,4 @@
-const DATA_VERSION = 48;
+const DATA_VERSION = 49;
 const DATAFILES = [
     "3x12trivianights.json",
     "beeclever.json",
@@ -156,14 +156,18 @@ const app = new Vue({
                     game.duration = game.duration || tem.duration || org.duration;
                     game.image = game.image || tem.image || org.image;
                     game.org = game.org || tem.org || org.org;
-                    game.chgk = game.chgk || tem.chgk || org.chgk;
+                    game.chgk = game.chgk || (game.chgk === undefined && tem.chgk);
+                    game.chgk = game.chgk || (game.chgk === undefined && org.chgk);
                     game.lang = game.lang || tem.lang || org.lang;
-                    game.noregistration = game.noregistration || tem.noregistration || org.noregistration;
+                    game.noregistration = game.noregistration || (game.noregistration === undefined && tem.noregistration);
+                    game.noregistration = game.noregistration || (game.noregistration === undefined && org.noregistration);
                     game.url = game.url || [];
                     game.url = org.url ? game.url.concat(org.url) : game.url;
                     game.url = tem.url ? game.url.concat(tem.url) : game.url;
-                    game.free = game.free || tem.free || org.free;
-                    game.donate = game.donate || tem.donate || org.donate;
+                    game.free = game.free || (game.free === undefined && tem.free);
+                    game.free = game.free || (game.free === undefined && org.free);
+                    game.donate = game.donate || (game.donate === undefined && tem.donate);
+                    game.donate = game.donate || (game.donate === undefined && org.donate);
                     game.price = game.price || tem.price || org.price;
                     game.desc = game.desc || tem.desc || org.desc;
                     game.info = game.info || tem.info || org.info;
