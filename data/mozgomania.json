@@ -1,567 +1,256 @@
 [
   {
+    "id": "61f66a97-a27d-435d-a8f1-e7af4e4d8b81",
     "org": "Мозгомания",
-    "latestCheck": "2020-04-23T12:00:00+03:00",
+    "latestCheck": "2020-05-04T12:00:00+03:00",
     "type": ["events"],
     "image": "mozgomania.png",
     "duration": 2,
-    "url": ["https://vk.com/online_mzg", "https://mozgomania.ru/", "https://www.facebook.com/pg/mozgomania.ru/posts"],
+    "url": [
+      "https://online.mozgomania.ru/",
+      "https://vk.com/online_mzg",
+      "https://www.facebook.com/pg/mozgomania.ru/posts"
+    ],
     "games": [
       {
-        "time": "2020-04-02T12:00:00+03:00",
-        "name": "Ламповая лига #3 (повтор)",
-        "price": ["100 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1466"]
-      },
-      {
-        "time": "2020-04-02T15:00:00+03:00",
-        "name": "Ламповая лига #3 (повтор)",
-        "price": ["100 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1467"]
-      },
-      {
-        "time": "2020-04-02T16:00:00+03:00",
-        "duration": 1,
-        "name": "Школьники, студенты и молодежные организации",
-        "price": ["100 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1306"]
-      },
-      {
-        "time": "2020-04-02T18:00:00+03:00",
-        "name": "Ламповая лига #3 (повтор)",
-        "price": ["100 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1468"]
-      },
-      {
-        "time": "2020-04-02T21:00:00+03:00",
-        "name": "Игромания #2 (премьера)",
-        "price": ["100 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1443"]
-      },
-      {
-        "time": "2020-04-03T12:00:00+03:00",
-        "name": "Игромания #2 (повтор)",
-        "price": ["100 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1445"]
-      },
-      {
-        "time": "2020-04-03T15:00:00+03:00",
-        "name": "Игромания #2 (повтор)",
-        "price": ["100 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1446"]
-      },
-      {
-        "time": "2020-04-03T18:00:00+03:00",
-        "name": "Игромания #2 (повтор)",
-        "price": ["100 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1447"]
-      },
-      {
-        "time": "2020-04-04T15:00:00+03:00",
-        "name": "Экспертная лига #2 (повтор)",
-        "price": ["100 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1590"]
-      },
-      {
-        "time": "2020-04-04T18:00:00+03:00",
-        "name": "Экспертная лига #2 (повтор)",
-        "price": ["100 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1591"]
-      },
-      {
-        "time": "2020-04-04T21:00:00+03:00",
-        "name": "Футбомания. Премьера",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1616"]
-      },
-      {
-        "time": "2020-04-06T12:00:00+03:00",
-        "name": "Любительская лига #4 (повтор)",
-        "price": ["100 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1700"]
-      },
-      {
-        "time": "2020-04-06T15:00:00+03:00",
-        "name": "Любительская лига #4 (повтор)",
-        "price": ["100 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1701"]
-      },
-      {
-        "time": "2020-04-06T18:00:00+03:00",
-        "name": "Любительская лига #4 (повтор)",
-        "price": ["100 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1702"]
-      },
-      {
-        "time": "2020-04-06T21:00:00+03:00",
-        "name": "Киномания #3",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1660"]
-      },
-      {
-        "time": "2020-04-07T12:00:00+03:00",
-        "name": "Киномания #3 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1703"]
-      },
-      {
-        "time": "2020-04-07T15:00:00+03:00",
-        "name": "Киномания #3 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1704"]
-      },
-      {
-        "time": "2020-04-07T18:00:00+03:00",
-        "name": "Киномания #3 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1705"]
-      },
-      {
-        "time": "2020-04-07T21:00:00+03:00",
-        "name": "Спортомания #3",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1671"]
-      },
-      {
-        "time": "2020-04-08T12:00:00+03:00",
-        "name": "Спортомания #3 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1706"]
-      },
-      {
-        "time": "2020-04-08T15:00:00+03:00",
-        "name": "Спортомания #3 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1707"]
-      },
-      {
-        "time": "2020-04-08T18:00:00+03:00",
-        "name": "Спортомания #3 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1708"]
-      },
-      {
-        "time": "2020-04-08T21:00:00+03:00",
-        "name": "Игромания и GAMERQUIZ #1",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1802"]
-      },
-      {
-        "time": "2020-04-09T12:00:00+03:00",
-        "name": "Игромания и GAMERQUIZ #1 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1809"]
-      },
-      {
-        "time": "2020-04-09T15:00:00+03:00",
-        "name": "Игромания и GAMERQUIZ #1 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1810"]
-      },
-      {
-        "time": "2020-04-09T18:00:00+03:00",
-        "name": "Игромания и GAMERQUIZ #1 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1811"]
-      },
-      {
-        "time": "2020-04-09T21:00:00+03:00",
-        "name": "Юморомания #1",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1870"]
-      },
-      {
-        "time": "2020-04-10T12:00:00+03:00",
-        "name": "Юморомания #1 (повтор)",
-        "price": ["150 RUB/чел"]
-      },
-      {
-        "time": "2020-04-10T15:00:00+03:00",
-        "name": "Юморомания #1 (повтор)",
-        "price": ["150 RUB/чел"]
-      },
-      {
-        "time": "2020-04-10T18:00:00+03:00",
-        "name": "Юморомания #1 (повтор)",
-        "price": ["150 RUB/чел"]
-      },
-      {
-        "time": "2020-04-10T21:00:00+03:00",
-        "name": "Экспертная лига #3",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1710"]
-      },
-      {
-        "time": "2020-04-11T12:00:00+03:00",
-        "name": "Экспертная лига #3 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1711"]
-      },
-      {
-        "time": "2020-04-11T15:00:00+03:00",
-        "name": "Экспертная лига #3 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1712"]
-      },
-      {
-        "time": "2020-04-11T18:00:00+03:00",
-        "name": "Экспертная лига #3 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1713"]
-      },
-      {
-        "time": "2020-04-11T21:00:00+03:00",
-        "name": "Футбомания #2",
-        "price": ["150 RUB/чел"]
-      },
-      {
-        "time": "2020-04-12T12:00:00+03:00",
-        "name": "Футбомания #2 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1958"]
-      },
-      {
-        "time": "2020-04-12T15:00:00+03:00",
-        "name": "Футбомания #2 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1959"]
-      },
-      {
-        "time": "2020-04-12T18:00:00+03:00",
-        "name": "Футбомания #2 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1960"]
-      },
-      {
-        "time": "2020-04-12T21:00:00+03:00",
-        "name": "Мозгомания и хрен его знает #1",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1924"]
-      },
-      {
-        "time": "2020-04-13T12:00:00+03:00",
-        "name": "Мозгомания и хрен его знает #1 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1926"]
-      },
-      {
-        "time": "2020-04-13T15:00:00+03:00",
-        "name": "Мозгомания и хрен его знает #1 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1966"]
-      },
-      {
-        "time": "2020-04-13T18:00:00+03:00",
-        "name": "Мозгомания и хрен его знает #1 (повтор)",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/1967"]
-      },
-      {
-        "time": "2020-04-13T21:00:00+03:00",
-        "name": "Киномания #4"
-      },
-      {
-        "time": "2020-04-14T12:00:00+03:00",
-        "name": "Киномания #4"
-      },
-      {
-        "time": "2020-04-14T15:00:00+03:00",
-        "name": "Киномания #4"
-      },
-      {
-        "time": "2020-04-14T18:00:00+03:00",
-        "name": "Киномания #4"
-      },
-      {
-        "time": "2020-04-14T21:00:00+03:00",
-        "name": "Спортомания #4",
-        "price": ["150 RUB/чел"]
-      },
-      {
-        "time": "2020-04-15T12:00:00+03:00",
-        "name": "Спортомания #4",
-        "price": ["150 RUB/чел"]
-      },
-      {
-        "time": "2020-04-15T15:00:00+03:00",
-        "name": "Спортомания #4",
-        "price": ["150 RUB/чел"]
-      },
-      {
-        "time": "2020-04-15T18:00:00+03:00",
-        "name": "Спортомания #4",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2059"]
-      },
-      {
-        "time": "2020-04-15T21:00:00+03:00",
-        "name": "Игромания #3",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2004"]
-      },
-      {
-        "time": "2020-04-16T12:00:00+03:00",
-        "name": "Игромания #3",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2097"]
-      },
-      {
-        "time": "2020-04-16T15:00:00+03:00",
-        "name": "Игромания #3",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2098"]
-      },
-      {
-        "time": "2020-04-16T18:00:00+03:00",
-        "name": "Игромания #3",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2100"]
-      },
-      {
-        "time": "2020-04-16T21:00:00+03:00",
-        "name": "Музомания #1",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2101"]
-      },
-      {
-        "time": "2020-04-17T12:00:00+03:00",
-        "name": "Музомания #1",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2102"]
-      },
-      {
-        "time": "2020-04-17T15:00:00+03:00",
-        "name": "Музомания #1",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2103"]
-      },
-      {
-        "time": "2020-04-17T18:00:00+03:00",
-        "name": "Музомания #1",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2105"]
-      },
-      {
-        "time": "2020-04-17T21:00:00+03:00",
-        "name": "Экспертная лига #4",
-        "price": ["300 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2106"]
-      },
-      {
-        "time": "2020-04-18T12:00:00+03:00",
-        "name": "Экспертная лига #4",
-        "price": ["300 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2107"]
-      },
-      {
-        "time": "2020-04-18T15:00:00+03:00",
-        "name": "Экспертная лига #4",
-        "price": ["300 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2108"]
-      },
-      {
-        "time": "2020-04-18T18:00:00+03:00",
-        "name": "Экспертная лига #4",
-        "price": ["300 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2109"]
-      },
-      {
-        "time": "2020-04-18T21:00:00+03:00",
-        "name": "Футбомания #3",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2110"]
-      },
-      {
-        "time": "2020-04-19T12:00:00+03:00",
-        "name": "Футбомания #3",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2111"]
-      },
-      {
-        "time": "2020-04-19T15:00:00+03:00",
-        "name": "Футбомания #3",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2112"]
-      },
-      {
-        "time": "2020-04-19T18:00:00+03:00",
-        "name": "Футбомания #3",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2113"]
-      },
-      {
-        "time": "2020-04-19T21:00:00+03:00",
-        "name": "Любительская лига #5",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2114"]
-      },
-      {
-        "time": "2020-04-20T12:00:00+03:00",
-        "name": "Любительская лига #5",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2115"]
-      },
-      {
-        "time": "2020-04-20T15:00:00+03:00",
-        "name": "Любительская лига #5",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2116"]
-      },
-      {
-        "time": "2020-04-20T18:00:00+03:00",
-        "name": "Любительская лига #5",
-        "price": ["150 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2117"]
-      },
-      {
-        "time": "2020-04-20T21:00:00+03:00",
-        "name": "Киномания #5",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2114"]
-      },
-      {
-        "time": "2020-04-21T12:00:00+03:00",
-        "name": "Киномания #5",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2337"]
-      },
-      {
-        "time": "2020-04-21T15:00:00+03:00",
-        "name": "Киномания #5",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2338"]
-      },
-      {
-        "time": "2020-04-21T18:00:00+03:00",
-        "name": "Киномания #5",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2339"]
-      },
-      {
-        "time": "2020-04-23T12:00:00+03:00",
-        "name": "Игромания #4",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2421"]
-      },
-      {
-        "time": "2020-04-23T13:30:00+03:00",
-        "name": "Спортомания #5",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2417"]
-      },
-      {
-        "time": "2020-04-23T15:00:00+03:00",
-        "name": "Игромания #4",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2422"]
-      },
-      {
-        "time": "2020-04-23T16:30:00+03:00",
-        "name": "Спортомания #5",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2419"]
-      },
-      {
-        "time": "2020-04-23T18:00:00+03:00",
-        "name": "Игромания #4",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2423"]
-      },
-      {
-        "time": "2020-04-23T21:00:00+03:00",
-        "name": "Музомания #2",
+        "time": "2020-05-01T21:00:00+03:00",
+        "name": "Музомания #3",
         "price": ["250 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2334"]
+        "url": ["https://quizy.pro/streams/2887"]
       },
       {
-        "time": "2020-04-24T12:00:00+03:00",
-        "name": "Музомания #2",
+        "time": "2020-05-02T12:00:00+03:00",
+        "name": "Музомания #3",
         "price": ["250 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2341"]
+        "url": ["https://quizy.pro/streams/2888"]
       },
       {
-        "time": "2020-04-24T15:00:00+03:00",
-        "name": "Музомания #2",
+        "time": "2020-05-02T15:00:00+03:00",
+        "name": "Музомания #3",
         "price": ["250 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2342"]
+        "url": ["https://quizy.pro/streams/2889"]
       },
       {
-        "time": "2020-04-24T18:00:00+03:00",
-        "name": "Музомания #2",
+        "time": "2020-05-02T18:00:00+03:00",
+        "name": "Музомания #3",
         "price": ["250 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2343"]
+        "url": ["https://quizy.pro/streams/2890"]
       },
       {
-        "time": "2020-04-24T21:00:00+03:00",
-        "name": "Экспертная лига #5",
+        "time": "2020-05-01T21:00:00+03:00",
+        "name": "Экспертная Лига #6",
         "price": ["300 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2343"]
+        "url": ["https://quizy.pro/streams/2891"]
       },
       {
-        "time": "2020-04-25T12:00:00+03:00",
-        "name": "Экспертная лига #5",
+        "time": "2020-05-02T12:00:00+03:00",
+        "name": "Экспертная Лига #6",
         "price": ["300 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2425"]
+        "url": ["https://quizy.pro/streams/2892"]
       },
       {
-        "time": "2020-04-25T15:00:00+03:00",
-        "name": "Экспертная лига #5",
+        "time": "2020-05-02T15:00:00+03:00",
+        "name": "Экспертная Лига #6",
         "price": ["300 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2426"]
+        "url": ["https://quizy.pro/streams/2893"]
       },
       {
-        "time": "2020-04-25T18:00:00+03:00",
-        "name": "Экспертная лига #5",
+        "time": "2020-05-02T18:00:00+03:00",
+        "name": "Экспертная Лига #6",
         "price": ["300 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2428"]
+        "url": ["https://quizy.pro/streams/2894"]
       },
       {
-        "time": "2020-04-25T21:00:00+03:00",
-        "name": "Футбомания #4",
+        "time": "2020-05-03T21:00:00+03:00",
+        "name": "Футбомания #5",
         "price": ["250 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2429"]
+        "url": ["https://quizy.pro/streams/2901"]
       },
       {
-        "time": "2020-04-26T12:00:00+03:00",
-        "name": "Футбомания #4",
+        "time": "2020-05-04T12:00:00+03:00",
+        "name": "Футбомания #5",
         "price": ["250 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2430"]
+        "url": ["https://quizy.pro/streams/2902"]
       },
       {
-        "time": "2020-04-26T15:00:00+03:00",
-        "name": "Футбомания #4",
+        "time": "2020-05-04T15:00:00+03:00",
+        "name": "Футбомания #5",
         "price": ["250 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2431"]
+        "url": ["https://quizy.pro/streams/2903"]
       },
       {
-        "time": "2020-04-26T18:00:00+03:00",
-        "name": "Футбомания #4",
+        "time": "2020-05-04T18:00:00+03:00",
+        "name": "Футбомания #5",
         "price": ["250 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2432"]
+        "url": ["https://quizy.pro/streams/2905"]
       },
       {
-        "time": "2020-04-26T21:00:00+03:00",
-        "name": "Мозгомания и Хрен его знает #2",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2433"]
+        "time": "2020-05-04T21:00:00+03:00",
+        "name": "Киномания #7",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3115"]
       },
       {
-        "time": "2020-04-27T12:00:00+03:00",
-        "name": "Мозгомания и Хрен его знает #2",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2434"]
+        "time": "2020-05-05T12:00:00+03:00",
+        "name": "Киномания #7",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3116"]
       },
       {
-        "time": "2020-04-27T15:00:00+03:00",
-        "name": "Мозгомания и Хрен его знает #2",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2435"]
+        "time": "2020-05-05T15:00:00+03:00",
+        "name": "Киномания #7",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3117"]
       },
       {
-        "time": "2020-04-27T18:00:00+03:00",
-        "name": "Мозгомания и Хрен его знает #2",
-        "price": ["200 RUB/чел"],
-        "url": ["https://quizy.pro/streams/2436"]
+        "time": "2020-05-05T18:00:00+03:00",
+        "name": "Киномания #7",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3118"]
+      },
+      {
+        "time": "2020-05-05T21:00:00+03:00",
+        "name": "Любительская лига #6",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/2895"]
+      },
+      {
+        "time": "2020-05-06T12:00:00+03:00",
+        "name": "Любительская лига #6",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/2896"]
+      },
+      {
+        "time": "2020-05-06T15:00:00+03:00",
+        "name": "Любительская лига #6",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/2898"]
+      },
+      {
+        "time": "2020-05-06T18:00:00+03:00",
+        "name": "Любительская лига #6",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/2899"]
+      },
+      {
+        "time": "2020-05-06T21:00:00+03:00",
+        "name": "Спортомания #6",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3319"]
+      },
+      {
+        "time": "2020-05-07T12:00:00+03:00",
+        "name": "Спортомания #6",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3320"]
+      },
+      {
+        "time": "2020-05-07T15:00:00+03:00",
+        "name": "Спортомания #6",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3321"]
+      },
+      {
+        "time": "2020-05-07T18:00:00+03:00",
+        "name": "Спортомания #6",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3322"]
+      },
+      {
+        "time": "2020-05-07T21:00:00+03:00",
+        "name": "Экспертная лига #7",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3323"]
+      },
+      {
+        "time": "2020-05-08T12:00:00+03:00",
+        "name": "Экспертная лига #7",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3324"]
+      },
+      {
+        "time": "2020-05-08T15:00:00+03:00",
+        "name": "Экспертная лига #7",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3325"]
+      },
+      {
+        "time": "2020-05-08T18:00:00+03:00",
+        "name": "Экспертная лига #7",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3326"]
+      },
+      {
+        "time": "2020-05-08T21:00:00+03:00",
+        "name": "Музомания #4",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3111"]
+      },
+      {
+        "time": "2020-05-09T12:00:00+03:00",
+        "name": "Музомания #4",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3112"]
+      },
+      {
+        "time": "2020-05-09T15:00:00+03:00",
+        "name": "Музомания #4",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3113"]
+      },
+      {
+        "time": "2020-05-09T18:00:00+03:00",
+        "name": "Музомания #4",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3114"]
+      },
+      {
+        "time": "2020-05-09T21:00:00+03:00",
+        "name": "Футбомания #6",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3327"]
+      },
+      {
+        "time": "2020-05-10T12:00:00+03:00",
+        "name": "Футбомания #6",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3328"]
+      },
+      {
+        "time": "2020-05-10T15:00:00+03:00",
+        "name": "Футбомания #6",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3329"]
+      },
+      {
+        "time": "2020-05-10T18:00:00+03:00",
+        "name": "Футбомания #6",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3330"]
+      },
+      {
+        "time": "2020-05-10T21:00:00+03:00",
+        "name": "Культурно-историческое #2",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3379"]
+      },
+      {
+        "time": "2020-05-11T12:00:00+03:00",
+        "name": "Культурно-историческое #2",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3380"]
+      },
+      {
+        "time": "2020-05-11T15:00:00+03:00",
+        "name": "Культурно-историческое #2",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3381"]
+      },
+      {
+        "time": "2020-05-11T18:00:00+03:00",
+        "name": "Культурно-историческое #2",
+        "price": ["250 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3382"]
       }
     ]
   }

@@ -1,23 +1,14 @@
 [
   {
+    "id": "73519809-ffb6-4fc3-9528-7c9d58998342",
     "org": "ЧГК Филы",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-05-07T12:00:00+03:00",
     "type": ["events"],
     "chgk": true,
     "duration": 2.5,
     "image": "chgkfily.png",
     "url": ["https://www.facebook.com/pg/4gk.phil/events"],
     "games": [
-      {
-        "time": "2020-04-19T15:00:00-04:00",
-        "name": "ЧГК: Апрельская Игра ЧГК Филы 2020",
-        "url": ["https://www.facebook.com/events/237145800737658/"]
-      },
-      {
-        "time": "2020-04-25T18:00:00-04:00",
-        "name": "ЧГК: Апрельский Синхрон",
-        "url": ["https://www.facebook.com/events/239152523954264/"]
-      }
     ]
   }
 ]

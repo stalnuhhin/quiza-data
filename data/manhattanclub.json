@@ -1,19 +1,15 @@
 [
   {
+    "id": "0c68401b-5c71-4b97-b190-10f1fb942e4b",
     "org": "Manhattan Club (Николаев)",
     "name": "Manhattan Club Online",
-    "latestCheck": "2020-04-23T12:00:00+03:00",
+    "latestCheck": "2020-05-07T12:00:00+03:00",
     "type": ["events"],
     "image": "manhattanclub.png",
     "duration": 1,
     "price": ["500 UAH/ком"],
-    "url": ["https://www.facebook.com/ManhattanClubNikolaev"],
+    "url": ["https://www.facebook.com/pg/ManhattanClubNikolaev/events"],
     "games": [
-      {
-        "time": "2020-04-19T18:00:00+03:00",
-        "name": "Первая Игра Manhattan Club Online",
-        "url": ["https://www.facebook.com/events/3328572990505651/"]
-      },
       {
         "time": "2020-05-03T18:00:00+03:00",
         "name": "Вторая Игра Manhattan Club Online",

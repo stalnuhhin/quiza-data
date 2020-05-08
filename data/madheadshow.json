@@ -1,32 +1,19 @@
 [
   {
+    "id": "4e1015e0-0e03-4b23-9d31-a75a47694e0f",
     "org": "Mad Head Show Kyiv",
-    "latestCheck": "2020-04-23T12:00:00+03:00",
+    "latestCheck": "2020-05-07T12:00:00+03:00",
     "type": ["events"],
     "image": "madheadshow.png",
     "duration": 2,
     "donate": true,
     "price": ["70 UAH/чел"],
-    "url": ["https://www.facebook.com/pg/MadHeadKyiv/posts", "https://t.me/madheadkyiv"],
+    "url": ["https://www.facebook.com/pg/MadHeadKyiv/events/", "https://t.me/madheadkyiv"],
     "desc": "Mad Head будет интересен людям с разной интеллектуальной подготовкой, так как большинство вопросов берутся логикой, сообразительностью и не редко на помощь приходит чувство юмора.",
     "info": [
       "Cтрим в quizy.pro, там же вбиваются ответы.", "В стриме показан ведущий, есть комментарии и обратная связь."
     ],
     "games": [
-      {
-        "time": "2020-04-01T19:30:00+03:00",
-        "name": "Mad Head Kyiv Online 'Some Like It Hot'"
-      },
-      {
-        "time": "2020-04-08T19:30:00+03:00",
-        "name": "Mad Head Kyiv Online #1",
-        "url": ["https://www.facebook.com/events/234321604617130/"]
-      },
-      {
-        "time": "2020-04-22T19:30:00+03:00",
-        "name": "Mad Head Kyiv Online #2",
-        "url": ["https://www.facebook.com/events/541995880048187/"]
-      }
     ]
   }
 ]

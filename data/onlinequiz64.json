@@ -1,57 +1,36 @@
 [
   {
+    "id": "bf5df1c1-bd66-4952-a470-16a093212d61",
     "org": "Online Quiz 64",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-05-06T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
-    "price": ["150 RUB/ком"],
     "image": "onlinequiz64.png",
     "url": ["https://vk.com/onlinequiz64"],
     "games": [
       {
-        "time": "2020-04-10T19:00:00+03:00",
-        "name": "География #1",
-        "url": ["https://quizy.pro/streams/1798"]
+        "time": "2020-05-03T14:30:00+03:00",
+        "name": "Спорт #4 обо всём кроме футбола",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2866", "https://vk.com/wall-193933447_49"]
       },
       {
-        "time": "2020-04-11T15:00:00+03:00",
-        "name": "География #1 (повтор)",
-        "url": ["https://quizy.pro/streams/1799"]
+        "time": "2020-05-03T19:00:00+03:00",
+        "name": "Спорт #4 обо всём кроме футбола (повтор)",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2867", "https://vk.com/wall-193933447_49"]
       },
       {
-        "time": "2020-04-14T17:00:00+03:00",
-        "name": "Спорт #2",
-        "url": ["https://quizy.pro/streams/1993"]
+        "time": "2020-05-10T15:30:00+03:00",
+        "name": "Игра в буквы",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2930", "https://vk.com/wall-193933447_55"]
       },
       {
-        "time": "2020-04-15T13:30:00+03:00",
-        "name": "Спорт #2 (повтор)",
-        "url": ["https://quizy.pro/streams/1994"]
-      },
-      {
-        "time": "2020-04-15T19:30:00+03:00",
-        "name": "Спорт #2 (повтор)",
-        "url": ["https://quizy.pro/streams/1995"]
-      },
-      {
-        "time": "2020-04-24T159:00:00+03:00",
-        "name": "География #2",
-        "url": ["https://quizy.pro/streams/2195", "https://vk.com/wall-193933447_31"]
-      },
-      {
-        "time": "2020-04-24T19:00:00+03:00",
-        "name": "География #2 (повтор)",
-        "url": ["https://quizy.pro/streams/2196", "https://vk.com/wall-193933447_31"]
-      },
-      {
-        "time": "2020-04-26T14:00:00+03:00",
-        "name": "Спорт #3 без футбола",
-        "url": ["https://quizy.pro/streams/2192", "https://vk.com/wall-193933447_31"]
-      },
-      {
-        "time": "2020-04-26T19:00:00+03:00",
-        "name": "Спорт #3 без футбола (повтор)",
-        "url": ["https://quizy.pro/streams/2193", "https://vk.com/wall-193933447_31"]
+        "time": "2020-05-10T20:00:00+03:00",
+        "name": "Игра в буквы (повтор)",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/2931", "https://vk.com/wall-193933447_55"]
       }
     ]
   }

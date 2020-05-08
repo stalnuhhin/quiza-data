@@ -1,36 +1,13 @@
 [
   {
+    "id": "d5d56a1a-8e85-4953-ad10-2fc57856878b",
     "org": "3x12 Trivia Nights",
-    "latestCheck": "2020-04-23T12:00:00+03:00",
+    "latestCheck": "2020-05-07T12:00:00+03:00",
     "type": ["events"],
     "image": "3x12trivianights.png",
     "duration": 2,
     "url": ["https://www.facebook.com/pg/trivia3x12/events"],
     "games": [
-      {
-        "time": "2020-04-18T18:30:00+01:00",
-        "name": "Irish Online Trivia by 3x12",
-        "lang": "По-английски",
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/811566339253174/"]
-      },
-      {
-        "time": "2020-04-25T18:30:00+01:00",
-        "name": "'Friends' Online Trivia by 3x12",
-        "lang": "По-английски",
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/229140384813539/"]
-      },
-      {
-        "time": "2020-04-30T18:30:00+01:00",
-        "name": "Free Online Trivia by 3x12",
-        "lang": "По-английски",
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/266468887854328/"]
-      },
       {
         "time": "2020-05-02T18:30:00+01:00",
         "name": "Harry Potter Online Trivia",
@@ -38,6 +15,14 @@
         "donate": true,
         "free": true,
         "url": ["https://www.facebook.com/events/259337445105857/"]
+      },
+      {
+        "time": "2020-05-16T20:30:00+03:00",
+        "name": "Rick&Morty Online Trivia",
+        "lang": "По-английски",
+        "donate": true,
+        "free": true,
+        "url": ["https://www.facebook.com/events/2268403596801997/"]
       }
     ]
   }

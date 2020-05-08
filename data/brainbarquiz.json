@@ -1,35 +1,28 @@
 [
   {
+    "id": "2668f220-4f29-43bf-a9af-590cbee446ba",
     "org": "BrainBarQuiz",
     "name": "BBQuizHome",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-05-06T12:00:00+03:00",
     "type": ["events"],
     "image": "brainbarquiz.png",
     "duration": 2,
-    "price": ["1000 RUB/ком"],
+    "price": ["990 RUB/ком"],
     "url": ["https://vk.com/bbquizmoscow", "https://www.brainbarquiz.ru"],
     "games": [
       {
-        "time": "2020-04-11T17:00:00+03:00",
-        "url": ["https://vk.com/wall-138515221_4426"]
+        "time": "2020-05-02T17:00:00+03:00",
+        "name": "BBQuizHome: Черный Квиз",
+        "price": ["1000 RUB/ком"],
+        "url": ["https://vk.com/wall-138515221_4554"]
       },
       {
-        "time": "2020-04-15T19:00:00+03:00",
-        "name": "Лайт BBQuizHome",
-        "url": ["https://vk.com/wall-138515221_4466"]
+        "time": "2020-05-05T17:00:00+03:00",
+        "url": ["https://vk.com/wall-138515221_4591"]
       },
       {
-        "time": "2020-04-18T17:00:00+03:00",
-        "url": ["https://vk.com/wall-138515221_4484"]
-      },
-      {
-        "time": "2020-04-22T19:00:00+03:00",
-        "url": ["https://vk.com/wall-138515221_4499"]
-      },
-      {
-        "time": "2020-04-25T17:00:00+03:00",
-        "name": "BBQuizHome: квиз по мультфильмам",
-        "url": ["https://vk.com/wall-138515221_4517"]
+        "time": "2020-05-10T17:00:00+03:00",
+        "url": ["https://vk.com/wall-138515221_4604"]
       }
     ]
   }

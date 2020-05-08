@@ -1,0 +1,128 @@
+[
+  {
+    "id": "194c83b3-6690-4589-9a15-3cf6b62fdd63",
+    "org": "Андрей Кругов",
+    "latestCheck": "2020-05-05T12:00:00+03:00",
+    "type": ["events"],
+    "image": "krugov.png",
+    "duration": 2,
+    "chgk": true,
+    "url": ["https://www.facebook.com/groups/528679377769191"],
+    "games": [
+      {
+        "time": "2020-05-06T20:00:00+03:00",
+        "name": "ЧГК: Весенняя кинолига",
+        "price": ["700 RUB/ком"],
+        "url": ["https://forms.gle/jpk46Y2vXLroWVEb7"]
+      },
+      {
+        "time": "2020-05-07T20:00:00+03:00",
+        "name": "ЧГК: Декамерон",
+        "price": ["700 RUB/ком"],
+        "url": ["https://forms.gle/p2LnyrXwRE6hC4DZ8"]
+      },
+      {
+        "time": "2020-05-08T20:00:00+03:00",
+        "name": "ЧГК: Город грехов",
+        "price": ["1000 RUB/ком"],
+        "url": ["https://forms.gle/G88CJy6621GTLupU8"]
+      },
+      {
+        "time": "2020-05-10T20:00:00+03:00",
+        "name": "ЧГК: Декамерон",
+        "price": ["700 RUB/ком"],
+        "url": ["https://forms.gle/p2LnyrXwRE6hC4DZ8"]
+      },
+      {
+        "time": "2020-05-11T19:00:00+03:00",
+        "name": "ЧГК: Кубок Бесконечности. Финал",
+        "price": ["900 RUB/ком"],
+        "url": ["https://forms.gle/Fswp8sgToK43wQj87"]
+      },
+      {
+        "time": "2020-05-12T20:00:00+03:00",
+        "name": "ЧГК: Tet-a-tet+",
+        "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
+      },
+      {
+        "time": "2020-05-14T20:00:00+03:00",
+        "name": "ЧГК: Кубок Бесконечности. Финал",
+        "price": ["900 RUB/ком"],
+        "url": ["https://forms.gle/Fswp8sgToK43wQj87"]
+      },
+      {
+        "time": "2020-05-15T20:00:00+03:00",
+        "name": "ЧГК: Деливери-2",
+        "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
+      },
+      {
+        "time": "2020-05-16T13:00:00+03:00",
+        "name": "ЧГК: Кубок Бесконечности. Финал",
+        "price": ["900 RUB/ком"],
+        "url": ["https://forms.gle/Fswp8sgToK43wQj87"]
+      },
+      {
+        "time": "2020-05-17T15:00:00+03:00",
+        "name": "ЧГК: Tet-a-tet+",
+        "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
+      },
+      {
+        "time": "2020-05-17T20:00:00+03:00",
+        "name": "ЧГК: Город грехов",
+        "price": ["1000 RUB/ком"],
+        "url": ["https://forms.gle/G88CJy6621GTLupU8"]
+      },
+      {
+        "time": "2020-05-18T20:00:00+03:00",
+        "name": "ЧГК: Деливери-2",
+        "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
+      },
+      {
+        "time": "2020-05-19T20:00:00+03:00",
+        "name": "ЧГК: Весенняя кинолига",
+        "price": ["700 RUB/ком"],
+        "url": ["https://forms.gle/jpk46Y2vXLroWVEb7"]
+      },
+      {
+        "time": "2020-05-21T20:00:00+03:00",
+        "name": "ЧГК: Лайт 35",
+        "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
+      },
+      {
+        "time": "2020-05-23T13:00:00+03:00",
+        "name": "ЧГК: Деливери-2",
+        "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
+      },
+      {
+        "time": "2020-05-24T19:00:00+03:00",
+        "name": "ЧГК: Лайт 35",
+        "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
+      },
+      {
+        "time": "2020-05-25T20:00:00+03:00",
+        "name": "ЧГК: Синхрон с человеч лицом",
+        "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
+      },
+      {
+        "time": "2020-05-26T20:00:00+03:00",
+        "name": "ЧГК: Лайт 35",
+        "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
+      },
+      {
+        "time": "2020-05-28T20:00:00+03:00",
+        "name": "ЧГК: Синхрон с человеч лицом",
+        "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
+      },
+      {
+        "time": "2020-05-29T20:00:00+03:00",
+        "name": "ЧГК: Кубик бесконечности - 1",
+        "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
+      },
+      {
+        "time": "2020-05-31T20:00:00+03:00",
+        "name": "ЧГК: Кубик бесконечности - 1",
+        "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
+      }
+    ]
+  }
+]

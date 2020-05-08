@@ -1,5 +1,6 @@
 [
   {
+    "id": "fea22894-0b8d-43d1-bfe0-8c80332d9c08",
     "org": "Календарь игр",
     "latestCheck": "2020-04-10T12:00:00+03:00",
     "type": ["aggr"],
@@ -7,6 +8,15 @@
     "url": ["https://bit.ly/IGOnlineCal"]
   },
   {
+    "id": "45459c60-a6fc-472c-a8a4-0a31f321a6dd",
+    "org": "Quantum",
+    "latestCheck": "2020-05-01T12:00:00+03:00",
+    "type": ["aggr"],
+    "image": "quantum.png",
+    "url": ["https://qgame.online/tournaments"]
+  },
+  {
+    "id": "9af054d4-f6d2-45d6-8e7b-35e7e4bfcf4f",
     "org": "Find Quiz",
     "latestCheck": "2020-04-12T12:00:00+03:00",
     "type": ["aggr"],
@@ -14,6 +24,7 @@
     "url": ["https://online.findquiz.ru"]
   },
   {
+    "id": "9cbde08b-4c7b-490a-99d5-06bac95df294",
     "org": "Telegram: Своя Игра в Telegram",
     "type": ["extra"],
     "hasContent": true,
@@ -21,24 +32,28 @@
     "url": ["https://telegra.ph/FAQ-po-Svoej-Igre-02-06", "https://t.me/ktoto_zanyal_svoyak"]
   },
   {
+    "id": "8785a471-0b3d-4c0f-92ec-48fed6d5e944",
     "org": "FB-группа: Спортивное ЧГК",
     "type": ["extra"],
     "desc": "FB-группа с информацией по спортивному ЧГК.",
     "url": ["https://www.facebook.com/groups/chgk.global"]
   },
   {
+    "id": "86da91db-fa84-48b9-a14b-87bf68bb99c3",
     "org": "FB-группа: Интеллектуальные игры онлайн",
     "type": ["extra"],
     "desc": "FB-группа с информацией по любым онлайн играм.",
     "url": ["https://www.facebook.com/groups/229434871583483"]
   },
   {
+    "id": "f6c39452-3e84-417c-91d4-93ac461bb905",
     "org": "FB-группа: Автоматизация игрового процесса ЧГК и других интеллектуальных игр",
     "type": ["extra"],
     "desc": "FB-группа с информацией по некоторым онлайн играм.",
     "url": ["https://www.facebook.com/groups/428584278064877"]
   },
   {
+    "id": "0b10e5da-41eb-4236-9b1e-12a346ad4c5a",
     "org": "YouTube: Своя игра",
     "type": ["extra"],
     "hasContent": true,
@@ -46,6 +61,7 @@
     "url": ["https://www.youtube.com/channel/UCvYkzPH2Dj9BJDL05LgBCsw/videos"]
   },
   {
+    "id": "47817d2d-26aa-473d-bd77-fd8c92e7276a",
     "org": "YouTube: Время подумать",
     "type": ["extra"],
     "hasContent": true,

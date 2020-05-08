@@ -1,27 +1,28 @@
 [
   {
+    "id": "1482b61a-0e8c-4f7b-b99e-79ac41502c68",
     "org": "ЧГК в Киеве",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-05-04T12:00:00+03:00",
     "type": ["events"],
     "image": "kievchgk.png",
     "duration": 2,
     "url": ["https://www.facebook.com/pg/chgk.kiev.ua/events/"],
     "games": [
       {
-        "time": "2020-04-16T19:30:00+03:00",
-        "name": "Онлайн ЧГК IV от #kyïvchgk",
+        "time": "2020-05-03T19:30:00+03:00",
+        "name": "Онлайн ЧГК по мемам от #kyïvchgk",
         "chgk": true,
         "donate": true,
         "free": true,
-        "url": ["https://www.facebook.com/events/237304820972288"]
+        "url": ["https://www.facebook.com/events/2869415673135954"]
       },
       {
-        "time": "2020-04-24T19:30:00+03:00",
-        "name": "Онлайн по Friends от #kyïvchgk",
+        "time": "2020-05-09T19:30:00+03:00",
+        "name": "Онлайн ЧГК VI от #kyïvchgk",
         "chgk": true,
         "donate": true,
         "free": true,
-        "url": ["https://www.facebook.com/events/234496324420635"]
+        "url": ["https://www.facebook.com/events/578078502814956"]
       }
     ]
   }

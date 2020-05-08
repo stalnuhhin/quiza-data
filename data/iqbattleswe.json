@@ -1,26 +1,19 @@
 [
   {
+    "id": "c64b0e66-e686-4bcb-9235-fdd972e10030",
     "org": "IQ Battle Sweden",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-05-07T12:00:00+03:00",
     "type": ["events"],
     "image": "iqbattleswe.png",
     "duration": 2,
     "url": [
-      "https://www.facebook.com/pg/iqbattlesweden/posts", "https://telegra.ph/iQ-Battle-Online-03-14",
+      "https://www.facebook.com/pg/iqbattlesweden/events/", "https://telegra.ph/iQ-Battle-Online-03-14",
       "https://telegra.ph/iQ-Battle-Online-Kak-podklyuchitsya-k-igre-03-20",
       "https://telegra.ph/iQ-Battle-Online-FAQ-03-18"
     ],
     "price": ["100 SEK/ком"],
     "info": ["Игра проходит по Zoom, читайте FAQ по ссылкам."],
     "games": [
-      {
-        "time": "2020-04-05T18:00:00+02:00",
-        "name": "IQ Battle Sweden"
-      },
-      {
-        "time": "2020-04-12T18:00:00+02:00",
-        "name": "IQ Battle Sweden: третья игра Европейской лиги"
-      }
     ]
   }
 ]

@@ -1,26 +1,15 @@
 [
   {
+    "id": "8e8dfcb5-27cd-4c37-bec8-543782923b2a",
     "org": "Чё, самый умный?! (Минск)",
     "name": "Онлайн-игра",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-05-04T12:00:00+03:00",
     "type": ["events"],
     "image": "chesamyjumnyj.png",
     "duration": 1.5,
     "price": ["8 BYN/чел"],
     "url": ["https://vk.com/game.brains.minsk", "https://brains.xxx/"],
     "games": [
-      {
-        "time": "2020-04-11T15:00:00+03:00",
-        "url": ["https://vk.com/wall-28490858_321650"]
-      },
-      {
-        "time": "2020-04-12T18:00:00+03:00",
-        "url": ["https://vk.com/wall-186939005_587"]
-      },
-      {
-        "time": "2020-04-23T19:30:00+03:00",
-        "url": ["https://vk.com/wall-186939005_614"]
-      }
     ]
   }
 ]

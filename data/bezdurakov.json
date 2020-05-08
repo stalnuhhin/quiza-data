@@ -1,13 +1,14 @@
 [
   {
+    "id": "a0cdcaac-c998-4ac5-bf57-c3fd9e04a32d",
     "org": "Без дураков (Ровшан Аскеров и Борис Левин)",
     "name": "Командная онлайн-игра Без дураков",
-    "latestCheck": "2020-04-23T12:00:00+03:00",
+    "latestCheck": "2020-05-04T12:00:00+03:00",
     "type": ["events"],
     "noregistration": true,
     "hasContent": true,
     "image": "bezdurakov.png",
-    "price": ["2000 RUB/ком"],
+    "price": ["3000 RUB/ком"],
     "url": [
       "https://bezdurakov.timepad.ru/events/",
       "https://vk.com/bezdurakovclub", "https://www.youtube.com/channel/UCuWVIpGmlfE_7qnzOMWosDw/videos",
@@ -19,96 +20,44 @@
       "Ответы вбиваются в их систему. Для участия за призы надо платить."
     ],
     "payment": ["Можно играть бесплатно без призов, а можно платно (300р в неделю) за призы."],
-    "templates": {
-      "disclosure": {
-        "duration": 10,
-        "free": true,
-        "name": "Без дураков - разоблачение",
-        "price": ["300 RUB/чел/нед"]
-      },
-      "blitz": {
-        "duration": 8,
-        "free": true,
-        "name": "Без дураков - блиц",
-        "price": ["300 RUB/чел/нед"]
-      }
-    },
     "games": [
       {
-        "time": "2020-03-30T12:00:00+03:00",
-        "template": "disclosure"
+        "time": "2020-05-02T20:00:00+03:00",
+        "name": "Майская игра #1",
+        "url": ["https://bezdurakov.timepad.ru/event/1305839/"]
       },
       {
-        "time": "2020-03-31T14:00:00+03:00",
-        "template": "blitz"
+        "time": "2020-05-06T20:00:00+03:00",
+        "name": "Майская игра #2",
+        "url": ["https://bezdurakov.timepad.ru/event/1308965/"]
       },
       {
-        "time": "2020-04-01T12:00:00+03:00",
-        "template": "disclosure"
+        "time": "2020-05-09T20:00:00+03:00",
+        "name": "Майская игра #3"
       },
       {
-        "time": "2020-04-02T14:00:00+03:00",
-        "template": "blitz"
+        "time": "2020-05-13T20:00:00+03:00",
+        "name": "Майская игра #4"
       },
       {
-        "time": "2020-04-03T12:00:00+03:00",
-        "template": "disclosure"
+        "time": "2020-05-16T20:00:00+03:00",
+        "name": "Майская игра #5"
       },
       {
-        "time": "2020-04-06T12:00:00+03:00",
-        "template": "disclosure"
+        "time": "2020-05-20T20:00:00+03:00",
+        "name": "Майская игра #6"
       },
       {
-        "time": "2020-04-07T14:00:00+03:00",
-        "template": "blitz"
+        "time": "2020-05-23T20:00:00+03:00",
+        "name": "Майская игра #7"
       },
       {
-        "time": "2020-04-08T12:00:00+03:00",
-        "template": "disclosure"
+        "time": "2020-05-27T20:00:00+03:00",
+        "name": "Майская игра #8"
       },
       {
-        "time": "2020-04-09T14:00:00+03:00",
-        "template": "blitz"
-      },
-      {
-        "time": "2020-04-10T12:00:00+03:00",
-        "template": "disclosure"
-      },
-      {
-        "time": "2020-04-13T12:00:00+03:00",
-        "template": "disclosure"
-      },
-      {
-        "time": "2020-04-14T14:00:00+03:00",
-        "template": "blitz"
-      },
-      {
-        "time": "2020-04-15T12:00:00+03:00",
-        "template": "disclosure"
-      },
-      {
-        "time": "2020-04-16T14:00:00+03:00",
-        "template": "blitz"
-      },
-      {
-        "time": "2020-04-17T12:00:00+03:00",
-        "template": "disclosure"
-      },
-      {
-        "time": "2020-04-18T20:00:00+03:00",
-        "url": ["https://bezdurakov.timepad.ru/event/1299205/"]
-      },
-      {
-        "time": "2020-04-22T20:00:00+03:00",
-        "url": ["https://bezdurakov.timepad.ru/event/1300587/"]
-      },
-      {
-        "time": "2020-04-25T20:00:00+03:00",
-        "url": ["https://bezdurakov.timepad.ru/event/1300589/"]
-      },
-      {
-        "time": "2020-04-29T20:00:00+03:00",
-        "url": ["https://bezdurakov.timepad.ru/event/1303108/"]
+        "time": "2020-05-30T20:00:00+03:00",
+        "name": "Майская игра #9: финал"
       }
     ]
   }

@@ -1,23 +1,14 @@
 [
   {
+    "id": "9472ddf7-bcb5-4cff-bec6-b730a4dee8d1",
     "org": "Пан ОптикУМ",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-05-04T12:00:00+03:00",
     "type": ["events"],
     "image": "panopticumzhitomir.png",
     "duration": 2,
     "free": true,
-    "url": ["https://www.facebook.com/PanOpticUMZhitomir"],
+    "url": ["https://www.facebook.com/pg/PanOpticUMZhitomir/events"],
     "games": [
-      {
-        "time": "2020-04-11T17:30:00+03:00",
-        "name": "Жутко тихо и запредельно далеко",
-        "url": ["https://www.facebook.com/events/2655222561433060"]
-      },
-      {
-        "time": "2020-04-25T17:30:00+03:00",
-        "name": "Далеко, далеко на лугу пасется Ко",
-        "url": ["https://www.facebook.com/events/156005512463518"]
-      }
     ]
   }
 ]

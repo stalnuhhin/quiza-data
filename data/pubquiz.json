@@ -1,43 +1,20 @@
 [
   {
+    "id": "9645838f-9182-4221-842c-730ddaf75f98",
     "org": "PubQuiz",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-05-07T12:00:00+03:00",
     "type": ["events"],
     "image": "pubquiz.png",
     "duration": 3,
-    "free": true,
-    "donate": true,
-    "noregistration": true,
-    "url": ["https://www.facebook.com/pg/PubQuiz.Me/posts"],
+    "url": ["https://www.facebook.com/pg/PubQuiz.Me/events/", "https://online.event.in.ua/"],
     "desc": "Украинский клуб PubQuiz",
     "games": [
       {
-        "time": "2020-04-07T20:00:00+03:00",
-        "name": "PubQuiz Online vol.2",
-        "url": ["https://www.facebook.com/events/228512971865662/"]
-      },
-      {
-        "time": "2020-04-09T20:00:00+03:00",
-        "name": "Movie Quiz Online",
-        "url": ["https://www.facebook.com/events/233283184744708/"]
-      },
-      {
-        "time": "2020-04-16T20:00:00+03:00",
-        "name": "PubQuiz Online vol.3",
-        "duration": 16,
-        "url": ["https://www.facebook.com/events/710863739653376/"]
-      },
-      {
-        "time": "2020-04-21T20:00:00+03:00",
-        "name": "PubQuiz Online vol.4",
-        "duration": 16,
-        "url": ["https://www.facebook.com/events/540159840235552/"]
-      },
-      {
-        "time": "2020-04-23T20:00:00+03:00",
-        "name": "Movie Party Online",
-        "duration": 16,
-        "url": ["https://www.facebook.com/events/2506157136302640/"]
+        "time": "2020-05-07T20:00:00+03:00",
+        "name": "Connection Quiz Online",
+        "free": true,
+        "donate": true,
+        "url": ["https://www.facebook.com/events/2331358327170910"]
       }
     ]
   }

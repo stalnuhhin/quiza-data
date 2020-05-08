@@ -1,7 +1,9 @@
 [
   {
+    "id": "682beeb8-a90d-4bb0-9d94-a46d73d63cbd",
     "org": "КВИЖН",
-    "latestCheck": "2020-04-23T12:00:00+03:00",
+    "name": "Квижн-онлайн",
+    "latestCheck": "2020-05-04T12:00:00+03:00",
     "type": ["events"],
     "image": "kvizhn.png",
     "duration": 2,
@@ -10,18 +12,8 @@
     "url": ["http://quision.ru", "https://vk.com/quision"],
     "games": [
       {
-        "time": "2020-04-12T17:00:00+03:00",
-        "name": "Квижн-онлайн 3",
-        "url": ["https://vk.com/quision?w=wall-191429297_353"]
-      },
-      {
-        "time": "2020-04-16T19:30:00+03:00",
-        "name": "Опять 25",
-        "url": ["https://vk.com/wall-191429297_519"]
-      },
-      {
-        "time": "2020-04-19T17:00:00+03:00",
-        "name": "Квижн-онлайн"
+        "time": "2020-05-03T17:00:00+03:00",
+        "url": ["https://vk.com/wall-191429297_647"]
       }
     ]
   }

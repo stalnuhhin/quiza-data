@@ -1,7 +1,8 @@
 [
   {
+    "id": "eef21320-ac8d-4899-9be8-7d8a34c9936c",
     "org": "Квизы Скороход",
-    "latestCheck": "2020-04-23T12:00:00+03:00",
+    "latestCheck": "2020-05-06T12:00:00+03:00",
     "type": ["events"],
     "image": "skorohod.png",
     "duration": 1,
@@ -9,78 +10,52 @@
     "url": ["https://vk.com/skorohod_quiz"],
     "games": [
       {
-        "time": "2020-04-03T17:00:00+03:00",
-        "name": "Фильмоскоп",
+        "time": "2020-05-01T18:00:00+03:00",
+        "name": "Музыкальный Скороход №6",
         "price": ["300 RUB/ком"],
-        "url": ["https://quizy.pro/streams/1513"]
+        "url": ["https://quizy.pro/streams/3190"]
       },
       {
-        "time": "2020-04-04T19:00:00+03:00",
-        "name": "Фильмоскоп (повтор)",
-        "price": ["300 RUB/ком"]
-      },
-      {
-        "time": "2020-04-05T14:00:00+03:00",
-        "name": "Фильмоскоп (повтор)",
-        "price": ["300 RUB/ком"]
-      },
-      {
-        "time": "2020-04-08T17:00:00+03:00",
-        "name": "Фильмоскоп Online #2",
-        "price": ["150 RUB/ком"],
-        "url": ["https://quizy.pro/streams/1745"]
-      },
-      {
-        "time": "2020-04-08T18:00:00+03:00",
-        "name": "Фильмоскоп Online #3",
-        "price": ["150 RUB/ком"],
-        "url": ["https://quizy.pro/streams/1746"]
-      },
-      {
-        "time": "2020-04-10T17:30:00+03:00",
-        "name": "Фильмоскоп Online #4",
-        "price": ["200 RUB/ком"],
-        "url": ["https://quizy.pro/streams/1893"]
-      },
-      {
-        "time": "2020-04-12T18:30:00+03:00",
-        "name": "Фильмоскоп Online #5",
-        "price": ["200 RUB/ком"],
-        "url": ["https://quizy.pro/streams/1987", "https://vk.com/wall-74247084_1656"]
-      },
-      {
-        "time": "2020-04-14T15:00:00+03:00",
-        "name": "Музыкальный Скороход Онлайн №1",
+        "time": "2020-05-01T19:00:00+03:00",
+        "name": "Star Wars №1",
         "price": ["300 RUB/ком"],
-        "url": ["https://quizy.pro/streams/2063", "https://vk.com/wall-74247084_1672"]
+        "url": ["https://quizy.pro/streams/3106"]
       },
       {
-        "time": "2020-04-15T18:30:00+03:00",
-        "name": "Фильмоскоп Online #6",
+        "time": "2020-05-02T10:00:00+03:00",
+        "name": "Музыкальный Скороход №7",
         "price": ["300 RUB/ком"],
-        "url": ["https://quizy.pro/streams/2118", "https://vk.com/wall-74247084_1686"]
+        "url": ["https://quizy.pro/streams/3200"]
       },
       {
-        "time": "2020-04-18T14:00:00+07:00",
-        "name": "Музыкальный Квиз",
-        "price": ["300 RUB/ком"]
-      },
-      {
-        "time": "2020-04-22T20:00:00+07:00",
-        "name": "Фильмоскоп Online #7",
+        "time": "2020-05-04T18:00:00+03:00",
+        "name": "Музыкальный Скороход №8",
         "price": ["300 RUB/ком"],
-        "url": ["https://quizy.pro/streams/2411"]
+        "url": ["https://quizy.pro/streams/3383"]
       },
       {
-        "time": "2020-04-23T22:00:00+07:00",
-        "name": "Скороход Online #2 (ретро)",
+        "time": "2020-05-06T17:00:00+03:00",
+        "name": "Фильмоскоп №11",
         "price": ["300 RUB/ком"],
-        "url": ["https://quizy.pro/streams/2487"]
+        "url": ["https://quizy.pro/streams/3453"]
       },
       {
-        "time": "2020-04-24T22:00:00+07:00",
-        "name": "Фильмоскоп Саундтрек",
-        "price": ["300 RUB/ком"]
+        "time": "2020-05-06T19:00:00+03:00",
+        "name": "Музыкальный Скороход №5 (повтор)",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/3488"]
+      },
+      {
+        "time": "2020-05-07T19:30:00+03:00",
+        "name": "Музыкальный Скороход №7 ПРО РОК (повтор)",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/3490"]
+      },
+      {
+        "time": "2020-05-08T15:00:00+03:00",
+        "name": "Книжный Скороход №3 (повтор)",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/3491"]
       }
     ]
   }

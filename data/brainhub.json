@@ -1,130 +1,40 @@
 [
   {
+    "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-04-23T12:00:00+03:00",
+    "latestCheck": "2020-05-04T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
-    "url": ["https://www.facebook.com/BrainHubKiev", "https://www.twitch.tv/brainhubua"],
+    "url": ["https://www.facebook.com/pg/BrainHubKiev/events/", "https://www.twitch.tv/brainhubua"],
     "games": [
       {
-        "time": "2020-04-02T19:30:00+03:00",
-        "name": "ЧГК: Кино ЧГК. Online",
+        "time": "2020-05-03T16:30:00+03:00",
+        "name": "ЧГК: Синхронный турнир 'Зелёный шум' Online",
         "chgk": true,
-        "free": true,
-        "donate": true,
-        "url": ["https://www.facebook.com/events/3264348610242473/"]
-      },
-      {
-        "time": "2020-04-03T16:00:00+03:00",
-        "name": "ЧГК: Кино ЧГК. Online",
-        "chgk": true,
-        "free": true,
-        "donate": true,
-        "url": ["https://www.facebook.com/events/3264348610242473/"]
-      },
-      {
-        "time": "2020-04-03T20:00:00+03:00",
-        "name": "ЧГК: Синхрон-lite (XXXIII) - Март. Online",
-        "chgk": true,
-        "free": true,
-        "donate": true,
-        "url": ["https://www.facebook.com/events/218886776013959/"]
-      },
-      {
-        "time": "2020-04-05T16:30:00+03:00",
-        "name": "ЧГК: Синхрон-lite (XXXIII) - Март. Online",
-        "chgk": true,
-        "free": true,
-        "donate": true,
-        "url": ["https://www.facebook.com/events/218886776013959/"]
-      },
-      {
-        "time": "2020-04-06T20:00:00+03:00",
-        "name": "ЧГК: Лига Старта - Март (Выпуск XIII). Online",
-        "chgk": true,
-        "price": ["50 UAH/чел"],
-        "url": ["https://www.facebook.com/events/676036456497052/"]
-      },
-      {
-        "time": "2020-04-07T16:30:00+03:00",
-        "name": "ЧГК: Лига Старта - Март (Выпуск XIII). Online",
-        "chgk": true,
-        "price": ["50 UAH/чел"],
-        "url": ["https://www.facebook.com/events/676036456497052/"]
-      },
-      {
-        "time": "2020-04-10T20:00:00+03:00",
-        "name": "Киноквиз. Online",
-        "chgk": false,
-        "free": true,
-        "donate": true,
-        "url": ["https://www.facebook.com/events/267070677792464/"]
-      },
-      {
-        "time": "2020-04-13T20:00:00+03:00",
-        "name": "Online «Что? Где? Когда?» - Карантин-лига. Этап 1",
-        "chgk": true,
-        "price": ["300 UAH/ком"],
-        "url": ["https://www.facebook.com/events/267070677792464/"]
-      },
-      {
-        "time": "2020-04-15T16:30:00+03:00",
-        "name": "ЧГК: Лига Старта - Апрель (Выпуск XIV). Online",
-        "chgk": true,
-        "price": ["300 UAH/ком"],
-        "url": ["https://www.facebook.com/events/233667907752920/"]
-      },
-      {
-        "time": "2020-04-17T16:30:00+03:00",
-        "name": "ЧГК: Лига Старта - Апрель (Выпуск XIV). Online",
-        "chgk": true,
-        "price": ["300 UAH/ком"],
-        "url": ["https://www.facebook.com/events/233667907752920/"]
-      },
-      {
-        "time": "2020-04-18T20:00:00+03:00",
-        "name": "ЧГК: Лига Старта - Апрель (Выпуск XIV). Online",
-        "chgk": true,
-        "price": ["300 UAH/ком"],
-        "url": ["https://www.facebook.com/events/233667907752920/"]
-      },
-      {
-        "time": "2020-04-21T20:00:00+03:00",
-        "name": "ЧГК: Лёгкий Смоленск-5",
         "price": ["240 UAH/ком", "9 USD/ком", "8 EUR/ком", "700 RUB/ком"],
-        "url": ["https://www.facebook.com/events/258322388680359/"]
+        "url": ["https://www.facebook.com/events/159427475487794/"]
       },
       {
-        "time": "2020-04-22T20:00:00+03:00",
-        "name": "BrainHub Online Cup по Своей игре",
-        "price": ["120 UAH/чел"],
-        "url": ["https://www.facebook.com/events/2366185513681088/"]
+        "time": "2020-05-04T20:00:00+03:00",
+        "name": "ЧГК: Online «Что? Где? Когда?» - Карантин-лига. Этап 3",
+        "chgk": true,
+        "price": ["50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/1078057909226501/"]
       },
       {
-        "time": "2020-04-23T20:00:00+03:00",
-        "name": "BrainHub Online Cup по Своей игре",
-        "price": ["120 UAH/чел"],
-        "url": ["https://www.facebook.com/events/2366185513681088/"]
+        "time": "2020-05-05T19:30:00+03:00",
+        "name": "ЧГК: Online «Что? Где? Когда?» - Декамерон",
+        "chgk": true,
+        "price": ["240 UAH/ком", "9 USD/ком", "8 EUR/ком", "700 RUB/ком"],
+        "url": ["https://www.facebook.com/events/691764791589425/"]
       },
       {
-        "time": "2020-04-24T20:00:00+03:00",
-        "name": "BrainHub Online Cup по Своей игре",
-        "price": ["120 UAH/чел"],
-        "url": ["https://www.facebook.com/events/2366185513681088/"]
-      },
-      {
-        "time": "2020-04-24T20:00:00+03:00",
-        "name": "Киноквиз. Online",
+        "time": "2020-05-06T20:00:00+03:00",
+        "name": "Online Melody Quiz",
         "free": true,
         "donate": true,
-        "url": ["https://www.facebook.com/events/222139152557753/"]
-      },
-      {
-        "time": "2020-04-25T14:00:00+03:00",
-        "name": "Синхрон Урюбджирова. Online",
-        "price": ["270 UAH/ком", "10 USD/ком", "9 EUR/ком", "800 RUB/ком"],
-        "url": ["https://www.facebook.com/events/591391085056169/"]
+        "url": ["https://www.facebook.com/events/2493354817643887/"]
       }
     ]
   }

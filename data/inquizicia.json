@@ -1,7 +1,8 @@
 [
   {
+    "id": "1cad8418-40ff-4a31-9cf4-97d8ba60c3ba",
     "org": "ИнQUIZиция",
-    "latestCheck": "2020-04-23T12:00:00+03:00",
+    "latestCheck": "2020-05-04T12:00:00+03:00",
     "type": ["events"],
     "image": "inquizicia.png",
     "duration": 2,
@@ -9,30 +10,9 @@
     "url": ["https://vk.com/quiztag"],
     "games": [
       {
-        "time": "2020-04-02T19:00:00+03:00",
-        "name": "ИнQUIZиция #1",
-        "free": true,
-        "url": ["https://quizy.pro/streams/1475"]
-      },
-      {
-        "time": "2020-04-07T19:00:00+03:00",
-        "name": "ИнQUIZиция #2",
-        "url": ["https://quizy.pro/streams/1666"]
-      },
-      {
-        "time": "2020-04-09T19:00:00+03:00",
-        "name": "ИнQUIZиция #3",
-        "url": ["https://quizy.pro/streams/1806"]
-      },
-      {
-        "time": "2020-04-16T19:00:00+03:00",
-        "name": "ИнQUIZиция #4",
-        "url": ["https://quizy.pro/streams/1910"]
-      },
-      {
-        "time": "2020-04-23T18:50:00+03:00",
-        "name": "ИнQUIZиция #5",
-        "url": ["https://quizy.pro/streams/2204"]
+        "time": "2020-05-07T19:00:00+03:00",
+        "name": "ИнQUIZиция #7",
+        "url": ["https://quizy.pro/streams/3161", "https://vk.com/wall-33016113_10751"]
       }
     ]
   }

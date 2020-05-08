@@ -1,27 +1,31 @@
 [
   {
+    "id": "c3b6e2fe-54fa-410c-a208-975fe848678c",
     "org": "ВертиGO",
-    "latestCheck": "2020-04-20T12:00:00+03:00",
+    "latestCheck": "2020-05-06T12:00:00+03:00",
     "type": ["events"],
     "image": "vertigo.png",
     "duration": 1.5,
-    "price": ["300 RUB/ком"],
     "url": ["https://vk.com/vertigoquiz"],
     "games": [
       {
-        "time": "2020-04-09T19:00:00+03:00",
-        "name": "ВертиGO-online. Игра №1",
-        "url": ["https://quizy.pro/streams/1687"]
+        "time": "2020-05-02T17:00:00+03:00",
+        "name": "ВертиGO-online. Игра №4",
+        "free": true,
+        "donation": true
       },
       {
-        "time": "2020-04-16T19:00:00+03:00",
-        "name": "ВертиGO-online. Игра №2",
-        "url": ["https://quizy.pro/streams/2015"]
+        "time": "2020-05-06T19:00:00+03:00",
+        "name": "ВертиGO-online. Игра №5",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/3251", "https://vk.com/wall-144404394_16911"]
       },
       {
-        "time": "2020-04-23T19:00:00+03:00",
-        "name": "ВертиGO-online. Игра №3",
-        "url": ["https://quizy.pro/streams/2331"]
+        "time": "2020-05-09T17:00:00+03:00",
+        "name": "ВертиGO-online (на основе ВертиGO 2.10)",
+        "free": true,
+        "donation": true,
+        "url": ["https://vk.com/wall-144404394_16911"]
       }
     ]
   }
