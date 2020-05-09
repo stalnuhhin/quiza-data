@@ -94,12 +94,8 @@
                 </div>
                 <div class="row mt-3" v-for="(g, j) in activeGames.data[date]"
                      v-if="!filter.mode || (filter.mode === 'free' && g.free) || (filter.mode === 'chgk' && g.chgk)">
-                    <div class="col-2">
-                        {{ g.time ? g.time.fromNow() : '' }}
-                        <br/>
-                        <small class="text-muted">
-                            {{ g.time ? g.time.format("HH:mm") : '' }}
-                        </small>
+                    <div v-if="isNewTime(g.time)" class="col-12 mb-2 border-bottom">
+                        <small class="pr-3">{{ g.time ? g.time.fromNow() : '' }}</small>
                         <span v-if="g.time.diff(moment()) < 0" class="badge badge-danger">
                             Игра идёт
                         </span>
@@ -107,9 +103,18 @@
                               class="badge badge-success">
                             Игра скоро начнётся
                         </span>
+                        <small class="float-right">{{ g.time ? g.time.format("HH:mm") : '' }}</small>
                     </div>
                     <div class="col-2 col-md-1">
                         <img width="50px" v-if="g.image" v-bind:src="'data/images/' + g.image"/>
+                        <br/>
+                        <span v-if="g.time.diff(moment()) < 0" class="badge badge-danger">
+                            Идёт
+                        </span>
+                        <span v-if="g.time.diff(moment()) > 0 && g.time.diff(moment(), 'minutes') < 45"
+                              class="badge badge-success">
+                            Скоро
+                        </span>
                     </div>
                     <div class="col-8 col-md-9">
                         {{g.name}}
@@ -137,6 +142,7 @@
                         <span v-for="p in g.price" class="badge alert-danger mr-1">
                             {{p}}
                         </span>
+                        <br/>
                         <small class="text-muted">Ссылки: </small>
                         <span v-for="u in g.url">
                             <a v-bind:href="u" target="_blank" class="badge alert-primary mr-1">
@@ -145,7 +151,7 @@
                         </span>
                         <br/>
                         <small class="text-muted">
-                            {{g.org}}
+                            {{g.org}} // {{ g.time ? g.time.format("HH:mm (D MMMM)") : '' }}
                         </small>
 
                         <div v-if="g.info || g.payment" class="modal fade" v-bind:id="'info' + i + '_' + j"
@@ -306,11 +312,17 @@
             <div class="container">
                 <div class="row">
                     <div class="col">
+                        <h5 class="mt-3"><b>09.05.2020</b></h5>
+                        <p>
+                            Обновлён дизайн списка. Время вынесено в заголовок группы квизов с одним и тем же временем.
+                            Из каждой строки время перенесено в менее заметное место, но на всякий случай дублирует
+                            подзаголовок.
+                        </p>
                         <h5 class="mt-3"><b>03.05.2020</b></h5>
                         <p>
                             Последние 3 недели идёт разработка по переносу всех данных из репозитория в базу данных, и
-                            вместе с этим какой-то веб-интерфейс для удобного добавления данных через форму. К сожалению,
-                            это не сделать достаточно быстро. Работаю.
+                            вместе с этим какой-то веб-интерфейс для удобного добавления данных через форму. К
+                            сожалению, это не сделать достаточно быстро. Работаю.
                         </p>
                         <p>
                             При этом растёт количество данных, поэтому начал архивировать их по месяцам. Старые игры за

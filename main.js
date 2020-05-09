@@ -109,6 +109,12 @@ const app = new Vue({
         }
     },
     methods: {
+        isNewTime: function(time) {
+            const newTime = time.format("DDMMYYYY-HHmm");
+            const timeChanged = newTime != window.iterTime;
+            window.iterTime = newTime;
+            return timeChanged;
+        },
         load: async function () {
             const fileGroups = this.splitArray(DATAFILES, 20);
             this.loadGroupChain([], fileGroups, 0);
