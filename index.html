@@ -95,26 +95,31 @@
                 <div class="row mt-3" v-for="(g, j) in activeGames.data[date]"
                      v-if="!filter.mode || (filter.mode === 'free' && g.free) || (filter.mode === 'chgk' && g.chgk)">
                     <div v-if="isNewTime(g.time)" class="col-12 mb-2 border-bottom">
-                        <small class="pr-3">{{ g.time ? g.time.fromNow() : '' }}</small>
-                        <span v-if="g.time.diff(moment()) < 0" class="badge badge-danger">
-                            Игра идёт
+                        <span class="pr-4" style="position: absolute; bottom: -20px; width: 100%; text-align: right;">
+                            <small class="text-muted">
+                                {{ g.time ? g.time.fromNow() : '' }}
+                            </small>
                         </span>
-                        <span v-if="g.time.diff(moment()) > 0 && g.time.diff(moment(), 'minutes') < 45"
-                              class="badge badge-success">
-                            Игра скоро начнётся
+                        <span class="float-right">
+                            <span v-if="g.time.diff(moment()) < 0"
+                                  class="mr-1 badge badge-danger">Игры уже начались</span>
+                            <span v-if="g.time.diff(moment()) > 0 && g.time.diff(moment(), 'minutes') < 45"
+                                  class="mr-1 badge badge-success">Игры скоро начнутся</span>
+                            <small>
+                                <b>{{ g.time ? g.time.format("HH:mm") : '' }}</b>
+                            </small>
                         </span>
-                        <small class="float-right">{{ g.time ? g.time.format("HH:mm") : '' }}</small>
                     </div>
                     <div class="col-2 col-md-1">
-                        <img width="50px" v-if="g.image" v-bind:src="'data/images/' + g.image"/>
-                        <br/>
-                        <span v-if="g.time.diff(moment()) < 0" class="badge badge-danger">
-                            Идёт
+                        <span v-if="g.time.diff(moment()) < 0"
+                              style="position: absolute; left: -5px; color: #dc3545; font-size: 30px;">
+                            •
                         </span>
                         <span v-if="g.time.diff(moment()) > 0 && g.time.diff(moment(), 'minutes') < 45"
-                              class="badge badge-success">
-                            Скоро
+                              style="position: absolute; left: -5px; color: #28a745; font-size: 30px;">
+                            •
                         </span>
+                        <img width="50px" v-if="g.image" v-bind:src="'data/images/' + g.image"/>
                     </div>
                     <div class="col-8 col-md-9">
                         {{g.name}}
