@@ -2,7 +2,7 @@
   {
     "id": "5434288a-6ee6-43e9-95a0-d14b065041b4",
     "org": "Большая игра",
-    "latestCheck": "2020-05-09T12:00:00+03:00",
+    "latestCheck": "2020-05-12T12:00:00+03:00",
     "type": ["events"],
     "image": "bolshayaigra.png",
     "chgk": true,
@@ -37,19 +37,28 @@
         "price": ["500 RUB/ком", "1800 RUB/ком за 4 игры мая"]
       },
       {
+        "time": "2020-05-13T21:00:00+03:00",
+        "name": "ЧГК: Delivery Cup №2",
+        "price": ["800 RUB/ком"],
+        "url": ["https://dc.chgk-world.ru/tournaments/55", "http://intgame.ru/d-cup"]
+      },
+      {
         "time": "2020-05-17T13:00:00+03:00",
         "name": "ЧГК: Международная лига. М-лига 2.2",
-        "price": ["500 RUB/ком"]
+        "price": ["500 RUB/ком"],
+        "url": ["https://profi.chgk-world.ru/tournaments/62", "http://intgame.ru/m-liga"]
       },
       {
         "time": "2020-05-24T13:00:00+03:00",
         "name": "ЧГК: Международная лига. М-лига 2.3",
-        "price": ["500 RUB/ком"]
+        "price": ["500 RUB/ком"],
+        "url": ["https://profi.chgk-world.ru/tournaments/63", "http://intgame.ru/m-liga"]
       },
       {
         "time": "2020-05-31T13:00:00+03:00",
         "name": "ЧГК: Международная лига. М-лига 2.4. Финал",
-        "price": ["900 RUB/ком"]
+        "price": ["900 RUB/ком"],
+        "url": ["https://profi.chgk-world.ru/tournaments/64", "http://intgame.ru/m-liga"]
       }
     ]
   }
