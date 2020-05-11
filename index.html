@@ -189,6 +189,40 @@
             <div class="container">
                 <div class="row mt-3">
                     <div class="col">
+                        <h2>Дополнительно</h2>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <table class="table table-hover table-sm">
+                            <tbody>
+                            <tr class="d-flex" v-for="(e, i) in rsExtra">
+                                <td class="col-12">
+                                    <span data-toggle="tooltip"
+                                          data-placement="bottom"
+                                          v-bind:title="e.desc">
+                                        {{e.org}}
+                                    </span>
+                                    <br/>
+                                    <span v-for="u in e.url">
+                                        <a v-bind:href="u" target="_blank" class="badge alert-primary mr-1">
+                                            {{getUrlName(u)}}
+                                        </a>
+                                    </span>
+                                    <span data-toggle="tooltip"
+                                          data-placement="right"
+                                          title="Есть игры в записи или можно играть в любое время"
+                                          v-if="e.hasContent" class="badge badge-success">
+                                        Любое время
+                                    </span>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div class="col">
                         <h2>Агрегаторы</h2>
                     </div>
                 </div>
@@ -268,40 +302,6 @@
                                     <small v-bind:class="'text-' + (moment().diff(m.latestGameTime, 'days') > 1 ? 'danger' : 'muted')">
                                         {{m.latestGameTime ? m.latestGameTime.fromNow() : '-'}}
                                     </small>
-                                </td>
-                            </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-                <div class="row mt-3">
-                    <div class="col">
-                        <h2>Дополнительные</h2>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col">
-                        <table class="table table-hover table-sm">
-                            <tbody>
-                            <tr class="d-flex" v-for="(e, i) in rsExtra">
-                                <td class="col-12">
-                                    <span data-toggle="tooltip"
-                                          data-placement="bottom"
-                                          v-bind:title="e.desc">
-                                        {{e.org}}
-                                    </span>
-                                    <br/>
-                                    <span v-for="u in e.url">
-                                        <a v-bind:href="u" target="_blank" class="badge alert-primary mr-1">
-                                            {{getUrlName(u)}}
-                                        </a>
-                                    </span>
-                                    <span data-toggle="tooltip"
-                                          data-placement="right"
-                                          title="Есть игры в записи или можно играть в любое время"
-                                          v-if="e.hasContent" class="badge badge-success">
-                                        Любое время
-                                    </span>
                                 </td>
                             </tr>
                             </tbody>

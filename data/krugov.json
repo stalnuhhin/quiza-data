@@ -2,7 +2,7 @@
   {
     "id": "194c83b3-6690-4589-9a15-3cf6b62fdd63",
     "org": "Андрей Кругов",
-    "latestCheck": "2020-05-09T12:00:00+03:00",
+    "latestCheck": "2020-05-12T12:00:00+03:00",
     "type": ["events"],
     "image": "krugov.png",
     "duration": 2,
@@ -28,12 +28,6 @@
         "url": ["https://forms.gle/G88CJy6621GTLupU8"]
       },
       {
-        "time": "2020-05-10T20:00:00+03:00",
-        "name": "ЧГК: Декамерон",
-        "price": ["700 RUB/ком"],
-        "url": ["https://forms.gle/p2LnyrXwRE6hC4DZ8"]
-      },
-      {
         "time": "2020-05-11T19:00:00+03:00",
         "name": "ЧГК: Кубок Бесконечности. Финал",
         "price": ["900 RUB/ком"],
@@ -43,6 +37,11 @@
         "time": "2020-05-12T20:00:00+03:00",
         "name": "ЧГК: Tet-a-tet+",
         "url": ["https://forms.gle/KQUYJStpfj98UNVK9"]
+      },
+      {
+        "time": "2020-05-13T19:30:00+03:00",
+        "name": "ЧГК: Гранд Смоленск",
+        "url": ["https://forms.gle/gtPYoijEQMvaEN5S6"]
       },
       {
         "time": "2020-05-14T20:00:00+03:00",
@@ -91,7 +90,7 @@
       {
         "time": "2020-05-23T13:00:00+03:00",
         "name": "ЧГК: Деливери-2",
-        "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
+        "url": ["https://forms.gle/dkcfwXEbuSAbZNGD6"]
       },
       {
         "time": "2020-05-24T19:00:00+03:00",
@@ -99,18 +98,8 @@
         "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
       },
       {
-        "time": "2020-05-25T20:00:00+03:00",
-        "name": "ЧГК: Синхрон с человеч лицом",
-        "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
-      },
-      {
         "time": "2020-05-26T20:00:00+03:00",
         "name": "ЧГК: Лайт 35",
-        "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
-      },
-      {
-        "time": "2020-05-28T20:00:00+03:00",
-        "name": "ЧГК: Синхрон с человеч лицом",
         "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
       },
       {
