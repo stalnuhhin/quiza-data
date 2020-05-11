@@ -2,7 +2,7 @@
   {
     "id": "c3b6e2fe-54fa-410c-a208-975fe848678c",
     "org": "ВертиGO",
-    "latestCheck": "2020-05-09T12:00:00+03:00",
+    "latestCheck": "2020-05-12T12:00:00+03:00",
     "type": ["events"],
     "image": "vertigo.png",
     "duration": 1.5,
@@ -26,6 +26,12 @@
         "free": true,
         "donation": true,
         "url": ["https://vk.com/wall-144404394_16911"]
+      },
+      {
+        "time": "2020-05-14T19:00:00+03:00",
+        "name": "ВертиGO-online. Игра №6",
+        "price": ["300 RUB/ком"],
+        "url": ["https://quizy.pro/streams/3737"]
       }
     ]
   }

@@ -2,7 +2,7 @@
   {
     "id": "9645838f-9182-4221-842c-730ddaf75f98",
     "org": "PubQuiz",
-    "latestCheck": "2020-05-09T12:00:00+03:00",
+    "latestCheck": "2020-05-12T12:00:00+03:00",
     "type": ["events"],
     "image": "pubquiz.png",
     "duration": 3,
@@ -15,6 +15,13 @@
         "free": true,
         "donate": true,
         "url": ["https://www.facebook.com/events/2331358327170910"]
+      },
+      {
+        "time": "2020-05-13T20:00:00+03:00",
+        "name": "Movie Quiz Online",
+        "free": true,
+        "donate": true,
+        "url": ["https://www.facebook.com/events/1747640092044960"]
       }
     ]
   }

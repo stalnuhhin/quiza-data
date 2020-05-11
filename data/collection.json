@@ -67,5 +67,13 @@
     "hasContent": true,
     "desc": "YouTube-канал с видео-вопросами.",
     "url": ["https://www.youtube.com/channel/UC8PsskD8G2fAMKoTNmjr3tA/videos"]
+  },
+  {
+    "id": "2840204d-d93f-44ea-8f4d-bae45bdab329",
+    "org": "QUIZ: Интеллектуальные игры",
+    "type": ["extra"],
+    "hasContent": true,
+    "desc": "Много викторин, которые можно сыграть в любое время.",
+    "url": ["https://webquiz.net/"]
   }
 ]

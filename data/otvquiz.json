@@ -2,7 +2,7 @@
   {
     "id": "fe138bf9-a5ea-49a8-8f9f-650c307d3b50",
     "org": "QUIZ° | Отвечаю!",
-    "latestCheck": "2020-05-09T12:00:00+03:00",
+    "latestCheck": "2020-05-12T12:00:00+03:00",
     "type": ["events"],
     "image": "otvquiz.png",
     "duration": 2.5,
@@ -46,6 +46,18 @@
       {
         "time": "2020-05-09T19:30:00+03:00",
         "name": "АлкоFUN°",
+        "price": ["1000 RUB/ком"],
+        "template": "youtube"
+      },
+      {
+        "time": "2020-05-13T20:00:00+03:00",
+        "name": "Советские фильмы New",
+        "price": ["1000 RUB/ком"],
+        "template": "youtube"
+      },
+      {
+        "time": "2020-05-16T19:30:00+03:00",
+        "name": "АлкоQUIZ° New",
         "price": ["1000 RUB/ком"],
         "template": "youtube"
       }

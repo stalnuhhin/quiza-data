@@ -2,7 +2,7 @@
   {
     "id": "bf5df1c1-bd66-4952-a470-16a093212d61",
     "org": "Online Quiz 64",
-    "latestCheck": "2020-05-09T12:00:00+03:00",
+    "latestCheck": "2020-05-12T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "onlinequiz64.png",
@@ -31,6 +31,42 @@
         "name": "Игра в буквы (повтор)",
         "price": ["200 RUB/ком"],
         "url": ["https://quizy.pro/streams/2931", "https://vk.com/wall-193933447_55"]
+      },
+      {
+        "time": "2020-05-16T15:30:00+03:00",
+        "name": "Спорт #5 без футбола",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/3813", "https://vk.com/wall-193933447_66"]
+      },
+      {
+        "time": "2020-05-16T19:00:00+03:00",
+        "name": "Спорт #5 без футбола",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/3814", "https://vk.com/wall-193933447_66"]
+      },
+      {
+        "time": "2020-05-17T15:30:00+03:00",
+        "name": "Игра в буквы #2",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/3815", "https://vk.com/wall-193933447_66"]
+      },
+      {
+        "time": "2020-05-17T19:00:00+03:00",
+        "name": "Игра в буквы #2 (повтор)",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/3816", "https://vk.com/wall-193933447_66"]
+      },
+      {
+        "time": "2020-05-18T15:30:00+03:00",
+        "name": "География #3",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/3817", "https://vk.com/wall-193933447_66"]
+      },
+      {
+        "time": "2020-05-18T19:00:00+03:00",
+        "name": "География #3 (повтор)",
+        "price": ["200 RUB/ком"],
+        "url": ["https://quizy.pro/streams/3818", "https://vk.com/wall-193933447_66"]
       }
     ]
   }
