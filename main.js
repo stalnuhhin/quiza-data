@@ -48,6 +48,7 @@ const DATAFILES = [
     "klub60secgatchina.json",
     "klubonlinevoprosov.json",
     "krugov.json",
+    "kviz8.json",
     "kvizhn.json",
     "kvizplizmsk.json",
     "kvizplizspb.json",
