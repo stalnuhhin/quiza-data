@@ -89,10 +89,10 @@
                 </div>
             </div>
             <div class="container" v-for="(date, i) in activeGames.dates">
-                <div class="row mt-3">
+                <div class="row mt-5">
                     <h2>{{moment(date).format('D MMMM (dddd)')}}</h2>
                 </div>
-                <div class="row mt-3" v-for="(g, j) in activeGames.data[date]"
+                <div class="row mt-2" v-for="(g, j) in activeGames.data[date]"
                      v-if="!filter.mode || (filter.mode === 'free' && g.free) || (filter.mode === 'chgk' && g.chgk)">
                     <div v-if="isNewTime(g.time)" class="col-12 mb-2 border-bottom">
                         <span class="pr-4" style="position: absolute; bottom: -20px; width: 100%; text-align: right;">
