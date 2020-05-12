@@ -41,12 +41,12 @@
         <li class="nav-item">
             <a class="nav-link active"
                id="games-tab" data-toggle="tab" href="#games" role="tab" aria-controls="games" aria-selected="true">
-                Игры</a>
+                Игры ({{gameCount}})</a>
         </li>
         <li class="nav-item">
             <a class="nav-link"
                id="resou-tab" data-toggle="tab" href="#resou" role="tab" aria-controls="resou" aria-selected="false">
-                Ресурсы</a>
+                Ресурсы ({{orgCount}})</a>
         </li>
         <li class="nav-item">
             <a class="nav-link"
@@ -90,7 +90,10 @@
             </div>
             <div class="container" v-for="(date, i) in activeGames.dates">
                 <div class="row mt-5">
-                    <h2>{{moment(date).format('D MMMM, dddd')}}</h2>
+                    <div class="col-12">
+                        <h2 class="mb-0 pb-0">{{moment(date).format('D MMMM, dddd')}}</h2>
+                        <small class="text-muted">Осталось активных игр: {{activeGames.data[date].length}}</small>
+                    </div>
                 </div>
                 <div class="row mb-4" v-for="(g, j) in activeGames.data[date]"
                      v-if="!filter.mode || (filter.mode === 'free' && g.free) || (filter.mode === 'chgk' && g.chgk)">
@@ -307,6 +310,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col">
+                        <h5 class="mt-3"><b>12.05.2020</b></h5>
+                        <p>
+                            Обновлён дизайн списка - убрал пестроту и сблизил строки. Добавлен подсчёт игр за каждый
+                            день (серым под датой). И добавлен общий подсчёт активных игр и ресурсов в названия табов.
+                        </p>
                         <h5 class="mt-3"><b>09.05.2020</b></h5>
                         <p>
                             Обновлён дизайн списка. Время вынесено в заголовок группы квизов с одним и тем же временем.

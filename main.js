@@ -107,7 +107,9 @@ const app = new Vue({
             activeGames: [],
             rsAggr: [],
             rsMain: [],
-            rsExtra: []
+            rsExtra: [],
+            gameCount: 0,
+            orgCount: 0
         }
     },
     methods: {
@@ -146,6 +148,7 @@ const app = new Vue({
             const data = {};
 
             db.forEach(org => {
+                this.orgCount++;
                 org.latestCheck = org.latestCheck ? moment(org.latestCheck) : undefined;
                 if (org.type.includes('events')) {
                     this.rsMain.push(org);
@@ -188,6 +191,7 @@ const app = new Vue({
                             dates.push(key);
                         }
                         data[key].push(game);
+                        this.gameCount++;
                     }
 
                     for (let [key, list] of Object.entries(data)) {
