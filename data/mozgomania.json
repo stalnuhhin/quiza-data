@@ -2,7 +2,7 @@
   {
     "id": "61f66a97-a27d-435d-a8f1-e7af4e4d8b81",
     "org": "Мозгомания",
-    "latestCheck": "2020-05-09T12:00:00+03:00",
+    "latestCheck": "2020-05-12T12:00:00+03:00",
     "type": ["events"],
     "image": "mozgomania.png",
     "duration": 2,
@@ -251,6 +251,66 @@
         "name": "Культурно-историческое #2",
         "price": ["250 RUB/чел"],
         "url": ["https://quizy.pro/streams/3382"]
+      },
+      {
+        "time": "2020-05-12T12:30:00+03:00",
+        "name": "Киномания #8",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3539"]
+      },
+      {
+        "time": "2020-05-12T15:30:00+03:00",
+        "name": "Киномания #8",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3540"]
+      },
+      {
+        "time": "2020-05-12T18:30:00+03:00",
+        "name": "Киномания #8",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3541"]
+      },
+      {
+        "time": "2020-05-12T21:00:00+03:00",
+        "name": "Ретроперспектива: МЗГ и ХеЗ #3",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3864"]
+      },
+      {
+        "time": "2020-05-13T12:30:00+03:00",
+        "name": "Ретроперспектива: МЗГ и ХеЗ #3",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3867"]
+      },
+      {
+        "time": "2020-05-13T15:30:00+03:00",
+        "name": "Ретроперспектива: МЗГ и ХеЗ #3",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3868"]
+      },
+      {
+        "time": "2020-05-13T18:30:00+03:00",
+        "name": "Ретроперспектива: МЗГ и ХеЗ #3",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3875"]
+      },
+      {
+        "time": "2020-05-16T21:00:00+03:00",
+        "name": "Футбомания #6",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3924"]
+      },
+      {
+        "time": "2020-05-17T12:30:00+03:00",
+        "name": "Футбомания #6",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3925"]
+      },
+      {
+        "time": "2020-05-17T15:30:00+03:00",
+        "name": "Футбомания #6",
+        "price": ["300 RUB/чел"],
+        "url": ["https://quizy.pro/streams/3926"]
       }
     ]
   }
