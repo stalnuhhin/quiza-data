@@ -36,11 +36,13 @@
       {
         "time": "2020-05-12T20:00:00+03:00",
         "name": "Tet-a-tet+",
+        "price": ["300 RUB/чел", "400 RUB/2чел", "500 RUB/3чел"],
         "url": ["https://forms.gle/KQUYJStpfj98UNVK9"]
       },
       {
         "time": "2020-05-13T19:30:00+03:00",
         "name": "Гранд Смоленск",
+        "price": ["500 RUB/чел", "800 RUB/2чел", "1300 RUB/ком"],
         "url": ["https://forms.gle/gtPYoijEQMvaEN5S6"]
       },
       {
@@ -52,6 +54,7 @@
       {
         "time": "2020-05-15T20:00:00+03:00",
         "name": "Деливери-2",
+        "price": ["900 RUB/ком"],
         "url": ["https://forms.gle/dkcfwXEbuSAbZNGD6"]
       },
       {
@@ -63,6 +66,7 @@
       {
         "time": "2020-05-17T15:00:00+03:00",
         "name": "Tet-a-tet+",
+        "price": ["300 RUB/чел", "400 RUB/2чел", "500 RUB/3чел"],
         "url": ["https://www.facebook.com/groups/528679377769191/permalink/530406054263190"]
       },
       {
@@ -74,6 +78,7 @@
       {
         "time": "2020-05-18T20:00:00+03:00",
         "name": "Деливери-2",
+        "price": ["900 RUB/ком"],
         "url": ["https://forms.gle/dkcfwXEbuSAbZNGD6"]
       },
       {
@@ -90,6 +95,7 @@
       {
         "time": "2020-05-23T13:00:00+03:00",
         "name": "Деливери-2",
+        "price": ["900 RUB/ком"],
         "url": ["https://forms.gle/dkcfwXEbuSAbZNGD6"]
       },
       {
