@@ -90,11 +90,11 @@
             </div>
             <div class="container" v-for="(date, i) in activeGames.dates">
                 <div class="row mt-5">
-                    <h2>{{moment(date).format('D MMMM (dddd)')}}</h2>
+                    <h2>{{moment(date).format('D MMMM, dddd')}}</h2>
                 </div>
-                <div class="row mt-2" v-for="(g, j) in activeGames.data[date]"
+                <div class="row mb-4" v-for="(g, j) in activeGames.data[date]"
                      v-if="!filter.mode || (filter.mode === 'free' && g.free) || (filter.mode === 'chgk' && g.chgk)">
-                    <div v-if="isNewTime(g.time)" class="col-12 mb-2 border-bottom">
+                    <div v-if="isNewTime(g.time)" class="col-12 mb-3 border-bottom">
                         <span class="pr-4" style="position: absolute; bottom: -20px; width: 100%; text-align: right;">
                             <small class="text-muted">
                                 {{ g.time ? g.time.fromNow() : '' }}
@@ -112,53 +112,43 @@
                     </div>
                     <div class="col-2 col-md-1">
                         <span v-if="g.time.diff(moment()) < 0"
-                              style="position: absolute; left: -5px; color: #dc3545; font-size: 30px;">
-                            •
-                        </span>
+                              style="position: absolute; left: -5px; color: #dc3545; font-size: 30px;">•</span>
                         <span v-if="g.time.diff(moment()) > 0 && g.time.diff(moment(), 'minutes') < 45"
-                              style="position: absolute; left: -5px; color: #28a745; font-size: 30px;">
-                            •
-                        </span>
-                        <img width="50px" v-if="g.image" v-bind:src="'data/images/' + g.image"/>
+                              style="position: absolute; left: -5px; color: #28a745; font-size: 30px;">•</span>
+                        <img width="50px" class="pt-2" v-if="g.image" v-bind:src="'data/images/' + g.image"/>
                     </div>
-                    <div class="col-8 col-md-9">
-                        {{g.name}}
-                        <a href="#" class="ml-2 badge badge-info" data-toggle="modal"
-                           v-if="g.info || g.payment"
-                           v-bind:data-target="'#info' + i + '_' + j">
-                            Читать инфо
-                        </a>
-                        <br/>
-                        <span v-if="g.chgk" class="badge badge-warning">
-                            ЧГК
-                        </span>
-                        <span v-if="g.free" class="badge badge-success">
-                            Бесплатно
-                        </span>
-                        <span v-if="g.donate" class="badge badge-success">
-                            За донаты
-                        </span>
-                        <span v-if="g.noregistration" class="badge alert-secondary">
-                            Нет регистрации
-                        </span>
-                        <span v-if="g.lang" class="badge alert-warning">
-                            {{g.lang}}
-                        </span>
-                        <span v-for="p in g.price" class="badge alert-danger mr-1">
-                            {{p}}
-                        </span>
-                        <br/>
-                        <small class="text-muted">Ссылки: </small>
-                        <span v-for="u in g.url">
-                            <a v-bind:href="u" target="_blank" class="badge alert-primary mr-1">
-                                {{getUrlName(u)}}
-                            </a>
-                        </span>
-                        <br/>
-                        <small class="text-muted">
-                            {{g.org}} // {{ g.time ? g.time.format("HH:mm (D MMMM)") : '' }}
-                        </small>
+                    <div class="col-10 col-md-11" style="line-height: 1.3">
 
+                        <!-- row 1 -->
+                        <b>{{g.name}}</b>
+                        <br/>
+
+                        <!-- row 2 -->
+                        <small><a href="#" data-toggle="modal" v-if="g.info || g.payment"
+                                  style="border-bottom: 1px dashed"
+                                  v-bind:data-target="'#info' + i + '_' + j">Узнать больше</a></small>
+                        <span v-if="g.chgk" class="badge badge-warning">ЧГК</span>
+                        <span v-if="g.free" class="badge alert-success">Бесплатно</span>
+                        <span v-if="g.donate" class="badge alert-success">За донаты</span>
+                        <span v-if="g.lang" class="badge alert-warning">{{g.lang}}</span>
+                        <span v-if="g.noregistration" class="badge alert-secondary">Нет регистрации</span>
+                        <small v-for="(p,i) in g.price">
+                            <span class="text-nowrap">{{p}}</span><span
+                                v-if="i != Object.keys(g.price).length - 1"> | </span>
+                        </small>
+                        <br/>
+
+                        <!-- row 3 -->
+                        <small class="text-muted">
+                            {{g.org}} | {{ g.time ? g.time.format("HH:mm (D MMMM)") : '' }} | <span
+                                v-for="(u,i) in g.url">
+                            <a v-bind:href="u" target="_blank" class="mr-1" v-bind:class="{'font-weight-bold': i == 0}">
+                                {{getUrlName(u)}}</a><span v-if="i != Object.keys(g.url).length - 1">| </span>
+                            </span>
+                        </small>
+                        <br/>
+
+                        <!-- modal -->
                         <div v-if="g.info || g.payment" class="modal fade" v-bind:id="'info' + i + '_' + j"
                              tabindex="-1" role="dialog"
                              v-bind:aria-labelledby="'#info' + i + '_' + j" aria-hidden="true">

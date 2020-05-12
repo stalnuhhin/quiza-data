@@ -11,31 +11,31 @@
     "games": [
       {
         "time": "2020-05-01T20:00:00+03:00",
-        "name": "ЧГК: Зеленый шум",
+        "name": "Зеленый шум",
         "price": ["300 RUB/чел", "400 RUB/2чел", "max 600 RUB/ком"],
         "url": ["https://www.facebook.com/groups/229434871583483/permalink/250115632848740"]
       },
       {
         "time": "2020-05-02T16:00:00+03:00",
-        "name": "ЧГК: Зелёный шум",
+        "name": "Зелёный шум",
         "price": ["300 RUB/ком"],
         "url": ["https://www.facebook.com/groups/229434871583483/permalink/248387143021589/"]
       },
       {
         "time": "2020-05-03T18:00:00+03:00",
-        "name": "ЧГК: «Декамерон»",
+        "name": "«Декамерон»",
         "price": ["500 RUB/ком"],
         "url": ["https://www.facebook.com/groups/chgk.global/permalink/1511391502357473/"]
       },
       {
         "time": "2020-05-04T19:30:00+03:00",
-        "name": "ЧГК: «Лига старта XV»",
+        "name": "«Лига старта XV»",
         "price": ["300 RUB/чел", "400 RUB/2чел", "600 RUB/ком"],
         "url": ["https://www.facebook.com/groups/229434871583483/permalink/251593879367582/"]
       },
       {
         "time": "2020-05-09T14:00:00+03:00",
-        "name": "ЧГК: Кубок бесконечности: Финал",
+        "name": "Кубок бесконечности: Финал",
         "price": ["8 USD/ком"],
         "url": ["https://www.facebook.com/events/2528754370787623/"]
       },
