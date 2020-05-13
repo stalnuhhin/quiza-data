@@ -2,7 +2,7 @@
   {
     "id": "194c83b3-6690-4589-9a15-3cf6b62fdd63",
     "org": "Андрей Кругов",
-    "latestCheck": "2020-05-12T12:00:00+03:00",
+    "latestCheck": "2020-05-14T12:00:00+03:00",
     "type": ["events"],
     "image": "krugov.png",
     "duration": 2,
@@ -40,10 +40,10 @@
         "url": ["https://forms.gle/KQUYJStpfj98UNVK9"]
       },
       {
-        "time": "2020-05-13T19:30:00+03:00",
-        "name": "Гранд Смоленск",
-        "price": ["500 RUB/чел", "800 RUB/2чел", "1300 RUB/ком"],
-        "url": ["https://forms.gle/gtPYoijEQMvaEN5S6"]
+        "time": "2020-05-13T20:00:00+03:00",
+        "name": "Пегас и лирохвост",
+        "price": ["400 RUB/1-2чел", "600 RUB/ком"],
+        "url": ["https://forms.gle/hxeAdAZNMP2PQn32A"]
       },
       {
         "time": "2020-05-14T20:00:00+03:00",
@@ -53,15 +53,21 @@
       },
       {
         "time": "2020-05-15T20:00:00+03:00",
-        "name": "Деливери-2",
-        "price": ["900 RUB/ком"],
-        "url": ["https://forms.gle/dkcfwXEbuSAbZNGD6"]
+        "name": "Весенний салат",
+        "price": ["300 RUB/чел", "500 RUB/2чел", "800 RUB/ком"],
+        "url": ["https://forms.gle/3yrcnCMTyBSSRntf7"]
       },
       {
         "time": "2020-05-16T13:00:00+03:00",
-        "name": "Кубок Бесконечности. Финал",
+        "name": "Весенний салат",
+        "price": ["300 RUB/чел", "500 RUB/2чел", "800 RUB/ком"],
+        "url": ["https://forms.gle/3yrcnCMTyBSSRntf7"]
+      },
+      {
+        "time": "2020-05-16T20:00:00+03:00",
+        "name": "Деливери-2",
         "price": ["900 RUB/ком"],
-        "url": ["https://forms.gle/Fswp8sgToK43wQj87"]
+        "url": ["https://forms.gle/dkcfwXEbuSAbZNGD6"]
       },
       {
         "time": "2020-05-17T15:00:00+03:00",
@@ -71,9 +77,9 @@
       },
       {
         "time": "2020-05-17T20:00:00+03:00",
-        "name": "Город грехов",
-        "price": ["1000 RUB/ком"],
-        "url": ["https://forms.gle/G88CJy6621GTLupU8"]
+        "name": "Весенний салат",
+        "price": ["300 RUB/чел", "500 RUB/2чел", "800 RUB/ком"],
+        "url": ["https://forms.gle/3yrcnCMTyBSSRntf7"]
       },
       {
         "time": "2020-05-18T20:00:00+03:00",

@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-05-12T12:00:00+03:00",
+    "latestCheck": "2020-05-14T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -10,7 +10,7 @@
     "games": [
       {
         "time": "2020-05-03T16:30:00+03:00",
-        "name": "Синхронный турнир 'Зелёный шум' Online",
+        "name": "Зелёный шум",
         "chgk": true,
         "price": ["240 UAH/ком", "9 USD/ком", "8 EUR/ком", "700 RUB/ком"],
         "url": ["https://www.facebook.com/events/159427475487794/"]
@@ -51,10 +51,24 @@
         "url": ["https://www.facebook.com/events/545800362742449/"]
       },
       {
+        "time": "2020-05-13T20:00:00+03:00",
+        "name": "Online Лига Старта. Май",
+        "chgk": true,
+        "price": ["300 UAH/ком"],
+        "url": ["https://ligastartaonline3.ticketforevent.com/"]
+      },
+      {
         "time": "2020-05-14T20:00:00+03:00",
         "name": "Online Киноквиз",
         "price": ["50 UAH/чел", "max 200 UAH/ком"],
         "url": ["https://www.facebook.com/events/266777857794607/"]
+      },
+      {
+        "time": "2020-05-18T20:00:00+03:00",
+        "name": "Карантин-лига. 2.1",
+        "chgk": true,
+        "price": ["50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/341005843539060/"]
       }
     ]
   }

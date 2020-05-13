@@ -2,7 +2,7 @@
   {
     "id": "8303fab5-7cf8-443d-979a-544cbe703c9e",
     "org": "I Love Quiz",
-    "latestCheck": "2020-05-12T12:00:00+03:00",
+    "latestCheck": "2020-05-14T12:00:00+03:00",
     "type": ["events"],
     "free": true,
     "duration": 2,
@@ -18,6 +18,21 @@
         "time": "2020-05-02T17:00:00+03:00",
         "name": "Онлайн-игра 4.2",
         "url": ["https://old.ilovequiz.ru/game/99"]
+      },
+      {
+        "time": "2020-05-14T20:00:00+03:00",
+        "name": "Сериалы (повтор)",
+        "url": ["https://old.ilovequiz.ru/game/100/"]
+      },
+      {
+        "time": "2020-05-15T20:00:00+03:00",
+        "name": "Онлайн-игра 5.1",
+        "url": ["https://old.ilovequiz.ru/game/101/"]
+      },
+      {
+        "time": "2020-05-16T17:00:00+03:00",
+        "name": "Онлайн-игра 5.2",
+        "url": ["https://old.ilovequiz.ru/game/102/"]
       }
     ]
   }
