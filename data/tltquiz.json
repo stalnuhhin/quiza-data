@@ -1,0 +1,17 @@
+[
+  {
+    "id": "f88f473d-922e-4a86-a0b0-693a5d754a61",
+    "org": "TLTQUIZ",
+    "latestCheck": "2020-05-14T12:00:00+03:00",
+    "type": ["events"],
+    "image": "tltquiz.png",
+    "duration": 1,
+    "url": ["https://vk.com/tltquiz"],
+    "games": [
+      { "time": "2020-05-14T10:00:00Z", "name": "ТаБуретКа online #19", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3976" ] },
+      { "time": "2020-05-14T16:00:00Z", "name": "TLTQUIZ Online #16 Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4073" ] },
+      { "time": "2020-05-14T19:10:00Z", "name": "TLTQUIZ Online #16", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4074" ] },
+      { "time": "2020-05-15T10:00:00Z", "name": "TLTQUIZ Online #16", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4075" ] }
+    ]
+  }
+]

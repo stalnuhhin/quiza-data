@@ -1,0 +1,16 @@
+[
+  {
+    "id": "b70540a7-55f6-4a26-a163-7599028dc399",
+    "org": "ИZВИЛИУМ",
+    "latestCheck": "2020-05-14T12:00:00+03:00",
+    "type": ["events"],
+    "image": "izvilium.png",
+    "duration": 1,
+    "url": ["http://izvilium.online/", "https://vk.com/izvilium_sar"],
+    "games": [
+      { "time": "2020-05-14T15:00:00Z", "name": "ИZИ 90-ые (повтор от 29.11.18)", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/3717" ] },
+      { "time": "2020-05-19T15:00:00Z", "name": "Сверхъестественное рядом (повтор от 25.04.19)", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/3922" ] },
+      { "time": "2020-05-20T15:00:00Z", "name": "ИZИ Вокруг света#2 (повтор от 15.01.20)", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/3923" ] }
+    ]
+  }
+]
