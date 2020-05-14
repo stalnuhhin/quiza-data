@@ -9,7 +9,8 @@ const ORG_MAPPING = {
     "СибКвиз": "sibkviz.json",
     "Клуб Онлайн Вопросов": "klubonlinevoprosov.json",
     "Online Quiz 64": "onlinequiz64.json",
-    "Квиз Марис": "quizmaris.json"
+    "Квиз Марис ": "quizmaris.json",
+    "ElevenQuiz": "elevenquiz.json"
 };
 
 const app = new Vue({
