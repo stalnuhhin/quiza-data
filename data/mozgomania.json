@@ -2,7 +2,7 @@
   {
     "id": "61f66a97-a27d-435d-a8f1-e7af4e4d8b81",
     "org": "Мозгомания",
-    "latestCheck": "2020-05-12T12:00:00+03:00",
+    "latestCheck": "2020-05-14T12:00:00+03:00",
     "type": ["events"],
     "image": "mozgomania.png",
     "duration": 2,
@@ -294,24 +294,33 @@
         "price": ["300 RUB/чел"],
         "url": ["https://quizy.pro/streams/3875"]
       },
-      {
-        "time": "2020-05-16T21:00:00+03:00",
-        "name": "Футбомания #6",
-        "price": ["300 RUB/чел"],
-        "url": ["https://quizy.pro/streams/3924"]
-      },
-      {
-        "time": "2020-05-17T12:30:00+03:00",
-        "name": "Футбомания #6",
-        "price": ["300 RUB/чел"],
-        "url": ["https://quizy.pro/streams/3925"]
-      },
-      {
-        "time": "2020-05-17T15:30:00+03:00",
-        "name": "Футбомания #6",
-        "price": ["300 RUB/чел"],
-        "url": ["https://quizy.pro/streams/3926"]
-      }
+      { "time": "2020-05-14T09:30:00Z", "name": "МУЛЬТОМАНИЯ №1 - Повтор №1", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3964" ] },
+      { "time": "2020-05-14T12:30:00Z", "name": "МУЛЬТОМАНИЯ №1 - Повтор №2", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3965" ] },
+      { "time": "2020-05-14T15:30:00Z", "name": "МУЛЬТОМАНИЯ №1 - Повтор №3", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3966" ] },
+      { "time": "2020-05-14T18:00:00Z", "name": "Экспертная Лига №8 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3968" ] },
+      { "time": "2020-05-15T09:30:00Z", "name": "Экспертная Лига №8 - Повтор №1", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3969" ] },
+      { "time": "2020-05-15T12:30:00Z", "name": "Экспертная Лига №8 - Повтор №2", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3970" ] },
+      { "time": "2020-05-15T15:30:00Z", "name": "Экспертная Лига №8 - Повтор №3", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3971" ] },
+      { "time": "2020-05-15T18:00:00Z", "name": "МУЗОМАНИЯ №5 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3958" ] },
+      { "time": "2020-05-16T09:30:00Z", "name": "МУЗОМАНИЯ №5 - Повтор №1", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3960" ] },
+      { "time": "2020-05-16T12:30:00Z", "name": "МУЗОМАНИЯ №5 - Повтор №2", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3961" ] },
+      { "time": "2020-05-16T15:30:00Z", "name": "МУЗОМАНИЯ №5 - Повтор №3", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3962" ] },
+      { "time": "2020-05-16T18:00:00Z", "name": "ФУТБОМАНИЯ №6 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3924" ] },
+      { "time": "2020-05-17T09:30:00Z", "name": "ФУТБОМАНИЯ №6 - Повтор №1", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3925" ] },
+      { "time": "2020-05-17T12:30:00Z", "name": "ФУТБОМАНИЯ №6 - Повтор №2", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3926" ] },
+      { "time": "2020-05-17T18:00:00Z", "name": "МЗГ и ХЕЗ №3. Премьера", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4048" ] },
+      { "time": "2020-05-18T09:30:00Z", "name": "МЗГ и ХЕЗ №3. - Повтор №1", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4064" ] },
+      { "time": "2020-05-18T12:30:00Z", "name": "МЗГ и ХЕЗ №3 - Повтор №2", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4065" ] },
+      { "time": "2020-05-18T15:30:00Z", "name": "МЗГ и ХЕЗ №3 - Повтор №3", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4066" ] },
+      { "time": "2020-05-18T18:00:00Z", "name": "Киномания №9 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4067" ] },
+      { "time": "2020-05-21T18:00:00Z", "name": "Экспертная Лига №9 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4112" ] },
+      { "time": "2020-05-22T18:00:00Z", "name": "МУЗОМАНИЯ №6 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4070" ] },
+      { "time": "2020-05-25T18:00:00Z", "name": "Киномания №10 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4068" ] },
+      { "time": "2020-05-28T18:00:00Z", "name": "Экспертная Лига №10 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4113" ] },
+      { "time": "2020-05-29T18:00:00Z", "name": "МУЗОМАНИЯ №7 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4071" ] },
+      { "time": "2020-06-01T18:00:00Z", "name": "Киномания №11 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4069" ] },
+      { "time": "2020-06-04T18:00:00Z", "name": "Экспертная Лига №11 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4114" ] },
+      { "time": "2020-06-05T18:00:00Z", "name": "МУЗОМАНИЯ №8 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4072" ] }
     ]
   }
 ]

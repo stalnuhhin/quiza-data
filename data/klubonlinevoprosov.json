@@ -2,7 +2,7 @@
   {
     "id": "6e5cb6b5-e314-4d4b-8d07-d70de495380d",
     "org": "Клуб Онлайн Вопросов",
-    "latestCheck": "2020-05-12T12:00:00+03:00",
+    "latestCheck": "2020-05-14T12:00:00+03:00",
     "type": ["events"],
     "image": "klubonlinevoprosov.png",
     "duration": 2,
@@ -34,16 +34,8 @@
         "name": "Клуб Онлайн Вопросов - ИГРА 2 (повтор)",
         "url": ["https://quizy.pro/streams/3385"]
       },
-      {
-        "time": "2020-05-16T14:00:00+03:00",
-        "name": "Клуб Онлайн Вопросов - ИГРА 3",
-        "url": ["https://quizy.pro/streams/3840"]
-      },
-      {
-        "time": "2020-05-16T19:00:00+03:00",
-        "name": "Клуб Онлайн Вопросов - ИГРА 3 (повтор)",
-        "url": ["https://quizy.pro/streams/3841"]
-      }
+      { "time": "2020-05-16T11:00:00Z", "name": "Игра №3 (первый эфир)", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/3840" ] },
+      { "time": "2020-05-16T16:00:00Z", "name": "Игра №3 (второй эфир)", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/3841" ] }
     ]
   }
 ]

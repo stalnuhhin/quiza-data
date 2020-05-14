@@ -8,12 +8,7 @@
     "duration": 2,
     "url": ["https://vk.com/neoquiz", "http://neoquiz.ru/", "https://quizy.pro/"],
     "games": [
-      {
-        "time": "2020-05-14T20:00:00+03:00",
-        "name": "Море, солнце, пляж",
-        "price": ["400 RUB/чел"],
-        "url": ["https://quizy.pro/streams/3979"]
-      }
+      { "time": "2020-05-14T17:00:00Z", "name": "Море, солнце, пляж от NeoQuiz", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/3979" ] }
     ]
   }
 ]

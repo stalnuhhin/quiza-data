@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <title>QUIZA: архив</title>
+</head>
+<body>
+<div id="app">
+    <div v-for="org in orgsMain">
+        <h2>{{org.orgName}}</h2>
+        <div v-for="(game,i) in org.games">{{game}}<span v-if="i != org.games.length - 1">,</span></div>
+    </div>
+    <div>
+        <h2>Quizy.pro</h2>
+        <div v-for="(game,i) in orgQPgames">{{game}}<span v-if="i != orgQPgames.length - 1">,</span></div>
+    </div>
+    <h2>Extra others</h2>
+    <div v-for="org in orgsOther">
+        <h2>{{org.orgName}}</h2>
+        <div v-for="(game,i) in org.games">{{game}}<span v-if="i != org.games.length - 1">,</span></div>
+    </div>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+<script src="quizypro_integrator.js"></script>
+
+</body>
+</html>
