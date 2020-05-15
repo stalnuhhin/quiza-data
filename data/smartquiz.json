@@ -3,7 +3,7 @@
     "id": "5076cd2a-6129-4770-b165-dc32e65ccc94",
     "org": "Smart-Quiz",
     "name": "Smart-Quiz",
-    "latestCheck": "2020-05-14T12:00:00+03:00",
+    "latestCheck": "2020-05-15T12:00:00+03:00",
     "type": ["events"],
     "hasContent": true,
     "image": "smartquiz.png",
@@ -25,6 +25,10 @@
       {
         "time": "2020-05-08T19:00:00+03:00",
         "url": ["https://www.facebook.com/events/2628726240560497"]
+      },
+      {
+        "time": "2020-05-18T19:00:00+03:00",
+        "url": ["https://www.facebook.com/events/235090597797669"]
       }
     ]
   }

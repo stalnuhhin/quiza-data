@@ -2,7 +2,7 @@
   {
     "id": "eef21320-ac8d-4899-9be8-7d8a34c9936c",
     "org": "Квизы Скороход",
-    "latestCheck": "2020-05-14T12:00:00+03:00",
+    "latestCheck": "2020-05-15T12:00:00+03:00",
     "type": ["events"],
     "image": "skorohod.png",
     "duration": 1,
@@ -95,7 +95,10 @@
       },
       { "time": "2020-05-14T13:00:00Z", "name": "Скороход 4 ВАРИАНТА №1", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4008" ] },
       { "time": "2020-05-14T15:00:00Z", "name": "Фильмоскоп №13", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4042" ] },
-      { "time": "2020-05-14T16:00:00Z", "name": "Скороход 4 ВАРИАНТА №1(ПОВТОР)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4009" ] }
+      { "time": "2020-05-14T16:00:00Z", "name": "Скороход 4 ВАРИАНТА №1(ПОВТОР)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4009" ] },
+      { "time": "2020-05-15T12:00:00Z", "name": "Музыкальный Скороход №12", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4130" ] },
+      { "time": "2020-05-15T16:30:00Z", "name": "Музыкальный Скороход №12(повтор от 15:00 МСК)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4131" ] },
+      { "time": "2020-05-19T15:00:00Z", "name": "Скороход 4 ВАРИАНТА №1", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4008" ] }
     ]
   }
 ]
