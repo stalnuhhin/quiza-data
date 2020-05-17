@@ -2,7 +2,7 @@
   {
     "id": "61f66a97-a27d-435d-a8f1-e7af4e4d8b81",
     "org": "Мозгомания",
-    "latestCheck": "2020-05-16T12:00:00+03:00",
+    "latestCheck": "2020-05-17T12:00:00+03:00",
     "type": ["events"],
     "image": "mozgomania.png",
     "duration": 2,
@@ -308,6 +308,7 @@
       { "time": "2020-05-16T18:00:00Z", "name": "ФУТБОМАНИЯ №6 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3924" ] },
       { "time": "2020-05-17T09:30:00Z", "name": "ФУТБОМАНИЯ №6 - Повтор №1", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3925" ] },
       { "time": "2020-05-17T12:30:00Z", "name": "ФУТБОМАНИЯ №6 - Повтор №2", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/3926" ] },
+      { "time": "2020-05-17T15:30:00Z", "name": "ФУТБОМАНИЯ №6 - Повтор №3", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4256" ] },
       { "time": "2020-05-17T18:00:00Z", "name": "МЗГ и ХЕЗ №3. Премьера", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4048" ] },
       { "time": "2020-05-18T09:30:00Z", "name": "МЗГ и ХЕЗ №3. - Повтор №1", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4064" ] },
       { "time": "2020-05-18T12:30:00Z", "name": "МЗГ и ХЕЗ №3 - Повтор №2", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4065" ] },

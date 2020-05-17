@@ -2,7 +2,7 @@
   {
     "id": "5434288a-6ee6-43e9-95a0-d14b065041b4",
     "org": "Большая игра",
-    "latestCheck": "2020-05-12T12:00:00+03:00",
+    "latestCheck": "2020-05-17T12:00:00+03:00",
     "type": ["events"],
     "image": "bolshayaigra.png",
     "chgk": true,
@@ -41,6 +41,11 @@
         "name": "Delivery Cup №2",
         "price": ["800 RUB/ком"],
         "url": ["https://dc.chgk-world.ru/tournaments/55", "http://intgame.ru/d-cup"]
+      },
+      {
+        "time": "2020-05-16T16:00:00+03:00",
+        "name": "Планета Футбол 2020",
+        "price": ["600 RUB/ком"]
       },
       {
         "time": "2020-05-17T13:00:00+03:00",
