@@ -59,6 +59,19 @@
         "chgk": true,
         "price": ["5 USD/ком"],
         "url": ["https://www.facebook.com/events/1638474229639518/"]
+      },
+      {
+        "time": "2020-05-21T20:00:00+03:00",
+        "name": "Синхрон-lite. Выпуск XXXV",
+        "chgk": true,
+        "price": ["6 USD/ком", "160 UAH/ком"],
+        "url": ["https://www.facebook.com/events/1163149167350849/"]
+      },
+      {
+        "time": "2020-05-22T20:00:00+03:00",
+        "name": "ROCK quiz",
+        "price": ["9 USD/ком", "250 UAH/ком"],
+        "url": ["https://www.facebook.com/events/531659164181060/"]
       }
     ]
   }
