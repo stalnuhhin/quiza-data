@@ -10,6 +10,7 @@ const ORG_MAPPING = {
     "Клуб Онлайн Вопросов": "klubonlinevoprosov.json",
     "Online Quiz 64": "onlinequiz64.json",
     "Квиз Марис ": "quizmaris.json",
+    "Куб": "sahar.json",
     "ElevenQuiz": "elevenquiz.json"
 };
 

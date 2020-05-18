@@ -2,7 +2,7 @@
   {
     "id": "f88f473d-922e-4a86-a0b0-693a5d754a61",
     "org": "TLTQUIZ",
-    "latestCheck": "2020-05-17T12:00:00+03:00",
+    "latestCheck": "2020-05-18T12:00:00+03:00",
     "type": ["events"],
     "image": "tltquiz.png",
     "duration": 1,
@@ -17,7 +17,10 @@
       { "time": "2020-05-16T10:00:00Z", "name": "ПРОМО ИГРА! ТаБуретКа online #20", "price": [ "199 RUB/ком" ], "url": [ "https://quizy.pro/streams/4152" ] },
       { "time": "2020-05-16T16:00:00Z", "name": "TLTQUIZ online #17 Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4219" ] },
       { "time": "2020-05-16T19:10:00Z", "name": "TLTQUIZ online #17", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4220" ] },
-      { "time": "2020-05-17T10:00:00Z", "name": "TLTQUIZ online #17", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4221" ] }
+      { "time": "2020-05-17T10:00:00Z", "name": "TLTQUIZ online #17", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4221" ] },
+      { "time": "2020-05-18T16:00:00Z", "name": "ТаБуретКа online #21", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4307" ] },
+      { "time": "2020-05-18T19:10:00Z", "name": "ТаБуретКа online #21", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4308" ] },
+      { "time": "2020-05-19T10:00:00Z", "name": "ТаБуретКа online #21", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4309" ] }
     ]
   }
 ]

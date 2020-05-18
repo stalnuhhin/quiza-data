@@ -2,7 +2,7 @@
   {
     "id": "901232e6-ef9f-47c7-b9f1-752c67c8eec6",
     "org": "Сахар",
-    "latestCheck": "2020-05-14T12:00:00+03:00",
+    "latestCheck": "2020-05-18T12:00:00+03:00",
     "type": ["events"],
     "chgk": true,
     "duration": 2.5,
@@ -50,7 +50,8 @@
         "name": "Синхрон Северных Стран",
         "url": ["https://quizy.pro/streams/3859"],
         "price": ["400 RUB/ком"]
-      }
+      },
+      { "time": "2020-05-18T16:30:00Z", "name": "Кубок попкорна", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4284" ] }
     ]
   }
 ]
