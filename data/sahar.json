@@ -51,7 +51,13 @@
         "url": ["https://quizy.pro/streams/3859"],
         "price": ["400 RUB/ком"]
       },
-      { "time": "2020-05-18T16:30:00Z", "name": "Кубок попкорна", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4284" ] }
+      { "time": "2020-05-18T16:30:00Z", "name": "Кубок попкорна", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4284" ] },
+      {
+        "time": "2020-05-19T18:00:00+03:00",
+        "name": "Синхрон Северных Стран",
+        "url": ["https://quizy.pro/streams/3859"],
+        "price": ["400 RUB/ком"]
+      }
     ]
   }
 ]
