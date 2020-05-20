@@ -2,7 +2,7 @@
   {
     "id": "aee163af-2210-4ee8-a4bd-fb267008fe49",
     "org": "УмаПалата",
-    "latestCheck": "2020-05-16T12:00:00+03:00",
+    "latestCheck": "2020-05-20T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "umapalatadetskaja.png",
@@ -19,6 +19,12 @@
         "name": "УмаПалата / Игра №27 / Детская викторина",
         "price": ["70 UAH/чел"],
         "url": ["https://www.facebook.com/events/2394410320851904/"]
+      },
+      {
+        "time": "2020-05-21T18:00:00+03:00",
+        "name": "УмаПалата / Игра №28 / Детская викторина",
+        "price": ["70 UAH/чел"],
+        "url": ["https://www.facebook.com/events/527054361307220/"]
       }
     ]
   }

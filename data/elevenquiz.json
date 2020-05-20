@@ -2,7 +2,7 @@
   {
     "id": "538ff061-5d18-4bf8-9b89-b927ab947b09",
     "org": "Eleve11 Quiz",
-    "latestCheck": "2020-05-17T12:00:00+03:00",
+    "latestCheck": "2020-05-20T12:00:00+03:00",
     "type": ["events"],
     "image": "elevenquiz.png",
     "duration": 2,
@@ -19,6 +19,11 @@
         "time": "2020-05-17T15:00:00+03:00",
         "name": "Eleven Quiz #7",
         "url": ["https://vk.com/wall-183530227_792"]
+      },
+      {
+        "time": "2020-05-24T15:00:00+03:00",
+        "name": "Eleven Quiz #8",
+        "url": ["https://vk.com/wall-183530227_891"]
       }
     ]
   }
