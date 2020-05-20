@@ -2,7 +2,7 @@
   {
     "id": "1e2e02a4-b771-4be8-90f1-7651d10433e4",
     "org": "MindGames.md",
-    "latestCheck": "2020-05-17T12:00:00+03:00",
+    "latestCheck": "2020-05-20T12:00:00+03:00",
     "type": ["events"],
     "image": "mindgamesmd.png",
     "url": ["http://quiz.mindgames.md", "https://www.facebook.com/mindgamesmd/events"],
@@ -14,9 +14,8 @@
       },
       {
         "time": "2020-05-19T20:00:00+02:00",
-        "name": "St.Twins Detective",
-        "price": ["250 MDL/ком"],
-        "url": ["https://www.facebook.com/events/3228475703849239/?event_time_id=3642644965765642"]
+        "name": "Home Quiz #8",
+        "free": true
       }
     ]
   }

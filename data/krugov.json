@@ -2,7 +2,7 @@
   {
     "id": "194c83b3-6690-4589-9a15-3cf6b62fdd63",
     "org": "Андрей Кругов",
-    "latestCheck": "2020-05-16T12:00:00+03:00",
+    "latestCheck": "2020-05-20T12:00:00+03:00",
     "type": ["events"],
     "image": "krugov.png",
     "duration": 2,
@@ -82,14 +82,16 @@
         "url": ["https://forms.gle/dkcfwXEbuSAbZNGD6"]
       },
       {
-        "time": "2020-05-19T20:00:00+03:00",
-        "name": "?"
-      },
-      {
         "time": "2020-05-21T20:00:00+03:00",
         "name": "Лайт 35",
         "price": ["300 RUB/чел", "400 RUB/2чел", "700 RUB/ком"],
         "url": ["https://forms.gle/DBupcnia3K6ZCU1D7"]
+      },
+      {
+        "time": "2020-05-22T20:00:00+03:00",
+        "name": "Лайт 35",
+        "price": ["300 RUB/чел", "400 RUB/2чел", "700 RUB/ком"],
+        "url": ["https://forms.gle/8TTVq1tcRwrNuSjE6"]
       },
       {
         "time": "2020-05-23T13:00:00+03:00",
