@@ -3,11 +3,10 @@
     "id": "148888a5-5e8c-434a-88e4-8d853b8658d7",
     "org": "City Quiz (Германия)",
     "name": "City Quiz Online (Германия)",
-    "latestCheck": "2020-05-16T12:00:00+03:00",
+    "latestCheck": "2020-05-20T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "cityquiz.png",
-    "price": ["20 EUR/ком"],
     "url": ["https://www.facebook.com/groups/1900106536896781/events/"],
     "desc": "Франшиза 'City Quiz' в Германии.",
     "info": ["Вопросы на YouTube, ответы в Google-форму."],
@@ -16,17 +15,26 @@
       {
         "time": "2020-05-06T19:00:00+02:00",
         "name": "City Quiz Online #7",
+        "price": ["20 EUR/ком"],
         "url": ["https://www.facebook.com/events/978002579281223/"]
       },
       {
         "time": "2020-05-08T19:00:00+02:00",
         "name": "Сериальный Онлайн Квест",
+        "price": ["20 EUR/ком"],
         "url": ["https://www.facebook.com/events/272127247293995/"]
       },
       {
         "time": "2020-05-13T19:00:00+02:00",
         "name": "City Quiz Online",
+        "price": ["20 EUR/ком"],
         "url": ["https://www.facebook.com/events/911479135932068/"]
+      },
+      {
+        "time": "2020-05-21T19:00:00+02:00",
+        "name": "Бесплатный онлайн квест от Планеты Кино и Сити Квест",
+        "free": true,
+        "url": ["https://www.facebook.com/events/2574412186143389/"]
       }
     ]
   }

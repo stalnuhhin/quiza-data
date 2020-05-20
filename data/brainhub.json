@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-05-14T12:00:00+03:00",
+    "latestCheck": "2020-05-20T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -69,6 +69,33 @@
         "chgk": true,
         "price": ["50 UAH/чел"],
         "url": ["https://www.facebook.com/events/341005843539060/"]
+      },
+      {
+        "time": "2020-05-20T19:30:00+03:00",
+        "name": "Асинхронный турнир \"Tet-a-tet+\"",
+        "chgk": true,
+        "price": ["70 UAH/чел", "140 UAH/2чел", "210 UAH/3чел"],
+        "url": ["https://www.facebook.com/events/275550780280050/"]
+      },
+      {
+        "time": "2020-05-21T20:00:00+03:00",
+        "name": "Синхрон Лайт. Online",
+        "chgk": true,
+        "price": ["300 UAH/ком"],
+        "url": ["https://www.facebook.com/events/626656011219776/"]
+      },
+      {
+        "time": "2020-05-26T19:30:00+03:00",
+        "name": "Арктическое зеркало",
+        "chgk": true,
+        "price": ["300 UAH/ком", "11 USD/ком", "10 EUR/ком", "850 RUB/ком"],
+        "url": ["https://www.facebook.com/events/300015857683683/"]
+      },
+      {
+        "time": "2020-05-29T20:00:00+03:00",
+        "name": "Online Киноквиз",
+        "price": ["50 UAH/чел", "max 200 UAH/ком"],
+        "url": ["https://www.facebook.com/events/679265602864192/"]
       }
     ]
   }

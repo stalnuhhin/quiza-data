@@ -2,7 +2,7 @@
   {
     "id": "ba1e0aea-3f6f-43cb-8030-e7c079adb003",
     "org": "Jack Quiz (Borisov)",
-    "latestCheck": "2020-05-16T12:00:00+03:00",
+    "latestCheck": "2020-05-20T12:00:00+03:00",
     "type": ["events"],
     "image": "jackquiz.png",
     "duration": 2,
@@ -20,6 +20,12 @@
         "free": true,
         "donation": true,
         "url": ["https://vk.com/wall-153567237_2295"]
+      },
+      {
+        "time": "2020-05-29T18:30:00+03:00",
+        "name": "Jack Quiz Borisov Online #5",
+        "free": true,
+        "donation": true
       }
     ]
   }

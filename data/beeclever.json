@@ -2,7 +2,7 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2020-05-17T12:00:00+03:00",
+    "latestCheck": "2020-05-20T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
@@ -115,6 +115,12 @@
         "name": "Своя игра: Кубок карантина",
         "url": ["https://www.facebook.com/events/242608180181712"],
         "price": ["4 USD/чел"]
+      },
+      {
+        "time": "2020-05-24T12:00:00+03:00",
+        "name": "Своя игра: Quarantine Cup 3 - заканчивается регистрация",
+        "url": ["https://www.facebook.com/events/270625284079496"],
+        "price": ["150 UAH/чел"]
       }
     ]
   }
