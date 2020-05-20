@@ -2,7 +2,7 @@
   {
     "id": "61f66a97-a27d-435d-a8f1-e7af4e4d8b81",
     "org": "Мозгомания",
-    "latestCheck": "2020-05-19T12:00:00+03:00",
+    "latestCheck": "2020-05-20T12:00:00+03:00",
     "type": ["events"],
     "image": "mozgomania.png",
     "duration": 2,
@@ -332,7 +332,7 @@
       { "time": "2020-05-23T18:00:00Z", "name": "Мультомания №2 - Премьера", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4336" ] },
       { "time": "2020-05-24T16:00:00Z", "name": "Гарри Поттер №1 (Ретроспектива)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4338" ] },
       { "time": "2020-05-24T18:00:00Z", "name": "Гарри Поттер №1 (Ретроспектива)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4337" ] },
-      { "time": "2020-05-25T18:00:00Z", "name": "Киномания №10 - Премьера!", "price": [ "200 RUB/ком" ], "url": [ "https://quizy.pro/streams/4068" ] },
+      { "time": "2020-05-25T18:00:00Z", "name": "Киномания №10 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4068" ] },
       { "time": "2020-05-28T18:00:00Z", "name": "Экспертная Лига №10 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4113" ] },
       { "time": "2020-05-29T18:00:00Z", "name": "МУЗОМАНИЯ №7 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4071" ] },
       { "time": "2020-06-01T18:00:00Z", "name": "Киномания №11 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4069" ] },

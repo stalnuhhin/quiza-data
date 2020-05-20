@@ -1,0 +1,20 @@
+[
+  {
+    "id": "e2904f9a-7c1a-4ba2-993d-eaeeaea78fae",
+    "org": "iQ",
+    "latestCheck": "2020-05-20T12:00:00+03:00",
+    "type": ["events"],
+    "image": "iqgamesmd.png",
+    "duration": 5,
+    "free": true,
+    "donation": true,
+    "url": ["https://www.facebook.com/iqgames.md"],
+    "games": [
+      {
+        "time": "2020-05-20T19:00:00+03:00",
+        "name": "Рейтинговая онлайн-игра №7",
+        "url": ["https://www.facebook.com/iqgames.md/posts/3186656828045177"]
+      }
+    ]
+  }
+]
