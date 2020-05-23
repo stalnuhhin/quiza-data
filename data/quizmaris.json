@@ -2,7 +2,7 @@
   {
     "id": "9eb0228f-fc4d-4e11-a294-87455f004ad9",
     "org": "Quiz Maris",
-    "latestCheck": "2020-05-21T12:00:00+03:00",
+    "latestCheck": "2020-05-24T12:00:00+03:00",
     "type": ["events"],
     "image": "quizmaris.png",
     "duration": 1,
@@ -19,6 +19,9 @@
       { "time": "2020-05-17T12:00:00Z", "name": "Квиз Марис [ИДЕАЛЬНО ДЛЯ ЖЕНЩИН]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4167" ] },
       { "time": "2020-05-17T18:30:00Z", "name": "Квиз Марис [18+ ]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4232" ] },
       { "time": "2020-05-21T12:00:00Z", "name": "Квиз Марис [ПОВТОР ОТ 20.05]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4546" ] },
-      { "time": "2020-05-21T14:00:00Z", "name": "Квиз Марис 18+ [ЧЁРНЫЙ]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4545" ] }]
+      { "time": "2020-05-21T14:00:00Z", "name": "Квиз Марис 18+ [ЧЁРНЫЙ]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4545" ] },
+      { "time": "2020-05-23T14:00:00Z", "name": "Квиз Марис [МЕДИЦИНСКИЙ]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4654" ] },
+      { "time": "2020-05-23T18:40:00Z", "name": "Квиз Марис [МНОГО ЛОГИКИ]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4646" ] }
+    ]
   }
 ]

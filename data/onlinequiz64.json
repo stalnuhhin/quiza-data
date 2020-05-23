@@ -2,7 +2,7 @@
   {
     "id": "bf5df1c1-bd66-4952-a470-16a093212d61",
     "org": "Online Quiz 64",
-    "latestCheck": "2020-05-21T12:00:00+03:00",
+    "latestCheck": "2020-05-24T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "onlinequiz64.png",
@@ -39,7 +39,7 @@
       { "time": "2020-05-18T12:30:00Z", "name": "География #3", "price": [ "200 RUB/ком" ], "url": [ "https://quizy.pro/streams/3817" ] },
       { "time": "2020-05-18T16:00:00Z", "name": "География #3", "price": [ "200 RUB/ком" ], "url": [ "https://quizy.pro/streams/3818" ] },
       { "time": "2020-05-24T12:00:00Z", "name": "Игра в буквы #3", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4365" ] },
-      { "time": "2020-05-25T16:00:00Z", "name": "Игра в буквы #3 (повтор от 15:00 МСК)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4366" ] }
+      { "time": "2020-05-25T16:00:00Z", "name": "Игра в буквы #3 (повтор от 24 мая)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4366" ] }
     ]
   }
 ]
