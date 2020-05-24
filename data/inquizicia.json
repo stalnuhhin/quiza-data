@@ -2,7 +2,7 @@
   {
     "id": "1cad8418-40ff-4a31-9cf4-97d8ba60c3ba",
     "org": "ИнQUIZиция",
-    "latestCheck": "2020-05-20T12:00:00+03:00",
+    "latestCheck": "2020-05-25T12:00:00+03:00",
     "type": ["events"],
     "image": "inquizicia.png",
     "duration": 2,
@@ -13,7 +13,8 @@
         "time": "2020-05-07T19:00:00+03:00",
         "name": "ИнQUIZиция #7",
         "url": ["https://quizy.pro/streams/3161", "https://vk.com/wall-33016113_10751"]
-      }
+      },
+      { "time": "2020-05-28T15:50:00Z", "name": "Инквизиция 28 мая", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/4700" ] }
     ]
   }
 ]

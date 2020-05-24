@@ -2,7 +2,7 @@
   {
     "id": "ab4a284a-ea0e-4c31-9935-981d29dbdf68",
     "org": "СибКвиз",
-    "latestCheck": "2020-05-24T12:00:00+03:00",
+    "latestCheck": "2020-05-25T12:00:00+03:00",
     "type": ["events"],
     "image": "sibkviz.png",
     "duration": 2,
@@ -46,7 +46,8 @@
       { "time": "2020-05-19T15:00:00Z", "name": "Тот Самый СибКвиз #5", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4285" ] },
       { "time": "2020-05-22T13:00:00Z", "name": "СибКвиз Онлайн #15", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4457" ] },
       { "time": "2020-05-22T16:00:00Z", "name": "СибКвиз Онлайн #15 - повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4458" ] },
-      { "time": "2020-05-24T14:00:00Z", "name": "СибКвиз Онлайн #16", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4497" ] }
+      { "time": "2020-05-24T14:00:00Z", "name": "СибКвиз Онлайн #16", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4497" ] },
+      { "time": "2020-05-26T15:00:00Z", "name": "СибКвиз: Культурная игра", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4719" ] }
     ]
   }
 ]

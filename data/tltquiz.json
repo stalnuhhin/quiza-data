@@ -2,7 +2,7 @@
   {
     "id": "f88f473d-922e-4a86-a0b0-693a5d754a61",
     "org": "TLTQUIZ",
-    "latestCheck": "2020-05-24T12:00:00+03:00",
+    "latestCheck": "2020-05-25T12:00:00+03:00",
     "type": ["events"],
     "image": "tltquiz.png",
     "duration": 1,
@@ -32,7 +32,8 @@
       { "time": "2020-05-23T10:00:00Z", "name": "ТаБуретка online #23 ПРОМО ИГРА!", "price": [ "199 RUB/ком" ], "url": [ "https://quizy.pro/streams/4659" ] },
       { "time": "2020-05-23T16:00:00Z", "name": "TLTQUIZ \"Упоротые ребусы\" ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4634" ] },
       { "time": "2020-05-23T19:10:00Z", "name": "TLTQUIZ \"Упоротые ребусы\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4635" ] },
-      { "time": "2020-05-24T10:00:00Z", "name": "TLTQUIZ \"Упоротые ребусы\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4636" ] }
+      { "time": "2020-05-24T10:00:00Z", "name": "TLTQUIZ \"Упоротые ребусы\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4636" ] },
+      { "time": "2020-05-24T19:00:00.196Z", "name": "TLTQUIZ online #10 повтор от 30.04", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4742" ] }
     ]
   }
 ]

@@ -2,7 +2,7 @@
   {
     "id": "c2f7f49d-b9b0-452e-b946-053e805c2677",
     "org": "Qlever",
-    "latestCheck": "2020-05-24T12:00:00+03:00",
+    "latestCheck": "2020-05-25T12:00:00+03:00",
     "type": ["events"],
     "image": "qlever.png",
     "duration": 2,
@@ -26,7 +26,8 @@
         "price": ["250 RUB/ком"],
         "url": ["https://quizy.pro/streams/3772"]
       },
-      { "time": "2020-05-23T13:00:00Z", "name": "Игра Сериалов", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/4110" ] }
+      { "time": "2020-05-23T13:00:00Z", "name": "Игра Сериалов", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/4110" ] },
+      { "time": "2020-05-26T16:00:00Z", "name": "Игра Сериалов (повтор)", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/4750" ] }
     ]
   }
 ]
