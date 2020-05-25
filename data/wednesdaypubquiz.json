@@ -2,7 +2,7 @@
   {
     "id": "01ecb0b9-c386-4fd2-9666-66aca537235e",
     "org": "Wednesday Pub Quiz",
-    "latestCheck": "2020-05-20T12:00:00+03:00",
+    "latestCheck": "2020-05-25T12:00:00+03:00",
     "type": ["events"],
     "duration": 1,
     "image": "wednesdaypubquiz.png",
@@ -24,6 +24,19 @@
         "time": "2020-05-20T20:00:00+03:00",
         "name": "Quiz Star Wars Wednesday",
         "price": ["100 UAH/чел"],
+        "url": ["https://www.facebook.com/events/233343551439105/"]
+      },
+      {
+        "time": "2020-05-27T20:00:00+03:00",
+        "name": "Wednesday Online Quiz #9",
+        "price": ["100 UAH/чел"],
+        "url": ["https://www.facebook.com/events/245797920075705/"]
+      },
+      {
+        "time": "2020-06-07T18:00:00+03:00",
+        "name": "Wednesday ReRun Game #2",
+        "free": true,
+        "donate": true,
         "url": ["https://www.facebook.com/events/233343551439105/"]
       }
     ]

@@ -2,7 +2,7 @@
   {
     "id": "d7a51b52-2a98-4298-9f67-ab0db6c1729f",
     "org": "inQUIZitor: умный город- Баку",
-    "latestCheck": "2020-05-20T12:00:00+03:00",
+    "latestCheck": "2020-05-25T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "inquizitor.png",
@@ -42,6 +42,12 @@
         "name": "InQUIZitor Online v4",
         "price": ["12 AZN/ком"],
         "url": ["https://www.facebook.com/events/286401942519703/"]
+      },
+      {
+        "time": "2020-05-29T21:00:00+04:00",
+        "name": "InQUIZitor Online v5",
+        "price": ["12 AZN/ком"],
+        "url": ["https://www.facebook.com/events/728379724599610/"]
       }
     ]
   }

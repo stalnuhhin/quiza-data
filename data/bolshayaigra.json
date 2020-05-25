@@ -2,7 +2,7 @@
   {
     "id": "5434288a-6ee6-43e9-95a0-d14b065041b4",
     "org": "Большая игра",
-    "latestCheck": "2020-05-20T12:00:00+03:00",
+    "latestCheck": "2020-05-25T12:00:00+03:00",
     "type": ["events"],
     "image": "bolshayaigra.png",
     "chgk": true,
@@ -100,10 +100,34 @@
         "url": ["https://intgame.ru/ostr"]
       },
       {
+        "time": "2020-05-27T21:00:00+03:00",
+        "name": "Весенний Салат",
+        "price": ["700 RUB/ком"],
+        "url": ["https://intgame.ru/chgk#pay"]
+      },
+      {
+        "time": "2020-05-30T13:00:00+03:00",
+        "name": "Кубик Бесконечности: Первый бросок",
+        "price": ["750 RUB/ком"],
+        "url": ["https://intgame.ru/chgk#pay"]
+      },
+      {
         "time": "2020-05-31T13:00:00+03:00",
         "name": "Международная лига. М-лига 2.4. Финал",
         "price": ["900 RUB/ком"],
         "url": ["https://profi.chgk-world.ru/tournaments/64", "http://intgame.ru/m-liga"]
+      },
+      {
+        "time": "2020-05-31T22:00:00+03:00",
+        "name": "Международная лига. М-лига 2.4. Финал",
+        "price": ["900 RUB/ком"],
+        "url": ["https://profi.chgk-world.ru/tournaments/64", "http://intgame.ru/m-liga"]
+      },
+      {
+        "time": "2020-06-01T13:00:00+03:00",
+        "name": "Corgi Cup",
+        "price": ["300 RUB/ком"],
+        "url": ["https://intgame.ru/chgk#pay"]
       }
     ]
   }
