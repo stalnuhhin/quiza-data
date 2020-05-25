@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-05-20T12:00:00+03:00",
+    "latestCheck": "2020-05-25T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -92,10 +92,23 @@
         "url": ["https://www.facebook.com/events/300015857683683/"]
       },
       {
+        "time": "2020-05-28T20:00:00+03:00",
+        "name": "Online Melody Quiz",
+        "price": ["50 UAH/чел", "max 200 UAH/ком"],
+        "url": ["https://www.facebook.com/events/578054366156152/"]
+      },
+      {
         "time": "2020-05-29T20:00:00+03:00",
         "name": "Online Киноквиз",
         "price": ["50 UAH/чел", "max 200 UAH/ком"],
         "url": ["https://www.facebook.com/events/679265602864192/"]
+      },
+      {
+        "time": "2020-06-01T20:00:00+03:00",
+        "name": "Карантин-лига. 2.2",
+        "chgk": true,
+        "price": ["50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/380271282889162/"]
       }
     ]
   }

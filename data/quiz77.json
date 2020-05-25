@@ -2,15 +2,16 @@
   {
     "id": "3c2423bb-7daf-4b0d-b3f0-f08e00224a93",
     "org": "Quiz 77",
-    "latestCheck": "2020-05-20T12:00:00+03:00",
+    "latestCheck": "2020-05-25T12:00:00+03:00",
     "type": ["events"],
     "image": "quiz77.png",
     "duration": 2,
     "free": true,
     "donate": true,
+    "hasContent": true,
     "url": [
       "https://www.facebook.com/pg/quiz77tashkent/posts/",
-      "https://t.me/quiz77tashkent",
+      "https://t.me/quiz77tour",
       "https://www.instagram.com/p/B_wR_cnDNHz/?igshid=d0ue6g6h2awp"
     ],
     "games": [
@@ -37,6 +38,26 @@
       {
         "time": "2020-05-09T18:00:00+03:00",
         "name": "Большая игра 3"
+      },
+      {
+        "time": "2020-05-25T18:00:00+03:00",
+        "name": "Le tour de Qui77: 'Разминка' и 'Две буквы'"
+      },
+      {
+        "time": "2020-05-26T18:00:00+03:00",
+        "name": "Le tour de Qui77: 'Тетравидение' и 'Triple Double'"
+      },
+      {
+        "time": "2020-05-27T18:00:00+03:00",
+        "name": "Le tour de Qui77: 'Ролевые игры' и 'Слова и музыка'"
+      },
+      {
+        "time": "2020-05-28T18:00:00+03:00",
+        "name": "Le tour de Qui77: 'Ассорти' и 'Чайнворд'"
+      },
+      {
+        "time": "2020-05-29T18:00:00+03:00",
+        "name": "Le tour de Qui77: 'Вопрос/ответ' и 'Финишный спурт'"
       }
     ]
   }
