@@ -3,7 +3,7 @@
     "id": "a97a2514-deaf-448f-b8d3-a4c196887140",
     "org": "City Quiz (Киев)",
     "name": "City Quiz Online (Киев)",
-    "latestCheck": "2020-05-20T12:00:00+03:00",
+    "latestCheck": "2020-05-25T12:00:00+03:00",
     "type": ["events"],
     "duration": 2.5,
     "image": "cityquiz.png",
@@ -24,6 +24,11 @@
         "time": "2020-05-20T20:00:00+03:00",
         "name": "City Quiz Online #9",
         "url": ["https://www.facebook.com/events/904994969978830/"]
+      },
+      {
+        "time": "2020-05-27T20:00:00+03:00",
+        "name": "City Quiz Online #10",
+        "url": ["https://www.facebook.com/events/709221743186366/"]
       }
     ]
   }

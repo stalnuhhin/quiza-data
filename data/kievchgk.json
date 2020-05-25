@@ -2,7 +2,7 @@
   {
     "id": "1482b61a-0e8c-4f7b-b99e-79ac41502c68",
     "org": "ЧГК в Киеве",
-    "latestCheck": "2020-05-20T12:00:00+03:00",
+    "latestCheck": "2020-05-25T12:00:00+03:00",
     "type": ["events"],
     "image": "kievchgk.png",
     "duration": 2,
@@ -54,6 +54,14 @@
         "chgk": true,
         "price": ["30 UAH/чел", "180 UAH/ком"],
         "url": ["https://www.facebook.com/events/315974842730921/"]
+      },
+      {
+        "time": "2020-05-31T19:30:00+03:00",
+        "name": "Югославская свеча от #kyïvchgk",
+        "chgk": true,
+        "donate": true,
+        "free": true,
+        "url": ["https://www.facebook.com/events/702042213890150/"]
       }
     ]
   }
