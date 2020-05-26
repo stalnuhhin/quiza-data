@@ -2,7 +2,7 @@
   {
     "id": "f88f473d-922e-4a86-a0b0-693a5d754a61",
     "org": "TLTQUIZ",
-    "latestCheck": "2020-05-25T12:00:00+03:00",
+    "latestCheck": "2020-05-26T12:00:00+03:00",
     "type": ["events"],
     "image": "tltquiz.png",
     "duration": 1,
@@ -39,7 +39,7 @@
       { "time": "2020-05-26T10:00:00Z", "name": "ТаБуретКа online #24", "price": [ "199 RUB/ком" ], "url": [ "https://quizy.pro/streams/4781" ] },
       { "time": "2020-05-26T16:00:00Z", "name": "TLTQUIZ \"Сериалы\" - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4776" ] },
       { "time": "2020-05-26T19:10:00Z", "name": "TLTQUIZ \"Сериалы\"", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4777" ] },
-      { "time": "2020-05-27T10:00:00Z", "name": "TLTQUIZ \"Сериалы\"", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4778" ] }
+      { "time": "2020-05-27T09:00:00Z", "name": "TLTQUIZ \"Сериалы\"", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4778" ] }
     ]
   }
 ]

@@ -2,7 +2,7 @@
   {
     "id": "194c83b3-6690-4589-9a15-3cf6b62fdd63",
     "org": "Андрей Кругов",
-    "latestCheck": "2020-05-20T12:00:00+03:00",
+    "latestCheck": "2020-05-26T12:00:00+03:00",
     "type": ["events"],
     "image": "krugov.png",
     "duration": 2,
@@ -117,15 +117,39 @@
       },
       {
         "time": "2020-05-26T20:00:00+03:00",
-        "name": "Зеркало Арктики"
+        "name": "Зеркало Арктики",
+        "price": ["900 RUB/ком"],
+        "url": ["https://forms.gle/Ywm3PVRimPWaVmCK6"]
+      },
+      {
+        "time": "2020-05-28T20:00:00+03:00",
+        "name": "Город Грехов",
+        "price": ["1000 RUB/ком"],
+        "url": ["https://forms.gle/ueZ1eCcVWQ678cbQ7"]
       },
       {
         "time": "2020-05-29T20:00:00+03:00",
-        "name": "Кубик бесконечности - 1"
+        "name": "Прост!",
+        "price": ["450 RUB/ком"],
+        "url": ["https://forms.gle/V75aAXiZNpX7YmJg8"]
       },
       {
-        "time": "2020-05-31T20:00:00+03:00",
-        "name": "Кубик бесконечности - 1"
+        "time": "2020-05-30T13:00:00+03:00",
+        "name": "Прост!",
+        "price": ["450 RUB/ком"],
+        "url": ["https://forms.gle/RgcLPbxMvquxMpxJA"]
+      },
+      {
+        "time": "2020-05-30T20:00:00+03:00",
+        "name": "Кубик бесконечности - 1",
+        "price": ["900 RUB/ком"],
+        "url": ["https://forms.gle/6LxoJStkv86bnfWd6"]
+      },
+      {
+        "time": "2020-05-31T19:00:00+03:00",
+        "name": "Кубик бесконечности - 1",
+        "price": ["900 RUB/ком"],
+        "url": ["https://forms.gle/UEbTn8RkbSr1dBP67"]
       }
     ]
   }
