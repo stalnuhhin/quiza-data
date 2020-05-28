@@ -9,7 +9,7 @@
     "url": ["https://vk.com/trequartista_quiz"],
     "games": [
       {
-        "time": "2020-05-31T20:00:00Z",
+        "time": "2020-05-31T20:00:00+03:00",
         "name": "Треквартиста #1",
         "free": true,
         "url": ["https://vk.com/wall-195744712_5"]
