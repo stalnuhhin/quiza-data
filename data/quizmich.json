@@ -2,7 +2,7 @@
   {
     "id": "17bf3796-1814-490a-a25f-acfc30174cdf",
     "org": "QuizMich Online",
-    "latestCheck": "2020-05-25T12:00:00+03:00",
+    "latestCheck": "2020-05-28T12:00:00+03:00",
     "type": ["events"],
     "image": "quizmich.png",
     "duration": 2,
@@ -13,6 +13,11 @@
         "name": "QuizMich #1",
         "price": ["20 BYN/ком", "600 RUB/ком"],
         "url": ["https://vk.com/wall-195478937_2"]
+      },
+      {
+        "time": "2020-06-09T19:00:00+03:00",
+        "name": "QuizMich #2",
+        "price": ["20 BYN/ком", "600 RUB/ком"]
       }
     ]
   }

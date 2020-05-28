@@ -1,0 +1,19 @@
+[
+  {
+    "id": "30a25c2d-283f-44ed-bb2b-f06ef21e014f",
+    "org": "ART обстрел",
+    "latestCheck": "2020-05-28T12:00:00+03:00",
+    "type": ["events"],
+    "image": "artobstrel.png",
+    "duration": 2,
+    "url": ["https://vk.com/quiz_artobstrel"],
+    "games": [
+      {
+        "time": "2020-05-23T17:00:00+03:00",
+        "name": "ARTобстрел #2",
+        "price": ["500 RUB/ком"],
+        "url": ["https://vk.com/wall-194842593_45"]
+      }
+    ]
+  }
+]

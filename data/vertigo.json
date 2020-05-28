@@ -2,7 +2,7 @@
   {
     "id": "c3b6e2fe-54fa-410c-a208-975fe848678c",
     "org": "ВертиGO",
-    "latestCheck": "2020-05-25T12:00:00+03:00",
+    "latestCheck": "2020-05-28T12:00:00+03:00",
     "type": ["events"],
     "image": "vertigo.png",
     "duration": 1.5,
@@ -33,7 +33,13 @@
         "price": ["300 RUB/ком"],
         "url": ["https://quizy.pro/streams/3737"]
       },
-      { "time": "2020-05-21T16:00:00Z", "name": "ВертиGO Online #7", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4224" ] }
+      { "time": "2020-05-21T16:00:00Z", "name": "ВертиGO Online #7", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4224" ] },
+      {
+        "time": "2020-05-30T17:00:00+03:00",
+        "name": "ВертиGO-online. Игра №8",
+        "price": ["500 RUB/ком"],
+        "url": ["https://vk.com/wall-144404394_17089"]
+      }
     ]
   }
 ]

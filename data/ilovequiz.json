@@ -2,7 +2,7 @@
   {
     "id": "8303fab5-7cf8-443d-979a-544cbe703c9e",
     "org": "I Love Quiz",
-    "latestCheck": "2020-05-25T12:00:00+03:00",
+    "latestCheck": "2020-05-28T12:00:00+03:00",
     "type": ["events"],
     "free": true,
     "duration": 2,
@@ -48,6 +48,21 @@
         "time": "2020-05-23T17:00:00+03:00",
         "name": "Онлайн-игра 6.2",
         "url": ["https://old.ilovequiz.ru/game/105/"]
+      },
+      {
+        "time": "2020-05-28T20:00:00+03:00",
+        "name": "Тематическая игра \"Алкоголь\" (повтор)",
+        "url": ["https://old.ilovequiz.ru/game/106/"]
+      },
+      {
+        "time": "2020-05-29T20:00:00+03:00",
+        "name": "Онлайн-игра 7.1",
+        "url": ["https://old.ilovequiz.ru/game/107/"]
+      },
+      {
+        "time": "2020-05-30T17:00:00+03:00",
+        "name": "Онлайн-игра 7.2",
+        "url": ["https://old.ilovequiz.ru/game/108/"]
       }
     ]
   }
