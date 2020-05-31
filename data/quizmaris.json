@@ -2,7 +2,7 @@
   {
     "id": "9eb0228f-fc4d-4e11-a294-87455f004ad9",
     "org": "Quiz Maris",
-    "latestCheck": "2020-05-29T12:00:00+03:00",
+    "latestCheck": "2020-05-31T12:00:00+03:00",
     "type": ["events"],
     "image": "quizmaris.png",
     "duration": 1,
@@ -28,7 +28,9 @@
       { "time": "2020-05-29T15:00:00Z", "name": "Квиз Марис [Назад в СССР ПОВТОР]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4966" ] },
       { "time": "2020-05-29T16:00:00Z", "name": "Квиз Марис [НОВЫЙ ПАКЕТ]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4952" ] },
       { "time": "2020-05-29T19:30:00Z", "name": "Квиз Марис [ПОВТОР]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5028" ] },
-      { "time": "2020-05-30T11:00:00Z", "name": "Квиз Марис [ГАРРИ ПОТТЕР]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4951" ] }
+      { "time": "2020-05-30T11:00:00Z", "name": "Квиз Марис [ГАРРИ ПОТТЕР]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4951" ] },
+      { "time": "2020-05-31T18:10:00Z", "name": "Квиз Марис [НОВЫЙ ПАКЕТ #8]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5131" ] },
+      { "time": "2020-05-31T20:30:00Z", "name": "Квиз Марис [ПОВТОР ВЧЕРАШНЕЙ ИГРЫ]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5136" ] }
     ]
   }
 ]

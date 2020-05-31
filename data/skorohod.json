@@ -2,7 +2,7 @@
   {
     "id": "eef21320-ac8d-4899-9be8-7d8a34c9936c",
     "org": "Квизы Скороход",
-    "latestCheck": "2020-05-29T12:00:00+03:00",
+    "latestCheck": "2020-05-31T12:00:00+03:00",
     "type": ["events"],
     "image": "skorohod.png",
     "duration": 1,
@@ -115,7 +115,7 @@
       { "time": "2020-05-26T16:30:00Z", "name": "Фильмоскоп №17", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4882" ] },
       { "time": "2020-05-28T12:00:00Z", "name": "Фильмоскоп №18", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4998" ] },
       { "time": "2020-05-28T16:30:00Z", "name": "Книжный Скороход №6(повтор от 24 мая)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4999" ] },
-      { "time": "2020-05-29T14:30:00.367Z", "name": "Музыкальный Скороход №18", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5070" ] },
+      { "time": "2020-05-29T14:30:00Z", "name": "Музыкальный Скороход №18", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5070" ] },
       { "time": "2020-05-30T14:30:00Z", "name": "Фильмоскоп №18(повтор от 28 мая)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5074" ] },
       { "time": "2020-05-30T16:30:00Z", "name": "Музыкальный Скороход №16(ПОВТОР от 25 мая)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5075" ] },
       { "time": "2020-05-31T07:00:00Z", "name": "Фильмоскоп №17(повтор от 26 мая)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5077" ] },
