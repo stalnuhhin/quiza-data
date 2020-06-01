@@ -3,7 +3,7 @@
     "id": "5076cd2a-6129-4770-b165-dc32e65ccc94",
     "org": "Smart-Quiz",
     "name": "Smart-Quiz",
-    "latestCheck": "2020-05-25T12:00:00+03:00",
+    "latestCheck": "2020-06-02T12:00:00+03:00",
     "type": ["events"],
     "hasContent": true,
     "image": "smartquiz.png",
@@ -18,22 +18,6 @@
     "info": ["Трансляция на YouTube-канале."],
     "payment": ["Игры бесплатные, но клуб будет благодарен за поддержку: Приват24: 5168745603142578."],
     "games": [
-      {
-        "time": "2020-05-01T19:00:00+03:00",
-        "url": ["https://www.facebook.com/events/655365038373394"]
-      },
-      {
-        "time": "2020-05-08T19:00:00+03:00",
-        "url": ["https://www.facebook.com/events/2628726240560497"]
-      },
-      {
-        "time": "2020-05-18T19:00:00+03:00",
-        "url": ["https://www.facebook.com/events/235090597797669"]
-      },
-      {
-        "time": "2020-05-28T19:00:00+03:00",
-        "url": ["https://www.facebook.com/events/858515174654536"]
-      }
     ]
   }
 ]

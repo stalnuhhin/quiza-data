@@ -2,7 +2,7 @@
   {
     "id": "e2904f9a-7c1a-4ba2-993d-eaeeaea78fae",
     "org": "iQ",
-    "latestCheck": "2020-05-31T12:00:00+03:00",
+    "latestCheck": "2020-06-02T12:00:00+03:00",
     "type": ["events"],
     "image": "iqgamesmd.png",
     "duration": 5,
@@ -11,17 +11,7 @@
     "url": ["https://www.facebook.com/pg/iqgames.md/posts/"],
     "games": [
       {
-        "time": "2020-05-20T19:00:00+03:00",
-        "name": "Рейтинговая онлайн-игра №7",
-        "url": ["https://www.facebook.com/iqgames.md/posts/3186656828045177"]
-      },
-      {
-        "time": "2020-05-27T19:00:00+03:00",
-        "name": "Рейтинговая онлайн-игра №8 - финал",
-        "url": ["https://www.facebook.com/iqgames.md/posts/3205803219463871"]
-      },
-      {
-        "time": "2020-05-03T19:00:00+03:00",
+        "time": "2020-06-03T19:00:00+03:00",
         "name": "«Логика» по-домашнему. Первая игра лета",
         "url": ["https://www.facebook.com/events/683459995547760"]
       }

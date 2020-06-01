@@ -2,13 +2,12 @@
   {
     "id": "0e0e73db-a3c8-4ec0-b6c0-b9072745e17f",
     "org": "NeoQuiz",
-    "latestCheck": "2020-05-28T12:00:00+03:00",
+    "latestCheck": "2020-06-02T12:00:00+03:00",
     "type": ["events"],
     "image": "neoquiz.png",
     "duration": 2,
     "url": ["https://vk.com/neoquiz", "http://neoquiz.ru/", "https://quizy.pro/"],
     "games": [
-      { "time": "2020-05-14T17:00:00Z", "name": "Море, солнце, пляж от NeoQuiz", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/3979" ] }
     ]
   }
 ]

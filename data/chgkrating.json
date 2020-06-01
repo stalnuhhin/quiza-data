@@ -2,50 +2,13 @@
   {
     "id": "9abb7240-5964-4ceb-a920-03909a2b6edc",
     "org": "Список онлайн турниров по ЧГК",
-    "latestCheck": "2020-05-28T12:00:00+03:00",
+    "latestCheck": "2020-06-02T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "chgkrating.png",
     "chgk": true,
     "duration": 2,
     "url": ["https://rating.chgk.info/tournaments?name=Онлайн%3A+&tournament_type=2"],
     "games": [
-      {
-        "time": "2020-05-01T20:00:00+03:00",
-        "name": "Зеленый шум",
-        "price": ["300 RUB/чел", "400 RUB/2чел", "max 600 RUB/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/250115632848740"]
-      },
-      {
-        "time": "2020-05-02T16:00:00+03:00",
-        "name": "Зелёный шум",
-        "price": ["300 RUB/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/248387143021589/"]
-      },
-      {
-        "time": "2020-05-03T18:00:00+03:00",
-        "name": "«Декамерон»",
-        "price": ["500 RUB/ком"],
-        "url": ["https://www.facebook.com/groups/chgk.global/permalink/1511391502357473/"]
-      },
-      {
-        "time": "2020-05-04T19:30:00+03:00",
-        "name": "«Лига старта XV»",
-        "price": ["300 RUB/чел", "400 RUB/2чел", "600 RUB/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/251593879367582/"]
-      },
-      {
-        "time": "2020-05-09T14:00:00+03:00",
-        "name": "Кубок бесконечности: Финал",
-        "price": ["8 USD/ком"],
-        "url": ["https://www.facebook.com/events/2528754370787623/"]
-      },
-      {
-        "time": "2020-05-13T23:00:00+03:00",
-        "name": "Закрывается регистрация на Гран-при Левого берега по «Своей игре» (с 14 по 24 мая)",
-        "price": ["4 USD/чел за турнир"],
-        "chgk": false,
-        "url": ["https://www.facebook.com/events/326291265001554/"]
-      }
     ]
   }
 ]
