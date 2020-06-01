@@ -9,7 +9,8 @@
     "price": ["250 RUB/ком"],
     "url": ["https://vk.com/stopsnyatotlt"],
     "games": [
-      { "time": "2020-06-01T18:00:00Z", "name": "Стоп!Снято! (Кино Quiz) ОСКАР (Последний повтор)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5269" ] }
+      { "time": "2020-06-01T18:00:00Z", "name": "Стоп!Снято! (Кино Quiz) ОСКАР (Последний повтор)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5269" ] },
+      { "time": "2020-06-02T18:30:00Z", "name": "Стоп! Снято! (Кино Quiz) ВЛАСТЕЛИН КОЛЕЦ И ХОББИТ", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5304" ] }
     ]
   }
 ]
