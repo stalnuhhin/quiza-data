@@ -2,7 +2,7 @@
   {
     "id": "6e5cb6b5-e314-4d4b-8d07-d70de495380d",
     "org": "Клуб Онлайн Вопросов",
-    "latestCheck": "2020-05-29T12:00:00+03:00",
+    "latestCheck": "2020-06-02T12:00:00+03:00",
     "type": ["events"],
     "image": "klubonlinevoprosov.png",
     "duration": 2,
@@ -14,34 +14,6 @@
     ],
     "payment": ["Оплата на регистрации. Цена участия - за команду."],
     "games": [
-      {
-        "time": "2020-05-02T14:00:00+03:00",
-        "name": "Клуб Онлайн Вопросов - ИГРА 1",
-        "url": ["https://quizy.pro/streams/2873"]
-      },
-      {
-        "time": "2020-05-02T19:00:00+03:00",
-        "name": "Клуб Онлайн Вопросов - ИГРА 1 (повтор)",
-        "url": ["https://quizy.pro/streams/2874"]
-      },
-      {
-        "time": "2020-05-09T14:00:00+03:00",
-        "name": "Клуб Онлайн Вопросов - ИГРА 2",
-        "url": ["https://quizy.pro/streams/3384"]
-      },
-      {
-        "time": "2020-05-09T19:00:00+03:00",
-        "name": "Клуб Онлайн Вопросов - ИГРА 2 (повтор)",
-        "url": ["https://quizy.pro/streams/3385"]
-      },
-      { "time": "2020-05-16T11:00:00Z", "name": "Игра №3 (первый эфир)", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/3840" ] },
-      { "time": "2020-05-16T16:00:00Z", "name": "Игра №3 (второй эфир)", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/3841" ] },
-      { "time": "2020-05-20T16:00:00Z", "name": "Игра №3. Повтор от 16.02", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/4293" ] },
-      { "time": "2020-05-22T16:00:00Z", "name": "Игра №3. Повтор от 16.02", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/4294" ] },
-      { "time": "2020-05-23T11:00:00Z", "name": "Игра №4 (первый эфир)", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/4291" ] },
-      { "time": "2020-05-23T16:00:00Z", "name": "Игра №4 (второй эфир)", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/4292" ] },
-      { "time": "2020-05-30T11:00:00Z", "name": "Игра №5 (первый эфир)", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/4768" ] },
-      { "time": "2020-05-30T16:00:00Z", "name": "Игра №5 (второй эфир)", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/4769" ] }
-    ]
+     ]
   }
 ]

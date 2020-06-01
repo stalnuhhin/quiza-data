@@ -3,7 +3,7 @@
     "id": "2357d128-bd13-4770-ac73-b62fb95cd55a",
     "org": "Эйнштейн Party (Беларусь)",
     "name": "Эйнштейн Party онлайн игра",
-    "latestCheck": "2020-05-28T12:00:00+03:00",
+    "latestCheck": "2020-06-02T12:00:00+03:00",
     "type": ["events"],
     "image": "einsteinparty.png",
     "duration": 2.5,
@@ -11,34 +11,8 @@
     "url": ["https://vk.com/einstein_glb"],
     "games": [
       {
-        "time": "2020-05-03T19:00:00+03:00",
-        "price": ["10 BYN/ком"],
-        "url": ["https://vk.com/wall-182062294_4833"]
-      },
-      {
-        "time": "2020-05-10T19:00:00+03:00"
-      },
-      {
-        "time": "2020-05-13T19:30:00+03:00",
-        "price": ["10 BYN/ком"],
-        "url": ["https://vk.com/wall-182062294_4948"]
-      },
-      {
-        "time": "2020-05-17T19:00:00+03:00",
-        "free": true,
-        "url": ["https://vk.com/wall-182062294_4984"]
-      },
-      {
-        "time": "2020-05-20T19:30:00+03:00",
-        "name": "Эйнштейн Party онлайн #9: 90 гг",
-        "price": ["10 BYN/ком"],
-        "url": ["https://vk.com/wall-182062294_5056"]
-      },
-      {
-        "time": "2020-05-27T19:30:00+03:00",
-        "name": "Эйнштейн Party онлайн #10",
-        "price": ["10 BYN/ком"],
-        "url": ["https://vk.com/wall-182062294_5170"]
+        "time": "2020-06-10T19:30:00+03:00",
+        "url": ["https://vk.com/wall-182062294_5236"]
       }
     ]
   }

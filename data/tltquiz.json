@@ -2,13 +2,13 @@
   {
     "id": "f88f473d-922e-4a86-a0b0-693a5d754a61",
     "org": "TLTQUIZ",
-    "latestCheck": "2020-06-01T12:00:00+03:00",
+    "latestCheck": "2020-06-02T12:00:00+03:00",
     "type": ["events"],
     "image": "tltquiz.png",
     "duration": 1,
     "url": ["https://vk.com/tltquiz"],
     "games": [
-      { "time": "2020-06-01T09:00:00.076Z", "name": "TLTQUIZ \"Упоротые ребусы\" #2 - повтор от 30.05", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5230" ] },
+      { "time": "2020-06-01T09:00:00Z", "name": "TLTQUIZ \"Упоротые ребусы\" #2 - повтор от 30.05", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5230" ] },
       { "time": "2020-06-01T16:00:00Z", "name": "ТаБуретКа Online #27 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5219" ] },
       { "time": "2020-06-01T19:10:00Z", "name": "ТаБуретКа Online #27 повтор от 19:00", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5220" ] },
       { "time": "2020-06-02T13:00:00Z", "name": "ТаБуретКа Online #27 повтор от 01.06", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5221" ] }

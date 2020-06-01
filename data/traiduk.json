@@ -2,84 +2,12 @@
   {
     "id": "a983715a-2638-4376-931a-1f67f3e3e21a",
     "org": "Наталья Трайдук",
-    "latestCheck": "2020-05-29T12:00:00+03:00",
+    "latestCheck": "2020-06-02T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "traiduk.png",
     "url": ["https://www.facebook.com/profile.php?id=100017788444620"],
     "games": [
-      {
-        "time": "2020-05-02T14:00:00+03:00",
-        "name": "FatLazyRaccoon CUP",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/events/517096439172462/"]
-      },
-      {
-        "time": "2020-05-03T14:00:00+03:00",
-        "name": "FatLazyRaccoon CUP",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/events/517096439172462/"]
-      },
-      {
-        "time": "2020-05-05T20:00:00+03:00",
-        "name": "ЧГК-девичник (Эдуард Голуб)",
-        "price": ["5 USD/ком"],
-        "chgk": true,
-        "url": ["https://www.facebook.com/events/2656931181261837/"]
-      },
-      {
-        "time": "2020-05-09T18:00:00+03:00",
-        "name": "Cinema Quiz",
-        "free": true,
-        "url": ["https://www.facebook.com/events/229715354977099/"]
-      },
-      {
-        "time": "2020-05-10T17:00:00+03:00",
-        "name": "Кубок бесконечности: Финал",
-        "price": ["8 USD/ком"],
-        "chgk": true,
-        "url": ["https://www.facebook.com/events/2528754370787623/"]
-      },
-      {
-        "time": "2020-05-11T17:00:00+03:00",
-        "name": "FatLazyRaccoon CUP",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/events/944616695941521/"]
-      },
-      {
-        "time": "2020-05-16T17:00:00+03:00",
-        "name": "Весенний салат",
-        "chgk": true,
-        "price": ["7 EUR/ком", "200 UAH/ком"],
-        "url": ["https://www.facebook.com/events/190001978727989/"]
-      },
-      {
-        "time": "2020-05-20T20:00:00+03:00",
-        "name": "ЧГК-девичник",
-        "chgk": true,
-        "price": ["5 USD/ком"],
-        "url": ["https://www.facebook.com/events/1638474229639518/"]
-      },
-      {
-        "time": "2020-05-21T20:00:00+03:00",
-        "name": "Синхрон-lite. Выпуск XXXV",
-        "chgk": true,
-        "price": ["6 USD/ком", "160 UAH/ком"],
-        "url": ["https://www.facebook.com/events/1163149167350849/"]
-      },
-      {
-        "time": "2020-05-22T20:00:00+03:00",
-        "name": "ROCK quiz",
-        "price": ["9 USD/ком", "250 UAH/ком"],
-        "url": ["https://www.facebook.com/events/531659164181060/"]
-      },
-      {
-        "time": "2020-05-28T20:00:00+03:00",
-        "name": "Вечер парного ЧГК",
-        "chgk": true,
-        "price": ["4 USD/ком", "110 UAH/ком"],
-        "url": ["https://www.facebook.com/events/180461773272739/"]
-      },
       {
         "time": "2020-06-02T20:00:00+03:00",
         "name": "Летняя кинолига",

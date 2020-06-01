@@ -3,41 +3,12 @@
     "id": "70627f72-4053-416c-9722-95416a1897ae",
     "org": "QuizFun Online",
     "name": "КвизФан ОНЛАЙН",
-    "latestCheck": "2020-05-28T12:00:00+03:00",
+    "latestCheck": "2020-06-02T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "quizfun.png",
     "url": ["https://vk.com/quizfun_online"],
     "games": [
-      {
-        "time": "2020-05-03T18:00:00+03:00",
-        "free": true,
-        "donate": true,
-        "url": ["https://vk.com/wall-193637731_154"]
-      },
-      {
-        "time": "2020-05-10T18:00:00+03:00",
-        "free": true,
-        "donate": true,
-        "url": ["https://vk.com/wall-193637731_213"]
-      },
-      {
-        "time": "2020-05-17T18:00:00+03:00",
-        "price": ["900 RUB/ком"],
-        "url": ["https://vk.com/wall-193637731_213"]
-      },
-      {
-        "time": "2020-05-27T18:00:00+03:00",
-        "price": ["900 RUB/ком"],
-        "url": ["https://vk.com/wall-193637731_337"]
-      },
-      {
-        "time": "2020-05-31T18:00:00+03:00",
-        "name": "КвизФан ОНЛАЙН: 2000-е (пакет 2019 года)",
-        "free": true,
-        "donate": true,
-        "url": ["https://vk.com/wall-193637731_343"]
-      }
     ]
   }
 ]

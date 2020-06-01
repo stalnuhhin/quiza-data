@@ -2,19 +2,12 @@
   {
     "id": "c6bfa711-8ea3-4ce7-93cb-f3493b916a2a",
     "org": "Диез Квиз",
-    "latestCheck": "2020-05-29T12:00:00+03:00",
+    "latestCheck": "2020-06-02T12:00:00+03:00",
     "type": ["events"],
     "image": "diezquiz.png",
     "duration": 2,
     "url": ["https://www.facebook.com/pg/diezquiz/events"],
     "games": [
-      {
-        "time": "2020-05-29T20:00:00+03:00",
-        "name": "Stay Home",
-        "chgk": true,
-        "price": ["700 RUB/ком", "240 UAH/ком", "10 USD/ком", "9.5 EUR/ком"],
-        "url": ["https://www.facebook.com/events/1469919436539431/"]
-      },
       {
         "time": "2020-06-15T19:30:00+03:00",
         "name": "Угадай мелодию Online - Живой звук",
