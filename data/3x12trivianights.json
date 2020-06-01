@@ -2,43 +2,19 @@
   {
     "id": "d5d56a1a-8e85-4953-ad10-2fc57856878b",
     "org": "3x12 Trivia Nights",
-    "latestCheck": "2020-05-28T12:00:00+03:00",
+    "latestCheck": "2020-06-01T12:00:00+03:00",
     "type": ["events"],
     "image": "3x12trivianights.png",
     "duration": 2,
     "url": ["https://www.facebook.com/pg/trivia3x12/events"],
     "games": [
       {
-        "time": "2020-05-02T18:30:00+01:00",
-        "name": "Harry Potter Online Trivia",
+        "time": "2020-06-06T18:30:00+01:00",
+        "name": "Free Online Trivia III by 3x12",
         "lang": "По-английски",
         "donate": true,
         "free": true,
-        "url": ["https://www.facebook.com/events/259337445105857/"]
-      },
-      {
-        "time": "2020-05-16T20:30:00+03:00",
-        "name": "Rick&Morty Online Trivia",
-        "lang": "По-английски",
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/2268403596801997/"]
-      },
-      {
-        "time": "2020-05-23T20:30:00+03:00",
-        "name": "Friends Online Trivia II",
-        "lang": "По-английски",
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/866752577161180/"]
-      },
-      {
-        "time": "2020-05-27T20:30:00+03:00",
-        "name": "Sex & The City Online Trivia",
-        "lang": "По-английски",
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/665844410871805/"]
+        "url": ["https://www.facebook.com/events/2674340152824175/"]
       }
     ]
   }

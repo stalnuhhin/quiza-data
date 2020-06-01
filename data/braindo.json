@@ -2,31 +2,13 @@
   {
     "id": "bb5ce446-8b42-4ff7-adf3-3045c30913a0",
     "org": "BRAINDO",
-    "latestCheck": "2020-05-25T12:00:00+03:00",
+    "latestCheck": "2020-06-01T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "price": ["2400 RUB/ком"],
     "image": "braindo.png",
     "url": ["https://www.facebook.com/pg/Braindoclub/events/"],
     "games": [
-      {
-        "time": "2020-05-16T18:00:00+10:00",
-        "name": "Авторы vs клуб",
-        "price": ["2400 RUB/ком за 3 игры"],
-        "url": ["https://www.facebook.com/events/229980301668500/"]
-      },
-      {
-        "time": "2020-05-23T18:00:00+10:00",
-        "name": "Календарный турнир для Открытой и Первой лиги",
-        "price": ["2400 RUB/ком за 3 игры"],
-        "url": ["https://www.facebook.com/events/229980301668500/"]
-      },
-      {
-        "time": "2020-05-30T18:00:00+10:00",
-        "name": "Календарный турнир для команд Высшей лиги",
-        "price": ["2400 RUB/ком за 3 игры"],
-        "url": ["https://www.facebook.com/events/229980301668500/"]
-      }
     ]
   }
 ]

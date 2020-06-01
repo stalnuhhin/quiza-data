@@ -2,7 +2,7 @@
   {
     "id": "d9388ed9-a66c-437e-b538-2e700aa8fe46",
     "org": "Genium (Максим Поташев)",
-    "latestCheck": "2020-05-25T12:00:00+03:00",
+    "latestCheck": "2020-06-01T12:00:00+03:00",
     "type": ["events"],
     "image": "geniumonline.png",
     "duration": 2,
@@ -12,55 +12,14 @@
     "info": ["Cтрим в Zoom.", "Ответы вбиваются в их личную систему."],
     "games": [
       {
-        "time": "2020-05-02T20:00:00+03:00",
-        "name": "Genium Challenge Online",
-        "url": ["http://genium-quiz.com/events/challenge-online-5/"]
-      },
-      {
-        "time": "2020-05-05T20:00:00+03:00",
-        "name": "Genium Challenge с Максимом Поташевым в #ЩедрыйВторник",
-        "price": ["400 RUB/чел", "1000 RUB/ком"],
-        "url": ["https://orbifond.ru/activity/onlajn-igra-genium-challenge-s-maksimom-potashevym-v-shhedryjvtornik"]
-      },
-      {
-        "time": "2020-05-06T20:00:00+03:00",
+        "time": "2020-06-03T20:00:00+03:00",
         "name": "Genium Sprint Online",
-        "url": ["http://genium-quiz.com/events/sprint-online-5/"]
+        "url": ["http://genium-quiz.com/events/sprint-online-9/"]
       },
       {
-        "time": "2020-05-09T20:00:00+03:00",
+        "time": "2020-06-06T20:00:00+03:00",
         "name": "Genium Challenge Online",
-        "url": ["http://genium-quiz.com/events/challenge-online-6/"]
-      },
-      {
-        "time": "2020-05-13T20:00:00+03:00",
-        "name": "Genium Sprint Online",
-        "url": ["http://genium-quiz.com/events/sprint-online-6/"]
-      },
-      {
-        "time": "2020-05-16T20:00:00+03:00",
-        "name": "Genium Challenge Online",
-        "url": ["http://genium-quiz.com/events/challenge-online-7/"]
-      },
-      {
-        "time": "2020-05-20T20:00:00+03:00",
-        "name": "Genium Sprint Online",
-        "url": ["http://genium-quiz.com/events/sprint-online-7/"]
-      },
-      {
-        "time": "2020-05-23T20:00:00+03:00",
-        "name": "Genium Challenge Online",
-        "url": ["http://genium-quiz.com/events/challenge-online-8/"]
-      },
-      {
-        "time": "2020-05-27T20:00:00+03:00",
-        "name": "Genium Sprint Online",
-        "url": ["http://genium-quiz.com/events/sprint-online-8/"]
-      },
-      {
-        "time": "2020-05-30T20:00:00+03:00",
-        "name": "Genium Challenge Online",
-        "url": ["http://genium-quiz.com/events/challenge-online-9/"]
+        "url": ["http://genium-quiz.com/events/challenge-online-10/"]
       }
     ]
   }

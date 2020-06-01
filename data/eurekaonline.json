@@ -2,22 +2,12 @@
   {
     "id": "9760298f-4f4a-420c-93f0-db17ce6eb658",
     "org": "Эврика Online",
-    "latestCheck": "2020-05-31T12:00:00+03:00",
+    "latestCheck": "2020-06-01T12:00:00+03:00",
     "type": ["events"],
     "image": "eureka.png",
     "price": ["20 EUR/ком", "4 EUR/чел"],
     "url": ["https://www.facebook.com/pg/eurekaintellectualgames/posts"],
     "games": [
-      {
-        "time": "2020-05-05T19:00:00+03:00",
-        "name": "Eureka #3 (137)",
-        "url": ["https://www.facebook.com/events/231400088119136/"]
-      },
-      {
-        "time": "2020-05-19T19:00:00+03:00",
-        "name": "Eureka #4 (138): In Vino Veritas",
-        "url": ["https://www.facebook.com/events/1368683923332137"]
-      },
       {
         "time": "2020-06-02T19:00:00+03:00",
         "name": "Eureka #5 (139): Лихие 1990-е",

@@ -2,53 +2,12 @@
   {
     "id": "d7a51b52-2a98-4298-9f67-ab0db6c1729f",
     "org": "inQUIZitor: умный город- Баку",
-    "latestCheck": "2020-05-25T12:00:00+03:00",
+    "latestCheck": "2020-06-01T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "inquizitor.png",
     "url": ["https://www.facebook.com/pg/UmniygorodBaku/events/"],
     "games": [
-      {
-        "time": "2020-05-01T21:00:00+04:00",
-        "name": "InQUIZitor Online v1",
-        "url": ["https://www.facebook.com/events/2744904485768260/"]
-      },
-      {
-        "time": "2020-05-03T16:00:00+04:00",
-        "name": "Интеллектуальная разминка",
-        "free": true,
-        "url": ["https://www.facebook.com/events/872020846598358/"]
-      },
-      {
-        "time": "2020-05-08T21:00:00+04:00",
-        "name": "InQUIZitor Online v2",
-        "price": ["12 AZN/ком"],
-        "url": ["https://www.facebook.com/events/1959360640870963/"]
-      },
-      {
-        "time": "2020-05-15T21:00:00+04:00",
-        "name": "InQUIZitor Online v3",
-        "price": ["12 AZN/ком"],
-        "url": ["https://www.facebook.com/events/2958908644144154/"]
-      },
-      {
-        "time": "2020-05-17T16:00:00+04:00",
-        "name": "Интеллектуальная разминка",
-        "free": true,
-        "url": ["https://www.facebook.com/events/968416083608756/"]
-      },
-      {
-        "time": "2020-05-22T21:00:00+04:00",
-        "name": "InQUIZitor Online v4",
-        "price": ["12 AZN/ком"],
-        "url": ["https://www.facebook.com/events/286401942519703/"]
-      },
-      {
-        "time": "2020-05-29T21:00:00+04:00",
-        "name": "InQUIZitor Online v5",
-        "price": ["12 AZN/ком"],
-        "url": ["https://www.facebook.com/events/728379724599610/"]
-      }
     ]
   }
 ]

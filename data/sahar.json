@@ -2,71 +2,15 @@
   {
     "id": "901232e6-ef9f-47c7-b9f1-752c67c8eec6",
     "org": "Сахар",
-    "latestCheck": "2020-05-29T12:00:00+03:00",
+    "latestCheck": "2020-06-01T12:00:00+03:00",
     "type": ["events"],
     "chgk": true,
     "duration": 2.5,
     "image": "sahar.png",
     "url": ["https://vk.com/sugarchgk"],
     "games": [
-      {
-        "time": "2020-05-02T19:45:00+03:00",
-        "name": "Лига старта (май)",
-        "url": ["https://vk.com/topic-38771951_40586942"],
-        "price": ["600 RUB/ком"]
-      },
-      {
-        "time": "2020-05-04T19:45:00+03:00",
-        "name": "Geek-ЧГК (флагманская площадка)",
-        "url": ["https://vk.com/topic-38771951_40586989"],
-        "price": ["500 RUB/ком"]
-      },
-      {
-        "time": "2020-05-06T19:45:00+03:00",
-        "name": "Тыквенный пирог",
-        "url": ["https://vk.com/topic-38771951_40598204"],
-        "price": ["400 RUB/ком"]
-      },
-      {
-        "time": "2020-05-09T18:00:00+03:00",
-        "name": "Geek-ЧГК",
-        "url": ["https://vk.com/topic-38771951_40586989"],
-        "price": ["500 RUB/ком"]
-      },
-      {
-        "time": "2020-05-11T19:30:00+03:00",
-        "name": "Кубок кабачков '19",
-        "url": ["https://quizy.pro/streams/3699"],
-        "price": ["250 RUB/ком"]
-      },
-      {
-        "time": "2020-05-12T19:45:00+03:00",
-        "name": "Лига старта (май)",
-        "url": ["https://vk.com/topic-38771951_40609718"],
-        "price": ["600 RUB/ком"]
-      },
-      {
-        "time": "2020-05-17T18:00:00+03:00",
-        "name": "Синхрон Северных Стран",
-        "url": ["https://quizy.pro/streams/3859"],
-        "price": ["400 RUB/ком"]
-      },
-      { "time": "2020-05-18T16:30:00Z", "name": "Кубок попкорна", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/4284" ] },
-      {
-        "time": "2020-05-19T18:00:00+03:00",
-        "name": "Синхрон Северных Стран",
-        "url": ["https://quizy.pro/streams/3859"],
-        "price": ["400 RUB/ком"]
-      },
-      {
-        "time": "2020-05-21T19:45:00+03:00",
-        "name": "Весенний салат",
-        "url": ["https://vk.com/topic-38771951_40649841"],
-        "price": ["750 RUB/ком"]
-      },
-      { "time": "2020-05-23T13:00:00Z", "name": "Кубок кабачков '19", "price": [ "250 RUB/ком" ], "url": [ "https://quizy.pro/streams/4448" ] },
-      { "time": "2020-06-05T16:30:00Z", "name": "Столикий синхрон", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/4707" ] },
-      { "time": "2020-06-06T13:00:00Z", "name": "Научпоп", "price": [ "450 RUB/ком" ], "url": [ "https://quizy.pro/streams/4733" ] }
+      { "time": "2020-06-06T16:30:00Z", "name": "Научпоп", "price": [ "450 RUB/ком" ], "url": [ "https://quizy.pro/streams/4733" ] },
+      { "time": "2020-06-07T16:00:00Z", "name": "Столикий синхрон", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/4707" ] }
     ]
   }
 ]

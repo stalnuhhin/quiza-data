@@ -2,53 +2,12 @@
   {
     "id": "dcf5c4cb-1d20-4879-bb7e-d4ad772aa9c8",
     "org": "Head Trick Quiz",
-    "latestCheck": "2020-05-28T12:00:00+03:00",
+    "latestCheck": "2020-06-01T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "headtrick.png",
     "url": ["https://www.facebook.com/pg/football.quiz.tashkent/posts/"],
     "games": [
-      {
-        "time": "2020-05-07T21:00:00+05:00",
-        "name": "Head Trick Quiz #6",
-        "free": true,
-        "url": [
-          "https://www.facebook.com/football.quiz.tashkent/photos/a.202711113828491/707855899980674/?type=3&theater",
-          "https://docs.google.com/forms/d/e/1FAIpQLSd71S7hJUsU4EB2AyEWOPy-MJno3EJSfz6TRAGN3-suHbKwYw/viewform",
-          "https://t.me/headtrickquiz/944",
-          "https://www.instagram.com/p/B_uoMvoFrZ6/"
-        ]
-      },
-      {
-        "time": "2020-05-14T21:00:00+05:00",
-        "name": "Head Trick Quiz #7",
-        "free": true,
-        "url": [
-          "https://www.facebook.com/football.quiz.tashkent/photos/a.202711113828491/713254172774180/?type=3&theater",
-          "https://docs.google.com/forms/d/e/1FAIpQLSekx_QrBQGtWz9BcEGsyWg9K5LOhE0W8X9bH8Ft0ikKCmvGFw/viewform",
-          "https://t.me/headtrickquiz/960",
-          "https://www.instagram.com/p/CADBKlMAjj4/"
-        ]
-      },
-      {
-        "time": "2020-05-21T21:00:00+05:00",
-        "name": "Head Trick Quiz #8",
-        "price": ["220 RUB/ком", "3 USD/ком"],
-        "url": [
-          "https://www.facebook.com/football.quiz.tashkent/posts/718731372226460"
-        ]
-      },
-      {
-        "time": "2020-05-28T21:00:00+05:00",
-        "name": "Head Trick Quiz #9",
-        "price": ["220 RUB/ком", "3 USD/ком"],
-        "url": [
-          "https://www.facebook.com/football.quiz.tashkent/photos/a.202711113828491/723914448374819/?type=3&theater",
-          "https://docs.google.com/forms/d/e/1FAIpQLSdtyYJdW1XURt8NPXhpfoOrTtF3R1HnyDwMukG04lJe7KObNA/viewform",
-          "https://t.me/headtrickquiz/982",
-          "https://www.instagram.com/p/CArXPj_FcAk/"
-        ]
-      }
     ]
   }
 ]

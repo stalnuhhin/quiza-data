@@ -1,9 +1,9 @@
 const ORG_MAPPING = {
     "ИZВИЛИУМ": "izvilium.json",
-    "online.mozgomania.ru": "mozgomania.json",
+    "online🌎mozgomania.ru": "mozgomania.json",
     "Квизы Скороход": "skorohod.json",
     "Стоп!Снято!": "stopsnyatotlt.json",
-    "Tltquiz": "tltquiz.json",
+    "Tltquiz & ТаБуретКа": "tltquiz.json",
     "ВертиGO": "vertigo.json",
     "NeoQuiz": "neoquiz.json",
     "СибКвиз": "sibkviz.json",
@@ -31,7 +31,7 @@ const app = new Vue({
     },
     methods: {
         load: function () {
-            fetch("https://api.quizy.pro/api/v1/stream/list?limit=1000&page=1&popular=0&recommended=0")
+            fetch("https://api.quizy.pro/api/v1/streams?limit=1000&page=0&sort=upcoming")
                 .then(r => r.json())
                 .then(r => this.fillOrgs(r.data.result));
         },

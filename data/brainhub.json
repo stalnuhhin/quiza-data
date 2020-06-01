@@ -2,112 +2,24 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-05-25T12:00:00+03:00",
+    "latestCheck": "2020-06-01T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
     "url": ["https://www.facebook.com/pg/BrainHubKiev/events/", "https://www.twitch.tv/brainhubua"],
     "games": [
       {
-        "time": "2020-05-03T16:30:00+03:00",
-        "name": "Зелёный шум",
-        "chgk": true,
-        "price": ["240 UAH/ком", "9 USD/ком", "8 EUR/ком", "700 RUB/ком"],
-        "url": ["https://www.facebook.com/events/159427475487794/"]
-      },
-      {
-        "time": "2020-05-04T20:00:00+03:00",
-        "name": "Карантин-лига. Этап 3",
-        "chgk": true,
-        "price": ["50 UAH/чел"],
-        "url": ["https://www.facebook.com/events/1078057909226501/"]
-      },
-      {
-        "time": "2020-05-05T19:30:00+03:00",
-        "name": "Декамерон",
-        "chgk": true,
-        "price": ["240 UAH/ком", "9 USD/ком", "8 EUR/ком", "700 RUB/ком"],
-        "url": ["https://www.facebook.com/events/691764791589425/"]
-      },
-      {
-        "time": "2020-05-06T20:00:00+03:00",
-        "name": "Online Melody Quiz",
-        "free": true,
-        "donate": true,
-        "url": ["https://www.facebook.com/events/2493354817643887/"]
-      },
-      {
-        "time": "2020-05-11T20:00:00+03:00",
-        "name": "Чёрное ЧГК",
-        "chgk": true,
-        "price": ["300 UAH/ком"],
-        "url": ["https://darker.ticketforevent.com"]
-      },
-      {
-        "time": "2020-05-12T19:30:00+03:00",
-        "name": "Кубок Бесконечности. VII этап: Финал",
-        "chgk": true,
-        "price": ["240 UAH/ком", "9 USD/ком", "8 EUR/ком", "700 RUB/ком"],
-        "url": ["https://www.facebook.com/events/545800362742449/"]
-      },
-      {
-        "time": "2020-05-13T20:00:00+03:00",
-        "name": "Online Лига Старта. Май",
-        "chgk": true,
-        "price": ["300 UAH/ком"],
-        "url": ["https://ligastartaonline3.ticketforevent.com/"]
-      },
-      {
-        "time": "2020-05-14T20:00:00+03:00",
-        "name": "Online Киноквиз",
-        "price": ["50 UAH/чел", "max 200 UAH/ком"],
-        "url": ["https://www.facebook.com/events/266777857794607/"]
-      },
-      {
-        "time": "2020-05-18T20:00:00+03:00",
-        "name": "Карантин-лига. 2.1",
-        "chgk": true,
-        "price": ["50 UAH/чел"],
-        "url": ["https://www.facebook.com/events/341005843539060/"]
-      },
-      {
-        "time": "2020-05-20T19:30:00+03:00",
-        "name": "Асинхронный турнир \"Tet-a-tet+\"",
-        "chgk": true,
-        "price": ["70 UAH/чел", "140 UAH/2чел", "210 UAH/3чел"],
-        "url": ["https://www.facebook.com/events/275550780280050/"]
-      },
-      {
-        "time": "2020-05-21T20:00:00+03:00",
-        "name": "Синхрон Лайт. Online",
-        "chgk": true,
-        "price": ["300 UAH/ком"],
-        "url": ["https://www.facebook.com/events/626656011219776/"]
-      },
-      {
-        "time": "2020-05-26T19:30:00+03:00",
-        "name": "Арктическое зеркало",
-        "chgk": true,
-        "price": ["300 UAH/ком", "11 USD/ком", "10 EUR/ком", "850 RUB/ком"],
-        "url": ["https://www.facebook.com/events/300015857683683/"]
-      },
-      {
-        "time": "2020-05-28T20:00:00+03:00",
-        "name": "Online Melody Quiz",
-        "price": ["50 UAH/чел", "max 200 UAH/ком"],
-        "url": ["https://www.facebook.com/events/578054366156152/"]
-      },
-      {
-        "time": "2020-05-29T20:00:00+03:00",
-        "name": "Online Киноквиз",
-        "price": ["50 UAH/чел", "max 200 UAH/ком"],
-        "url": ["https://www.facebook.com/events/679265602864192/"]
-      },
-      {
         "time": "2020-06-01T20:00:00+03:00",
         "name": "Карантин-лига. 2.2",
         "chgk": true,
         "price": ["50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/380271282889162/"]
+      },
+      {
+        "time": "2020-06-02T19:30:00+03:00",
+        "name": "Прост!",
+        "chgk": true,
+        "price": ["150 UAH/ком", "400 RUB/ком", "5.6 USD/ком", "5.1 EUR/ком"],
         "url": ["https://www.facebook.com/events/380271282889162/"]
       }
     ]

@@ -2,7 +2,7 @@
   {
     "id": "7bc5e168-637e-4c0f-935c-399e898bb692",
     "org": "Evening Quiz",
-    "latestCheck": "2020-05-28T12:00:00+03:00",
+    "latestCheck": "2020-06-01T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "eveningquiz.png",
@@ -10,21 +10,6 @@
     "donation": true,
     "url": ["https://www.facebook.com/pg/EveningQuiz/events"],
     "games": [
-      {
-        "time": "2020-05-03T20:00:00+03:00",
-        "name": "Cartoon Evening quiz",
-        "url": ["https://www.facebook.com/events/231164941286469/"]
-      },
-      {
-        "time": "2020-05-10T20:00:00+03:00",
-        "name": "Horror quiz",
-        "url": ["https://www.facebook.com/EveningQuiz/photos/a.179211449344644/609400426325742/?type=3"]
-      },
-      {
-        "time": "2020-05-24T20:00:00+03:00",
-        "name": "ADULT Evening Quiz",
-        "url": ["https://www.facebook.com/EveningQuiz/photos/a.179211449344644/616318038967314/?type=3"]
-      }
     ]
   }
 ]

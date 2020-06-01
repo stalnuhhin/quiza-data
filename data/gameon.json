@@ -2,7 +2,7 @@
   {
     "id": "4d003594-b5ca-40be-88cb-f72d7c0fb16a",
     "org": "Game On",
-    "latestCheck": "2020-05-28T12:00:00+03:00",
+    "latestCheck": "2020-06-01T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "gameon.png",
@@ -10,33 +10,13 @@
     "url": ["https://www.facebook.com/pg/gameontashkent/posts"],
     "games": [
       {
-        "time": "2020-05-06T20:30:00+05:00",
-        "name": "Game On #4",
-        "free": true,
-        "url": [
-          "https://www.facebook.com/gameontashkent/photos/a.654311421737252/869517276883331/?type=3&theater",
-          "https://t.me/gameontashkent/106",
-          "https://www.instagram.com/p/B_wVnC3AsVK"
-        ]
-      },
-      {
-        "time": "2020-05-20T20:30:00+05:00",
-        "name": "Game On #5",
+        "time": "2020-06-03T20:30:00+05:00",
+        "name": "Game On #7",
         "price": ["6 USD/ком", "400 RUB/ком"],
         "url": [
-          "https://www.facebook.com/gameontashkent/photos/a.654311421737252/878548989313493/?type=3&theater",
-          "https://t.me/gameontashkent/108",
-          "https://www.instagram.com/p/CAP8346Amau/"
-        ]
-      },
-      {
-        "time": "2020-05-27T20:30:00+05:00",
-        "name": "Game On #6",
-        "price": ["6 USD/ком", "400 RUB/ком"],
-        "url": [
-          "https://www.facebook.com/gameontashkent/photos/a.654311421737252/884843805350678/?type=3&theater",
-          "https://t.me/gameontashkent/113",
-          "https://www.instagram.com/p/CAmSTmtgYwL/"
+          "https://www.facebook.com/gameontashkent/photos/a.654311421737252/889369308231461/?type=3&theater",
+          "https://t.me/gameontashkent/121",
+          "https://www.instagram.com/p/CA2sK_RptxF/"
         ]
       }
     ]
