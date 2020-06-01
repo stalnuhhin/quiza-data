@@ -2,7 +2,7 @@
   {
     "id": "9645838f-9182-4221-842c-730ddaf75f98",
     "org": "PubQuiz",
-    "latestCheck": "2020-05-25T12:00:00+03:00",
+    "latestCheck": "2020-06-02T12:00:00+03:00",
     "type": ["events"],
     "image": "pubquiz.png",
     "duration": 3,
@@ -10,35 +10,7 @@
     "desc": "Украинский клуб PubQuiz",
     "games": [
       {
-        "time": "2020-05-07T20:00:00+03:00",
-        "name": "Connection Quiz Online",
-        "free": true,
-        "donate": true,
-        "url": ["https://www.facebook.com/events/2331358327170910"]
-      },
-      {
-        "time": "2020-05-13T20:00:00+03:00",
-        "name": "Movie Quiz Online",
-        "free": true,
-        "donate": true,
-        "url": ["https://www.facebook.com/events/1747640092044960"]
-      },
-      {
-        "time": "2020-05-21T20:00:00+03:00",
-        "name": "PubQuiz Online",
-        "free": true,
-        "donate": true,
-        "url": ["https://www.facebook.com/events/1079413915775181/"]
-      },
-      {
-        "time": "2020-05-26T20:00:00+03:00",
-        "name": "Movie Quiz Online",
-        "free": true,
-        "donate": true,
-        "url": ["https://www.facebook.com/events/254294679154231/"]
-      },
-      {
-        "time": "2020-05-28T20:00:00+03:00",
+        "time": "2020-06-02T20:00:00+03:00",
         "name": "PubQuiz Online",
         "free": true,
         "donate": true,

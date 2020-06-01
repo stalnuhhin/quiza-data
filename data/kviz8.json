@@ -3,24 +3,12 @@
     "id": "9d96803c-51ee-4b7e-816c-5098bce34efc",
     "org": "Квиз №8",
     "name": "Онлайн Квиз №8",
-    "latestCheck": "2020-05-25T12:00:00+03:00",
+    "latestCheck": "2020-06-02T12:00:00+03:00",
     "type": ["events"],
     "image": "kviz8.png",
     "duration": 1,
     "url": ["https://www.facebook.com/pg/QuizN8/events/"],
     "games": [
-      {
-        "time": "2020-05-12T20:00:00+03:00",
-        "name": "Квиз #8. Третья игра",
-        "price": ["400 UAH/ком"],
-        "url": ["https://www.facebook.com/events/1517592468422564/"]
-      },
-      {
-        "time": "2020-05-28T20:00:00+03:00",
-        "name": "Квиз N8. Четвертая игра",
-        "price": ["400 UAH/ком"],
-        "url": ["https://www.facebook.com/events/344276166546434/"]
-      }
     ]
   }
 ]

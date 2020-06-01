@@ -2,66 +2,18 @@
   {
     "id": "1482b61a-0e8c-4f7b-b99e-79ac41502c68",
     "org": "ЧГК в Киеве",
-    "latestCheck": "2020-05-25T12:00:00+03:00",
+    "latestCheck": "2020-06-02T12:00:00+03:00",
     "type": ["events"],
     "image": "kievchgk.png",
     "duration": 2,
     "url": ["https://www.facebook.com/pg/chgk.kiev.ua/events/"],
     "games": [
       {
-        "time": "2020-05-03T19:30:00+03:00",
-        "name": "Онлайн ЧГК по мемам от #kyïvchgk",
+        "time": "2020-06-07T19:30:00+03:00",
+        "name": "Онлайн ЧГК IX от #kyïvchgk",
         "chgk": true,
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/2869415673135954"]
-      },
-      {
-        "time": "2020-05-09T19:30:00+03:00",
-        "name": "Онлайн ЧГК VI от #kyïvchgk",
-        "chgk": true,
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/578078502814956"]
-      },
-      {
-        "time": "2020-05-14T19:30:00+03:00",
-        "name": "ЧГК по 90-ым от #kyïvchgk",
-        "chgk": true,
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/1122642428104334"]
-      },
-      {
-        "time": "2020-05-17T19:30:00+03:00",
-        "name": "Онлайн ЧГК VII от #kyïvchgk",
-        "chgk": true,
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/606002340305444"]
-      },
-      {
-        "time": "2020-05-19T19:30:00+03:00",
-        "name": "Ничто, нигде, никогда",
-        "chgk": true,
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/952591488494119"]
-      },
-      {
-        "time": "2020-05-24T19:30:00+03:00",
-        "name": "Онлайн ЧГК VIII от #kyïvchgk",
-        "chgk": true,
-        "price": ["30 UAH/чел", "180 UAH/ком"],
-        "url": ["https://www.facebook.com/events/315974842730921/"]
-      },
-      {
-        "time": "2020-05-31T19:30:00+03:00",
-        "name": "Югославская свеча от #kyïvchgk",
-        "chgk": true,
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/702042213890150/"]
+        "price": ["300 UAH/ком"],
+        "url": ["https://www.facebook.com/events/1675253315957232/"]
       }
     ]
   }
