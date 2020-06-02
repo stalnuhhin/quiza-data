@@ -9,7 +9,8 @@
     "price": ["200 RUB/ком"],
     "url": ["https://vk.com/skorohod_quiz"],
     "games": [
-      { "time": "2020-06-01T13:00:00.042Z", "name": "Музыкальный Скороход №19", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5259" ] }
+      { "time": "2020-06-01T13:00:00Z", "name": "Музыкальный Скороход №19", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5259" ] },
+      { "time": "2020-06-02T16:30:00Z", "name": "Фильмоскоп №19", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5318" ] }
     ]
   }
 ]

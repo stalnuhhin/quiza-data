@@ -2,12 +2,13 @@
   {
     "id": "d7a51b52-2a98-4298-9f67-ab0db6c1729f",
     "org": "inQUIZitor: умный город- Баку",
-    "latestCheck": "2020-06-01T12:00:00+03:00",
+    "latestCheck": "2020-06-03T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "inquizitor.png",
     "url": ["https://www.facebook.com/pg/UmniygorodBaku/events/"],
     "games": [
+      {"time": "2020-06-05T21:00:00+04:00", "name": "InQUIZitor Online v6", "price": ["12 AZN/ком"], "url": ["https://www.facebook.com/events/678077709407220/"]}
     ]
   }
 ]

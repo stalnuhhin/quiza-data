@@ -2,7 +2,7 @@
   {
     "id": "6e5cb6b5-e314-4d4b-8d07-d70de495380d",
     "org": "Клуб Онлайн Вопросов",
-    "latestCheck": "2020-06-02T12:00:00+03:00",
+    "latestCheck": "2020-06-03T12:00:00+03:00",
     "type": ["events"],
     "image": "klubonlinevoprosov.png",
     "duration": 2,
@@ -14,6 +14,8 @@
     ],
     "payment": ["Оплата на регистрации. Цена участия - за команду."],
     "games": [
+      { "time": "2020-06-06T11:00:00Z", "name": "Игра №1. \"Все свои\" (первый эфир)", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/5325" ] },
+      { "time": "2020-06-06T16:00:00Z", "name": "Игра №1. \"Все свои\" (второй эфир)", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/5326" ] }
      ]
   }
 ]
