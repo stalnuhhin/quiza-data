@@ -1,4 +1,4 @@
-const DATA_VERSION = 101;
+const DATA_VERSION = 102;
 const DATAFILES = [
     "3x12trivianights.json",
     "artobstrel.json",
@@ -63,6 +63,7 @@ const DATAFILES = [
     "mzgb.json",
     "mzgbtln.json",
     "neoquiz.json",
+    "omg.json",
     "onlinequiz64.json",
     "otvquiz.json",
     "panopticumzhitomir.json",
@@ -83,6 +84,7 @@ const DATAFILES = [
     "sheikerquiz.json",
     "sherlockquiz.json",
     "sibkviz.json",
+    "sidorenkov.json",
     "skorohod.json",
     "smartquiz.json",
     "stopsnyatotlt.json",
@@ -181,8 +183,8 @@ const app = new Vue({
                     game.noregistration = game.noregistration || (game.noregistration === undefined && tem.noregistration);
                     game.noregistration = game.noregistration || (game.noregistration === undefined && org.noregistration);
                     game.url = game.url || [];
-                    game.url = org.url ? game.url.concat(org.url) : game.url;
                     game.url = tem.url ? game.url.concat(tem.url) : game.url;
+                    game.url = org.url ? game.url.concat(org.url) : game.url;
                     game.free = game.free || (game.free === undefined && tem.free);
                     game.free = game.free || (game.free === undefined && org.free);
                     game.donate = game.donate || (game.donate === undefined && tem.donate);
