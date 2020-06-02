@@ -2,505 +2,88 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-05-26T12:00:00+03:00",
+    "latestCheck": "2020-06-03T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
     "duration": 2,
     "url": ["https://www.facebook.com/denis.gonchar.39"],
-    "games": [
-      {
-        "time": "2020-05-01T15:00:00+03:00",
-        "name": "Лига Старта - май",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-01T19:00:00+03:00",
-        "name": "Лига Старта - май",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-01T22:00:00+03:00",
-        "name": "Лига Старта - май",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-02T15:00:00+03:00",
+    "templates": {
+      "chislom": {
         "name": "Не числом, а умением",
-        "price": ["50 UAH/чел", "170 RUB/чел", "max 200 UAH/ком", "max 680 RUB/ком"],
-        "url": ["https://docs.google.com/forms/d/e/1FAIpQLScn0espbnIPIk49vjeRNA8rgyuJKKxyVDkOs335b131c-LfCg/viewform"]
-      },
-      {
-        "time": "2020-05-02T19:00:00+03:00",
-        "name": "Лига Старта - май",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-02T21:30:00+03:00",
-        "name": "Не числом, а умением 2",
-        "price": ["50 UAH/чел", "170 RUB/чел", "max 200 UAH/ком", "max 680 RUB/ком"],
-        "url": ["https://docs.google.com/forms/d/e/1FAIpQLScn0espbnIPIk49vjeRNA8rgyuJKKxyVDkOs335b131c-LfCg/viewform"]
-      },
-      {
-        "time": "2020-05-03T15:00:00+03:00",
-        "name": "Лига Старта - май",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-03T18:00:00+03:00",
-        "name": "Лига Старта - май",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-04T19:00:00+03:00",
-        "name": "Декамерон",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-05T15:00:00+03:00",
-        "name": "Лига Старта - май",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-05T19:00:00+03:00",
-        "name": "Декамерон",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-05T22:00:00+03:00",
-        "name": "Зеленый шум",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-06T21:00:00+03:00",
-        "name": "Декамерон",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-07T15:00:00+03:00",
-        "name": "Гик-ЧГК. Светлая сторона",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-07T19:00:00+03:00",
-        "name": "Зеленый шум",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-07T22:00:00+03:00",
-        "name": "Декамерон",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-08T15:00:00+03:00",
-        "name": "Декамерон",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-08T19:00:00+03:00",
-        "name": "Лига Старта - май",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-09T15:00:00+03:00",
-        "name": "Лига Старта - май",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-09T19:00:00+03:00",
-        "name": "Гик-ЧГК. Светлая сторона",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-09T22:00:00+03:00",
-        "name": "Декамерон",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-10T15:00:00+03:00",
-        "name": "Гик-ЧГК. Светлая сторона",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-10T18:00:00+03:00",
-        "name": "Кубок Бесконечности-финал",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-10T21:00:00+03:00",
-        "name": "Лига Старта - май",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-11T16:00:00+03:00",
-        "name": "Кубок соседней галактики-Дельта",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-11T19:00:00+03:00",
-        "name": "Кубок Бесконечности-финал",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-12T19:00:00+03:00",
-        "name": "Кубок Бесконечности-финал",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-12T22:00:00+03:00",
-        "name": "Декамерон",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-13T16:00:00+03:00",
-        "name": "Лига Старта - май",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-13T19:00:00+03:00",
-        "name": "Не числом, а умением - 2",
-        "price": ["50 UAH/чел", "170 RUB/чел", "200 UAH/ком", "680 RUB/ком"],
+        "price": ["680 RUB/ком", "200 UAH/ком", "170 RUB/чел", "50 UAH/чел"],
         "url": ["https://tinyurl.com/chgk2020"]
       },
-      {
-        "time": "2020-05-13T22:00:00+03:00",
-        "name": "Кубок Бесконечности-финал",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-14T16:00:00+03:00",
-        "name": "Гик-ЧГК. Светлая сторона",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-14T19:00:00+03:00",
-        "name": "Турнир для пар и троек \"Tet-a-tet+\"",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-15T16:00:00+03:00",
-        "name": "Весенний салат",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-15T19:00:00+03:00",
-        "name": "Весенний салат",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-16T15:00:00+03:00",
-        "name": "Весенний салат",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-16T18:00:00+03:00",
-        "name": "Весенний салат",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-16T21:00:00+03:00",
-        "name": "Кубок Бесконечности-финал",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-17T15:00:00+03:00",
-        "name": "Лига Старта - май",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-17T18:00:00+03:00",
-        "name": "Весенний салат",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-17T21:00:00+03:00",
-        "name": "Кубок соседней галактики. Дельта",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-19T19:00:00+03:00",
-        "name": "Весенний салат",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-20T18:30:00+03:00",
-        "name": "Весенний салат",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-20T21:00:00+03:00",
-        "name": "Не числом, а умением - 2",
-        "price": ["50 UAH/чел", "170 RUB/чел", "200 UAH/ком", "680 RUB/ком"],
-        "url": ["https://tinyurl.com/chgk2020"]
-      },
-      {
-        "time": "2020-05-21T08:00:00+03:00",
-        "name": "Весенний салат",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-21T19:00:00+03:00",
-        "name": "Синхрон-lite. Выпуск XXXV",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-21T22:00:00+03:00",
-        "name": "Кубок соседней галактики. Дельта",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-22T08:00:00+03:00",
-        "name": "Синхрон-lite. Выпуск XXXV",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-22T19:00:00+03:00",
-        "name": "Синхрон-lite. Выпуск XXXV",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-22T21:30:00+03:00",
-        "name": "Синхрон-lite. Выпуск XXXV",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-23T15:00:00+03:00",
-        "name": "Весенний салат",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-23T18:00:00+03:00",
-        "name": "Синхрон-lite. Выпуск XXXV",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-23T21:00:00+03:00",
-        "name": "Кубок Бесконечности-финал",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-24T15:00:00+03:00",
-        "name": "Арктическое зеркало",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-24T18:00:00+03:00",
-        "name": "Арктическое зеркало",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-24T21:00:00+03:00",
-        "name": "Синхрон-lite. Выпуск XXXV",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-25T15:00:00+03:00",
-        "name": "Зеленый шум",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-25T19:00:00+03:00",
-        "name": "Арктическое зеркало",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-25T21:30:00+03:00",
-        "name": "Синхрон-lite. Выпуск XXXV",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-26T08:30:00+03:00",
-        "name": "Лига Старта - май",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-26T19:00:00+03:00",
-        "name": "Арктическое зеркало",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-26T21:30:00+03:00",
-        "name": "Building Stories",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-27T16:00:00+03:00",
-        "name": "Весенний салат",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-27T19:00:00+03:00",
-        "name": "Building Stories",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-27T22:00:00+03:00",
-        "name": "Не числом, а умением",
-        "price": ["50 UAH/чел", "170 RUB/чел", "200 UAH/ком", "680 RUB/ком"],
-        "url": ["https://tinyurl.com/chgk2020"]
-      },
-      {
-        "time": "2020-05-28T05:00:00+03:00",
-        "name": "Арктическое зеркало",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-28T19:00:00+03:00",
-        "name": "Синхрон-lite. Выпуск XXXV",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-28T21:30:00+03:00",
-        "name": "Весенний салат",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-29T16:00:00+03:00",
+      "prost": {
         "name": "Прост!",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "price": ["500 RUB/ком", "150 UAH/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
-      {
-        "time": "2020-05-29T19:00:00+03:00",
-        "name": "Прост!",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+      "ligastarta16": {
+        "name": "Лига старта XVI",
+        "price": ["800 RUB/ком", "240 UAH/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
-      {
-        "time": "2020-05-29T21:30:00+03:00",
-        "name": "Прост!",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+      "kubikbesk1": {
+        "name": "Кубик бесконечности - 1",
+        "price": ["800 RUB/ком", "240 UAH/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
-      {
-        "time": "2020-05-30T13:00:00+03:00",
-        "name": "Лига Старта - май",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+      "letokinoliga": {
+        "name": "Летняя кинолига",
+        "price": ["800 RUB/ком", "240 UAH/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
-      {
-        "time": "2020-05-30T16:00:00+03:00",
-        "name": "Прост!",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-30T18:00:00+03:00",
-        "name": "Кубик бесконечности. I бросок",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-05-30T21:00:00+03:00",
+      "kubokkabachkov": {
         "name": "Кубок кабачков",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
-      {
-        "time": "2020-05-31T15:00:00+03:00",
-        "name": "Кубик бесконечности. I бросок",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+      "lite35": {
+        "name": "Синхрон-lite XXXV",
+        "price": ["800 RUB/ком", "240 UAH/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
-      {
-        "time": "2020-05-31T18:00:00+03:00",
-        "name": "Кубок кабачков",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+      "vesenijsalat": {
+        "name": "Весенний салат",
+        "price": ["800 RUB/ком", "240 UAH/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
-      {
-        "time": "2020-05-31T21:00:00+03:00",
-        "name": "Прост!",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+      "arkticheskoe": {
+        "name": "Арктическое зеркало",
+        "price": ["800 RUB/ком", "240 UAH/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
-      {
-        "time": "2020-06-01T05:00:00+03:00",
-        "name": "Не числом, а умением",
-        "price": ["50 UAH/чел", "170 RUB/чел", "200 UAH/ком", "680 RUB/ком"],
-        "url": ["https://tinyurl.com/chgk2020"]
-      },
-      {
-        "time": "2020-06-01T19:00:00+03:00",
-        "name": "Лига старта. Эпизод XVI - июнь",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      {
-        "time": "2020-06-01T22:00:00+03:00",
-        "name": "Не числом, а умением",
-        "price": ["50 UAH/чел", "170 RUB/чел", "200 UAH/ком", "680 RUB/ком"],
-        "url": ["https://tinyurl.com/chgk2020"]
-      },
-      {
-        "time": "2020-06-02T19:00:00+03:00",
-        "name": "Лига старта. Эпизод XVI - июнь",
-        "price": ["240 UAH/ком", "800 RUB/ком", "120 UAH/ст.ком", "400 RUB/ст.ком"],
+      "buildingstories": {
+        "name": "Building Stories",
+        "price": ["800 RUB/ком", "240 UAH/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       }
+    },
+    "games": [
+      {"time": "2020-06-02T19:00:00+03:00", "template": "kubikbesk1"},
+      {"time": "2020-06-02T22:00:00+03:00", "template": "ligastarta16"},
+      {"time": "2020-06-03T19:00:00+03:00", "template": "kubokkabachkov"},
+      {"time": "2020-06-03T22:00:00+03:00", "template": "prost"},
+      {"time": "2020-06-04T13:00:00+03:00", "template": "lite35"},
+      {"time": "2020-06-04T19:00:00+03:00", "template": "ligastarta16"},
+      {"time": "2020-06-04T21:30:00+03:00", "template": "prost"},
+      {"time": "2020-06-05T02:00:00+03:00", "template": "vesenijsalat"},
+      {"time": "2020-06-05T19:00:00+03:00", "template": "kubikbesk1"},
+      {"time": "2020-06-05T22:00:00+03:00", "template": "kubokkabachkov"},
+      {"time": "2020-06-06T15:00:00+03:00", "template": "letokinoliga"},
+      {"time": "2020-06-06T18:00:00+03:00", "template": "ligastarta16"},
+      {"time": "2020-06-06T21:00:00+03:00", "template": "arkticheskoe"},
+      {"time": "2020-06-07T02:00:00+03:00", "template": "prost"},
+      {"time": "2020-06-07T15:00:00+03:00", "template": "kubikbesk1"},
+      {"time": "2020-06-07T18:00:00+03:00", "template": "kubokkabachkov"},
+      {"time": "2020-06-07T21:00:00+03:00", "template": "prost"},
+      {"time": "2020-06-08T05:00:00+03:00", "template": "chislom"},
+      {"time": "2020-06-08T19:00:00+03:00", "template": "lite35"},
+      {"time": "2020-06-08T22:00:00+03:00", "template": "chislom"},
+      {"time": "2020-06-09T19:00:00+03:00", "template": "kubikbesk1"},
+      {"time": "2020-06-09T22:00:00+03:00", "template": "vesenijsalat"},
+      {"time": "2020-06-10T22:00:00+03:00", "template": "buildingstories"}
     ]
   }
 ]

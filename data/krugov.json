@@ -2,155 +2,37 @@
   {
     "id": "194c83b3-6690-4589-9a15-3cf6b62fdd63",
     "org": "Андрей Кругов",
-    "latestCheck": "2020-05-26T12:00:00+03:00",
+    "latestCheck": "2020-06-03T12:00:00+03:00",
     "type": ["events"],
     "image": "krugov.png",
     "duration": 2,
     "chgk": true,
     "url": ["https://www.facebook.com/groups/528679377769191"],
-    "games": [
-      {
-        "time": "2020-05-06T20:00:00+03:00",
-        "name": "Весенняя кинолига",
-        "price": ["700 RUB/ком"],
-        "url": ["https://forms.gle/jpk46Y2vXLroWVEb7"]
+    "templates": {
+      "ligastarta16": {
+        "name": "Лига старта XVI",
+        "price": ["300 RUB/чел", "400 RUB/2чел", "700 RUB/ком"]
       },
-      {
-        "time": "2020-05-07T20:00:00+03:00",
-        "name": "Декамерон",
-        "price": ["700 RUB/ком"],
-        "url": ["https://forms.gle/p2LnyrXwRE6hC4DZ8"]
-      },
-      {
-        "time": "2020-05-08T20:00:00+03:00",
-        "name": "Город грехов",
-        "price": ["1000 RUB/ком"],
-        "url": ["https://forms.gle/G88CJy6621GTLupU8"]
-      },
-      {
-        "time": "2020-05-11T19:00:00+03:00",
-        "name": "Кубок Бесконечности. Финал",
-        "price": ["900 RUB/ком"],
-        "url": ["https://forms.gle/Fswp8sgToK43wQj87"]
-      },
-      {
-        "time": "2020-05-12T20:00:00+03:00",
-        "name": "Tet-a-tet+",
-        "price": ["300 RUB/чел", "400 RUB/2чел", "500 RUB/3чел"],
-        "url": ["https://forms.gle/KQUYJStpfj98UNVK9"]
-      },
-      {
-        "time": "2020-05-13T20:00:00+03:00",
-        "name": "Пегас и лирохвост",
-        "price": ["400 RUB/1-2чел", "600 RUB/ком"],
-        "url": ["https://forms.gle/hxeAdAZNMP2PQn32A"]
-      },
-      {
-        "time": "2020-05-14T20:00:00+03:00",
-        "name": "Кубок Бесконечности. Финал",
-        "price": ["900 RUB/ком"],
-        "url": ["https://forms.gle/Fswp8sgToK43wQj87"]
-      },
-      {
-        "time": "2020-05-15T20:00:00+03:00",
-        "name": "Весенний салат",
-        "price": ["300 RUB/чел", "500 RUB/2чел", "800 RUB/ком"],
-        "url": ["https://forms.gle/3yrcnCMTyBSSRntf7"]
-      },
-      {
-        "time": "2020-05-16T13:00:00+03:00",
-        "name": "Весенний салат",
-        "price": ["300 RUB/чел", "500 RUB/2чел", "800 RUB/ком"],
-        "url": ["https://forms.gle/3yrcnCMTyBSSRntf7"]
-      },
-      {
-        "time": "2020-05-16T20:00:00+03:00",
-        "name": "Деливери-2",
-        "price": ["900 RUB/ком"],
-        "url": ["https://forms.gle/dkcfwXEbuSAbZNGD6"]
-      },
-      {
-        "time": "2020-05-17T20:00:00+03:00",
-        "name": "Весенний салат",
-        "price": ["300 RUB/чел", "500 RUB/2чел", "800 RUB/ком"],
-        "url": ["https://forms.gle/3yrcnCMTyBSSRntf7"]
-      },
-      {
-        "time": "2020-05-18T20:00:00+03:00",
-        "name": "Деливери-2",
-        "price": ["900 RUB/ком"],
-        "url": ["https://forms.gle/dkcfwXEbuSAbZNGD6"]
-      },
-      {
-        "time": "2020-05-21T20:00:00+03:00",
-        "name": "Лайт 35",
-        "price": ["300 RUB/чел", "400 RUB/2чел", "700 RUB/ком"],
-        "url": ["https://forms.gle/DBupcnia3K6ZCU1D7"]
-      },
-      {
-        "time": "2020-05-22T20:00:00+03:00",
-        "name": "Лайт 35",
-        "price": ["300 RUB/чел", "400 RUB/2чел", "700 RUB/ком"],
-        "url": ["https://forms.gle/8TTVq1tcRwrNuSjE6"]
-      },
-      {
-        "time": "2020-05-23T13:00:00+03:00",
-        "name": "Деливери-2",
-        "price": ["900 RUB/ком"],
-        "url": ["https://forms.gle/dkcfwXEbuSAbZNGD6"]
-      },
-      {
-        "time": "2020-05-23T20:00:00+03:00",
-        "name": "Лайт 35",
-        "price": ["300 RUB/чел", "400 RUB/2чел", "700 RUB/ком"],
-        "url": ["https://forms.gle/npWt1xaSPuwMQkpR8"]
-      },
-      {
-        "time": "2020-05-24T15:00:00+03:00",
-        "name": "Лайт 35",
-        "price": ["300 RUB/чел", "400 RUB/2чел", "700 RUB/ком"],
-        "url": ["https://forms.gle/SLiv2RxMhE6iCNtb6"]
-      },
-      {
-        "time": "2020-05-24T20:00:00+03:00",
-        "name": "Зеркало Арктики"
-      },
-      {
-        "time": "2020-05-26T20:00:00+03:00",
-        "name": "Зеркало Арктики",
-        "price": ["900 RUB/ком"],
-        "url": ["https://forms.gle/Ywm3PVRimPWaVmCK6"]
-      },
-      {
-        "time": "2020-05-28T20:00:00+03:00",
-        "name": "Город Грехов",
-        "price": ["1000 RUB/ком"],
-        "url": ["https://forms.gle/ueZ1eCcVWQ678cbQ7"]
-      },
-      {
-        "time": "2020-05-29T20:00:00+03:00",
-        "name": "Прост!",
-        "price": ["450 RUB/ком"],
-        "url": ["https://forms.gle/V75aAXiZNpX7YmJg8"]
-      },
-      {
-        "time": "2020-05-30T13:00:00+03:00",
-        "name": "Прост!",
-        "price": ["450 RUB/ком"],
-        "url": ["https://forms.gle/RgcLPbxMvquxMpxJA"]
-      },
-      {
-        "time": "2020-05-30T20:00:00+03:00",
+      "kubikbesk1": {
         "name": "Кубик бесконечности - 1",
-        "price": ["900 RUB/ком"],
-        "url": ["https://forms.gle/6LxoJStkv86bnfWd6"]
+        "price": ["900 RUB/ком"]
       },
-      {
-        "time": "2020-05-31T19:00:00+03:00",
-        "name": "Кубик бесконечности - 1",
-        "price": ["900 RUB/ком"],
-        "url": ["https://forms.gle/UEbTn8RkbSr1dBP67"]
+      "prost": {
+        "name": "Прост!",
+        "price": ["450 RUB/ком"]
+      },
+      "letokinoliga": {
+        "name": "Летняя кинолига",
+        "price": ["800 RUB/ком"]
       }
+    },
+    "games": [
+      {"time": "2020-06-01T19:00:00+03:00", "template": "ligastarta16", "url": ["https://forms.gle/ZafvQBdLS7aJUgFh7"]},
+      {"time": "2020-06-01T22:00:00+03:00", "template": "prost", "url": ["https://forms.gle/v6yAEAkX1zLUZ65e8"]},
+      {"time": "2020-06-02T19:00:00+03:00", "template": "kubikbesk1", "url": ["https://forms.gle/GZBKjELayRZrEGCx5"]},
+      {"time": "2020-06-02T22:00:00+03:00", "template": "ligastarta16", "url": ["https://forms.gle/WfxPN157B1GA9W7ZA"]},
+      {"time": "2020-06-03T20:00:00+03:00", "template": "ligastarta16", "url": ["https://forms.gle/JctRaFEVpv9tR2bS6"]},
+      {"time": "2020-06-04T20:00:00+03:00", "template": "letokinoliga", "url": ["https://forms.gle/tHyMd1sx3Mnt7oVJA"]}
     ]
   }
 ]
