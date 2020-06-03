@@ -2,7 +2,7 @@
   {
     "id": "f88f473d-922e-4a86-a0b0-693a5d754a61",
     "org": "TLTQUIZ",
-    "latestCheck": "2020-06-03T12:00:00+03:00",
+    "latestCheck": "2020-06-04T12:00:00+03:00",
     "type": ["events"],
     "image": "tltquiz.png",
     "duration": 1,
@@ -15,6 +15,9 @@
       { "time": "2020-06-02T16:00:00Z", "name": "TLTQUIZ online #21 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5294" ] },
       { "time": "2020-06-02T19:10:00Z", "name": "TLTQUIZ online #21 повтор от 19:00", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5295" ] },
       { "time": "2020-06-03T13:00:00Z", "name": "TLTQUIZ online #21 - повтор от 2 июня", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5296" ] },
+      { "time": "2020-06-03T16:00:00Z", "name": "ТаБуретКа online #28 - Премьера!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5350" ] },
+      { "time": "2020-06-03T19:10:00Z", "name": "ТаБуретКа online #28 повтор от 19:00", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5351" ] },
+      { "time": "2020-06-04T13:00:00Z", "name": "ТаБуретКа online #28 повтор от 3.06", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5352" ] },
       { "time": "2020-06-10T16:00:00Z", "name": "ТаБуретКа Online #30 - Авторское ЧГК!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5297" ] },
       { "time": "2020-06-10T19:10:00Z", "name": "ТаБуретКа Online #30 - Авторское ЧГК!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5298" ] },
       { "time": "2020-06-11T13:00:00Z", "name": "ТаБуретКа Online #30 - Авторское ЧГК!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5299" ] }

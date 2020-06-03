@@ -2,7 +2,7 @@
   {
     "id": "9eb0228f-fc4d-4e11-a294-87455f004ad9",
     "org": "Quiz Maris",
-    "latestCheck": "2020-06-03T12:00:00+03:00",
+    "latestCheck": "2020-06-04T12:00:00+03:00",
     "type": ["events"],
     "image": "quizmaris.png",
     "duration": 1,
@@ -16,6 +16,7 @@
       { "time": "2020-06-02T17:00:00Z", "name": "Квиз Марис 90е [ПОВТОР]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5287" ] },
       { "time": "2020-06-02T18:10:00Z", "name": "Квиз Марис [НОВЫЙ ПАКЕТ #9]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5257" ] },
       { "time": "2020-06-02T20:20:00Z", "name": "Квиз Марис [ПОВТОР ВЧЕРАШНЕЙ ИГРЫ]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5286" ] },
+      { "time": "2020-06-03T21:00:00Z", "name": "Квиз Марис [ПОВТОР]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5286" ] },
       { "time": "2020-06-06T11:00:00Z", "name": "Квиз Марис [ПОВТОР]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5195" ] }
     ]
   }
