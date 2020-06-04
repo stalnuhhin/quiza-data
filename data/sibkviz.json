@@ -2,7 +2,7 @@
   {
     "id": "ab4a284a-ea0e-4c31-9935-981d29dbdf68",
     "org": "СибКвиз",
-    "latestCheck": "2020-06-04T12:00:00+03:00",
+    "latestCheck": "2020-06-05T12:00:00+03:00",
     "type": ["events"],
     "image": "sibkviz.png",
     "duration": 2,
@@ -13,7 +13,12 @@
       { "time": "2020-06-05T13:00:00Z", "name": "СибКвиз Онлайн #19", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5054" ] },
       { "time": "2020-06-05T16:00:00Z", "name": "СибКвиз Онлайн #19 - повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5055" ] },
       { "time": "2020-06-07T13:00:00Z", "name": "СибКвиз Онлайн #20", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5056" ] },
-      { "time": "2020-06-07T16:00:00Z", "name": "СибКвиз Онлайн #20 - повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5057" ] }
+      { "time": "2020-06-07T16:00:00Z", "name": "СибКвиз Онлайн #20 - повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5057" ] },
+      { "time": "2020-06-09T15:00:00Z", "name": "СибКвиз Литература", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5421" ] },
+      { "time": "2020-06-12T13:00:00Z", "name": "СибКвиз Онлайн #21", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5423" ] },
+      { "time": "2020-06-12T16:00:00Z", "name": "СибКвиз Онлайн #21 - повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5424" ] },
+      { "time": "2020-06-14T13:00:00Z", "name": "СибКвиз Онлайн #22", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5425" ] },
+      { "time": "2020-06-14T16:00:00Z", "name": "СибКвиз Онлайн #22 - повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5426" ] }
     ]
   }
 ]

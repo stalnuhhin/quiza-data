@@ -2,7 +2,7 @@
   {
     "id": "61f66a97-a27d-435d-a8f1-e7af4e4d8b81",
     "org": "Мозгомания",
-    "latestCheck": "2020-06-04T12:00:00+03:00",
+    "latestCheck": "2020-06-05T12:00:00+03:00",
     "type": ["events"],
     "image": "mozgomania.png",
     "duration": 2,
@@ -32,7 +32,7 @@
       { "time": "2020-06-07T12:00:00Z", "name": "Мультомания №3. ПОВТОР I", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5246" ] },
       { "time": "2020-06-07T14:00:00Z", "name": "Мультомания №3. ПОВТОР II", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5248" ] },
       { "time": "2020-06-07T16:00:00Z", "name": "Мультомания №3. ПОВТОР II", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5247" ] },
-      { "time": "2020-06-07T18:00:00Z", "name": "Гарри Поттер №2. ПРЕМЬЕРА.", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/5233" ] },
+      { "time": "2020-06-07T18:00:00Z", "name": "Гарри Поттер №2. ПРЕМЬЕРА.", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5233" ] },
       { "time": "2020-06-08T12:00:00Z", "name": "Гарри Поттер №2. ПОВТОР I", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5249" ] },
       { "time": "2020-06-08T14:00:00Z", "name": "Гарри Поттер №2. ПОВТОР II", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5250" ] },
       { "time": "2020-06-08T16:00:00Z", "name": "Гарри Поттер №2. ПОВТОР III", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5251" ] },

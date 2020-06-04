@@ -2,7 +2,7 @@
   {
     "id": "eef21320-ac8d-4899-9be8-7d8a34c9936c",
     "org": "Квизы Скороход",
-    "latestCheck": "2020-06-02T12:00:00+03:00",
+    "latestCheck": "2020-06-05T12:00:00+03:00",
     "type": ["events"],
     "image": "skorohod.png",
     "duration": 1,
@@ -10,7 +10,10 @@
     "url": ["https://vk.com/skorohod_quiz"],
     "games": [
       { "time": "2020-06-01T13:00:00Z", "name": "Музыкальный Скороход №19", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5259" ] },
-      { "time": "2020-06-02T16:30:00Z", "name": "Фильмоскоп №19", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5318" ] }
+      { "time": "2020-06-02T16:30:00Z", "name": "Фильмоскоп №19", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5318" ] },
+      { "time": "2020-06-04T13:00:00Z", "name": "Скороход 4 варианта", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5396" ] },
+      { "time": "2020-06-04T16:30:00Z", "name": "Музыкальный Скороход №20 КАВЕРЫ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5407" ] },
+      { "time": "2020-06-05T14:30:00Z", "name": "Фильмоскоп №20", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5440" ] }
     ]
   }
 ]
