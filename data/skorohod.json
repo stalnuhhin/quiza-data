@@ -13,7 +13,8 @@
       { "time": "2020-06-02T16:30:00Z", "name": "Фильмоскоп №19", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5318" ] },
       { "time": "2020-06-04T13:00:00Z", "name": "Скороход 4 варианта", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5396" ] },
       { "time": "2020-06-04T16:30:00Z", "name": "Музыкальный Скороход №20 КАВЕРЫ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5407" ] },
-      { "time": "2020-06-05T14:30:00Z", "name": "Фильмоскоп №20", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5440" ] }
+      { "time": "2020-06-05T14:30:00Z", "name": "Фильмоскоп №20", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5440" ] },
+      { "time": "2020-06-05T16:00:00Z", "name": "Книжный Скороход №7(повтор от 31 мая)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5498" ] }
     ]
   }
 ]
