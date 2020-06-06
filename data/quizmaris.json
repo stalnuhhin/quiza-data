@@ -2,7 +2,7 @@
   {
     "id": "9eb0228f-fc4d-4e11-a294-87455f004ad9",
     "org": "Quiz Maris",
-    "latestCheck": "2020-06-05T12:00:00+03:00",
+    "latestCheck": "2020-06-07T12:00:00+03:00",
     "type": ["events"],
     "image": "quizmaris.png",
     "duration": 1,
@@ -19,7 +19,9 @@
       { "time": "2020-06-03T21:00:00Z", "name": "Квиз Марис [ПОВТОР]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5286" ] },
       { "time": "2020-06-05T11:00:00Z", "name": "Квиз Марис [ПОВТОР]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5195" ] },
       { "time": "2020-06-05T17:00:00Z", "name": "Квиз Маррис [НОВЫЙ ПАКЕТ]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5462" ] },
-      { "time": "2020-06-05T18:30:00Z", "name": "Квиз Марис [НОВЫЙ ПАКЕТ]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5466" ] }
+      { "time": "2020-06-05T18:30:00Z", "name": "Квиз Марис [НОВЫЙ ПАКЕТ]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5466" ] },
+      { "time": "2020-06-06T21:00:00Z", "name": "Квиз Марис [МНОГО ЛОГИКИ #3]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5195" ] },
+      { "time": "2020-06-06T21:00:00Z", "name": "Квиз Марис Логика", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5546" ] }
     ]
   }
 ]

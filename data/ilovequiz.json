@@ -17,12 +17,12 @@
       {
         "time": "2020-06-05T20:00:00+03:00",
         "name": "Online 8.1",
-        "price": ["https://old.ilovequiz.ru/game/110/"]
+        "url": ["https://old.ilovequiz.ru/game/110/"]
       },
       {
         "time": "2020-06-06T17:00:00+03:00",
         "name": "Online 8.2",
-        "price": ["https://old.ilovequiz.ru/game/111/"]
+        "url": ["https://old.ilovequiz.ru/game/111/"]
       }
     ]
   }
