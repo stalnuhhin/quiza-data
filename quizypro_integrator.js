@@ -40,7 +40,11 @@ const app = new Vue({
                 time: g.when,
                 name: g.title,
                 price: ["" + g.price + " RUB/ком"],
-                url: ["https://quizy.pro/streams/" + g.id]
+                url: ["https://quizy.pro/streams/" + g.id],
+                qpid: g.id,
+                qpuid: g.user_id,
+                qpuname: g.user_name,
+                cat: g.category
             }
             if (org) {
                 game.org = org;

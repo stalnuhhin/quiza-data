@@ -2,7 +2,7 @@
   {
     "id": "d9388ed9-a66c-437e-b538-2e700aa8fe46",
     "org": "Genium (Максим Поташев)",
-    "latestCheck": "2020-06-05T12:00:00+03:00",
+    "latestCheck": "2020-06-08T12:00:00+03:00",
     "type": ["events"],
     "image": "geniumonline.png",
     "duration": 2,
@@ -25,6 +25,11 @@
         "time": "2020-06-10T20:00:00+03:00",
         "name": "Genium Sprint Online",
         "url": ["http://genium-quiz.com/events/sprint-online-10/"]
+      },
+      {
+        "time": "2020-06-13T20:00:00+03:00",
+        "name": "Genium Challenge Online",
+        "url": ["http://genium-quiz.com/events/challenge-online-11/"]
       }
     ]
   }

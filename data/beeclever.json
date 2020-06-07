@@ -2,7 +2,7 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2020-06-01T12:00:00+03:00",
+    "latestCheck": "2020-06-08T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
@@ -17,6 +17,7 @@
       {
         "time": "2020-06-04T20:00:00+03:00",
         "name": "Летняя серия Bee Clever. Cinema",
+        "template": "chgk",
         "price": ["280 RUB/ком", "110 UAH/ком", "4 USD/ком", "3.6 EUR/ком"],
         "url": ["https://www.facebook.com/events/1109123729466039/"]
       },
@@ -29,8 +30,16 @@
       {
         "time": "2020-06-06T16:00:00+03:00",
         "name": "Летняя серия Bee Clever. Soft",
+        "template": "chgk",
         "price": ["280 RUB/ком", "110 UAH/ком", "4 USD/ком", "3.6 EUR/ком"],
         "url": ["https://www.facebook.com/events/2565393403561062/"]
+      },
+      {
+        "time": "2020-06-11T20:00:00+03:00",
+        "name": "Летняя серия Bee Clever. Спорт",
+        "template": "chgk",
+        "price": ["300 RUB/ком", "110 UAH/ком", "4 USD/ком", "3.6 EUR/ком"],
+        "url": ["https://www.facebook.com/events/765799754228995/"]
       }
     ]
   }

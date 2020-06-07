@@ -2,7 +2,7 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-06-03T12:00:00+03:00",
+    "latestCheck": "2020-06-08T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
@@ -35,7 +35,7 @@
         "url": ["https://tinyurl.com/sinhron"]
       },
       "kubokkabachkov": {
-        "name": "Кубок кабачков",
+        "name": "Кубок кабачков - 2020",
         "price": ["800 RUB/ком", "240 UAH/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
@@ -82,8 +82,13 @@
       {"time": "2020-06-08T19:00:00+03:00", "template": "lite35"},
       {"time": "2020-06-08T22:00:00+03:00", "template": "chislom"},
       {"time": "2020-06-09T19:00:00+03:00", "template": "kubikbesk1"},
-      {"time": "2020-06-09T22:00:00+03:00", "template": "vesenijsalat"},
-      {"time": "2020-06-10T22:00:00+03:00", "template": "buildingstories"}
+      {"time": "2020-06-09T21:30:00+03:00", "template": "ligastarta16"},
+      {"time": "2020-06-10T19:00:00+03:00", "template": "letokinoliga"},
+      {"time": "2020-06-10T22:00:00+03:00", "template": "buildingstories"},
+      {"time": "2020-06-11T02:00:00+03:00", "template": "letokinoliga"},
+      {"time": "2020-06-11T19:00:00+03:00", "template": "ligastarta16"},
+      {"time": "2020-06-11T21:30:00+03:00", "template": "vesenijsalat"},
+      {"time": "2020-06-12T22:00:00+03:00", "template": "kubokkabachkov"}
     ]
   }
 ]
