@@ -14,6 +14,13 @@
         "chgk": true,
         "price": ["6 USD/ком", "160 UAH/ком"],
         "url": ["https://www.facebook.com/events/245724456716803/"]
+      },
+      {
+        "time": "2020-06-10T20:00:00+03:00",
+        "name": "Queen's League. Игра первая",
+        "chgk": true,
+        "price": ["7 USD/ком", "180 UAH/ком"],
+        "url": ["https://www.facebook.com/events/s/queens-league-%D0%B8%D0%B3%D1%80%D0%B0-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F/1041334736268822/"]
       }
     ]
   }
