@@ -1,0 +1,19 @@
+[
+  {
+    "id": "8f830dfe-cca4-4995-a3a7-539d63099684",
+    "org": "Ihar Dziamyantsau",
+    "latestCheck": "2020-06-09T12:00:00+03:00",
+    "type": ["events"],
+    "image": "chgkrating.png",
+    "chgk": true,
+    "duration": 2,
+    "games": [
+      {
+        "time": "2020-06-12T20:00:00+03:00",
+        "name": "12-й игрок (футбольный асинхрон)",
+        "price": ["12 USD/ком", "850 RUB/ком", "300 UAH/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/274478560412447/"]
+      }
+    ]
+  }
+]

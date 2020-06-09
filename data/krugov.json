@@ -2,7 +2,7 @@
   {
     "id": "194c83b3-6690-4589-9a15-3cf6b62fdd63",
     "org": "Андрей Кругов",
-    "latestCheck": "2020-06-08T12:00:00+03:00",
+    "latestCheck": "2020-06-09T12:00:00+03:00",
     "type": ["events"],
     "image": "krugov.png",
     "duration": 2,
@@ -24,6 +24,10 @@
       "letokinoliga": {
         "name": "Летняя кинолига",
         "price": ["800 RUB/ком"]
+      },
+      "frankonskie": {
+        "name": "Франконские игры",
+        "price": ["700 RUB/ком"]
       }
     },
     "games": [
@@ -32,7 +36,8 @@
       {"time": "2020-06-02T19:00:00+03:00", "template": "kubikbesk1", "url": ["https://forms.gle/GZBKjELayRZrEGCx5"]},
       {"time": "2020-06-02T22:00:00+03:00", "template": "ligastarta16", "url": ["https://forms.gle/WfxPN157B1GA9W7ZA"]},
       {"time": "2020-06-03T20:00:00+03:00", "template": "ligastarta16", "url": ["https://forms.gle/JctRaFEVpv9tR2bS6"]},
-      {"time": "2020-06-04T20:00:00+03:00", "template": "letokinoliga", "url": ["https://forms.gle/tHyMd1sx3Mnt7oVJA"]}
+      {"time": "2020-06-04T20:00:00+03:00", "template": "letokinoliga", "url": ["https://forms.gle/tHyMd1sx3Mnt7oVJA"]},
+      {"time": "2020-06-09T20:00:00+03:00", "template": "frankonskie", "url": ["https://forms.gle/LDLTTUTxDCdTxK8D6"]}
     ]
   }
 ]

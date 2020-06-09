@@ -22,7 +22,7 @@
       { "time": "2020-06-05T18:30:00Z", "name": "Квиз Марис [НОВЫЙ ПАКЕТ]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5466" ] },
       { "time": "2020-06-06T21:00:00Z", "name": "Квиз Марис [МНОГО ЛОГИКИ #3]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5195" ] },
       { "time": "2020-06-06T21:00:00Z", "name": "Квиз Марис Логика", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5546" ] },
-      { "time": "2020-06-08T18:20:00Z", "name": "Квиз Марис [НОВЫЙ ПАКЕТ]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5595" ], "qpid": "5595", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" }
+      { "time": "2020-06-09T18:20:00Z", "name": "Квиз Марис [НОВЫЙ ПАКЕТ]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5595" ], "qpid": "5595", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" }
     ]
   }
 ]
