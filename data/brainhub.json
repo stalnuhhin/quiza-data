@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-06-08T12:00:00+03:00",
+    "latestCheck": "2020-06-10T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -34,6 +34,13 @@
         "name": "Летний Online Киноквиз",
         "price": ["200 UAH/ком", "50 UAH/чел"],
         "url": ["https://www.facebook.com/events/302195354279942/"]
+      },
+      {
+        "time": "2020-06-13T17:00:00+03:00",
+        "name": "Intermezzo-2020",
+        "chgk": true,
+        "price": ["240 UAH/ком", "620 RUB/ком", "9.1 USD/ком", "8 EUR/ком"],
+        "url": ["https://www.facebook.com/events/271393983916443/"]
       },
       {
         "time": "2020-06-15T20:00:00+03:00",
