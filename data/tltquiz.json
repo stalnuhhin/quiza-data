@@ -36,7 +36,10 @@
       { "time": "2020-06-10T13:00:00Z", "name": "TLTQUIZ online #23 повтор от 09.06", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5702" ], "qpid": "5702", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
       { "time": "2020-06-10T16:00:00Z", "name": "ТаБуретКа Online #31 - Авторское ЧГК!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5297" ], "qpid": "5297", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
       { "time": "2020-06-10T19:10:00Z", "name": "ТаБуретКа Online #31 - Авторское ЧГК!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5298" ], "qpid": "5298", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
-      { "time": "2020-06-11T13:00:00Z", "name": "ТаБуретКа Online #31 - Авторское ЧГК!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5299" ], "qpid": "5299", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" }
+      { "time": "2020-06-11T13:00:00Z", "name": "ТаБуретКа Online #31 - Авторское ЧГК!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5299" ], "qpid": "5299", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
+      { "time": "2020-06-11T16:00:00Z", "name": "TLTQUIZ online #24 - Премьера!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5787" ], "qpid": "5787", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
+      { "time": "2020-06-11T19:10:00Z", "name": "TLTQUIZ online #24 повтор от 19:00", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5788" ], "qpid": "5788", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
+      { "time": "2020-06-12T13:00:00Z", "name": "TLTQUIZ online #24 повтор от 11.06", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5789" ], "qpid": "5789", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" }
     ]
   }
 ]

@@ -13,7 +13,7 @@
       { "time": "2020-06-04T15:00:00Z", "name": "PRO Футбол #3 (повтор от 25.09.19)", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/5097" ] },
       { "time": "2020-06-09T15:00:00Z", "name": "PRO Футбол (повтор от 25.09.19)", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/5729" ], "qpid": "5729", "qpuid": "1660", "qpuname": "ИZВИЛИУМ", "cat": "sports" },
       { "time": "2020-06-10T15:00:00Z", "name": "Отечественная мультимедиа (повтор от 29.01.20)", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/5762" ], "qpid": "5762", "qpuid": "1660", "qpuname": "ИZВИЛИУМ", "cat": "cinema_and_music" },
-      { "time": "2020-06-10T16:30:00Z", "name": "Россия. От Владимира до Владимира (от 18.03.20)", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/5761" ], "qpid": "5761", "qpuid": "1660", "qpuname": "ИZВИЛИУМ", "cat": "common_knowledge" }
+      { "time": "2020-06-25T16:30:00Z", "name": "Россия. От Владимира до Владимира (от 18.03.20)", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/5761" ], "qpid": "5761", "qpuid": "1660", "qpuname": "ИZВИЛИУМ", "cat": "common_knowledge" }
     ]
   }
 ]
