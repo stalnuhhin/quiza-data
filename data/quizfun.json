@@ -3,13 +3,14 @@
     "id": "70627f72-4053-416c-9722-95416a1897ae",
     "org": "QuizFun Online",
     "name": "КвизФан ОНЛАЙН",
-    "latestCheck": "2020-06-08T12:00:00+03:00",
+    "latestCheck": "2020-06-13T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "quizfun.png",
     "url": ["https://vk.com/quizfun_online"],
     "games": [
-      {"time": "2020-06-07T18:00:00+03:00", "price": ["150 RUB/чел", "900 RUB/ком"], "url": ["https://vk.com/wall-193637731_386"]}
+      {"time": "2020-06-07T18:00:00+03:00", "price": ["150 RUB/чел", "900 RUB/ком"], "url": ["https://vk.com/wall-193637731_386"]},
+      {"time": "2020-06-14T18:00:00+03:00", "free": true, "donate": true, "url": ["https://vk.com/wall-193637731_425"]}
     ]
   }
 ]

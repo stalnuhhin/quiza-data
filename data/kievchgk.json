@@ -2,7 +2,7 @@
   {
     "id": "1482b61a-0e8c-4f7b-b99e-79ac41502c68",
     "org": "ЧГК в Киеве",
-    "latestCheck": "2020-06-08T12:00:00+03:00",
+    "latestCheck": "2020-06-13T12:00:00+03:00",
     "type": ["events"],
     "image": "kievchgk.png",
     "duration": 2,
@@ -14,6 +14,22 @@
         "chgk": true,
         "price": ["300 UAH/ком"],
         "url": ["https://www.facebook.com/events/1675253315957232/"]
+      },
+      {
+        "time": "2020-06-14T19:30:00+03:00",
+        "name": "Онлайн ЧГК по Гарри Поттеру",
+        "chgk": true,
+        "free": true,
+        "donate": true,
+        "url": ["https://www.facebook.com/events/276039600419378/"]
+      },
+      {
+        "time": "2020-06-16T20:30:00+03:00",
+        "name": "Онлайн ЧГК по Саус Парку",
+        "chgk": true,
+        "free": true,
+        "donate": true,
+        "url": ["https://www.facebook.com/events/258630605390221/"]
       }
     ]
   }
