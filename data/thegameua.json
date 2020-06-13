@@ -1,0 +1,15 @@
+[
+  {
+    "id": "c2a8e727-e3cb-4517-871a-f422d7df3f4f",
+    "org": "The Game.ua",
+    "latestCheck": "2020-06-13T12:00:00+03:00",
+    "type": ["events"],
+    "duration": 2,
+    "image": "thegameua.png",
+    "url": ["https://www.facebook.com/pg/theGame.ua/events"],
+    "games": [
+      { "time": "2020-06-17T20:00:00+03:00", "name": "Теория большого взрыва", "chgk": true, "price": [ "300 UAH/ком", "11 USD/ком" ], "url": [ "https://www.facebook.com/events/387221798860762" ] },
+      { "time": "2020-06-23T20:00:00+03:00", "name": "The Witcher (The GAME 2)", "chgk": true, "price": [ "300 UAH/ком", "12 USD/ком" ], "url": [ "https://www.facebook.com/events/326073685046887" ] }
+    ]
+  }
+]

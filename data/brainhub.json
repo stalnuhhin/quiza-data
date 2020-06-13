@@ -6,7 +6,7 @@
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
-    "url": ["https://www.facebook.com/pg/BrainHubKiev/events/", "https://www.twitch.tv/brainhubua"],
+    "url": ["https://www.facebook.com/pg/BrainHubKiev/events/", "https://www.facebook.com/pg/brainhubkharkiv/events/", "https://www.twitch.tv/brainhubua"],
     "games": [
       {
         "time": "2020-06-01T20:00:00+03:00",
@@ -57,11 +57,24 @@
         "url": ["https://www.facebook.com/events/262097674874544/"]
       },
       {
+        "time": "2020-06-16T20:00:00+03:00",
+        "name": "Online Киноквиз. Эпизод 2",
+        "price": ["200 UAH/ком", "600 RUB/ком", "8 USD/ком", "50 UAH/чел", "150 RUB/чел", "2 USD/чел"],
+        "url": ["https://www.facebook.com/events/692911241532503/"]
+      },
+      {
         "time": "2020-06-18T19:30:00+03:00",
         "name": "Летнее Кино ЧГК",
         "chgk": true,
         "price": ["300 UAH/ком", "50 UAH/чел"],
         "url": ["https://www.facebook.com/events/251154372826190/?event_time_id=251154379492856"]
+      },
+      {
+        "time": "2020-06-19T20:00:00+03:00",
+        "name": "Вечер «Что? Где? Когда?» Online. Выпуск 7",
+        "chgk": true,
+        "price": ["50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/860446554432831/"]
       }
     ]
   }
