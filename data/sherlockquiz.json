@@ -2,7 +2,7 @@
   {
     "id": "9b59f86c-307f-41c2-a672-a7dedd5da824",
     "org": "Sherlock Quiz",
-    "latestCheck": "2020-06-02T12:00:00+03:00",
+    "latestCheck": "2020-06-13T12:00:00+03:00",
     "type": ["events"],
     "duration": 2.5,
     "image": "sherlockquiz.png",
@@ -17,6 +17,11 @@
       {"time": "2020-06-07T18:00:00+03:00", "name": "Угадай мелодию Lite Музыка 70-80-х (Екатеринбург)", "price": ["250 RUB/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2491?city_id=23"]},
       {"time": "2020-06-07T18:30:00-07:00", "name": "Кубок ШерлокоБойни (Северная Америка)", "price": ["80 USD/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2480?city_id=31"]},
       {"time": "2020-06-10T19:00:00+03:00", "name": "Бесконтактный Шерлок 12 (Минск)", "price": ["10 BYN/ком", "20 BYN/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2493?city_id=9"]},
+      {"time": "2020-06-13T19:00:00+05:00", "name": "Бесконтактный Шерлок 11 (Екатеринбург)", "price": ["500 RUB/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2496?city_id=23"]},
+      {"time": "2020-06-14T19:00:00+02:00", "name": "Бесконтактный Шерлок Квиз-3 (Мюнхен)", "price": ["15 EUR/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2506?city_id=24"]},
+      {"time": "2020-06-17T19:00:00-07:00", "name": "Кубок ШерлокоБойни (Северная Америка)", "price": ["80 USD/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2495?city_id=31"]},
+      {"time": "2020-06-17T19:00:00+03:00", "name": "Бесконтактный Шерлок 13 (Минск)", "price": ["10 BYN/ком", "20 BYN/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2494?city_id=9"]},
+      {"time": "2020-06-24T19:00:00-07:00", "name": "Кубок ШерлокоБойни (Северная Америка)", "price": ["80 USD/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2507?city_id=31"]},
       {"time": "2020-06-25T19:00:00+03:00", "name": "Скрипка Шерлока 11 (Минск)", "price": ["12 BYN/ком", "24 BYN/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2478?city_id=9"]}
     ]
   }

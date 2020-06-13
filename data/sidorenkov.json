@@ -17,7 +17,8 @@
     "games": [
       {"time": "2020-06-02T19:30:00+03:00", "template": "zimnjajaraduga"},
       {"time": "2020-06-03T19:00:00+03:00", "template": "zimnjajaraduga"},
-      {"time": "2020-06-06T18:30:00+03:00", "template": "zimnjajaraduga"}
+      {"time": "2020-06-06T18:30:00+03:00", "template": "zimnjajaraduga"},
+      {"time": "2020-06-14T18:30:00+03:00", "name": "ТРИОтлон-4", "chgk": true, "price": ["200 RUB/чел", "350 RUB/2-3чел", "450 RUB/ком"], "url": ["https://www.facebook.com/groups/229434871583483/permalink/277389720121331/"]}
     ]
   }
 ]
