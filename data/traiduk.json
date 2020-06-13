@@ -2,7 +2,7 @@
   {
     "id": "a983715a-2638-4376-931a-1f67f3e3e21a",
     "org": "Наталья Трайдук",
-    "latestCheck": "2020-06-08T12:00:00+03:00",
+    "latestCheck": "2020-06-13T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "traiduk.png",
@@ -21,6 +21,13 @@
         "chgk": true,
         "price": ["7 USD/ком", "180 UAH/ком"],
         "url": ["https://www.facebook.com/events/s/queens-league-%D0%B8%D0%B3%D1%80%D0%B0-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F/1041334736268822/"]
+      },
+      {
+        "time": "2020-06-16T20:00:00+03:00",
+        "name": "FatLazyRaccoon CUP",
+        "chgk": true,
+        "price": ["10 USD/ком", "270 UAH/ком"],
+        "url": ["https://www.facebook.com/events/s/fatlazyraccoon-cup/249771329639779/"]
       }
     ]
   }

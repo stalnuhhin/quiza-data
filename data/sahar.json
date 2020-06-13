@@ -12,6 +12,10 @@
       { "time": "2020-06-06T16:30:00Z", "name": "Научпоп", "price": [ "450 RUB/ком" ], "url": [ "https://quizy.pro/streams/4733" ] },
       { "time": "2020-06-07T16:00:00Z", "name": "Столикий синхрон", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/4707" ] },
       { "time": "2020-06-09T20:00:00Z", "name": "IPA (Игра Первопрестольной. Асинхрон)", "price": [ "400 RUB/ком" ], "url": [ "https://vk.com/topic-38771951_40701005" ] },
+      { "time": "2020-06-12T20:00:00Z", "name": "Донат-2020", "free": true, "donate": true, "url": [ "https://vk.com/topic-38771951_40703491"] },
+      { "time": "2020-06-13T16:30:00Z", "name": "Лига старта (июнь)", "price": [ "700 RUB/ком", "500 RUB/1-2чел" ], "url": [ "https://vk.com/topic-38771951_40703458"] },
+      { "time": "2020-06-15T20:00:00Z", "name": "Летняя кинолига", "price": [ "700 RUB/ком", "500 RUB/1-2чел" ], "url": [ "https://vk.com/topic-38771951_40707391"] },
+      { "time": "2020-06-16T20:00:00Z", "name": "Кубок кабачков", "price": [ "500 RUB/ком"], "url": [ "https://vk.com/topic-38771951_40707384"] },
       { "time": "2020-06-19T17:00:00Z", "name": "Синхрон северных стран", "price": [ "450 RUB/ком" ], "url": [ "https://quizy.pro/streams/5617" ], "qpid": "5617", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" }
     ]
   }
