@@ -2,7 +2,7 @@
   {
     "id": "eef21320-ac8d-4899-9be8-7d8a34c9936c",
     "org": "Квизы Скороход",
-    "latestCheck": "2020-06-10T12:00:00+03:00",
+    "latestCheck": "2020-06-13T12:00:00+03:00",
     "type": ["events"],
     "image": "skorohod.png",
     "duration": 1,
@@ -24,7 +24,8 @@
       { "time": "2020-06-08T13:00:00Z", "name": "Музыкальный Скороход №21", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5605" ], "qpid": "5605", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" },
       { "time": "2020-06-09T16:30:00Z", "name": "Фильмоскоп №22", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5703" ], "qpid": "5703", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" },
       { "time": "2020-06-10T14:00:00Z", "name": "Музыкальный Скороход №22 про РОК", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5744" ], "qpid": "5744", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" },
-      { "time": "2020-06-11T16:00:00Z", "name": "Скороход Кино и Музыка №1", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5798" ], "qpid": "5798", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" }
+      { "time": "2020-06-11T16:00:00Z", "name": "Скороход Кино и Музыка №1", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5798" ], "qpid": "5798", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" },
+      { "time": "2020-06-14T11:00:00Z", "name": "Книжный Скороход №9", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5852" ], "qpid": "5852", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "art_and_literature" }
     ]
   }
 ]
