@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-06-10T12:00:00+03:00",
+    "latestCheck": "2020-06-13T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -48,6 +48,13 @@
         "chgk": true,
         "price": ["50 UAH/чел"],
         "url": ["https://www.facebook.com/events/678441599672303/"]
+      },
+      {
+        "time": "2020-06-16T19:30:00+03:00",
+        "name": "Триптих. Лето",
+        "chgk": true,
+        "price": ["360 UAH/ком", "930 RUB/ком", "13.6 USD/ком", "12 EUR/ком"],
+        "url": ["https://www.facebook.com/events/262097674874544/"]
       },
       {
         "time": "2020-06-18T19:30:00+03:00",
