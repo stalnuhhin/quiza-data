@@ -16,7 +16,7 @@
         "donation": true,
         "url": ["https://vk.com/wall-144404394_17161"]
       },
-      { "time": "2020-06-11T16:00:00Z", "name": "ВертиGO Online #9", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5511" ], "qpid": "5511", "qpuid": "2783", "qpuname": "ВертиGO", "cat": "common_knowledge" }
+      { "time": "2020-06-11T16:00:00Z", "name": "ВертиGO Online #9", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5511" ], "qpid": "5511", "qpuid": "2783", "qpuname": "ВертиGO", "cat": "common_knowledge" },
       { "time": "2020-06-13T17:00:00Z", "name": "ВертиGO Online", "free": true, "donate": true, "url": [ "https://vk.com/wall-144404394_17248" ] }
     ]
   }
