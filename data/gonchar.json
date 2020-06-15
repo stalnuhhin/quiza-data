@@ -2,7 +2,7 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-06-13T12:00:00+03:00",
+    "latestCheck": "2020-06-15T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
@@ -123,7 +123,11 @@
       {"time": "2020-06-15T19:00:00+03:00", "template": "triptihleto"},
       {"time": "2020-06-15T21:30:00+03:00", "template": "vesenijsalat"},
       {"time": "2020-06-16T19:00:00+03:00", "template": "intermezzo"},
-      {"time": "2020-06-16T21:30:00+03:00", "template": "buildingstories"}
+      {"time": "2020-06-16T21:30:00+03:00", "template": "buildingstories"},
+      {"time": "2020-06-17T19:00:00+03:00", "template": "donat2020"},
+      {"time": "2020-06-17T21:30:00+03:00", "template": "intermezzo"},
+      {"time": "2020-06-18T05:00:00+03:00", "template": "intermezzo"},
+      {"time": "2020-06-18T21:30:00+03:00", "template": "buildingstories"}
     ]
   }
 ]
