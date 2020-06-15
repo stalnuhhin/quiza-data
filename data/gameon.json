@@ -2,7 +2,7 @@
   {
     "id": "4d003594-b5ca-40be-88cb-f72d7c0fb16a",
     "org": "Game On",
-    "latestCheck": "2020-06-13T12:00:00+03:00",
+    "latestCheck": "2020-06-15T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "gameon.png",
@@ -24,6 +24,12 @@
         "name": "Game On #8",
         "price": ["6 USD/ком", "400 RUB/ком"],
         "url": ["https://www.facebook.com/gameontashkent/posts/893854854449573"]
+      },
+      {
+        "time": "2020-06-17T20:30:00+05:00",
+        "name": "Game On #9",
+        "price": ["6 USD/ком", "400 RUB/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/278199986706971"]
       }
     ]
   }

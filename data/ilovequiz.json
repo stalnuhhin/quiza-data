@@ -2,9 +2,9 @@
   {
     "id": "8303fab5-7cf8-443d-979a-544cbe703c9e",
     "org": "I Love Quiz",
-    "latestCheck": "2020-06-13T12:00:00+03:00",
+    "latestCheck": "2020-06-15T12:00:00+03:00",
     "type": ["events"],
-    "free": true,
+    "price": ["400 RUB/чел"],
     "duration": 2,
     "image": "ilovequiz.png",
     "url": ["https://old.ilovequiz.ru/", "https://ilovequiz.ru", "https://www.facebook.com/ilovequiz"],
@@ -33,6 +33,16 @@
         "time": "2020-06-12T17:00:00+03:00",
         "name": "Еда (повтор)",
         "url": ["https://old.ilovequiz.ru/game/113/"]
+      },
+      {
+        "time": "2020-06-24T20:00:00+03:00",
+        "name": "Игра 36.1",
+        "url": ["https://old.ilovequiz.ru/game/114/"]
+      },
+      {
+        "time": "2020-06-25T20:00:00+03:00",
+        "name": "Игра 36.2",
+        "url": ["https://old.ilovequiz.ru/game/115/"]
       }
     ]
   }
