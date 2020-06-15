@@ -2,7 +2,7 @@
   {
     "id": "bf5df1c1-bd66-4952-a470-16a093212d61",
     "org": "Online Quiz 64",
-    "latestCheck": "2020-06-13T12:00:00+03:00",
+    "latestCheck": "2020-06-15T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "onlinequiz64.png",
@@ -10,6 +10,7 @@
     "games": [
       { "time": "2020-06-14T11:30:00Z", "name": "Спорт без футбола #6", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5550" ], "qpid": "5550", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "sports" },
       { "time": "2020-06-14T14:30:00Z", "name": "Спорт без футбола #6", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5551" ], "qpid": "5551", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "sports" },
+      { "time": "2020-06-16T16:00:00Z", "name": "Спорт без футбола #6 (последний повтор)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5999" ], "qpid": "5999", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "sports" },
       { "time": "2020-06-17T12:30:00Z", "name": "Игра в буквы #4", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5732" ], "qpid": "5732", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
       { "time": "2020-06-18T16:00:00Z", "name": "Игра в буквы #4 (повтор от 17.06)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5733" ], "qpid": "5733", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" }
     ]
