@@ -2,7 +2,7 @@
   {
     "id": "61f66a97-a27d-435d-a8f1-e7af4e4d8b81",
     "org": "Мозгомания",
-    "latestCheck": "2020-06-15T12:00:00+03:00",
+    "latestCheck": "2020-06-17T12:00:00+03:00",
     "type": ["events"],
     "image": "mozgomania.png",
     "duration": 2,
@@ -60,7 +60,26 @@
       { "time": "2020-06-15T18:00:00Z", "name": "Киномания XII. Премьера", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5252" ], "qpid": "5252", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
       { "time": "2020-06-16T12:30:00Z", "name": "Киномания XII. Повтор I", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5727" ], "qpid": "5727", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
       { "time": "2020-06-16T15:30:00Z", "name": "Киномания XII. Повтор II", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5728" ], "qpid": "5728", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
-      { "time": "2020-06-22T18:00:00Z", "name": "Киномания XIII. Премьера", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5668" ], "qpid": "5668", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" }
+      { "time": "2020-06-16T18:00:00Z", "name": "Ретроспектива. Назад в 90 (музыка) Повтор I", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6033" ], "qpid": "6033", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-17T12:30:00Z", "name": "Ретроспектива. Назад в 90 (музыка) Повтор II", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6034" ], "qpid": "6034", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-17T15:30:00Z", "name": "Ретроспектива. Назад в 90 (музыка) Повтор III", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6035" ], "qpid": "6035", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-18T18:00:00Z", "name": "Ретроспектива. Назад в 90 (кино) Повтор I", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6039" ], "qpid": "6039", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-19T12:30:00Z", "name": "Ретроспектива. Назад в 90 (кино) Повтор II", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6041" ], "qpid": "6041", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-19T15:30:00Z", "name": "Ретроспектива. Назад в 90 (кино) Повтор III", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6042" ], "qpid": "6042", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-19T18:00:00Z", "name": "Музомания X. Юбилейная премьера.", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6043" ], "qpid": "6043", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-20T12:30:00Z", "name": "Музомания X. Юбилейный повтор I", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6044" ], "qpid": "6044", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-20T15:30:00Z", "name": "Музомания X. Юбилейный повтор II", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6045" ], "qpid": "6045", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-20T18:00:00Z", "name": "Чернуха 21 + Премьера I", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6046" ], "qpid": "6046", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "common_knowledge" },
+      { "time": "2020-06-20T20:00:00Z", "name": "Чернуха 21 + Премьера II", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6047" ], "qpid": "6047", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "common_knowledge" },
+      { "time": "2020-06-21T18:00:00Z", "name": "Комиксология №1. Премьера", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6048" ], "qpid": "6048", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-22T12:30:00Z", "name": "Комиксология №1. Повтор I", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6049" ], "qpid": "6049", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-22T15:30:00Z", "name": "Комиксология №1. Повтор II", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6050" ], "qpid": "6050", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-22T18:00:00Z", "name": "Киномания XIII. Премьера", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5668" ], "qpid": "5668", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-23T12:30:00Z", "name": "Киномания XIII. Повтор I", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6051" ], "qpid": "6051", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-23T15:30:00Z", "name": "Киномания XIII. Повтор II", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6052" ], "qpid": "6052", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-23T18:00:00Z", "name": "Онлайн путешествие по России. Премьера.", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6036" ], "qpid": "6036", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "common_knowledge" },
+      { "time": "2020-06-24T12:30:00Z", "name": "Онлайн путешествие по России. Повтор I.", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6037" ], "qpid": "6037", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "common_knowledge" },
+      { "time": "2020-06-24T15:30:00Z", "name": "Онлайн путешествие по России. Повтор II.", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6038" ], "qpid": "6038", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "common_knowledge" }
     ]
   }
 ]
