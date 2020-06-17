@@ -31,9 +31,13 @@
       { "time": "2020-06-13T09:00:00Z", "name": "Стоп!Снято! Классическая игра №21 (Повтор от12.06)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5878" ], "qpid": "5878", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" },
       { "time": "2020-06-13T15:00:00Z", "name": "Стоп! Снято! MUSIC Дискотека 90х - 2", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5715" ], "qpid": "5715", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" },
       { "time": "2020-06-13T19:10:00Z", "name": "Стоп! Снято! MUSIC Дискотека 90х - 2", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5716" ], "qpid": "5716", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" },
-      { "time": "2020-06-16T17:30:00.782Z", "name": "Стоп!Снято! (Кино Quiz) Повтор от 10.06", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6066" ], "qpid": "6066", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" },
+      { "time": "2020-06-16T17:30:00Z", "name": "Стоп!Снято! (Кино Quiz) Повтор от 10.06", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6066" ], "qpid": "6066", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" },
       { "time": "2020-06-16T18:50:00Z", "name": "Стоп!Снято! (Кино Quiz) Повтор от 12.06", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6067" ], "qpid": "6067", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "common_knowledge" },
-      { "time": "2020-06-16T20:10:00Z", "name": "Стоп!Снято! (Кино Quiz) КОМЕДИИ (Повтор от 9.06)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6069" ], "qpid": "6069", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "common_knowledge" }
+      { "time": "2020-06-16T20:10:00Z", "name": "Стоп!Снято! (Кино Quiz) КОМЕДИИ (Повтор от 9.06)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6069" ], "qpid": "6069", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "common_knowledge" },
+      { "time": "2020-06-17T17:00:00Z", "name": "Стоп!Снято! МУЖСКОЕ vs ЖЕНСКОЕ КИНО", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6101" ], "qpid": "6101", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" },
+      { "time": "2020-06-17T19:10:00Z", "name": "Стоп!Снято! МУЖСКОЕ vs ЖЕНСКОЕ КИНО", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6102" ], "qpid": "6102", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" },
+      { "time": "2020-06-18T16:00:00Z", "name": "Стоп!Снято! (Кино Quiz) ДЕТЕКТИВЫ", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6103" ], "qpid": "6103", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" },
+      { "time": "2020-06-18T19:10:00Z", "name": "Стоп!Снято! (Кино Quiz) ДЕТЕКТИВЫ", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6104" ], "qpid": "6104", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "common_knowledge" }
     ]
   }
 ]
