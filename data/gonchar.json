@@ -2,7 +2,7 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-06-15T12:00:00+03:00",
+    "latestCheck": "2020-06-18T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
@@ -78,6 +78,16 @@
         "name": "Донат - 2020",
         "price": ["800 RUB/ком", "240 UAH/ком"],
         "url": ["https://tinyurl.com/sinhron"]
+      },
+      "beskzemli1": {
+        "name": "Бесконечные земли. Том I",
+        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      "zelenyjshum2": {
+        "name": "Зеленый шум-2",
+        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
       }
     },
     "games": [
@@ -127,7 +137,23 @@
       {"time": "2020-06-17T19:00:00+03:00", "template": "donat2020"},
       {"time": "2020-06-17T21:30:00+03:00", "template": "intermezzo"},
       {"time": "2020-06-18T05:00:00+03:00", "template": "intermezzo"},
-      {"time": "2020-06-18T21:30:00+03:00", "template": "buildingstories"}
+      {"time": "2020-06-18T19:00:00+03:00", "template": "zelenyjshum2"},
+      {"time": "2020-06-18T21:30:00+03:00", "template": "buildingstories"},
+      {"time": "2020-06-19T12:00:00+03:00", "template": "donat2020"},
+      {"time": "2020-06-19T19:00:00+03:00", "template": "intermezzo"},
+      {"time": "2020-06-19T21:30:00+03:00", "template": "zelenyjshum2"},
+      {"time": "2020-06-20T12:00:00+03:00", "template": "letokinoliga"},
+      {"time": "2020-06-20T15:00:00+03:00", "template": "tuganbaev"},
+      {"time": "2020-06-20T18:00:00+03:00", "template": "triptihleto"},
+      {"time": "2020-06-20T21:00:00+03:00", "template": "donat2020"},
+      {"time": "2020-06-20T23:40:00+03:00", "template": "zelenyjshum2"},
+      {"time": "2020-06-21T13:00:00+03:00", "template": "ligastarta16"},
+      {"time": "2020-06-21T16:30:00+03:00", "template": "kubokkabachkov"},
+      {"time": "2020-06-21T19:00:00+03:00", "template": "beskzemli1"},
+      {"time": "2020-06-21T21:30:00+03:00", "template": "beskzemli1"},
+      {"time": "2020-06-22T05:00:00+03:00", "template": "triptihleto"},
+      {"time": "2020-06-25T05:00:00+03:00", "template": "donat2020"},
+      {"time": "2020-06-29T05:00:00+03:00", "template": "kubokkabachkov"}
     ]
   }
 ]

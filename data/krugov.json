@@ -2,7 +2,7 @@
   {
     "id": "194c83b3-6690-4589-9a15-3cf6b62fdd63",
     "org": "Андрей Кругов",
-    "latestCheck": "2020-06-15T12:00:00+03:00",
+    "latestCheck": "2020-06-18T12:00:00+03:00",
     "type": ["events"],
     "image": "krugov.png",
     "duration": 2,
@@ -40,6 +40,14 @@
       "deliverycup3": {
         "name": "Delivery cup 3",
         "price": ["900 RUB/ком"]
+      },
+      "beskzemli1": {
+        "name": "Бесконечные земли. Том I",
+        "price": ["900 RUB/ком"]
+      },
+      "zelenyjshum": {
+        "name": "Зеленый шум",
+        "price": ["300 RUB/чел", "400 RUB/2чел", "700 RUB/ком"]
       }
     },
     "games": [
@@ -54,7 +62,12 @@
       {"time": "2020-06-14T20:00:00+03:00", "template": "triptihleto", "url": ["https://forms.gle/49KxsrgpmJT1ehZGA"]},
       {"time": "2020-06-15T20:00:00+03:00", "template": "intermezzo", "url": ["https://forms.gle/WA8nrWQtrQThhVVm9"]},
       {"time": "2020-06-16T20:00:00+03:00", "template": "triptihleto", "url": ["https://forms.gle/uJUxsQHtX7NSjAMd9"]},
-      {"time": "2020-06-17T20:00:00+03:00", "template": "deliverycup3", "url": ["https://forms.gle/S59v6v2xHqCh49DM8"]}
+      {"time": "2020-06-17T20:00:00+03:00", "template": "deliverycup3", "url": ["https://forms.gle/S59v6v2xHqCh49DM8"]},
+      {"time": "2020-06-18T20:00:00+03:00", "template": "deliverycup3", "url": ["https://forms.gle/hFvkKrPkmRUG2KCs8"]},
+      {"time": "2020-06-22T20:00:00+03:00", "template": "beskzemli1", "url": ["https://forms.gle/qUfmj7ta5NZ7pwcE7"]},
+      {"time": "2020-06-23T20:00:00+03:00", "template": "zelenyjshum", "url": ["https://forms.gle/w6WiiRnTUHs4tjzn9"]},
+      {"time": "2020-06-24T20:00:00+03:00", "template": "beskzemli1", "url": ["https://forms.gle/DhZkWTWcBsL87nor7"]},
+      {"time": "2020-06-25T20:00:00+03:00", "template": "zelenyjshum", "url": ["https://forms.gle/YBPbQKvgQoeTub8C8"]}
     ]
   }
 ]
