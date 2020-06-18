@@ -2,7 +2,7 @@
   {
     "id": "6e5cb6b5-e314-4d4b-8d07-d70de495380d",
     "org": "Клуб Онлайн Вопросов",
-    "latestCheck": "2020-06-15T12:00:00+03:00",
+    "latestCheck": "2020-06-18T12:00:00+03:00",
     "type": ["events"],
     "image": "klubonlinevoprosov.png",
     "duration": 2,
@@ -18,8 +18,8 @@
       { "time": "2020-06-06T16:00:00Z", "name": "Игра №1. \"Все свои\" (второй эфир)", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/5326" ] },
       { "time": "2020-06-13T11:00:00Z", "name": "4 сезон. Игра №2 \"Битва авторов\"", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/5753" ], "qpid": "5753", "qpuid": "57", "qpuname": "Клуб Онлайн Вопросов", "cat": "chgk" },
       { "time": "2020-06-13T16:00:00Z", "name": "4 сезон. Игра №2 \"Битва авторов\"", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/5754" ], "qpid": "5754", "qpuid": "57", "qpuname": "Клуб Онлайн Вопросов", "cat": "chgk" },
-      { "time": "2020-06-20T07:00:00Z", "name": "4 сезон. Игра №3 \"Битва авторов\"", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/6000" ], "qpid": "6000", "qpuid": "57", "qpuname": "Клуб Онлайн Вопросов", "cat": "chgk" },
-      { "time": "2020-06-20T12:00:00Z", "name": "4 сезон. Игра №3 \"Битва авторов\"", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/6001" ], "qpid": "6001", "qpuid": "57", "qpuname": "Клуб Онлайн Вопросов", "cat": "chgk" }
+      { "time": "2020-06-20T11:00:00Z", "name": "4 сезон. Игра №3 \"Битва авторов\"", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/6122" ], "qpid": "6122", "qpuid": "57", "qpuname": "Клуб Онлайн Вопросов", "cat": "chgk" },
+      { "time": "2020-06-20T16:00:00Z", "name": "4 сезон. Игра №3 \"Битва авторов\"", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/6123" ], "qpid": "6123", "qpuid": "57", "qpuname": "Клуб Онлайн Вопросов", "cat": "chgk" }
     ]
   }
 ]

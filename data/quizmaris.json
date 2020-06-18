@@ -2,7 +2,7 @@
   {
     "id": "9eb0228f-fc4d-4e11-a294-87455f004ad9",
     "org": "Quiz Maris",
-    "latestCheck": "2020-06-17T12:00:00+03:00",
+    "latestCheck": "2020-06-18T12:00:00+03:00",
     "type": ["events"],
     "image": "quizmaris.png",
     "duration": 1,
@@ -35,7 +35,8 @@
       { "time": "2020-06-16T18:20:00Z", "name": "Квиз Марис НОВЫЙ [ПОВТОР Назад в 90-е]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5980" ], "qpid": "5980", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
       { "time": "2020-06-16T19:20:00Z", "name": "Квиз Марис повтор [МНОГО ЛОГИКИ #15]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5978" ], "qpid": "5978", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
       { "time": "2020-06-16T20:20:00Z", "name": "Квиз Марис повтор [МНОГО ЛОГИКИ #14]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5908" ], "qpid": "5908", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
-      { "time": "2020-06-17T20:30:00Z", "name": "Квиз Марис повтор [МНОГО ЛОГИКИ #14]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5908" ], "qpid": "5908", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" }
+      { "time": "2020-06-17T20:30:00Z", "name": "Квиз Марис повтор [МНОГО ЛОГИКИ #14]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/5908" ], "qpid": "5908", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-06-18T20:00:00Z", "name": "Квиз Марис повтор [КЛАССИКА #15]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6138" ], "qpid": "6138", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" }
     ]
   }
 ]
