@@ -2,7 +2,7 @@
   {
     "id": "9645838f-9182-4221-842c-730ddaf75f98",
     "org": "PubQuiz",
-    "latestCheck": "2020-06-15T12:00:00+03:00",
+    "latestCheck": "2020-06-19T12:00:00+03:00",
     "type": ["events"],
     "image": "pubquiz.png",
     "duration": 3,
@@ -21,6 +21,12 @@
         "name": "Movie Quiz Online",
         "price": ["200 UAH/ком"],
         "url": ["https://www.facebook.com/events/264092901561024/"]
+      },
+      {
+        "time": "2020-06-18T20:00:00+03:00",
+        "name": "PubQuiz Online",
+        "price": ["200 UAH/ком"],
+        "url": ["https://www.facebook.com/events/895635034269673/"]
       }
     ]
   }
