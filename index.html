@@ -90,9 +90,9 @@
             </div>
             <div class="container" v-for="(date, i) in activeGames.dates">
                 <div class="row mt-5">
-                    <div class="col-12">
-                        <h2 class="mb-0 pb-0">{{moment(date).format('D MMMM, dddd')}}</h2>
-                        <small class="text-muted">Количество незавершенных игр: {{activeGames.data[date].length}}</small>
+                    <div class="col-12 bg-dark">
+                        <h2 class="text-light mb-0 pb-0">{{moment(date).format('D MMMM, dddd')}}</h2>
+                        <small class="text-warning">Количество незавершенных игр: {{activeGames.data[date].length}}</small>
                     </div>
                 </div>
                 <div class="row mb-4" v-for="(g, j) in activeGames.data[date]"
