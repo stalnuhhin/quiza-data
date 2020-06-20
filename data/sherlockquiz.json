@@ -2,7 +2,7 @@
   {
     "id": "9b59f86c-307f-41c2-a672-a7dedd5da824",
     "org": "Sherlock Quiz",
-    "latestCheck": "2020-06-13T12:00:00+03:00",
+    "latestCheck": "2020-06-21T12:00:00+03:00",
     "type": ["events"],
     "duration": 2.5,
     "image": "sherlockquiz.png",
@@ -21,8 +21,10 @@
       {"time": "2020-06-14T19:00:00+02:00", "name": "Бесконтактный Шерлок Квиз-3 (Мюнхен)", "price": ["15 EUR/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2506?city_id=24"]},
       {"time": "2020-06-17T19:00:00-07:00", "name": "Кубок ШерлокоБойни (Северная Америка)", "price": ["80 USD/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2495?city_id=31"]},
       {"time": "2020-06-17T19:00:00+03:00", "name": "Бесконтактный Шерлок 13 (Минск)", "price": ["10 BYN/ком", "20 BYN/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2494?city_id=9"]},
+      {"time": "2020-06-24T19:00:00+03:00", "name": "Бесконтактный Шерлок 14 (Минск)", "price": ["10 BYN/ком", "20 BYN/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2508?city_id=9"]},
       {"time": "2020-06-24T19:00:00-07:00", "name": "Кубок ШерлокоБойни (Северная Америка)", "price": ["80 USD/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2507?city_id=31"]},
-      {"time": "2020-06-25T19:00:00+03:00", "name": "Скрипка Шерлока 11 (Минск)", "price": ["12 BYN/ком", "24 BYN/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2478?city_id=9"]}
+      {"time": "2020-06-25T19:00:00+03:00", "name": "Скрипка Шерлока 11 (Минск)", "price": ["12 BYN/ком", "24 BYN/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2478?city_id=9"]},
+      {"time": "2020-07-01T19:00:00-07:00", "name": "Бесконтактный Шерлок 13 (Северная Америка)", "price": ["80 USD/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2515?city_id=31"]}
     ]
   }
 ]

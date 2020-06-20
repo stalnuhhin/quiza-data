@@ -3,7 +3,7 @@
     "id": "475c09d5-0c9f-48c7-b6d1-37b0c7ee5316",
     "org": "Лига Индиго Соло",
     "name": "Лига Индиго Соло",
-    "latestCheck": "2020-06-19T12:00:00+03:00",
+    "latestCheck": "2020-06-21T12:00:00+03:00",
     "type": ["events"],
     "image": "indigosolo.png",
     "duration": 1,
@@ -21,7 +21,11 @@
       {"time": "2020-06-16T14:00:00+03:00", "name": "Игра #7", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
       {"time": "2020-06-16T19:30:00+03:00", "name": "Игра #7", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
       {"time": "2020-06-19T14:00:00+03:00", "name": "Игра #8", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
-      {"time": "2020-06-19T19:30:00+03:00", "name": "Игра #8", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]}
+      {"time": "2020-06-19T19:30:00+03:00", "name": "Игра #8", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
+      {"time": "2020-06-23T14:00:00+03:00", "name": "Игра #9", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
+      {"time": "2020-06-23T19:30:00+03:00", "name": "Игра #9", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
+      {"time": "2020-06-26T14:00:00+03:00", "name": "Игра #10", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
+      {"time": "2020-06-26T19:30:00+03:00", "name": "Игра #10", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]}
     ]
   }
 ]

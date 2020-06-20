@@ -2,7 +2,7 @@
   {
     "id": "185c70d6-759d-4e11-8198-b59b929f67e5",
     "org": "FM QUIZ",
-    "latestCheck": "2020-06-13T12:00:00+03:00",
+    "latestCheck": "2020-06-21T12:00:00+03:00",
     "type": ["events"],
     "image": "fmquiz.png",
     "duration": 2,
@@ -23,6 +23,11 @@
         "time": "2020-06-15T19:00:00+03:00",
         "name": "FM Quiz Light - кино-музыкальная игра",
         "url": ["https://vk.com/wall-127402793_9650"]
+      },
+      {
+        "time": "2020-06-22T19:00:00+03:00",
+        "name": "FM Quiz Сериалы",
+        "url": ["https://vk.com/wall-127402793_9710"]
       }
     ]
   }

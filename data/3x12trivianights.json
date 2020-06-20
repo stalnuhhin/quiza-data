@@ -2,7 +2,7 @@
   {
     "id": "d5d56a1a-8e85-4953-ad10-2fc57856878b",
     "org": "3x12 Trivia Nights",
-    "latestCheck": "2020-06-19T12:00:00+03:00",
+    "latestCheck": "2020-06-21T12:00:00+03:00",
     "type": ["events"],
     "image": "3x12trivianights.png",
     "duration": 2,
@@ -15,6 +15,14 @@
         "donate": true,
         "free": true,
         "url": ["https://www.facebook.com/events/2674340152824175/"]
+      },
+      {
+        "time": "2020-07-03T21:30:00+03:00",
+        "name": "South Park Online Trivia by 3x12",
+        "lang": "По-английски",
+        "donate": true,
+        "free": true,
+        "url": ["https://www.facebook.com/events/2700965943341584/"]
       }
     ]
   }

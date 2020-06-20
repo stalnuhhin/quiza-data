@@ -3,14 +3,13 @@
     "id": "fd583069-80d4-4dee-88f7-2761d68626c5",
     "org": "Brain Wars",
     "name": "Brain Wars",
-    "latestCheck": "2020-06-13T12:00:00+03:00",
+    "latestCheck": "2020-06-21T12:00:00+03:00",
     "type": ["events"],
     "image": "brainwars.png",
     "duration": 2,
     "price": ["400 RUB/ком"],
     "url": ["https://vk.com/quizdez"],
     "games": [
-      {"time": "2020-06-18T19:30:00+03:00", "price": ["600 RUB/ком"], "url": ["https://vk.com/wall-152157756_9421"]}
     ]
   }
 ]

@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-06-13T12:00:00+03:00",
+    "latestCheck": "2020-06-21T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -75,6 +75,19 @@
         "chgk": true,
         "price": ["50 UAH/чел"],
         "url": ["https://www.facebook.com/events/860446554432831/"]
+      },
+      {
+        "time": "2020-06-25T20:00:00+03:00",
+        "name": "Летний Online Киноквиз",
+        "price": ["200 UAH/ком", "50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/645026816094028/"]
+      },
+      {
+        "time": "2020-06-29T20:00:00+03:00",
+        "name": "«Что? Где? Когда?» - Карантин-лига 2.4",
+        "chgk": true,
+        "price": ["50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/1461339660694522/"]
       }
     ]
   }

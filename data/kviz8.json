@@ -3,7 +3,7 @@
     "id": "9d96803c-51ee-4b7e-816c-5098bce34efc",
     "org": "Квиз №8",
     "name": "Онлайн Квиз №8",
-    "latestCheck": "2020-06-19T12:00:00+03:00",
+    "latestCheck": "2020-06-21T12:00:00+03:00",
     "type": ["events"],
     "image": "kviz8.png",
     "duration": 1,
@@ -14,6 +14,12 @@
         "name": "Квиз N8. Пятая игра сезона",
         "price": ["400 UAH/ком"],
         "url": ["https://www.facebook.com/events/697718147744496/"]
+      },
+      {
+        "time": "2020-06-25T20:00:00+03:00",
+        "name": "Квиз N8. Шестая Игра",
+        "price": ["400 UAH/ком"],
+        "url": ["https://www.facebook.com/events/294114448384340/"]
       }
     ]
   }

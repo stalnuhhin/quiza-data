@@ -2,7 +2,7 @@
   {
     "id": "99d95fda-5e50-41b8-9fef-6d109dcb3d8c",
     "org": "IQ Battle",
-    "latestCheck": "2020-06-13T12:00:00+03:00",
+    "latestCheck": "2020-06-21T12:00:00+03:00",
     "type": ["events"],
     "image": "iqbattle.png",
     "duration": 2.5,
@@ -14,7 +14,7 @@
         "price": ["500 RUB/ком"]
       },
       {
-        "time": "2020-06-14T19:00:00+03:00",
+        "time": "2020-06-21T19:00:00+03:00",
         "name": "ONLINE Игра #23",
         "price": ["500 RUB/ком"]
       }
