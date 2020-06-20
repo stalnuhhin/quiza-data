@@ -2,7 +2,7 @@
   {
     "id": "ab4a284a-ea0e-4c31-9935-981d29dbdf68",
     "org": "СибКвиз",
-    "latestCheck": "2020-06-18T12:00:00+03:00",
+    "latestCheck": "2020-06-20T12:00:00+03:00",
     "type": ["events"],
     "image": "sibkviz.png",
     "duration": 2,
@@ -22,7 +22,11 @@
       { "time": "2020-06-19T13:00:00Z", "name": "СибКвиз Онлайн #23", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5901" ], "qpid": "5901", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
       { "time": "2020-06-19T16:00:00Z", "name": "СибКвиз Онлайн #23", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5902" ], "qpid": "5902", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
       { "time": "2020-06-21T13:00:00Z", "name": "СибКвиз Онлайн #24", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5903" ], "qpid": "5903", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
-      { "time": "2020-06-21T16:00:00Z", "name": "СибКвиз Онлайн #24", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5904" ], "qpid": "5904", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" }
+      { "time": "2020-06-21T16:00:00Z", "name": "СибКвиз Онлайн #24", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5904" ], "qpid": "5904", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2020-06-26T13:00:00Z", "name": "СибКвиз Онлайн #25", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6221" ], "qpid": "6221", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2020-06-26T16:00:00Z", "name": "СибКвиз Онлайн #25", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6222" ], "qpid": "6222", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2020-06-28T13:00:00Z", "name": "СибКвиз Онлайн #26", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6223" ], "qpid": "6223", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2020-06-28T16:00:00Z", "name": "СибКвиз Онлайн #26", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6224" ], "qpid": "6224", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" }
     ]
   }
 ]
