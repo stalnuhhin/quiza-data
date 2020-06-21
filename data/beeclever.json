@@ -54,6 +54,13 @@
         "template": "chgk",
         "price": ["300 RUB/ком", "110 UAH/ком", "4 USD/ком", "3.6 EUR/ком"],
         "url": ["https://www.facebook.com/events/557678485120072/"]
+      },
+      {
+        "time": "2020-06-24T20:00:00+03:00",
+        "name": "Гео ЧГК: Around The World Wide Web",
+        "template": "chgk",
+        "price": ["700 RUB/ком", "240 UAH/ком"],
+        "url": ["https://www.facebook.com/events/917231562082900/"]
       }
     ]
   }

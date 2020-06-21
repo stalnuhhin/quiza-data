@@ -42,6 +42,13 @@
         "chgk": true,
         "price": ["9 USD/ком", "1250 UAH/ком"],
         "url": ["https://www.facebook.com/events/590847125176481/"]
+      },
+      {
+        "time": "2020-06-25T20:00:00+03:00",
+        "name": "Вечер парного ЧГК",
+        "chgk": true,
+        "price": ["4 USD/ком", "110 UAH/ком"],
+        "url": ["https://www.facebook.com/events/263133158350759/"]
       }
     ]
   }
