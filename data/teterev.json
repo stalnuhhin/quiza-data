@@ -1,0 +1,25 @@
+[
+  {
+    "id": "0e148b15-ca59-4c1a-a504-2c013de597ac",
+    "org": "Иван Тетерев",
+    "latestCheck": "2020-06-23T12:00:00+03:00",
+    "type": ["events"],
+    "image": "chgkrating.png",
+    "chgk": true,
+    "duration": 2,
+    "templates": {
+      "zelenyjshum2": {
+        "name": "Зелёный Шум-2",
+        "price": ["720 RUB/ком", "240 UAH/ком"]
+      },
+      "kubokkabachkov": {
+        "name": "Кубок Кабачков",
+        "price": ["720 RUB/ком", "240 UAH/ком"]
+      }
+    },
+    "games": [
+      {"time": "2020-06-22T19:30:00+03:00", "template": "zelenyjshum2", "url": ["https://bit.ly/311tkNK"]},
+      {"time": "2020-06-22T22:00:00+03:00", "template": "kubokkabachkov", "url": ["https://bit.ly/311tkNK"]}
+    ]
+  }
+]
