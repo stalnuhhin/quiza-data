@@ -2,7 +2,7 @@
   {
     "id": "9eb0228f-fc4d-4e11-a294-87455f004ad9",
     "org": "Quiz Maris",
-    "latestCheck": "2020-06-21T12:00:00+03:00",
+    "latestCheck": "2020-06-22T12:00:00+03:00",
     "type": ["events"],
     "image": "quizmaris.png",
     "duration": 1,
@@ -50,7 +50,11 @@
       { "time": "2020-06-21T12:10:00Z", "name": "Квиз Марис [ЖЕНЩИНЫ ПРОТИВ МУЖЧИН]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6245" ], "qpid": "6245", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
       { "time": "2020-06-21T13:10:00Z", "name": "Квиз Марис [МЕДИЦИНСКИЙ #1]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6246" ], "qpid": "6246", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
       { "time": "2020-06-21T14:10:00Z", "name": "Квиз Марис [ЛИТЕРАТУРНЫЙ #1]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6244" ], "qpid": "6244", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
-      { "time": "2020-06-21T21:20:00Z", "name": "Квиз Марис повтор [КЛАССИКА #15]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6138" ], "qpid": "6138", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" }
+      { "time": "2020-06-21T21:20:00Z", "name": "Квиз Марис повтор [КЛАССИКА #15]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6138" ], "qpid": "6138", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-06-23T11:10:00Z", "name": "Квиз Марис [НУЛЕВЫЕ]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6247" ], "qpid": "6247", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-06-23T13:10:00Z", "name": "Квиз Марис [МЕДИЦИНСКИЙ #1]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6246" ], "qpid": "6246", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-06-23T14:10:00Z", "name": "Квиз Марис [ЛИТЕРАТУРНЫЙ #1]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6244" ], "qpid": "6244", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-06-23T20:20:00Z", "name": "Квиз Марис повтор [КЛАССИКА #15]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6138" ], "qpid": "6138", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" }
     ]
   }
 ]
