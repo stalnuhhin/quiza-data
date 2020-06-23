@@ -2,7 +2,7 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2020-06-21T12:00:00+03:00",
+    "latestCheck": "2020-06-23T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
@@ -61,6 +61,13 @@
         "template": "chgk",
         "price": ["700 RUB/ком", "240 UAH/ком"],
         "url": ["https://www.facebook.com/events/917231562082900/"]
+      },
+      {
+        "time": "2020-06-25T20:00:00+03:00",
+        "name": "Летняя серия Bee Clever. The Best - 3",
+        "template": "chgk",
+        "price": ["300 RUB/ком", "110 UAH/ком", "4 USD/ком", "3.6 EUR/ком"],
+        "url": ["https://www.facebook.com/events/362705998025225/"]
       }
     ]
   }
