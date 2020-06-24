@@ -2,7 +2,7 @@
   {
     "id": "194c83b3-6690-4589-9a15-3cf6b62fdd63",
     "org": "Андрей Кругов",
-    "latestCheck": "2020-06-21T12:00:00+03:00",
+    "latestCheck": "2020-06-24T12:00:00+03:00",
     "type": ["events"],
     "image": "krugov.png",
     "duration": 2,
@@ -45,8 +45,8 @@
         "name": "Бесконечные земли. Том I",
         "price": ["900 RUB/ком"]
       },
-      "zelenyjshum": {
-        "name": "Зеленый шум",
+      "zelenyjshum2": {
+        "name": "Зеленый шум-2",
         "price": ["300 RUB/чел", "400 RUB/2чел", "700 RUB/ком"]
       }
     },
@@ -65,9 +65,9 @@
       {"time": "2020-06-17T20:00:00+03:00", "template": "deliverycup3", "url": ["https://forms.gle/S59v6v2xHqCh49DM8"]},
       {"time": "2020-06-18T20:00:00+03:00", "template": "deliverycup3", "url": ["https://forms.gle/hFvkKrPkmRUG2KCs8"]},
       {"time": "2020-06-22T20:00:00+03:00", "template": "beskzemli1", "url": ["https://forms.gle/qUfmj7ta5NZ7pwcE7"]},
-      {"time": "2020-06-23T20:00:00+03:00", "template": "zelenyjshum", "url": ["https://forms.gle/w6WiiRnTUHs4tjzn9"]},
+      {"time": "2020-06-23T20:00:00+03:00", "template": "zelenyjshum2", "url": ["https://forms.gle/w6WiiRnTUHs4tjzn9"]},
       {"time": "2020-06-24T20:00:00+03:00", "template": "beskzemli1", "url": ["https://forms.gle/DhZkWTWcBsL87nor7"]},
-      {"time": "2020-06-25T20:00:00+03:00", "template": "zelenyjshum", "url": ["https://forms.gle/YBPbQKvgQoeTub8C8"]}
+      {"time": "2020-06-25T20:00:00+03:00", "template": "zelenyjshum2", "url": ["https://forms.gle/YBPbQKvgQoeTub8C8"]}
     ]
   }
 ]

@@ -3,7 +3,7 @@
     "id": "2668f220-4f29-43bf-a9af-590cbee446ba",
     "org": "BrainBarQuiz",
     "name": "BBQuizHome",
-    "latestCheck": "2020-06-21T12:00:00+03:00",
+    "latestCheck": "2020-06-24T12:00:00+03:00",
     "type": ["events"],
     "image": "brainbarquiz.png",
     "duration": 2,
@@ -24,6 +24,11 @@
         "time": "2020-06-20T17:00:00+03:00",
         "name": "BrainBar Quiz Home",
         "url": ["https://vk.com/wall-138515221_4793"]
+      },
+      {
+        "time": "2020-06-28T17:00:00+03:00",
+        "name": "Квиз по вселенной Гарри Поттера",
+        "url": ["https://vk.com/wall-138515221_4818"]
       }
     ]
   }

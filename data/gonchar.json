@@ -88,6 +88,16 @@
         "name": "Зеленый шум-2",
         "price": ["800 RUB/ком", "240 UAH/ком"],
         "url": ["https://tinyurl.com/sinhron"]
+      },
+      "polesskiehron": {
+        "name": "Полесские хроники",
+        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      "owlmamyblue": {
+        "name": "Owl Mamy Blue",
+        "price": ["500 RUB/ком", "150 UAH/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
       }
     },
     "games": [
@@ -154,7 +164,23 @@
       {"time": "2020-06-22T05:00:00+03:00", "template": "triptihleto"},
       {"time": "2020-06-22T19:00:00+03:00", "template": "beskzemli1"},
       {"time": "2020-06-22T21:30:00+03:00", "template": "zelenyjshum2"},
+      {"time": "2020-06-24T14:00:00+03:00", "template": "intermezzo"},
+      {"time": "2020-06-24T17:00:00+03:00", "template": "triptihleto"},
+      {"time": "2020-06-24T21:30:00+03:00", "template": "owlmamyblue"},
       {"time": "2020-06-25T05:00:00+03:00", "template": "donat2020"},
+      {"time": "2020-06-25T19:00:00+03:00", "template": "beskzemli1"},
+      {"time": "2020-06-25T21:30:00+03:00", "template": "tuganbaev"},
+      {"time": "2020-06-26T19:00:00+03:00", "template": "polesskiehron"},
+      {"time": "2020-06-26T21:30:00+03:00", "template": "ligastarta16"},
+      {"time": "2020-06-27T12:00:00+03:00", "template": "donat2020"},
+      {"time": "2020-06-27T15:00:00+03:00", "template": "zelenyjshum2"},
+      {"time": "2020-06-27T18:00:00+03:00", "template": "beskzemli1"},
+      {"time": "2020-06-27T21:00:00+03:00", "template": "polesskiehron"},
+      {"time": "2020-06-27T23:30:00+03:00", "template": "letokinoliga"},
+      {"time": "2020-06-28T12:00:00+03:00", "template": "intermezzo"},
+      {"time": "2020-06-28T15:00:00+03:00", "template": "donat2020"},
+      {"time": "2020-06-28T18:00:00+03:00", "template": "polesskiehron"},
+      {"time": "2020-06-28T21:00:00+03:00", "template": "triptihleto"},
       {"time": "2020-06-29T05:00:00+03:00", "template": "kubokkabachkov"}
     ]
   }
