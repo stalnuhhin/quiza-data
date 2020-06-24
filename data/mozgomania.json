@@ -2,7 +2,7 @@
   {
     "id": "61f66a97-a27d-435d-a8f1-e7af4e4d8b81",
     "org": "Мозгомания",
-    "latestCheck": "2020-06-23T12:00:00+03:00",
+    "latestCheck": "2020-06-24T12:00:00+03:00",
     "type": ["events"],
     "image": "mozgomania.png",
     "duration": 2,
@@ -88,7 +88,10 @@
       { "time": "2020-06-28T13:00:00Z", "name": "Музомания XI. Повтор II", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6355" ], "qpid": "6355", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
       { "time": "2020-06-28T15:00:00Z", "name": "Музомания XI. Повтор III", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6356" ], "qpid": "6356", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
       { "time": "2020-06-28T17:00:00Z", "name": "Ретроспектива|Повтор. Гарри Поттер II", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6357" ], "qpid": "6357", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
-      { "time": "2020-06-28T19:00:00Z", "name": "Ретроспектива|Повтор. Гарри Поттер II", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6358" ], "qpid": "6358", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" }
+      { "time": "2020-06-28T19:00:00Z", "name": "Ретроспектива|Повтор. Гарри Поттер II", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6358" ], "qpid": "6358", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-29T18:00:00Z", "name": "Киномания XIV. Премьера.", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6399" ], "qpid": "6399", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-30T12:30:00Z", "name": "Киномания XIV. Повтор [I]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6400" ], "qpid": "6400", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-06-30T15:30:00Z", "name": "Киномания XIV. Повтор [II]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6401" ], "qpid": "6401", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" }
     ]
   }
 ]
