@@ -33,6 +33,7 @@ const DATAFILES = [
     "goquiz.json",
     "headtrick.json",
     "igravpass.json",
+    "igryrazuma.json",
     "ilovequiz.json",
     "imclub.json",
     "indigo.json",
