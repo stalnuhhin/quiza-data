@@ -2,7 +2,7 @@
   {
     "id": "0e148b15-ca59-4c1a-a504-2c013de597ac",
     "org": "Иван Тетерев",
-    "latestCheck": "2020-06-27T12:00:00+03:00",
+    "latestCheck": "2020-06-28T12:00:00+03:00",
     "type": ["events"],
     "image": "chgkrating.png",
     "chgk": true,
@@ -10,16 +10,46 @@
     "templates": {
       "zelenyjshum2": {
         "name": "Зелёный Шум-2",
-        "price": ["720 RUB/ком", "240 UAH/ком"]
+        "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"]
       },
       "kubokkabachkov": {
         "name": "Кубок Кабачков",
-        "price": ["720 RUB/ком", "240 UAH/ком"]
+        "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"]
+      },
+      "beskzemli1": {
+        "name": "Бесконечные земли. Том 1",
+        "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"]
+      },
+      "intermezzo": {
+        "name": "Intermezzo-2020",
+        "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"]
+      },
+      "triptihleto": {
+        "name": "Триптих. Лето",
+        "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"]
+      },
+      "ipa": {
+        "name": "IPA",
+        "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"]
+      },
+      "fatlazyraccoon": {
+        "name": "FatLazyRaccoon Cup",
+        "price": ["850 RUB/ком", "300 UAH/ком", "12 USD/ком"]
+      },
+      "smolensk3": {
+        "name": "Лёгкий Смоленск-3 (2019)",
+        "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"]
       }
     },
     "games": [
       {"time": "2020-06-22T19:30:00+03:00", "template": "zelenyjshum2", "url": ["https://bit.ly/311tkNK"]},
-      {"time": "2020-06-22T22:00:00+03:00", "template": "kubokkabachkov", "url": ["https://bit.ly/311tkNK"]}
+      {"time": "2020-06-22T22:00:00+03:00", "template": "kubokkabachkov", "url": ["https://bit.ly/311tkNK"]},
+      {"time": "2020-06-27T16:00:00+03:00", "template": "beskzemli1", "url": ["https://bit.ly/KhVIP_online"]},
+      {"time": "2020-06-27T18:30:00+03:00", "template": "intermezzo", "url": ["https://bit.ly/KhVIP_online"]},
+      {"time": "2020-06-27T21:00:00+03:00", "template": "triptihleto", "url": ["https://bit.ly/KhVIP_online"]},
+      {"time": "2020-06-28T16:00:00+03:00", "template": "ipa", "url": ["https://bit.ly/KhVIP_online"]},
+      {"time": "2020-06-28T18:30:00+03:00", "template": "fatlazyraccoon", "url": ["https://bit.ly/KhVIP_online"]},
+      {"time": "2020-06-28T21:00:00+03:00", "template": "smolensk3", "url": ["https://bit.ly/KhVIP_online"]}
     ]
   }
 ]
