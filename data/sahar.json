@@ -2,7 +2,7 @@
   {
     "id": "901232e6-ef9f-47c7-b9f1-752c67c8eec6",
     "org": "Сахар",
-    "latestCheck": "2020-06-25T12:00:00+03:00",
+    "latestCheck": "2020-06-27T12:00:00+03:00",
     "type": ["events"],
     "chgk": true,
     "duration": 2.5,
@@ -21,7 +21,8 @@
       { "time": "2020-06-22T20:00:00+03:00", "name": "Тыквенный пирог-2019", "price": [ "400 RUB/ком" ], "url": [ "https://vk.com/topic-38771951_40725756" ] },
       { "time": "2020-06-23T17:00:00Z", "name": "Части Вселенной 60–99", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6211" ], "qpid": "6211", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
       { "time": "2020-06-24T13:00:00+03:00", "name": "Лига старта (июнь)", "price": [ "700 RUB/ком", "500 RUB/1-2чел" ], "url": [ "https://vk.com/topic-38771951_40733055?post=9429" ] },
-      { "time": "2020-06-26T17:00:00Z", "name": "Коробка шоколадных конфет (повтор)", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/6379" ], "qpid": "6379", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" }
+      { "time": "2020-06-26T17:00:00Z", "name": "Коробка шоколадных конфет (повтор)", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/6379" ], "qpid": "6379", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
+      { "time": "2020-06-29T17:00:00Z", "name": "Столикий синхрон (повтор)", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/6515" ], "qpid": "6515", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" }
     ]
   }
 ]
