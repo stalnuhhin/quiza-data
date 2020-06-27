@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-06-21T12:00:00+03:00",
+    "latestCheck": "2020-06-27T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -88,6 +88,13 @@
         "chgk": true,
         "price": ["50 UAH/чел"],
         "url": ["https://www.facebook.com/events/1461339660694522/"]
+      },
+      {
+        "time": "2020-07-01T20:00:00+03:00",
+        "name": "«Полесские хроники - 2020»",
+        "chgk": true,
+        "price": ["300 UAH/ком", "780 RUB/ком", "11.2 USD/ком", "10 EUR/ком"],
+        "url": ["https://www.facebook.com/events/202259584331034/"]
       }
     ]
   }

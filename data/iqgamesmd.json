@@ -2,7 +2,7 @@
   {
     "id": "e2904f9a-7c1a-4ba2-993d-eaeeaea78fae",
     "org": "iQ",
-    "latestCheck": "2020-06-21T12:00:00+03:00",
+    "latestCheck": "2020-06-27T12:00:00+03:00",
     "type": ["events"],
     "image": "iqgamesmd.png",
     "duration": 5,
@@ -29,6 +29,11 @@
         "time": "2020-06-24T19:00:00+03:00",
         "name": "«Логика» по-домашнему. Четвёртая игра лета",
         "url": ["https://www.facebook.com/events/928592607608808/"]
+      },
+      {
+        "time": "2020-07-01T19:00:00+03:00",
+        "name": "«Логика» по-домашнему. Пятая игра лета",
+        "url": ["https://www.facebook.com/events/255739719053222/"]
       }
     ]
   }

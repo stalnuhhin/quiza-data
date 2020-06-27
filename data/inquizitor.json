@@ -2,7 +2,7 @@
   {
     "id": "d7a51b52-2a98-4298-9f67-ab0db6c1729f",
     "org": "inQUIZitor: умный город- Баку",
-    "latestCheck": "2020-06-21T12:00:00+03:00",
+    "latestCheck": "2020-06-27T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "inquizitor.png",
@@ -12,7 +12,9 @@
       {"time": "2020-06-12T21:00:00+04:00", "name": "InQUIZitor Online v7", "price": ["12 AZN/ком"], "url": ["https://www.facebook.com/events/608575679758604/"]},
       {"time": "2020-06-15T15:00:00+04:00", "name": "Детская игра InQUIZitor Online", "free": true, "url": ["https://www.facebook.com/events/263458218256655/"]},
       {"time": "2020-06-19T21:00:00+04:00", "name": "InQUIZitor Online v8", "price": ["12 AZN/ком"], "url": ["https://www.facebook.com/events/700658787387556/"]},
-      {"time": "2020-06-24T19:00:00+04:00", "name": "Детская игра InQUIZitor Online", "price": ["5 AZN/чел"], "url": ["https://www.facebook.com/events/266767187885812/"]}
+      {"time": "2020-06-24T19:00:00+04:00", "name": "Детская игра InQUIZitor Online", "price": ["5 AZN/чел"], "url": ["https://www.facebook.com/events/266767187885812/"]},
+      {"time": "2020-06-28T21:00:00+04:00", "name": "InQUIZitor Online v9", "price": ["12 AZN/ком"], "url": ["https://www.facebook.com/events/592658438310577/"]},
+      {"time": "2020-07-01T19:00:00+04:00", "name": "Детская игра InQUIZitor Online", "price": ["5 AZN/чел"], "url": ["https://www.facebook.com/events/331081154553527/"]}
     ]
   }
 ]

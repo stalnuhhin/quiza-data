@@ -2,7 +2,7 @@
   {
     "id": "eaa4a42b-ada8-42d2-a7c1-1a3f282cec6b",
     "org": "Интеллектуальное казино Сан Франциско",
-    "latestCheck": "2020-06-21T12:00:00+03:00",
+    "latestCheck": "2020-06-27T12:00:00+03:00",
     "type": ["events"],
     "image": "intellcasinosanfra.png",
     "chgk": true,
@@ -23,6 +23,16 @@
       {
         "time": "2020-06-28T13:00:00-07:00",
         "name": "Stanford Open (Летняя Серия - Игра 3)",
+        "url": ["https://www.facebook.com/events/222442442311958"]
+      },
+      {
+        "time": "2020-07-12T13:00:00-07:00",
+        "name": "Stanford Open (Летняя Серия - Игра 4)",
+        "url": ["https://www.facebook.com/events/222442442311958"]
+      },
+      {
+        "time": "2020-07-26T13:00:00-07:00",
+        "name": "Stanford Open (Летняя Серия - Игра 5)",
         "url": ["https://www.facebook.com/events/222442442311958"]
       }
     ]
