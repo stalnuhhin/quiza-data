@@ -2,7 +2,7 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-06-27T12:00:00+03:00",
+    "latestCheck": "2020-06-29T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
@@ -98,6 +98,16 @@
         "name": "Owl Mamy Blue",
         "price": ["500 RUB/ком", "150 UAH/ком"],
         "url": ["https://tinyurl.com/sinhron"]
+      },
+      "asinhprostyhvoprosov": {
+        "name": "Асинхрон простых вопросов",
+        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      "top1000": {
+        "name": "Топ-1000",
+        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
       }
     },
     "games": [
@@ -182,10 +192,24 @@
       {"time": "2020-06-28T18:00:00+03:00", "template": "polesskiehron"},
       {"time": "2020-06-28T21:00:00+03:00", "template": "triptihleto"},
       {"time": "2020-06-29T05:00:00+03:00", "template": "kubokkabachkov"},
+      {"time": "2020-06-29T16:30:00+03:00", "template": "donat2020"},
       {"time": "2020-06-29T19:00:00+03:00", "template": "beskzemli1"},
       {"time": "2020-06-29T21:30:00+03:00", "template": "owlmamyblue"},
+      {"time": "2020-06-30T19:00:00+03:00", "template": "polesskiehron"},
       {"time": "2020-06-30T21:30:00+03:00", "template": "buildingstories"},
-      {"time": "2020-07-01T21:30:00+03:00", "template": "kubokkabachkov"}
+      {"time": "2020-07-01T16:30:00+03:00", "template": "ligastarta16"},
+      {"time": "2020-07-01T19:00:00+03:00", "template": "intermezzo"},
+      {"time": "2020-07-01T21:30:00+03:00", "template": "kubokkabachkov"},
+      {"time": "2020-07-02T05:00:00+03:00", "template": "owlmamyblue"},
+      {"time": "2020-07-02T19:00:00+03:00", "template": "top1000"},
+      {"time": "2020-07-02T21:30:00+03:00", "template": "asinhprostyhvoprosov"},
+      {"time": "2020-07-03T19:00:00+03:00", "template": "asinhprostyhvoprosov"},
+      {"time": "2020-07-03T21:30:00+03:00", "template": "top1000"},
+      {"time": "2020-07-04T02:00:00+03:00", "template": "asinhprostyhvoprosov"},
+      {"time": "2020-07-04T16:30:00+03:00", "template": "beskzemli1"},
+      {"time": "2020-07-04T19:00:00+03:00", "template": "top1000"},
+      {"time": "2020-07-04T21:30:00+03:00", "template": "asinhprostyhvoprosov"},
+      {"time": "2020-07-05T02:00:00+03:00", "template": "top1000"}
     ]
   }
 ]

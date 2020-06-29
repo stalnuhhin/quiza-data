@@ -2,7 +2,7 @@
   {
     "id": "eef21320-ac8d-4899-9be8-7d8a34c9936c",
     "org": "Квизы Скороход",
-    "latestCheck": "2020-06-27T12:00:00+03:00",
+    "latestCheck": "2020-06-29T12:00:00+03:00",
     "type": ["events"],
     "image": "skorohod.png",
     "duration": 1,
@@ -43,7 +43,9 @@
       { "time": "2020-06-25T13:00:00Z", "name": "Фильмоскоп №27", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6402" ], "qpid": "6402", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" },
       { "time": "2020-06-25T16:00:00Z", "name": "Фильмоскоп №27(повтор от 16:00 МСК)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6403" ], "qpid": "6403", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" },
       { "time": "2020-06-27T11:00:00.653Z", "name": "Музыкальный Скороход №25(повтор от 22 июня)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6523" ], "qpid": "6523", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" },
-      { "time": "2020-06-27T14:00:00.797Z", "name": "Музыкальный Скороход №24 ПРО КАВЕРЫ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6524" ], "qpid": "6524", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" }
+      { "time": "2020-06-27T14:00:00.797Z", "name": "Музыкальный Скороход №24 ПРО КАВЕРЫ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6524" ], "qpid": "6524", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" },
+      { "time": "2020-06-29T13:00:00Z", "name": "Музыкальный Скороход №28", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6593" ], "qpid": "6593", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" },
+      { "time": "2020-06-29T16:00:00Z", "name": "Музыкальный Скороход №28(повтор от 16:00 МСК)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6594" ], "qpid": "6594", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" }
     ]
   }
 ]

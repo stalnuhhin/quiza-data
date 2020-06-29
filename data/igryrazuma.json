@@ -6,7 +6,7 @@
     "type": ["events"],
     "image": "igryrazuma.png",
     "duration": 2,
-    "url": ["https://vk.com/projectigryrazuma"],
+    "url": ["https://iqdo.online", "https://vk.com/projectigryrazuma"],
     "games": [
       {
         "time": "2020-06-26T19:30:00+03:00",
@@ -14,6 +14,48 @@
         "price": ["900 RUB/ком"],
         "chgk": true,
         "url": ["https://vk.com/wall-43524150_11747"]
+      },
+      {
+        "time": "2020-06-30T20:00:00+03:00",
+        "name": "Кубок кабачков. Весна — лето",
+        "price": ["300 RUB/ком"],
+        "chgk": true,
+        "url": ["https://vk.com/wall-43524150_11748"]
+      },
+      {
+        "time": "2020-07-01T20:00:00+03:00",
+        "name": "Бесконечные земли. Том I",
+        "price": ["600 RUB/ком"],
+        "chgk": true,
+        "url": ["https://vk.com/wall-43524150_11748"]
+      },
+      {
+        "time": "2020-07-04T14:00:00+03:00",
+        "name": "Бесконечные земли. Том I",
+        "price": ["600 RUB/ком"],
+        "chgk": true,
+        "url": ["https://vk.com/wall-43524150_11748"]
+      },
+      {
+        "time": "2020-07-05T13:00:00+03:00",
+        "name": "Топ-1000",
+        "price": ["900 RUB/ком"],
+        "chgk": true,
+        "url": ["https://vk.com/wall-43524150_11748"]
+      },
+      {
+        "time": "2020-07-07T20:00:00+03:00",
+        "name": "Топ-1000",
+        "price": ["900 RUB/ком"],
+        "chgk": true,
+        "url": ["https://vk.com/wall-43524150_11748"]
+      },
+      {
+        "time": "2020-07-08T20:00:00+03:00",
+        "name": "«Донат»",
+        "price": ["600 RUB/ком"],
+        "chgk": true,
+        "url": ["https://vk.com/wall-43524150_11748"]
       }
     ]
   }
