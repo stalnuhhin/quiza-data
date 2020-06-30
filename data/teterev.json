@@ -2,54 +2,54 @@
   {
     "id": "0e148b15-ca59-4c1a-a504-2c013de597ac",
     "org": "Иван Тетерев",
-    "latestCheck": "2020-06-28T12:00:00+03:00",
+    "latestCheck": "2020-06-30T12:00:00+03:00",
     "type": ["events"],
     "image": "chgkrating.png",
     "chgk": true,
     "duration": 2,
+    "url": ["https://www.facebook.com/groups/khvip.online"],
     "templates": {
-      "zelenyjshum2": {
-        "name": "Зелёный Шум-2",
-        "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"]
+      "200uah": {
+        "price": ["600 RUB/ком", "200 UAH/ком", "8 USD/ком"],
+        "url": ["https://bit.ly/KhVIP_online"]
       },
-      "kubokkabachkov": {
-        "name": "Кубок Кабачков",
-        "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"]
+      "240uah": {
+        "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"],
+        "url": ["https://bit.ly/KhVIP_online"]
       },
-      "beskzemli1": {
-        "name": "Бесконечные земли. Том 1",
-        "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"]
+      "270uah": {
+        "price": ["800 RUB/ком", "270 UAH/ком", "11 USD/ком"],
+        "url": ["https://bit.ly/KhVIP_online"]
       },
-      "intermezzo": {
-        "name": "Intermezzo-2020",
-        "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"]
-      },
-      "triptihleto": {
-        "name": "Триптих. Лето",
-        "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"]
-      },
-      "ipa": {
-        "name": "IPA",
-        "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"]
-      },
-      "fatlazyraccoon": {
-        "name": "FatLazyRaccoon Cup",
-        "price": ["850 RUB/ком", "300 UAH/ком", "12 USD/ком"]
-      },
-      "smolensk3": {
-        "name": "Лёгкий Смоленск-3 (2019)",
-        "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"]
+      "420uah": {
+        "price": ["1200 RUB/ком", "420 UAH/ком", "16 USD/ком"],
+        "url": ["https://bit.ly/KhVIP_online"]
       }
     },
     "games": [
-      {"time": "2020-06-22T19:30:00+03:00", "template": "zelenyjshum2", "url": ["https://bit.ly/311tkNK"]},
-      {"time": "2020-06-22T22:00:00+03:00", "template": "kubokkabachkov", "url": ["https://bit.ly/311tkNK"]},
-      {"time": "2020-06-27T16:00:00+03:00", "template": "beskzemli1", "url": ["https://bit.ly/KhVIP_online"]},
-      {"time": "2020-06-27T18:30:00+03:00", "template": "intermezzo", "url": ["https://bit.ly/KhVIP_online"]},
-      {"time": "2020-06-27T21:00:00+03:00", "template": "triptihleto", "url": ["https://bit.ly/KhVIP_online"]},
-      {"time": "2020-06-28T16:00:00+03:00", "template": "ipa", "url": ["https://bit.ly/KhVIP_online"]},
-      {"time": "2020-06-28T18:30:00+03:00", "template": "fatlazyraccoon", "url": ["https://bit.ly/KhVIP_online"]},
-      {"time": "2020-06-28T21:00:00+03:00", "template": "smolensk3", "url": ["https://bit.ly/KhVIP_online"]}
+      {"time": "2020-06-22T19:30:00+03:00", "name": "Зелёный Шум-2", "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"], "url": ["https://bit.ly/311tkNK"]},
+      {"time": "2020-06-22T22:00:00+03:00", "name": "Кубок Кабачков", "price": ["720 RUB/ком", "240 UAH/ком", "10 USD/ком"], "url": ["https://bit.ly/311tkNK"]},
+      {"time": "2020-06-27T16:00:00+03:00", "template": "240uah", "name": "Бесконечные земли. Том 1"},
+      {"time": "2020-06-27T18:30:00+03:00", "template": "240uah", "name": "Intermezzo-2020"},
+      {"time": "2020-06-27T21:00:00+03:00", "template": "240uah", "name": "Триптих. Лето"},
+      {"time": "2020-06-28T16:00:00+03:00", "template": "240uah", "name": "IPA"},
+      {"time": "2020-06-28T18:30:00+03:00", "template": "240uah", "name": "FatLazyRaccoon Cup"},
+      {"time": "2020-06-28T21:00:00+03:00", "template": "240uah", "name": "Лёгкий Смоленск-3 (2019)"},
+      {"time": "2020-06-30T20:00:00+03:00", "template": "240uah", "name": "Эйрамджан в Гуанахато"},
+      {"time": "2020-06-30T22:00:00+03:00", "template": "240uah", "name": "Owl Mamy Blue"},
+      {"time": "2020-07-01T20:00:00+03:00", "template": "240uah", "name": "Асинхрон по Ведьмаку"},
+      {"time": "2020-07-01T22:00:00+03:00", "template": "240uah", "name": "Around the World"},
+      {"time": "2020-07-02T20:00:00+03:00", "template": "240uah", "name": "Асинхрон простых вопросов"},
+      {"time": "2020-07-02T22:00:00+03:00", "template": "420uah", "name": "Синхрон Чемпионата Кипра"},
+      {"time": "2020-07-03T16:00:00+03:00", "template": "240uah", "name": "Intermezzo-2020"},
+      {"time": "2020-07-03T19:30:00+03:00", "template": "200uah", "name": "Асинхрон по мемам"},
+      {"time": "2020-07-03T22:00:00+03:00", "template": "270uah", "name": "Полесские хроники"},
+      {"time": "2020-07-04T16:00:00+03:00", "template": "240uah", "name": "Кубок Кабачков"},
+      {"time": "2020-07-04T18:30:00+03:00", "template": "240uah", "name": "Асинхрон по Ведьмаку"},
+      {"time": "2020-07-04T21:00:00+03:00", "template": "240uah", "name": "Кубок соседней Галактики. Эпсилон"},
+      {"time": "2020-07-05T16:00:00+03:00", "template": "240uah", "name": "Кубок Кубков"},
+      {"time": "2020-07-05T18:30:00+03:00", "template": "240uah", "name": "Лёгкий Смоленск-2"},
+      {"time": "2020-07-05T21:00:00+03:00", "template": "200uah", "name": "Асинхрон по видеоиграм"}
     ]
   }
 ]
