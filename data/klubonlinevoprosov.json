@@ -2,7 +2,7 @@
   {
     "id": "6e5cb6b5-e314-4d4b-8d07-d70de495380d",
     "org": "Клуб Онлайн Вопросов",
-    "latestCheck": "2020-06-27T12:00:00+03:00",
+    "latestCheck": "2020-06-30T12:00:00+03:00",
     "type": ["events"],
     "image": "klubonlinevoprosov.png",
     "duration": 2,
@@ -21,7 +21,9 @@
       { "time": "2020-06-20T11:00:00Z", "name": "4 сезон. Игра №3 \"Битва авторов\"", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/6122" ], "qpid": "6122", "qpuid": "57", "qpuname": "Клуб Онлайн Вопросов", "cat": "chgk" },
       { "time": "2020-06-20T16:00:00Z", "name": "4 сезон. Игра №3 \"Битва авторов\"", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/6123" ], "qpid": "6123", "qpuid": "57", "qpuname": "Клуб Онлайн Вопросов", "cat": "chgk" },
       { "time": "2020-06-27T11:00:00Z", "name": "4 сезон. Игра №4 \"Битва авторов\"", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/6363" ], "qpid": "6363", "qpuid": "57", "qpuname": "Клуб Онлайн Вопросов", "cat": "chgk" },
-      { "time": "2020-06-27T16:00:00Z", "name": "4 сезон. Игра №4 \"Битва авторов\"", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/6364" ], "qpid": "6364", "qpuid": "57", "qpuname": "Клуб Онлайн Вопросов", "cat": "chgk" }
+      { "time": "2020-06-27T16:00:00Z", "name": "4 сезон. Игра №4 \"Битва авторов\"", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/6364" ], "qpid": "6364", "qpuid": "57", "qpuname": "Клуб Онлайн Вопросов", "cat": "chgk" },
+      { "time": "2020-07-04T11:00:00Z", "name": "4 сезон. Игра №5 \"Битва авторов\"", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/6612" ], "qpid": "6612", "qpuid": "57", "qpuname": "Клуб Онлайн Вопросов", "cat": "chgk" },
+      { "time": "2020-07-04T16:00:00Z", "name": "4 сезон. Игра №5 \"Битва авторов\"", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/6613" ], "qpid": "6613", "qpuid": "57", "qpuname": "Клуб Онлайн Вопросов", "cat": "chgk" }
     ]
   }
 ]

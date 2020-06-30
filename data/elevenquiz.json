@@ -2,7 +2,7 @@
   {
     "id": "538ff061-5d18-4bf8-9b89-b927ab947b09",
     "org": "Eleve11 Quiz",
-    "latestCheck": "2020-06-27T12:00:00+03:00",
+    "latestCheck": "2020-06-30T12:00:00+03:00",
     "type": ["events"],
     "image": "elevenquiz.png",
     "duration": 2,
@@ -12,7 +12,8 @@
       { "time": "2020-06-03T16:00:00Z", "name": "Eleven Quiz #5", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/4943" ] },
       { "time": "2020-06-07T15:00:00Z", "name": "Eleven Quiz #9", "price": [ "600 RUB/ком", "200 RUB/чел" ], "url": [ "https://vk.com/wall-183530227_989" ] },
       { "time": "2020-06-18T16:00:00Z", "name": "Eleven Quiz #6", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6014" ], "qpid": "6014", "qpuid": "3390", "qpuname": "ElevenQuiz", "cat": "common_knowledge" },
-      { "time": "2020-06-24T19:00:00Z", "name": "Eleven Quiz #10", "price": [ "600 RUB/ком", "200 RUB/чел" ], "url": [ "https://vk.com/wall-183530227_1640" ] }
+      { "time": "2020-06-24T19:00:00Z", "name": "Eleven Quiz #10", "price": [ "600 RUB/ком", "200 RUB/чел" ], "url": [ "https://vk.com/wall-183530227_1640" ] },
+      { "time": "2020-07-02T16:00:00Z", "name": "Eleven Quiz №7", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6615" ], "qpid": "6615", "qpuid": "3390", "qpuname": "ElevenQuiz", "cat": "sports" }
     ]
   }
 ]
