@@ -56,6 +56,13 @@
         "chgk": true,
         "price": ["10 USD/ком", "270 UAH/ком"],
         "url": ["https://www.facebook.com/events/261984911567872/"]
+      },
+      {
+        "time": "2020-07-02T20:00:00+03:00",
+        "name": "Owl Mamy Blue",
+        "chgk": true,
+        "price": ["6 USD/ком", "150 UAH/ком"],
+        "url": ["https://www.facebook.com/events/747021639400643/"]
       }
     ]
   }
