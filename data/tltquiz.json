@@ -70,7 +70,13 @@
       { "time": "2020-06-25T19:10:00Z", "name": "TLTQUIZ online #27 - повтор от 19:00", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6440" ], "qpid": "6440", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
       { "time": "2020-06-26T13:00:00Z", "name": "TLTQUIZ online #27 - повтор от 25.06", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6441" ], "qpid": "6441", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
       { "time": "2020-06-27T13:00:00Z", "name": "ТаБуретКа online #37 - повтор от 26.06", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6478" ], "qpid": "6478", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
-      { "time": "2020-06-29T09:00:00Z", "name": "TLTQUIZ Упоротые ребусы #6 - повтор от 28.06", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6553" ], "qpid": "6553", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" }
+      { "time": "2020-06-29T09:00:00Z", "name": "TLTQUIZ Упоротые ребусы #6 - повтор от 28.06", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6553" ], "qpid": "6553", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
+      { "time": "2020-07-03T16:00:00Z", "name": "ТаБуретКа online #38 - ПРЕМЬЕРА!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6686" ], "qpid": "6686", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
+      { "time": "2020-07-03T19:10:00Z", "name": "ТаБуретКа online #38 - повтор от 19:00", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6687" ], "qpid": "6687", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
+      { "time": "2020-07-04T13:00:00Z", "name": "ТаБуретКа online #38 - повтор от 03.07", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6689" ], "qpid": "6689", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
+      { "time": "2020-07-04T16:00:00Z", "name": "Упоротые ребусы #7! МЕГА-ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6690" ], "qpid": "6690", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
+      { "time": "2020-07-04T19:10:00Z", "name": "Упоротые ребусы #7 - повтор супер-игры!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6691" ], "qpid": "6691", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
+      { "time": "2020-07-05T13:00:00Z", "name": "Упоротые ребусы #7 - повтор супер-игры! ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6692" ], "qpid": "6692", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" }
     ]
   }
 ]
