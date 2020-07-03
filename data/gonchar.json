@@ -2,7 +2,7 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-06-29T12:00:00+03:00",
+    "latestCheck": "2020-07-03T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
@@ -108,6 +108,11 @@
         "name": "Топ-1000",
         "price": ["800 RUB/ком", "240 UAH/ком"],
         "url": ["https://tinyurl.com/sinhron"]
+      },
+      "tbv": {
+        "name": "Теория большого взрыва",
+        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
       }
     },
     "games": [
@@ -209,7 +214,11 @@
       {"time": "2020-07-04T16:30:00+03:00", "template": "beskzemli1"},
       {"time": "2020-07-04T19:00:00+03:00", "template": "top1000"},
       {"time": "2020-07-04T21:30:00+03:00", "template": "asinhprostyhvoprosov"},
-      {"time": "2020-07-05T02:00:00+03:00", "template": "top1000"}
+      {"time": "2020-07-05T02:00:00+03:00", "template": "top1000"},
+      {"time": "2020-07-05T11:00:00+03:00", "template": "kubokkabachkov"},
+      {"time": "2020-07-05T16:30:00+03:00", "template": "tbv"},
+      {"time": "2020-07-05T19:00:00+03:00", "template": "top1000"},
+      {"time": "2020-07-06T21:30:00+03:00", "template": "zelenyjshum2"}
     ]
   }
 ]

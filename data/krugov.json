@@ -2,7 +2,7 @@
   {
     "id": "194c83b3-6690-4589-9a15-3cf6b62fdd63",
     "org": "Андрей Кругов",
-    "latestCheck": "2020-06-27T12:00:00+03:00",
+    "latestCheck": "2020-07-03T12:00:00+03:00",
     "type": ["events"],
     "image": "krugov.png",
     "duration": 2,
@@ -48,6 +48,14 @@
       "zelenyjshum2": {
         "name": "Зеленый шум-2",
         "price": ["300 RUB/чел", "400 RUB/2чел", "700 RUB/ком"]
+      },
+      "top1000": {
+        "name": "Топ-1000",
+        "price": ["350 RUB/чел", "500 RUB/2чел", "900 RUB/ком"]
+      },
+      "prostyh": {
+        "name": "Синхрон простых вопросов",
+        "price": ["900 RUB/ком"]
       }
     },
     "games": [
@@ -67,7 +75,12 @@
       {"time": "2020-06-22T20:00:00+03:00", "template": "beskzemli1", "url": ["https://forms.gle/qUfmj7ta5NZ7pwcE7"]},
       {"time": "2020-06-23T20:00:00+03:00", "template": "zelenyjshum2", "url": ["https://forms.gle/w6WiiRnTUHs4tjzn9"]},
       {"time": "2020-06-24T20:00:00+03:00", "template": "beskzemli1", "url": ["https://forms.gle/DhZkWTWcBsL87nor7"]},
-      {"time": "2020-06-25T20:00:00+03:00", "template": "zelenyjshum2", "url": ["https://forms.gle/YBPbQKvgQoeTub8C8"]}
+      {"time": "2020-06-25T20:00:00+03:00", "template": "zelenyjshum2", "url": ["https://forms.gle/YBPbQKvgQoeTub8C8"]},
+      {"time": "2020-07-02T19:30:00+03:00", "template": "top1000", "url": ["https://forms.gle/Xbjn8aX83F3QZhAZ8"]},
+      {"time": "2020-07-02T22:00:00+03:00", "template": "prostyh", "url": ["https://forms.gle/pP2SsRnrxqW9hMYE6"]},
+      {"time": "2020-07-03T19:30:00+03:00", "template": "prostyh", "url": ["https://forms.gle/LCYPCZ13urUmRPdq5"]},
+      {"time": "2020-07-03T22:00:00+03:00", "template": "top1000", "url": ["https://forms.gle/rFC2o9Tfg92tzc1m6"]},
+      {"time": "2020-07-05T20:00:00+03:00", "template": "top1000", "url": ["https://forms.gle/CYuELvocCPYeK8869"]}
     ]
   }
 ]
