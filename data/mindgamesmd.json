@@ -8,21 +8,6 @@
     "url": ["http://quiz.mindgames.md", "https://www.facebook.com/mindgamesmd/events"],
     "games": [
       {
-        "time": "2020-06-02T20:00:00+03:00",
-        "name": "Home Quiz #10",
-        "free": true
-      },
-      {
-        "time": "2020-06-09T20:00:00+03:00",
-        "name": "Home Quiz #11",
-        "free": true
-      },
-      {
-        "time": "2020-06-23T20:00:00+03:00",
-        "name": "Home Quiz #13",
-        "free": true
-      },
-      {
         "time": "2020-07-07T20:00:00+03:00",
         "name": "Home Quiz #14",
         "free": true

@@ -12,18 +12,6 @@
     "info": ["Вопросы на YouTube, ответы в Google-форму."],
     "payment": ["Оплата на регистрации по реквизитам."],
     "games": [
-      {
-        "time": "2020-06-03T19:00:00+02:00",
-        "name": "City Quiz Online #11",
-        "price": ["20 EUR/ком"],
-        "url": ["https://www.facebook.com/events/249005593033144/"]
-      },
-      {
-        "time": "2020-06-11T19:00:00+02:00",
-        "name": "Хайтек Онлайн Квест",
-        "price": ["20 EUR/ком"],
-        "url": ["https://www.facebook.com/events/898166730684879/"]
-      }
     ]
   }
 ]

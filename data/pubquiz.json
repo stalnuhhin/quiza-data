@@ -9,31 +9,6 @@
     "url": ["https://www.facebook.com/pg/PubQuiz.Me/events/", "https://online.event.in.ua/"],
     "desc": "Украинский клуб PubQuiz",
     "games": [
-      {
-        "time": "2020-06-02T20:00:00+03:00",
-        "name": "PubQuiz Online",
-        "free": true,
-        "donate": true,
-        "url": ["https://www.facebook.com/events/1098697593849013/"]
-      },
-      {
-        "time": "2020-06-11T20:00:00+03:00",
-        "name": "Movie Quiz Online",
-        "price": ["200 UAH/ком"],
-        "url": ["https://www.facebook.com/events/264092901561024/"]
-      },
-      {
-        "time": "2020-06-18T20:00:00+03:00",
-        "name": "PubQuiz Online",
-        "price": ["200 UAH/ком"],
-        "url": ["https://www.facebook.com/events/895635034269673/"]
-      },
-      {
-        "time": "2020-06-25T20:00:00+03:00",
-        "name": "Movie Quiz Online",
-        "price": ["200 UAH/ком"],
-        "url": ["https://www.facebook.com/events/567517933959031/"]
-      }
     ]
   }
 ]

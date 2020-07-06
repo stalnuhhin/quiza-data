@@ -8,7 +8,6 @@
     "duration": 2,
     "url": ["http://vk.com/qlever_quiz"],
     "games": [
-      { "time": "2020-06-09T16:30:00Z", "name": "Я ❤ Питер! (ден.приз)", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/5625" ], "qpid": "5625", "qpuid": "2852", "qpuname": "QLEVER - Включай мозги!", "cat": "other" }
     ]
   }
 ]

@@ -8,16 +8,6 @@
     "price": ["20 EUR/ком", "4 EUR/чел"],
     "url": ["https://www.facebook.com/pg/eurekaintellectualgames/posts"],
     "games": [
-      {
-        "time": "2020-06-02T19:00:00+03:00",
-        "name": "Eureka #5 (139): Лихие 1990-е",
-        "url": ["https://www.facebook.com/events/671681280047579"]
-      },
-      {
-        "time": "2020-06-16T19:00:00+03:00",
-        "name": "Eureka #6 (140): Галопом по Европе",
-        "url": ["https://www.facebook.com/events/536222637260522"]
-      }
     ]
   }
 ]

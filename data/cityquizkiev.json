@@ -10,11 +10,6 @@
     "price": ["300 UAH/ком"],
     "url": ["https://www.facebook.com/pg/cityquizshow/events", "https://cityquiz.club/kiev"],
     "games": [
-      {
-        "time": "2020-06-03T20:00:00+03:00",
-        "name": "City Quiz Online #11",
-        "url": ["https://www.facebook.com/events/288720502162657/"]
-      }
     ]
   }
 ]

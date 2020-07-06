@@ -15,61 +15,6 @@
     },
     "games": [
       {
-        "time": "2020-06-04T20:00:00+03:00",
-        "name": "Летняя серия Bee Clever. Cinema",
-        "template": "chgk",
-        "price": ["280 RUB/ком", "110 UAH/ком", "4 USD/ком", "3.6 EUR/ком"],
-        "url": ["https://www.facebook.com/events/1109123729466039/"]
-      },
-      {
-        "time": "2020-06-04T23:00:00+03:00",
-        "name": "Кубок карантина, дубль 2 - регистрация на Своя Игра",
-        "price": ["300 RUB/ком", "110 UAH/ком", "4 USD/ком", "3.6 EUR/ком"],
-        "url": ["https://www.facebook.com/events/568287237157823/"]
-      },
-      {
-        "time": "2020-06-06T16:00:00+03:00",
-        "name": "Летняя серия Bee Clever. Soft",
-        "template": "chgk",
-        "price": ["280 RUB/ком", "110 UAH/ком", "4 USD/ком", "3.6 EUR/ком"],
-        "url": ["https://www.facebook.com/events/2565393403561062/"]
-      },
-      {
-        "time": "2020-06-11T20:00:00+03:00",
-        "name": "Летняя серия Bee Clever. Спорт",
-        "template": "chgk",
-        "price": ["300 RUB/ком", "110 UAH/ком", "4 USD/ком", "3.6 EUR/ком"],
-        "url": ["https://www.facebook.com/events/765799754228995/"]
-      },
-      {
-        "time": "2020-06-13T16:00:00+03:00",
-        "name": "Летняя серия Bee Clever. The Best - 2",
-        "template": "chgk",
-        "price": ["300 RUB/ком", "110 UAH/ком", "4 USD/ком", "3.6 EUR/ком"],
-        "url": ["https://www.facebook.com/events/647404289196871/"]
-      },
-      {
-        "time": "2020-06-18T20:00:00+03:00",
-        "name": "Летняя серия Bee Clever. Чёрное ЧГК",
-        "template": "chgk",
-        "price": ["300 RUB/ком", "110 UAH/ком", "4 USD/ком", "3.6 EUR/ком"],
-        "url": ["https://www.facebook.com/events/557678485120072/"]
-      },
-      {
-        "time": "2020-06-24T20:00:00+03:00",
-        "name": "Гео ЧГК: Around The World Wide Web",
-        "template": "chgk",
-        "price": ["700 RUB/ком", "240 UAH/ком"],
-        "url": ["https://www.facebook.com/events/917231562082900/"]
-      },
-      {
-        "time": "2020-06-25T20:00:00+03:00",
-        "name": "Летняя серия Bee Clever. The Best - 3",
-        "template": "chgk",
-        "price": ["300 RUB/ком", "110 UAH/ком", "4 USD/ком", "3.6 EUR/ком"],
-        "url": ["https://www.facebook.com/events/362705998025225/"]
-      },
-      {
         "time": "2020-07-02T20:00:00+03:00",
         "name": "Летняя серия Bee Clever. Физики и лирики",
         "template": "chgk",

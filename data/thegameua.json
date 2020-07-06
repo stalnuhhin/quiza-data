@@ -8,10 +8,6 @@
     "image": "thegameua.png",
     "url": ["https://www.facebook.com/pg/theGame.ua/events"],
     "games": [
-      { "time": "2020-06-17T20:00:00+03:00", "name": "Теория большого взрыва", "chgk": true, "price": [ "300 UAH/ком", "11 USD/ком" ], "url": [ "https://www.facebook.com/events/387221798860762" ] },
-      { "time": "2020-06-23T20:00:00+03:00", "name": "The Witcher (The GAME 2)", "chgk": true, "price": [ "300 UAH/ком", "12 USD/ком" ], "url": [ "https://www.facebook.com/events/326073685046887" ] },
-      { "time": "2020-06-25T20:00:00+03:00", "name": "Полесские хроники", "chgk": true, "price": [ "850 RUB/ком", "300 UAH/ком", "12 USD/ком" ], "url": [ "https://www.facebook.com/groups/229434871583483/permalink/283456262848010/" ] },
-      { "time": "2020-06-27T17:00:00+03:00", "name": "Теория большого взрыва", "chgk": true, "price": [ "600 RUB/ком" ], "url": [ "https://chgk-world.ru/tournaments/129" ] },
       { "time": "2020-07-07T20:00:00+03:00", "name": "Owl Mamy Blue", "chgk": true, "price": [ "300 UAH/ком" ], "url": [ "https://www.facebook.com/events/314735579555884/" ] },
       { "time": "2020-07-08T20:00:00+03:00", "name": "The Witcher (The GAME 2)", "chgk": true, "price": [ "300 UAH/ком", "12 USD/ком" ], "url": [ "https://www.facebook.com/events/3242073305844453" ] },
       { "time": "2020-07-09T20:30:00+03:00", "name": "Чернобыль СЕРИАЛ", "chgk": true, "price": [ "300 UAH/ком" ], "url": [ "https://www.facebook.com/events/643012686297166" ] },

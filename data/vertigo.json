@@ -8,19 +8,6 @@
     "duration": 1.5,
     "url": ["https://vk.com/vertigoquiz"],
     "games": [
-      { "time": "2020-06-04T16:00:00Z", "name": "ВертиGO Online #8 (повтор игры от 30 мая)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5266" ] },
-      {
-        "time": "2020-06-06T17:00:00+03:00",
-        "name": "ВертиGO Youtube #4",
-        "free": true,
-        "donation": true,
-        "url": ["https://vk.com/wall-144404394_17161"]
-      },
-      { "time": "2020-06-11T16:00:00Z", "name": "ВертиGO Online #9", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/5511" ], "qpid": "5511", "qpuid": "2783", "qpuname": "ВертиGO", "cat": "common_knowledge" },
-      { "time": "2020-06-13T17:00:00Z", "name": "ВертиGO Online", "free": true, "donate": true, "url": [ "https://vk.com/wall-144404394_17248" ] },
-      { "time": "2020-06-20T17:00:00Z", "name": "ВертиGO Online", "price": [ "500 RUB/ком" ], "url": [ "https://vk.com/wall-144404394_17263" ] },
-      { "time": "2020-06-22T16:00:00Z", "name": "ВертиGO Online #10", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6297" ], "qpid": "6297", "qpuid": "2783", "qpuname": "ВертиGO", "cat": "common_knowledge" },
-      { "time": "2020-06-27T16:00:00Z", "name": "ВертиGO Online #11", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6298" ], "qpid": "6298", "qpuid": "2783", "qpuname": "ВертиGO", "cat": "common_knowledge" },
       { "time": "2020-07-02T14:00:00Z", "name": "ВертиGO Online #12", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6610" ], "qpid": "6610", "qpuid": "2783", "qpuname": "ВертиGO", "cat": "common_knowledge" },
       { "time": "2020-07-02T17:00:00Z", "name": "ВертиGO Online #12", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6611" ], "qpid": "6611", "qpuid": "2783", "qpuname": "ВертиGO", "cat": "common_knowledge" },
       { "time": "2020-07-11T14:00:00Z", "name": "ВертиGO Online #13", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6826" ], "qpid": "6826", "qpuid": "2783", "qpuname": "ВертиGO", "cat": "common_knowledge" }

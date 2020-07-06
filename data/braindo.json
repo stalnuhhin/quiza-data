@@ -9,16 +9,6 @@
     "image": "braindo.png",
     "url": ["https://www.facebook.com/pg/Braindoclub/events/"],
     "games": [
-      {
-        "time": "2020-06-20T11:00:00+03:00",
-        "name": "BRAINDO Кубок Мёбиуса: Авторский турнир",
-        "price": ["2400 RUB/ком за 2 игры"]
-      },
-      {
-        "time": "2020-06-27T11:00:00+03:00",
-        "name": "BRAINDO Кубок Мёбиуса: Календарный турнир",
-        "price": ["2400 RUB/ком за 2 игры"]
-      }
     ]
   }
 ]

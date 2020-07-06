@@ -8,16 +8,6 @@
     "duration": 2.5,
     "url": ["https://iq-battle.ru"],
     "games": [
-      {
-        "time": "2020-06-07T19:00:00+03:00",
-        "name": "ONLINE Игра #22",
-        "price": ["500 RUB/ком"]
-      },
-      {
-        "time": "2020-06-21T19:00:00+03:00",
-        "name": "ONLINE Игра #23",
-        "price": ["500 RUB/ком"]
-      }
     ]
   }
 ]

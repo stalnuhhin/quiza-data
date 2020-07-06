@@ -10,13 +10,6 @@
     "price": ["50 UAH/чел"],
     "url": ["https://www.facebook.com/pg/quiztime.kr/events/"],
     "games": [
-      {
-        "time": "2020-06-10T16:00:00+03:00",
-        "name": "QUIZ Велодрайв",
-        "free": true,
-        "donate": true,
-        "url": ["https://www.facebook.com/events/706509746778603/"]
-      }
     ]
   }
 ]

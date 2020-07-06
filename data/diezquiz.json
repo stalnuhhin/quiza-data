@@ -8,15 +8,6 @@
     "duration": 2,
     "url": ["https://www.facebook.com/pg/diezquiz/events"],
     "games": [
-      {
-        "time": "2020-06-15T19:30:00+03:00",
-        "name": "Угадай мелодию Online - Живой звук",
-        "price": [
-          "1500 RUB/ком", "600 RUB/1-2чел", "500 UAH/ком", "200 UAH/1-2чел", "20 USD/ком", "8 USD/1-2чел", "18 EUR/ком",
-          "7.5 EUR/1-2чел"
-        ],
-        "url": ["https://www.facebook.com/events/232813364678030/"]
-      }
     ]
   }
 ]

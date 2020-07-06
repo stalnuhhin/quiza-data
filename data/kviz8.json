@@ -10,18 +10,6 @@
     "url": ["https://www.facebook.com/pg/QuizN8/events/"],
     "games": [
       {
-        "time": "2020-06-11T20:00:00+03:00",
-        "name": "Квиз N8. Пятая игра сезона",
-        "price": ["400 UAH/ком"],
-        "url": ["https://www.facebook.com/events/697718147744496/"]
-      },
-      {
-        "time": "2020-06-25T20:00:00+03:00",
-        "name": "Квиз N8. Шестая Игра",
-        "price": ["400 UAH/ком"],
-        "url": ["https://www.facebook.com/events/294114448384340/"]
-      },
-      {
         "time": "2020-07-09T20:00:00+03:00",
         "name": "Квиз N8. 7 Игра",
         "price": ["400 UAH/ком"],

@@ -10,26 +10,6 @@
     "price": ["990 RUB/ком"],
     "url": ["https://vk.com/bbquizmoscow", "https://www.brainbarquiz.ru"],
     "games": [
-      {
-        "time": "2020-06-06T17:00:00+03:00",
-        "name": "BrainBar Quiz: Хобби и увлечения",
-        "url": ["https://vk.com/wall-138515221_4732"]
-      },
-      {
-        "time": "2020-06-13T17:00:00+03:00",
-        "name": "BrainBar Quiz: Чёрный квиз",
-        "url": ["https://vk.com/wall-138515221_4732"]
-      },
-      {
-        "time": "2020-06-20T17:00:00+03:00",
-        "name": "BrainBar Quiz Home",
-        "url": ["https://vk.com/wall-138515221_4793"]
-      },
-      {
-        "time": "2020-06-28T17:00:00+03:00",
-        "name": "Квиз по вселенной Гарри Поттера",
-        "url": ["https://vk.com/wall-138515221_4838"]
-      }
     ]
   }
 ]

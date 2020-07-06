@@ -8,25 +8,6 @@
     "image": "wednesdaypubquiz.png",
     "url": ["https://www.facebook.com/pg/wednesdayquiz/events"],
     "games": [
-      {
-        "time": "2020-06-03T20:00:00+03:00",
-        "name": "Wednesday Harry Potter Quiz",
-        "price": ["100 UAH/чел"],
-        "url": ["https://www.facebook.com/events/598818380743281/"]
-      },
-      {
-        "time": "2020-06-07T18:00:00+03:00",
-        "name": "Wednesday ReRun Game #2",
-        "free": true,
-        "donate": true,
-        "url": ["https://www.facebook.com/events/233343551439105/"]
-      },
-      {
-        "time": "2020-06-10T20:00:00+03:00",
-        "name": "Wednesday Online Quiz #10",
-        "price": ["100 UAH/чел"],
-        "url": ["https://www.facebook.com/events/751471448954845/"]
-      }
     ]
   }
 ]

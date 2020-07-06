@@ -9,55 +9,6 @@
     "url": ["https://www.facebook.com/profile.php?id=100017788444620"],
     "games": [
       {
-        "time": "2020-06-02T20:00:00+03:00",
-        "name": "Летняя кинолига",
-        "chgk": true,
-        "price": ["6 USD/ком", "160 UAH/ком"],
-        "url": ["https://www.facebook.com/events/245724456716803/"]
-      },
-      {
-        "time": "2020-06-10T20:00:00+03:00",
-        "name": "Queen's League. Игра первая",
-        "chgk": true,
-        "price": ["7 USD/ком", "180 UAH/ком"],
-        "url": ["https://www.facebook.com/events/s/queens-league-%D0%B8%D0%B3%D1%80%D0%B0-%D0%BF%D0%B5%D1%80%D0%B2%D0%B0%D1%8F/1041334736268822/"]
-      },
-      {
-        "time": "2020-06-16T20:00:00+03:00",
-        "name": "FatLazyRaccoon CUP",
-        "chgk": true,
-        "price": ["10 USD/ком", "270 UAH/ком"],
-        "url": ["https://www.facebook.com/events/s/fatlazyraccoon-cup/249771329639779/"]
-      },
-      {
-        "time": "2020-06-18T20:00:00+03:00",
-        "name": "Вечер парного ЧГК",
-        "chgk": true,
-        "price": ["4.5 USD/ком", "120 UAH/ком"],
-        "url": ["https://www.facebook.com/events/723277501817480/"]
-      },
-      {
-        "time": "2020-06-23T20:00:00+03:00",
-        "name": "Бесконечные земли. Том І",
-        "chgk": true,
-        "price": ["9 USD/ком", "1250 UAH/ком"],
-        "url": ["https://www.facebook.com/events/590847125176481/"]
-      },
-      {
-        "time": "2020-06-25T20:00:00+03:00",
-        "name": "Вечер парного ЧГК",
-        "chgk": true,
-        "price": ["4 USD/ком", "110 UAH/ком"],
-        "url": ["https://www.facebook.com/events/263133158350759/"]
-      },
-      {
-        "time": "2020-06-30T20:00:00+03:00",
-        "name": "FatLazyRaccoon CUP",
-        "chgk": true,
-        "price": ["10 USD/ком", "270 UAH/ком"],
-        "url": ["https://www.facebook.com/events/261984911567872/"]
-      },
-      {
         "time": "2020-07-02T20:00:00+03:00",
         "name": "Owl Mamy Blue",
         "chgk": true,

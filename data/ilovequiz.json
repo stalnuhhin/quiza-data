@@ -9,41 +9,6 @@
     "image": "ilovequiz.png",
     "url": ["https://old.ilovequiz.ru/", "https://ilovequiz.ru", "https://www.facebook.com/ilovequiz"],
     "games": [
-      {
-        "time": "2020-06-04T20:00:00+03:00",
-        "name": "Игра престолов (повтор)",
-        "url": ["https://old.ilovequiz.ru/game/109/"]
-      },
-      {
-        "time": "2020-06-05T20:00:00+03:00",
-        "name": "Online 8.1",
-        "url": ["https://old.ilovequiz.ru/game/110/"]
-      },
-      {
-        "time": "2020-06-06T17:00:00+03:00",
-        "name": "Online 8.2",
-        "url": ["https://old.ilovequiz.ru/game/111/"]
-      },
-      {
-        "time": "2020-06-11T20:00:00+03:00",
-        "name": "Еда",
-        "url": ["https://old.ilovequiz.ru/game/112/"]
-      },
-      {
-        "time": "2020-06-12T17:00:00+03:00",
-        "name": "Еда (повтор)",
-        "url": ["https://old.ilovequiz.ru/game/113/"]
-      },
-      {
-        "time": "2020-06-24T20:00:00+03:00",
-        "name": "Online 9.1",
-        "url": ["https://old.ilovequiz.ru/game/114/"]
-      },
-      {
-        "time": "2020-06-25T20:00:00+03:00",
-        "name": "Online 9.2",
-        "url": ["https://old.ilovequiz.ru/game/115/"]
-      }
     ]
   }
 ]

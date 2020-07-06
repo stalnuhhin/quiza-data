@@ -23,15 +23,6 @@
       }
     },
     "games": [
-      {"time": "2020-06-02T19:30:00+03:00", "template": "zimnjajaraduga"},
-      {"time": "2020-06-03T19:00:00+03:00", "template": "zimnjajaraduga"},
-      {"time": "2020-06-06T18:30:00+03:00", "template": "zimnjajaraduga"},
-      {"time": "2020-06-14T18:30:00+03:00", "name": "ТРИОтлон-4", "chgk": true, "price": ["200 RUB/чел", "350 RUB/2-3чел", "450 RUB/ком"], "url": ["https://www.facebook.com/groups/229434871583483/permalink/277389720121331/"]},
-      {"time": "2020-06-18T19:30:00+03:00", "template": "smolenskkrepost2019lite", "url": ["https://docs.google.com/forms/d/e/1FAIpQLScdgjOG9W9NhB1B6P5rbm8u5cgmT6YaEDrAJWJesEDe4IlJIg/viewform"]},
-      {"time": "2020-06-19T15:30:00+03:00", "template": "smolenskkrepost2019lite", "url": ["https://docs.google.com/forms/d/1R5NjyOrMxozzOBK36zZUwTQ7Jj80Zr1ZIhSXMf1oKyU/viewform"]},
-      {"time": "2020-06-22T19:00:00+03:00", "template": "smolenskkrepost2019lite", "url": ["https://docs.google.com/forms/d/1nRKmgfBXOiGcYgmrzGXFzuH5X9VzeLieeKgoyXRCu2w/viewform"]},
-      {"time": "2020-06-26T19:30:00+03:00", "template": "smolenskkrepost2019hard", "url": ["https://docs.google.com/forms/d/1kILsYnNaNw-LyErLjcVznH46uBnBvMlp3kMYh8kpJL0/viewform"]},
-      {"time": "2020-06-27T19:30:00+03:00", "template": "smolenskkrepost2019hard", "url": ["https://docs.google.com/forms/d/1R5NjyOrMxozzOBK36zZUwTQ7Jj80Zr1ZIhSXMf1oKyU/viewform"]},
       {"time": "2020-07-06T19:30:00+03:00", "name": "Лёгкий Смоленск-4", "chgk": true, "price": ["200 RUB/чел", "350 RUB/2-3чел", "450 RUB/ком"], "url": ["https://docs.google.com/forms/d/e/1FAIpQLScwOzc4dxC9lIXby-aFEnMVWC4uXPv2ok5fgrcE1wum08g0EA/viewform"]}
     ]
   }

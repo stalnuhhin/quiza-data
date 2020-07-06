@@ -11,10 +11,6 @@
     "image": "braingazm.png",
     "url": ["http://braingazm.ru", "https://vk.com/braingazm_ru"],
     "games": [
-      {"time": "2020-06-06T16:00:00+03:00"},
-      {"time": "2020-06-13T19:00:00+03:00"},
-      {"time": "2020-06-20T16:00:00+03:00"},
-      {"time": "2020-06-27T16:00:00+03:00"}
     ]
   }
 ]

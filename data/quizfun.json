@@ -9,10 +9,6 @@
     "image": "quizfun.png",
     "url": ["https://vk.com/quizfun_online"],
     "games": [
-      {"time": "2020-06-07T18:00:00+03:00", "price": ["150 RUB/чел", "900 RUB/ком"], "url": ["https://vk.com/wall-193637731_386"]},
-      {"time": "2020-06-14T18:00:00+03:00", "free": true, "donate": true, "url": ["https://vk.com/wall-193637731_425"]},
-      {"time": "2020-06-21T18:00:00+03:00", "free": true, "donate": true, "url": ["https://vk.com/wall-193637731_455"]},
-      {"time": "2020-06-28T18:00:00+03:00", "free": true, "donate": true, "url": ["https://vk.com/wall-193637731_484"]},
       {"time": "2020-07-12T18:00:00+03:00", "price": ["900 RUB/ком"], "url": ["https://vk.com/wall-193637731_513"]}
     ]
   }

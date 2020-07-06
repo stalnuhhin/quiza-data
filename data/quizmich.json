@@ -8,12 +8,6 @@
     "duration": 2,
     "url": ["https://vk.com/quizmich"],
     "games": [
-      {
-        "time": "2020-06-09T19:00:00+03:00",
-        "name": "QuizMich #2",
-        "price": ["20 BYN/ком", "600 RUB/ком"],
-        "url": ["https://vk.com/wall-195478937_26"]
-      }
     ]
   }
 ]

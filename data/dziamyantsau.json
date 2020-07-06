@@ -8,12 +8,6 @@
     "chgk": true,
     "duration": 2,
     "games": [
-      {
-        "time": "2020-06-12T20:00:00+03:00",
-        "name": "12-й игрок (футбольный асинхрон)",
-        "price": ["12 USD/ком", "850 RUB/ком", "300 UAH/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/274478560412447/"]
-      }
     ]
   }
 ]
