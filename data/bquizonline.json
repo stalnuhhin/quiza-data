@@ -2,7 +2,7 @@
   {
     "id": "17eecd0c-51fa-4c7e-80b1-3c7f91637838",
     "org": "B-Quiz Online",
-    "latestCheck": "2020-06-27T12:00:00+03:00",
+    "latestCheck": "2020-07-06T12:00:00+03:00",
     "type": ["events"],
     "image": "bquiz.png",
     "duration": 3,
@@ -20,6 +20,11 @@
         "time": "2020-06-18T19:00:00+03:00",
         "name": "B-QUIZ 1 буква",
         "url": ["https://vk.com/wall-193516419_59"]
+      },
+      {
+        "time": "2020-07-02T20:00:00+03:00",
+        "name": "B-QUIZ Roulette",
+        "url": ["https://vk.com/wall-111884356_3984"]
       }
     ]
   }

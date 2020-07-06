@@ -2,7 +2,7 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-07-03T12:00:00+03:00",
+    "latestCheck": "2020-07-06T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
@@ -21,97 +21,112 @@
       },
       "ligastarta16": {
         "name": "Лига старта XVI",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "kubikbesk1": {
         "name": "Кубик бесконечности - 1",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "letokinoliga": {
         "name": "Летняя кинолига",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "kubokkabachkov": {
         "name": "Кубок кабачков - 2020",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "lite35": {
         "name": "Синхрон-lite XXXV",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "vesenijsalat": {
         "name": "Весенний салат",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "arkticheskoe": {
         "name": "Арктическое зеркало",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "buildingstories": {
         "name": "Building Stories",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "tuganbaev": {
         "name": "Мемориал Диара Туганбаева",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "intermezzo": {
         "name": "Intermezzo-2020",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "triptihleto": {
         "name": "Триптих. Лето",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "donat2020": {
         "name": "Донат - 2020",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "beskzemli1": {
         "name": "Бесконечные земли. Том I",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "zelenyjshum2": {
         "name": "Зеленый шум-2",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "polesskiehron": {
         "name": "Полесские хроники",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "owlmamyblue": {
         "name": "Owl Mamy Blue",
-        "price": ["500 RUB/ком", "150 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "asinhprostyhvoprosov": {
         "name": "Асинхрон простых вопросов",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "top1000": {
         "name": "Топ-1000",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "tbv": {
         "name": "Теория большого взрыва",
-        "price": ["800 RUB/ком", "240 UAH/ком"],
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      "kipr": {
+        "name": "Синхрон чемпионата Кипра",
+        "price": ["1200 RUB/ком", "420 UAH/ком", "17 USD/ком", "15 EUR/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      "belyenochi": {
+        "name": "Асинхрон Белых ночей",
+        "price": ["900 RUB/ком", "320 UAH/ком", "13 USD/ком", "11.5 EUR/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      "sosedgalaktiki": {
+        "name": "Кубок соседней галактики. Эпсилон",
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       }
     },
@@ -218,7 +233,14 @@
       {"time": "2020-07-05T11:00:00+03:00", "template": "kubokkabachkov"},
       {"time": "2020-07-05T16:30:00+03:00", "template": "tbv"},
       {"time": "2020-07-05T19:00:00+03:00", "template": "top1000"},
-      {"time": "2020-07-06T21:30:00+03:00", "template": "zelenyjshum2"}
+      {"time": "2020-07-05T21:30:00+03:00", "template": "kipr"},
+      {"time": "2020-07-06T19:00:00+03:00", "template": ""},
+      {"time": "2020-07-06T21:30:00+03:00", "template": "zelenyjshum2"},
+      {"time": "2020-07-07T19:00:00+03:00", "template": "top1000"},
+      {"time": "2020-07-07T21:30:00+03:00", "template": "belyenochi"},
+      {"time": "2020-07-08T19:00:00+03:00", "template": "belyenochi"},
+      {"time": "2020-07-08T21:30:00+03:00", "template": "asinhprostyhvoprosov"},
+      {"time": "2020-07-09T19:00:00+03:00", "template": "top1000"}
     ]
   }
 ]

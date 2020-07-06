@@ -2,7 +2,7 @@
   {
     "id": "194c83b3-6690-4589-9a15-3cf6b62fdd63",
     "org": "Андрей Кругов",
-    "latestCheck": "2020-07-03T12:00:00+03:00",
+    "latestCheck": "2020-07-06T12:00:00+03:00",
     "type": ["events"],
     "image": "krugov.png",
     "duration": 2,
@@ -56,6 +56,18 @@
       "prostyh": {
         "name": "Синхрон простых вопросов",
         "price": ["900 RUB/ком"]
+      },
+      "familigry": {
+        "name": "Фамильные игры",
+        "price": ["200 RUB/чел", "350 RUB/2чел", "500 RUB/ком"]
+      },
+      "kipr": {
+        "name": "Чемпионат Кипра",
+        "price": ["1200 RUB/ком"]
+      },
+      "sosedgalktika": {
+        "name": "Кубок соседней галактики",
+        "price": ["800 RUB/ком"]
       }
     },
     "games": [
@@ -80,7 +92,10 @@
       {"time": "2020-07-02T22:00:00+03:00", "template": "prostyh", "url": ["https://forms.gle/pP2SsRnrxqW9hMYE6"]},
       {"time": "2020-07-03T19:30:00+03:00", "template": "prostyh", "url": ["https://forms.gle/LCYPCZ13urUmRPdq5"]},
       {"time": "2020-07-03T22:00:00+03:00", "template": "top1000", "url": ["https://forms.gle/rFC2o9Tfg92tzc1m6"]},
-      {"time": "2020-07-05T20:00:00+03:00", "template": "top1000", "url": ["https://forms.gle/CYuELvocCPYeK8869"]}
+      {"time": "2020-07-05T20:00:00+03:00", "template": "top1000", "url": ["https://forms.gle/CYuELvocCPYeK8869"]},
+      {"time": "2020-07-08T20:00:00+03:00", "template": "familigry", "url": ["https://forms.gle/GS7iCEXYXAwdF6jp9"]},
+      {"time": "2020-07-09T20:00:00+03:00", "template": "kipr", "url": ["https://forms.gle/Brze8YWeMfemfWPj6"]},
+      {"time": "2020-07-10T20:00:00+03:00", "template": "sosedgalktika", "url": ["https://forms.gle/e7S9xSdri6qeZG9N7"]}
     ]
   }
 ]

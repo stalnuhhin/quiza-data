@@ -2,7 +2,7 @@
   {
     "id": "61f66a97-a27d-435d-a8f1-e7af4e4d8b81",
     "org": "Мозгомания",
-    "latestCheck": "2020-07-03T12:00:00+03:00",
+    "latestCheck": "2020-07-06T12:00:00+03:00",
     "type": ["events"],
     "image": "mozgomania.png",
     "duration": 2,
@@ -100,7 +100,10 @@
       { "time": "2020-07-06T15:00:00Z", "name": "Юморомания №2. Повтор [II]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6647" ], "qpid": "6647", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "common_knowledge" },
       { "time": "2020-07-06T18:00:00Z", "name": "Киномания XV. Премьера", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6648" ], "qpid": "6648", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
       { "time": "2020-07-07T12:00:00Z", "name": "Киномания XV. Повтор [I]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6649" ], "qpid": "6649", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
-      { "time": "2020-07-07T15:00:00Z", "name": "Киномания XV. Повтор [II]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6650" ], "qpid": "6650", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" }
+      { "time": "2020-07-07T15:00:00Z", "name": "Киномания XV. Повтор [II]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6650" ], "qpid": "6650", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-07-12T18:00:00Z", "name": "Юморомания №2. Премьера.", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6645" ], "qpid": "6645", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "common_knowledge" },
+      { "time": "2020-07-13T12:00:00Z", "name": "Юморомания №2. Повтор [I]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6646" ], "qpid": "6646", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "common_knowledge" },
+      { "time": "2020-07-13T15:00:00Z", "name": "Юморомания №2. Повтор [II]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6647" ], "qpid": "6647", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "common_knowledge" }
     ]
   }
 ]

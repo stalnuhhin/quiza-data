@@ -2,7 +2,7 @@
   {
     "id": "e493f95d-bd47-4b34-ab63-4e8c1316cfee",
     "org": "Интеллектуальный кубок",
-    "latestCheck": "2020-07-03T12:00:00+03:00",
+    "latestCheck": "2020-07-06T12:00:00+03:00",
     "type": ["events"],
     "image": "intellektualnyykubok.png",
     "duration": 2,
@@ -33,6 +33,11 @@
         "time": "2020-07-03T20:00:00+03:00",
         "name": "Интеллектуальный кубок онлайн \"Радость от ума\" с Борисом Белозеровым",
         "url": ["https://intellektualnyy-kubok.timepad.ru/event/1345593/"]
+      },
+      {
+        "time": "2020-07-10T20:00:00+03:00",
+        "name": "Интеллектуальный кубок онлайн \"Радость от ума\" с Борисом Белозеровым",
+        "url": ["https://intellektualnyy-kubok.timepad.ru/event/1350164/"]
       }
     ]
   }

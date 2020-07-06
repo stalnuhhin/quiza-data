@@ -2,7 +2,7 @@
   {
     "id": "dd21699d-086e-4a92-8867-fadacbe496bb",
     "org": "OMG! One More Game",
-    "latestCheck": "2020-06-27T12:00:00+03:00",
+    "latestCheck": "2020-07-06T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "omg.png",
@@ -10,7 +10,8 @@
     "games": [
       { "time": "2020-06-09T19:30:00+03:00", "name": "OMG Song", "free": true, "donate": true, "url": [ "https://www.facebook.com/onemoregameeurope/posts/2652850421637347" ] },
       { "time": "2020-06-16T19:30:00+03:00", "name": "OMG Film", "free": true, "donate": true, "url": [ "https://www.facebook.com/onemoregameeurope/posts/2652850421637347" ] },
-      { "time": "2020-06-22T19:30:00+03:00", "name": "OMG Hardcore", "free": true, "donate": true, "url": [ "https://www.facebook.com/onemoregameeurope/posts/2667946493461073" ] }
+      { "time": "2020-06-22T19:30:00+03:00", "name": "OMG Hardcore", "free": true, "donate": true, "url": [ "https://www.facebook.com/onemoregameeurope/posts/2667946493461073" ] },
+      { "time": "2020-07-08T19:30:00+03:00", "name": "One More Song Online", "price": ["1000 RUB/ком"], "url": ["https://www.facebook.com/onemoregameeurope/posts/2681659525423103"] }
     ]
   }
 ]

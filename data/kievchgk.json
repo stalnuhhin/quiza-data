@@ -2,7 +2,7 @@
   {
     "id": "1482b61a-0e8c-4f7b-b99e-79ac41502c68",
     "org": "ЧГК в Киеве",
-    "latestCheck": "2020-06-30T12:00:00+03:00",
+    "latestCheck": "2020-07-06T12:00:00+03:00",
     "type": ["events"],
     "image": "kievchgk.png",
     "duration": 2,
@@ -30,6 +30,20 @@
         "free": true,
         "donate": true,
         "url": ["https://www.facebook.com/events/258630605390221/"]
+      },
+      {
+        "time": "2020-06-15T19:30:00+03:00",
+        "name": "Онлайн ЧГК I от #kievchgk. 2 сезон",
+        "chgk": true,
+        "price": ["300 UAH/ком"],
+        "url": ["https://www.facebook.com/events/668891447033073/"]
+      },
+      {
+        "time": "2020-06-18T19:00:00+03:00",
+        "name": "Асинхрон «Вечный полдень»",
+        "chgk": true,
+        "price": ["300 UAH/ком"],
+        "url": ["https://www.facebook.com/events/668891447033073/"]
       }
     ]
   }

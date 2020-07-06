@@ -2,7 +2,7 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2020-06-30T12:00:00+03:00",
+    "latestCheck": "2020-07-06T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
@@ -75,6 +75,13 @@
         "template": "chgk",
         "price": ["300 RUB/ком", "110 UAH/ком", "4 USD/ком", "3.6 EUR/ком"],
         "url": ["https://www.facebook.com/events/649738872292207"]
+      },
+      {
+        "time": "2020-07-09T20:00:00+03:00",
+        "name": "Белые ночи",
+        "template": "chgk",
+        "price": ["800 RUB/ком", "300 UAH/ком", "11 USD/ком"],
+        "url": ["https://www.facebook.com/events/2589394837969442"]
       }
     ]
   }
