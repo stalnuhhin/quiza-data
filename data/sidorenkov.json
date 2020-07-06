@@ -2,7 +2,7 @@
   {
     "id": "529d90d1-64a5-46b4-aa5e-8c4df9a10d02",
     "org": "Александр Сидоренков",
-    "latestCheck": "2020-07-06T12:00:00+03:00",
+    "latestCheck": "2020-07-07T12:00:00+03:00",
     "type": ["events"],
     "image": "chgkrating.png",
     "chgk": true,
@@ -31,7 +31,8 @@
       {"time": "2020-06-19T15:30:00+03:00", "template": "smolenskkrepost2019lite", "url": ["https://docs.google.com/forms/d/1R5NjyOrMxozzOBK36zZUwTQ7Jj80Zr1ZIhSXMf1oKyU/viewform"]},
       {"time": "2020-06-22T19:00:00+03:00", "template": "smolenskkrepost2019lite", "url": ["https://docs.google.com/forms/d/1nRKmgfBXOiGcYgmrzGXFzuH5X9VzeLieeKgoyXRCu2w/viewform"]},
       {"time": "2020-06-26T19:30:00+03:00", "template": "smolenskkrepost2019hard", "url": ["https://docs.google.com/forms/d/1kILsYnNaNw-LyErLjcVznH46uBnBvMlp3kMYh8kpJL0/viewform"]},
-      {"time": "2020-06-27T19:30:00+03:00", "template": "smolenskkrepost2019hard", "url": ["https://docs.google.com/forms/d/1R5NjyOrMxozzOBK36zZUwTQ7Jj80Zr1ZIhSXMf1oKyU/viewform"]}
+      {"time": "2020-06-27T19:30:00+03:00", "template": "smolenskkrepost2019hard", "url": ["https://docs.google.com/forms/d/1R5NjyOrMxozzOBK36zZUwTQ7Jj80Zr1ZIhSXMf1oKyU/viewform"]},
+      {"time": "2020-07-06T19:30:00+03:00", "name": "Лёгкий Смоленск-4", "chgk": true, "price": ["200 RUB/чел", "350 RUB/2-3чел", "450 RUB/ком"], "url": ["https://docs.google.com/forms/d/e/1FAIpQLScwOzc4dxC9lIXby-aFEnMVWC4uXPv2ok5fgrcE1wum08g0EA/viewform"]}
     ]
   }
 ]
