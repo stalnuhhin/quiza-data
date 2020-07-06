@@ -17,7 +17,11 @@
       { "time": "2020-06-28T11:30:00Z", "name": "Спорт #7. ФУТБОЛ", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6367" ], "qpid": "6367", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "sports" },
       { "time": "2020-06-28T14:30:00Z", "name": "Спорт #7. ФУТБОЛ", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6368" ], "qpid": "6368", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
       { "time": "2020-07-05T11:30:00Z", "name": "География #4", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6654" ], "qpid": "6654", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "other" },
-      { "time": "2020-07-05T14:30:00Z", "name": "География #4 (повтор от 14:30 МСК)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6655" ], "qpid": "6655", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "other" }
+      { "time": "2020-07-05T14:30:00Z", "name": "География #4 (повтор от 14:30 МСК)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6655" ], "qpid": "6655", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "other" },
+      { "time": "2020-07-09T13:30:00Z", "name": "Спорт без футбола #5", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6834" ], "qpid": "6834", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "sports" },
+      { "time": "2020-07-09T16:30:00Z", "name": "Спорт без футбола #5 (повтор от 16:30 мск)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6835" ], "qpid": "6835", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "sports" },
+      { "time": "2020-07-12T11:30:00Z", "name": "Игра в буквы #5", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6836" ], "qpid": "6836", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
+      { "time": "2020-07-12T14:30:00Z", "name": "Игра в буквы #5 (повтор от 14:30 МСК)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6837" ], "qpid": "6837", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" }
     ]
   }
 ]

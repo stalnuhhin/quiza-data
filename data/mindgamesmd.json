@@ -2,7 +2,7 @@
   {
     "id": "1e2e02a4-b771-4be8-90f1-7651d10433e4",
     "org": "MindGames.md",
-    "latestCheck": "2020-06-27T12:00:00+03:00",
+    "latestCheck": "2020-07-06T12:00:00+03:00",
     "type": ["events"],
     "image": "mindgamesmd.png",
     "url": ["http://quiz.mindgames.md", "https://www.facebook.com/mindgamesmd/events"],
@@ -20,6 +20,11 @@
       {
         "time": "2020-06-23T20:00:00+03:00",
         "name": "Home Quiz #13",
+        "free": true
+      },
+      {
+        "time": "2020-07-07T20:00:00+03:00",
+        "name": "Home Quiz #14",
         "free": true
       }
     ]
