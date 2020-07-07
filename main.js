@@ -1,4 +1,4 @@
-const DATA_VERSION = 170;
+const DATA_VERSION = 171;
 const DATAFILES = [
     "3x12trivianights.json",
     "artobstrel.json",
@@ -34,6 +34,7 @@ const DATAFILES = [
     "headtrick.json",
     "igravpass.json",
     "igryrazuma.json",
+    "igryvsempomoshchjsirotam.json",
     "ilovequiz.json",
     "imclub.json",
     "indigo.json",

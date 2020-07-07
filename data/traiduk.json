@@ -16,6 +16,13 @@
         "url": ["https://www.facebook.com/events/747021639400643/"]
       },
       {
+        "time": "2020-07-09T20:00:00+03:00",
+        "name": "Вечер парного ЧГК",
+        "chgk": true,
+        "price": ["4 USD/ком", "110 UAH/ком"],
+        "url": ["https://www.facebook.com/events/277631563507352"]
+      },
+      {
         "time": "2020-07-07T20:00:00+03:00",
         "name": "Топ-1000",
         "chgk": true,
