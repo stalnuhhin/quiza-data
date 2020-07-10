@@ -2,7 +2,7 @@
   {
     "id": "194c83b3-6690-4589-9a15-3cf6b62fdd63",
     "org": "Андрей Кругов",
-    "latestCheck": "2020-07-06T12:00:00+03:00",
+    "latestCheck": "2020-07-10T12:00:00+03:00",
     "type": ["events"],
     "image": "krugov.png",
     "duration": 2,
@@ -68,6 +68,10 @@
       "sosedgalktika": {
         "name": "Кубок соседней галактики",
         "price": ["800 RUB/ком"]
+      },
+      "beskzemli2": {
+        "name": "Бесконечные земли. Том II",
+        "price": ["900 RUB/ком"]
       }
     },
     "games": [
@@ -78,7 +82,9 @@
       {"time": "2020-07-05T20:00:00+03:00", "template": "top1000", "url": ["https://forms.gle/CYuELvocCPYeK8869"]},
       {"time": "2020-07-08T20:00:00+03:00", "template": "familigry", "url": ["https://forms.gle/GS7iCEXYXAwdF6jp9"]},
       {"time": "2020-07-09T20:00:00+03:00", "template": "kipr", "url": ["https://forms.gle/Brze8YWeMfemfWPj6"]},
-      {"time": "2020-07-10T20:00:00+03:00", "template": "sosedgalktika", "url": ["https://forms.gle/e7S9xSdri6qeZG9N7"]}
+      {"time": "2020-07-10T20:00:00+03:00", "template": "sosedgalktika", "url": ["https://forms.gle/e7S9xSdri6qeZG9N7"]},
+      {"time": "2020-07-12T20:00:00+03:00", "template": "beskzemli2", "url": ["https://forms.gle/uDXouoigdpU2fcLE8"]},
+      {"time": "2020-07-13T20:00:00+03:00", "template": "beskzemli2", "url": ["https://forms.gle/GNL2iEiHPnsgFoVh7"]}
     ]
   }
 ]

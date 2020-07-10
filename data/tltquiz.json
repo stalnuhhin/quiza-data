@@ -2,7 +2,7 @@
   {
     "id": "f88f473d-922e-4a86-a0b0-693a5d754a61",
     "org": "TLTQUIZ",
-    "latestCheck": "2020-07-06T12:00:00+03:00",
+    "latestCheck": "2020-07-10T12:00:00+03:00",
     "type": ["events"],
     "image": "tltquiz.png",
     "duration": 1,
@@ -14,7 +14,10 @@
       { "time": "2020-07-04T16:00:00Z", "name": "Упоротые ребусы #7! МЕГА-ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6690" ], "qpid": "6690", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
       { "time": "2020-07-04T19:10:00Z", "name": "Упоротые ребусы #7 - повтор супер-игры!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6691" ], "qpid": "6691", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
       { "time": "2020-07-05T13:00:00Z", "name": "Упоротые ребусы #7 - повтор супер-игры! ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6692" ], "qpid": "6692", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
-      { "time": "2020-07-06T16:00:00Z", "name": "ТаБуретКа online #38 - повтор от 03.07", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6689" ], "qpid": "6689", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" }
+      { "time": "2020-07-06T16:00:00Z", "name": "ТаБуретКа online #38 - повтор от 03.07", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6689" ], "qpid": "6689", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
+      { "time": "2020-07-11T16:00:00Z", "name": "МЕГА-ПРЕМЬЕРА! Упоротые Ребусы #8", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6930" ], "qpid": "6930", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
+      { "time": "2020-07-13T16:00:00Z", "name": "ТаБуретКа online #39 - ПРЕМЬЕРА!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6927" ], "qpid": "6927", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
+      { "time": "2020-07-13T19:10:00Z", "name": "ТаБуретКа online #39 - повтор от 19:00", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6928" ], "qpid": "6928", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" }
     ]
   }
 ]
