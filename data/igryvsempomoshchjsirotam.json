@@ -2,7 +2,7 @@
   {
     "id": "19327fad-bdaa-48b2-8c2a-35c641c1e11d",
     "org": "Игры - всем, помощь - сиротам!",
-    "latestCheck": "2020-07-08T12:00:00+03:00",
+    "latestCheck": "2020-07-10T12:00:00+03:00",
     "type": ["events"],
     "image": "igryvsempomoshchjsirotam.png",
     "duration": 2,
@@ -10,7 +10,12 @@
     "games": [
       {"time": "2020-07-06T19:45:00+03:00", "name": "Главные вопросы жизни, вселенной и всего такого", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/292236421969994/"]},
       {"time": "2020-07-08T19:45:00+03:00", "name": "Мемориал Диара Туганбаева - 2019", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/292236421969994/"]},
-      {"time": "2020-07-10T19:45:00+03:00", "name": "Августовский пунш - 2019", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/292236421969994/"]}
+      {"time": "2020-07-10T19:45:00+03:00", "name": "Августовский пунш - 2019", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/292236421969994/"]},
+      {"time": "2020-07-11T10:45:00+03:00", "name": "Кубок невМоГоТУ - 2019/Отбор на Бауманиаду", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/294342375092732/"]},
+      {"time": "2020-07-11T15:00:00+03:00", "name": "Кубок вМоГоТУ - 2019", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/294342375092732/"]},
+      {"time": "2020-07-11T19:45:00+03:00", "name": "Мемориал Диара Туганбаева - 2020", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/294342375092732/"]},
+      {"time": "2020-07-12T12:45:00+03:00", "name": "Блиц-марафон", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/294342375092732/"]},
+      {"time": "2020-07-12T19:45:00+03:00", "name": "33 избранных \"гроба\"", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/294342375092732/"]}
     ]
   }
 ]
