@@ -2,7 +2,7 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-07-10T12:00:00+03:00",
+    "latestCheck": "2020-07-13T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
@@ -21,6 +21,11 @@
       },
       "ligastarta16": {
         "name": "Лига старта XVI",
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      "ligastarta17": {
+        "name": "Лига старта XVII",
         "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
@@ -116,7 +121,7 @@
       },
       "kipr": {
         "name": "Синхрон чемпионата Кипра",
-        "price": ["1200 RUB/ком", "420 UAH/ком", "17 USD/ком", "15 EUR/ком"],
+        "price": ["1300 RUB/ком", "450 UAH/ком"],
         "url": ["https://tinyurl.com/sinhron"]
       },
       "belyenochi": {
@@ -179,7 +184,10 @@
       {"time": "2020-07-14T21:30:00+03:00", "template": "kipr"},
       {"time": "2020-07-15T19:00:00+03:00", "template": "ligastarta16"},
       {"time": "2020-07-15T21:30:00+03:00", "template": "asinhprostyhvoprosov"},
-      {"time": "2020-07-16T21:30:00+03:00", "template": "belyenochi"}
+      {"time": "2020-07-16T19:00:00+03:00", "template": "ligastarta17"},
+      {"time": "2020-07-16T21:30:00+03:00", "template": "ligastarta17"},
+      {"time": "2020-07-17T21:30:00+03:00", "template": "familnye"},
+      {"time": "2020-07-18T16:00:00+03:00", "template": "belyenochi"}
     ]
   }
 ]
