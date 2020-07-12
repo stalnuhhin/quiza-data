@@ -2,13 +2,14 @@
   {
     "id": "9a38daee-d1e7-4ed2-a2a5-679086ffd901",
     "org": "UmForum",
-    "name": "Online игра",
-    "latestCheck": "2020-07-06T12:00:00+03:00",
+    "name": "UmForum Online игра",
+    "latestCheck": "2020-07-13T12:00:00+03:00",
     "type": ["events"],
     "duration": 2.5,
     "image": "umforum.png",
     "url": ["https://vk.com/umforum", "https://vk.com/club193580211", "https://vk.com/umforum_vrn"],
     "games": [
+      {"time": "2020-07-16T19:00:00+03:00", "url": ["https://vk.com/wall-156558867_6110"]}
     ]
   }
 ]

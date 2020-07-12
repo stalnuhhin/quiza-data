@@ -2,7 +2,7 @@
   {
     "id": "185c70d6-759d-4e11-8198-b59b929f67e5",
     "org": "FM QUIZ",
-    "latestCheck": "2020-07-10T12:00:00+03:00",
+    "latestCheck": "2020-07-13T12:00:00+03:00",
     "type": ["events"],
     "image": "fmquiz.png",
     "duration": 2,
@@ -14,6 +14,12 @@
         "name": "FM QUIZ \"Девяностые\"",
         "price": ["15 BYN/ком"],
         "url": ["https://vk.com/wall-127402793_9822"]
+      },
+      {
+        "time": "2020-07-21T19:00:00+03:00",
+        "name": "FM QUIZ",
+        "price": ["15 BYN/ком"],
+        "url": ["https://vk.com/wall-127402793_9892"]
       }
     ]
   }
