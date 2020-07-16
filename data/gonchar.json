@@ -138,6 +138,16 @@
         "name": "Фамильные игры",
         "price": ["500 RUB/ком", "180 UAH/ком", "7 USD/ком", "6 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
+      },
+      "beskzemli2": {
+        "name": "Бесконечные земли. Том II",
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      "antibingo": {
+        "name": "Антибинго",
+        "price": ["1000 RUB/ком", "360 UAH/ком", "14.5 USD/ком", "12.5 EUR/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
       }
     },
     "games": [
@@ -186,8 +196,16 @@
       {"time": "2020-07-15T21:30:00+03:00", "template": "asinhprostyhvoprosov"},
       {"time": "2020-07-16T19:00:00+03:00", "template": "ligastarta17"},
       {"time": "2020-07-16T21:30:00+03:00", "template": "ligastarta17"},
+      {"time": "2020-07-17T19:00:00+03:00", "template": "ligastarta17"},
       {"time": "2020-07-17T21:30:00+03:00", "template": "familnye"},
-      {"time": "2020-07-18T16:00:00+03:00", "template": "belyenochi"}
+      {"time": "2020-07-18T02:00:00+03:00", "template": "beskzemli2"},
+      {"time": "2020-07-18T11:00:00+03:00", "template": "ligastarta17"},
+      {"time": "2020-07-18T16:00:00+03:00", "template": "belyenochi"},
+      {"time": "2020-07-18T19:00:00+03:00", "template": "ligastarta17"},
+      {"time": "2020-07-18T21:30:00+03:00", "template": "beskzemli2"},
+      {"time": "2020-07-19T02:00:00+03:00", "template": "ligastarta17"},
+      {"time": "2020-07-19T19:00:00+03:00", "template": "asinhprostyhvoprosov"},
+      {"time": "2020-07-19T21:30:00+03:00", "template": "antibingo"}
     ]
   }
 ]

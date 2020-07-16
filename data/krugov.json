@@ -2,7 +2,7 @@
   {
     "id": "194c83b3-6690-4589-9a15-3cf6b62fdd63",
     "org": "Андрей Кругов",
-    "latestCheck": "2020-07-13T12:00:00+03:00",
+    "latestCheck": "2020-07-17T12:00:00+03:00",
     "type": ["events"],
     "image": "krugov.png",
     "duration": 2,
@@ -72,6 +72,18 @@
       "beskzemli2": {
         "name": "Бесконечные земли. Том II",
         "price": ["900 RUB/ком"]
+      },
+      "ligastarta17": {
+        "name": "Лига старта XVII",
+        "price": ["300 RUB/чел", "400 RUB/2чел", "700 RUB/ком"]
+      },
+      "antibingo": {
+        "name": "Антибинго",
+        "price": ["1000 RUB/ком"]
+      },
+      "ovoschkuril": {
+        "name": "Овощ курильщика",
+        "price": ["900 RUB/ком"]
       }
     },
     "games": [
@@ -84,7 +96,11 @@
       {"time": "2020-07-09T20:00:00+03:00", "template": "kipr", "url": ["https://forms.gle/Brze8YWeMfemfWPj6"]},
       {"time": "2020-07-10T20:00:00+03:00", "template": "sosedgalktika", "url": ["https://forms.gle/e7S9xSdri6qeZG9N7"]},
       {"time": "2020-07-12T20:00:00+03:00", "template": "beskzemli2", "url": ["https://forms.gle/uDXouoigdpU2fcLE8"]},
-      {"time": "2020-07-13T20:00:00+03:00", "template": "beskzemli2", "url": ["https://forms.gle/GNL2iEiHPnsgFoVh7"]}
+      {"time": "2020-07-13T20:00:00+03:00", "template": "beskzemli2", "url": ["https://forms.gle/GNL2iEiHPnsgFoVh7"]},
+      {"time": "2020-07-16T20:00:00+03:00", "template": "ligastarta17", "url": ["https://forms.gle/UFuyRHUibD4rkkgP9"]},
+      {"time": "2020-07-19T20:00:00+03:00", "template": "antibingo", "url": ["https://forms.gle/HY1MaKNf6p5mVu71A"]},
+      {"time": "2020-07-20T20:00:00+03:00", "template": "ovoschkuril", "url": ["https://forms.gle/aPMXGAnyAxczX2iNA"]},
+      {"time": "2020-07-21T20:00:00+03:00", "template": "ligastarta17", "url": ["https://forms.gle/PDojC5TNQStYENZs6"]}
     ]
   }
 ]
