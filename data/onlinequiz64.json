@@ -2,7 +2,7 @@
   {
     "id": "bf5df1c1-bd66-4952-a470-16a093212d61",
     "org": "Online Quiz 64",
-    "latestCheck": "2020-07-13T12:00:00+03:00",
+    "latestCheck": "2020-07-16T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "onlinequiz64.png",
@@ -13,7 +13,11 @@
       { "time": "2020-07-09T13:30:00Z", "name": "Спорт без футбола #5", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6834" ], "qpid": "6834", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "sports" },
       { "time": "2020-07-09T16:30:00Z", "name": "Спорт без футбола #5 (повтор от 16:30 мск)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6835" ], "qpid": "6835", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "sports" },
       { "time": "2020-07-12T11:30:00Z", "name": "Игра в буквы #5", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6836" ], "qpid": "6836", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
-      { "time": "2020-07-12T14:30:00Z", "name": "Игра в буквы #5 (повтор от 14:30 МСК)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6837" ], "qpid": "6837", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" }
+      { "time": "2020-07-12T14:30:00Z", "name": "Игра в буквы #5 (повтор от 14:30 МСК)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6837" ], "qpid": "6837", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
+      { "time": "2020-07-16T12:30:00Z", "name": "Буквы #5. Предпоследний повтор воскресной игры!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7131" ], "qpid": "7131", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
+      { "time": "2020-07-16T16:30:00Z", "name": "Буквы #5. Последний повтор воскресной игры!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7132" ], "qpid": "7132", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
+      { "time": "2020-07-19T11:30:00Z", "name": "Спорт #9. И вновь про футбол!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7133" ], "qpid": "7133", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
+      { "time": "2020-07-19T14:30:00Z", "name": "Спорт #9. И вновь про футбол!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7134" ], "qpid": "7134", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" }
     ]
   }
 ]
