@@ -2,7 +2,7 @@
   {
     "id": "c2a8e727-e3cb-4517-871a-f422d7df3f4f",
     "org": "The Game.ua",
-    "latestCheck": "2020-07-13T12:00:00+03:00",
+    "latestCheck": "2020-07-19T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "thegameua.png",
@@ -12,7 +12,9 @@
       { "time": "2020-07-08T20:00:00+03:00", "name": "The Witcher (The GAME 2)", "chgk": true, "price": [ "300 UAH/ком", "12 USD/ком" ], "url": [ "https://www.facebook.com/events/3242073305844453" ] },
       { "time": "2020-07-09T20:30:00+03:00", "name": "Чернобыль СЕРИАЛ", "chgk": true, "price": [ "300 UAH/ком" ], "url": [ "https://www.facebook.com/events/643012686297166" ] },
       { "time": "2020-07-16T20:00:00+03:00", "name": "Синхрон-lite. Лига Старта. Выпуск XVII", "chgk": true, "price": [ "300 UAH/ком" ], "url": [ "https://ligastartaonline5.ticketforevent.com/" ] },
-      { "time": "2020-07-20T20:00:00+03:00", "name": "Синхрон-lite. Лига Старта. Выпуск XVII", "chgk": true, "price": [ "300 UAH/ком" ], "url": [ "https://ligastartaonline5.ticketforevent.com/" ] }
+      { "time": "2020-07-20T20:00:00+03:00", "name": "Синхрон-lite. Лига Старта. Выпуск XVII", "chgk": true, "price": [ "300 UAH/ком" ], "url": [ "https://ligastartaonline5.ticketforevent.com/" ] },
+      { "time": "2020-07-21T20:00:00+03:00", "name": "Harry Potter Quiz", "price": [ "300 UAH/ком" ], "url": [ "https://www.facebook.com/events/672718603324184/" ] },
+      { "time": "2020-07-22T20:00:00+03:00", "name": "The Game Islands Quiz", "price": [ "300 UAH/ком" ], "url": [ "https://www.facebook.com/events/753490538729707/" ] }
     ]
   }
 ]

@@ -2,7 +2,7 @@
   {
     "id": "529d90d1-64a5-46b4-aa5e-8c4df9a10d02",
     "org": "Александр Сидоренков",
-    "latestCheck": "2020-07-13T12:00:00+03:00",
+    "latestCheck": "2020-07-19T12:00:00+03:00",
     "type": ["events"],
     "image": "chgkrating.png",
     "chgk": true,
@@ -23,7 +23,9 @@
       }
     },
     "games": [
-      {"time": "2020-07-06T19:30:00+03:00", "name": "Лёгкий Смоленск-4", "chgk": true, "price": ["200 RUB/чел", "350 RUB/2-3чел", "450 RUB/ком"], "url": ["https://docs.google.com/forms/d/e/1FAIpQLScwOzc4dxC9lIXby-aFEnMVWC4uXPv2ok5fgrcE1wum08g0EA/viewform"]}
+      {"time": "2020-07-06T19:30:00+03:00", "name": "Лёгкий Смоленск-4", "chgk": true, "price": ["200 RUB/чел", "350 RUB/2-3чел", "450 RUB/ком"], "url": ["https://docs.google.com/forms/d/e/1FAIpQLScwOzc4dxC9lIXby-aFEnMVWC4uXPv2ok5fgrcE1wum08g0EA/viewform"]},
+      {"time": "2020-07-19T15:30:00+03:00", "name": "Лёгкий Смоленск-7", "chgk": true, "price": ["200 RUB/чел", "250 RUB/2чел", "350 RUB/3чел", "450 RUB/ком"], "url": ["https://www.facebook.com/groups/229434871583483/permalink/300294677830835/"]},
+      {"time": "2020-07-20T19:30:00+03:00", "name": "Лёгкий Смоленск-7", "chgk": true, "price": ["200 RUB/чел", "350 RUB/2-3чел", "450 RUB/ком"], "url": ["https://www.facebook.com/groups/229434871583483/permalink/300294677830835/"]}
     ]
   }
 ]
