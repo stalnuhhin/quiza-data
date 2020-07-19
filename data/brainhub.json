@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-07-13T12:00:00+03:00",
+    "latestCheck": "2020-07-19T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -40,6 +40,18 @@
         "name": "Online Melody Quiz",
         "price": ["200 UAH/ком", "50 UAH/чел"],
         "url": ["https://www.facebook.com/events/573161253396597/"]
+      },
+      {
+        "time": "2020-07-23T20:00:00+03:00",
+        "name": "Летний Online Киноквиз",
+        "price": ["200 UAH/ком", "50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/284205946143115/"]
+      },
+      {
+        "time": "2020-07-27T20:00:00+03:00",
+        "name": "«Что? Где? Когда?» - Карантин-лига 2.6",
+        "price": ["50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/731357354282674/"]
       }
     ]
   }
