@@ -2,7 +2,7 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-07-19T12:00:00+03:00",
+    "latestCheck": "2020-07-21T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
@@ -148,6 +148,11 @@
         "name": "Антибинго",
         "price": ["1000 RUB/ком", "360 UAH/ком", "14.5 USD/ком", "12.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
+      },
+      "vechnypolden": {
+        "name": "Вечный полдень",
+        "price": ["1000 RUB/ком", "360 UAH/ком", "14.5 USD/ком", "12.5 EUR/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
       }
     },
     "games": [
@@ -207,8 +212,15 @@
       {"time": "2020-07-19T16:30:00+03:00", "template": "ligastarta17"},
       {"time": "2020-07-19T19:00:00+03:00", "template": "asinhprostyhvoprosov"},
       {"time": "2020-07-19T21:30:00+03:00", "template": "antibingo"},
+      {"time": "2020-07-20T02:00:00+03:00", "template": "asinhprostyhvoprosov"},
       {"time": "2020-07-20T19:00:00+03:00", "template": "antibingo"},
-      {"time": "2020-07-20T21:30:00+03:00", "template": "ligastarta17"}
+      {"time": "2020-07-20T21:30:00+03:00", "template": "ligastarta17"},
+      {"time": "2020-07-21T19:00:00+03:00", "template": "ligastarta17"},
+      {"time": "2020-07-21T21:30:00+03:00", "template": "vechnypolden"},
+      {"time": "2020-07-22T19:00:00+03:00", "template": "familnye"},
+      {"time": "2020-07-23T05:00:00+03:00", "template": "ligastarta17"},
+      {"time": "2020-07-25T02:00:00+03:00", "template": "ligastarta17"},
+      {"time": "2020-07-26T02:00:00+03:00", "template": "familnye"}
     ]
   }
 ]

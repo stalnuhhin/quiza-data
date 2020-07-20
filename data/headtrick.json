@@ -2,7 +2,7 @@
   {
     "id": "dcf5c4cb-1d20-4879-bb7e-d4ad772aa9c8",
     "org": "Head Trick Quiz",
-    "latestCheck": "2020-07-19T12:00:00+03:00",
+    "latestCheck": "2020-07-21T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "headtrick.png",
@@ -13,6 +13,12 @@
         "name": "Онлайн этап #12",
         "price": ["3 USD/ком", "220 RUB/ком", "1.25 KZT/ком"],
         "url": ["https://www.facebook.com/football.quiz.tashkent/photos/a.202711113828491/750344002398530"]
+      },
+      {
+        "time": "2020-07-23T19:00:00+03:00",
+        "name": "Онлайн этап #13",
+        "price": ["3 USD/ком", "220 RUB/ком", "1.25 KZT/ком"],
+        "url": ["https://www.facebook.com/football.quiz.tashkent/photos/a.202711113828491/760471041385826"]
       }
     ]
   }

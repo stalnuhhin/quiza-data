@@ -2,7 +2,7 @@
   {
     "id": "19327fad-bdaa-48b2-8c2a-35c641c1e11d",
     "org": "Игры - всем, помощь - сиротам!",
-    "latestCheck": "2020-07-19T12:00:00+03:00",
+    "latestCheck": "2020-07-21T12:00:00+03:00",
     "type": ["events"],
     "image": "igryvsempomoshchjsirotam.png",
     "duration": 2,
@@ -22,7 +22,15 @@
       {"time": "2020-07-18T15:00:00+03:00", "name": "Блиц-марафон с Бауманиада - 2019", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/297318214795148/"]},
       {"time": "2020-07-18T19:45:00+03:00", "name": "36 избранных \"гробов\" из турниров БКЗ с 2018 по 2020", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/297318214795148/"]},
       {"time": "2020-07-19T12:45:00+03:00", "name": "Сборник из Кубок вМоГоТУ - 2019, Кубок невМоГоТУ - 2019, Бауманиада. Отбор", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/297318214795148/"]},
-      {"time": "2020-07-19T19:45:00+03:00", "name": "30 вопросов из Мемориала Диара Туганбаева - 2019", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/297318214795148/"]}
+      {"time": "2020-07-19T19:45:00+03:00", "name": "30 вопросов из Мемориала Диара Туганбаева - 2019", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/297318214795148/"]},
+      {"time": "2020-07-20T19:45:00+03:00", "name": "Кубок вМоГоТУ - 2018 - 36 избранных", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/301280817732221/"]},
+      {"time": "2020-07-21T19:45:00+03:00", "name": "Бауманиада - 2018 - 30 избранных", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/301280817732221/"]},
+      {"time": "2020-07-22T19:45:00+03:00", "name": "Кубок вМоГоТУ - 2018 и Бауманиада. Отбор - 2018 - 30 избранных", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/301280817732221/"]},
+      {"time": "2020-07-24T19:45:00+03:00", "name": "Кубок вМоГоТУ - 2019 - 30 избранных", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/301280817732221/"]},
+      {"time": "2020-07-25T15:00:00+03:00", "name": "Августовский пунш - 2019 - 30 избранных", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/301280817732221/"]},
+      {"time": "2020-07-25T19:45:00+03:00", "name": "Первый четвертак - 30 избранных", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/301280817732221/"]},
+      {"time": "2020-07-26T12:45:00+03:00", "name": "36 избранных \"гробов\" из БКЗ с 2018 по 2020", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/301280817732221/"]},
+      {"time": "2020-07-26T19:45:00+03:00", "name": "Главные вопросы жизни, вселенной и всего такого - 30 избранных", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/301280817732221/"]}
     ]
   }
 ]

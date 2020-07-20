@@ -2,7 +2,7 @@
   {
     "id": "c3b6e2fe-54fa-410c-a208-975fe848678c",
     "org": "ВертиGO",
-    "latestCheck": "2020-07-19T12:00:00+03:00",
+    "latestCheck": "2020-07-21T12:00:00+03:00",
     "type": ["events"],
     "image": "vertigo.png",
     "duration": 1.5,
@@ -11,7 +11,8 @@
       { "time": "2020-07-02T14:00:00Z", "name": "ВертиGO Online #12", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6610" ], "qpid": "6610", "qpuid": "2783", "qpuname": "ВертиGO", "cat": "common_knowledge" },
       { "time": "2020-07-02T17:00:00Z", "name": "ВертиGO Online #12", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6611" ], "qpid": "6611", "qpuid": "2783", "qpuname": "ВертиGO", "cat": "common_knowledge" },
       { "time": "2020-07-11T14:00:00Z", "name": "ВертиGO Online #13", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/6826" ], "qpid": "6826", "qpuid": "2783", "qpuname": "ВертиGO", "cat": "common_knowledge" },
-      { "time": "2020-07-19T14:30:00Z", "name": "ВертиGO Online #14", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7075" ], "qpid": "7075", "qpuid": "2783", "qpuname": "ВертиGO", "cat": "common_knowledge" }
+      { "time": "2020-07-19T14:30:00Z", "name": "ВертиGO Online #14", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7075" ], "qpid": "7075", "qpuid": "2783", "qpuname": "ВертиGO", "cat": "common_knowledge" },
+      { "time": "2020-07-25T16:00:00Z", "name": "ВертиGO Online #15", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7278" ], "qpid": "7278", "qpuid": "2783", "qpuname": "ВертиGO", "cat": "common_knowledge" }
     ]
   }
 ]

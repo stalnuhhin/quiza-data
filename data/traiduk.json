@@ -2,7 +2,7 @@
   {
     "id": "a983715a-2638-4376-931a-1f67f3e3e21a",
     "org": "Наталья Трайдук",
-    "latestCheck": "2020-07-19T12:00:00+03:00",
+    "latestCheck": "2020-07-21T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "traiduk.png",
@@ -39,9 +39,15 @@
       {
         "time": "2020-07-22T20:00:00+03:00",
         "name": "Cinema Quiz",
-        "chgk": true,
         "price": ["5.5 USD/ком", "150 UAH/ком"],
         "url": ["https://www.facebook.com/events/926543311185264/"]
+      },
+      {
+        "time": "2020-07-23T20:00:00+03:00",
+        "name": "Потанцуй со мной!",
+        "chgk": true,
+        "price": ["6 USD/ком"],
+        "url": ["https://www.facebook.com/events/306121170581140/"]
       }
     ]
   }
