@@ -19,7 +19,13 @@
       { "time": "2020-07-19T11:30:00Z", "name": "Спорт #9. И вновь про футбол!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7133" ], "qpid": "7133", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
       { "time": "2020-07-19T14:30:00Z", "name": "Спорт #9. И вновь про футбол!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7134" ], "qpid": "7134", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
       { "time": "2020-07-20T13:00:00Z", "name": "ФУТБОЛ #9 (последний повтор от 19.07)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7259" ], "qpid": "7259", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "sports" },
-      { "time": "2020-07-20T16:00:00Z", "name": "СВОЯ ИГРА #1 (повтор от 18.07)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7260" ], "qpid": "7260", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" }
+      { "time": "2020-07-20T16:00:00Z", "name": "СВОЯ ИГРА #1 (повтор от 18.07)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7260" ], "qpid": "7260", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
+      { "time": "2020-07-30T12:00:00Z", "name": "СПОРТ БЕЗ ФУТБОЛА #10", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7295" ], "qpid": "7295", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "sports" },
+      { "time": "2020-07-30T16:30:00Z", "name": "СПОРТ БЕЗ ФУТБОЛА #10", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7296" ], "qpid": "7296", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "sports" },
+      { "time": "2020-08-01T11:00:00Z", "name": "СВОЯ ИГРА #2", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7297" ], "qpid": "7297", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
+      { "time": "2020-08-02T11:30:00Z", "name": "ИГРА В БУКВЫ#6", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7299" ], "qpid": "7299", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
+      { "time": "2020-08-02T14:30:00Z", "name": "ИГРА В БУКВЫ #6", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7300" ], "qpid": "7300", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
+      { "time": "2020-08-03T16:00:00Z", "name": "СВОЯ ИГРА #2 (повтор от 01.08)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7298" ], "qpid": "7298", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" }
     ]
   }
 ]

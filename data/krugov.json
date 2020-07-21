@@ -84,6 +84,10 @@
       "ovoschkuril": {
         "name": "Овощ курильщика",
         "price": ["900 RUB/ком"]
+      },
+      "deliverycup4": {
+        "name": "Delivery Cup №4",
+        "price": ["900 RUB/ком"]
       }
     },
     "games": [
@@ -100,7 +104,9 @@
       {"time": "2020-07-16T20:00:00+03:00", "template": "ligastarta17", "url": ["https://forms.gle/UFuyRHUibD4rkkgP9"]},
       {"time": "2020-07-19T20:00:00+03:00", "template": "antibingo", "url": ["https://forms.gle/HY1MaKNf6p5mVu71A"]},
       {"time": "2020-07-20T20:00:00+03:00", "template": "ovoschkuril", "url": ["https://forms.gle/aPMXGAnyAxczX2iNA"]},
-      {"time": "2020-07-21T20:00:00+03:00", "template": "ligastarta17", "url": ["https://forms.gle/PDojC5TNQStYENZs6"]}
+      {"time": "2020-07-21T20:00:00+03:00", "template": "ligastarta17", "url": ["https://forms.gle/PDojC5TNQStYENZs6"]},
+      {"time": "2020-07-22T20:00:00+03:00", "template": "ovoschkuril", "url": ["https://forms.gle/sDdANkbLe5ysaWRH8"]},
+      {"time": "2020-07-23T20:00:00+03:00", "template": "deliverycup4", "url": ["https://forms.gle/FNSo5aJdDJnk47uj7"]}
     ]
   }
 ]
