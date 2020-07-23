@@ -2,7 +2,7 @@
   {
     "id": "4ab61f96-9902-43db-b788-68ffde5a07a7",
     "org": "Игры разума",
-    "latestCheck": "2020-07-19T12:00:00+03:00",
+    "latestCheck": "2020-07-24T12:00:00+03:00",
     "type": ["events"],
     "image": "igryrazuma.png",
     "duration": 2,
@@ -112,35 +112,42 @@
         "name": "Бесконечные земли. Том II",
         "price": ["800 RUB/ком"],
         "chgk": true,
-        "url": ["https://vk.com/wall-43524150_11751"]
+        "url": ["https://iqdo.online/game/25"]
+      },
+      {
+        "time": "2020-07-25T14:00:00+03:00",
+        "name": "Синхрон-lite. Лига старта. Эпизод XVII",
+        "price": ["600 RUB/ком"],
+        "chgk": true,
+        "url": ["https://iqdo.online/game/23"]
       },
       {
         "time": "2020-07-26T13:00:00+03:00",
         "name": "Кубик Бесконечности: второй бросок",
         "price": ["900 RUB/ком"],
         "chgk": true,
-        "url": ["https://vk.com/wall-43524150_11751"]
+        "url": ["https://iqdo.online/game/26"]
       },
       {
         "time": "2020-07-27T20:00:00+03:00",
         "name": "Асинхронный онлайн-турнир \"Вечный полдень\"",
         "price": ["800 RUB/ком"],
         "chgk": true,
-        "url": ["https://vk.com/wall-43524150_11751"]
+        "url": ["https://iqdo.online/game/27"]
       },
       {
         "time": "2020-07-28T20:00:00+03:00",
         "name": "Кубик Бесконечности: второй бросок",
         "price": ["900 RUB/ком"],
         "chgk": true,
-        "url": ["https://vk.com/wall-43524150_11751"]
+        "url": ["https://iqdo.online/game/28"]
       },
       {
         "time": "2020-07-31T20:00:00+03:00",
         "name": "Антибинго - 2020",
         "price": ["900 RUB/ком"],
         "chgk": true,
-        "url": ["https://vk.com/wall-43524150_11751"]
+        "url": ["https://iqdo.online/game/29"]
       }
     ]
   }
