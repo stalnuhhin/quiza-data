@@ -2,7 +2,7 @@
   {
     "id": "61f66a97-a27d-435d-a8f1-e7af4e4d8b81",
     "org": "Мозгомания",
-    "latestCheck": "2020-07-19T12:00:00+03:00",
+    "latestCheck": "2020-07-24T12:00:00+03:00",
     "type": ["events"],
     "image": "mozgomania.png",
     "duration": 2,
@@ -27,7 +27,11 @@
       { "time": "2020-07-13T15:00:00Z", "name": "Юморомания №2. Повтор [II]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6647" ], "qpid": "6647", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "common_knowledge" },
       { "time": "2020-07-14T12:00:00Z", "name": "Киномания XVI. Повтор [I]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7088" ], "qpid": "7088", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
       { "time": "2020-07-14T15:00:00Z", "name": "Киномания XVI. Повтор [II]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7089" ], "qpid": "7089", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
-      { "time": "2020-07-17T18:00:00Z", "name": "Музомания MAX. Премьера.", "price": [ "1000 RUB/ком" ], "url": [ "https://quizy.pro/streams/7086" ], "qpid": "7086", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" }
+      { "time": "2020-07-17T18:00:00Z", "name": "Музомания MAX. Премьера.", "price": [ "1000 RUB/ком" ], "url": [ "https://quizy.pro/streams/7086" ], "qpid": "7086", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-07-23T18:00:00Z", "name": "Киномания XVII, Премьера", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7343" ], "qpid": "7343", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-07-24T15:00:00Z", "name": "Киномания XVII, Повтор [I]", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7344" ], "qpid": "7344", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-07-24T17:00:00Z", "name": "Мозгомания из оффлайн. Премьера.", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7345" ], "qpid": "7345", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "common_knowledge" },
+      { "time": "2020-07-24T19:00:00Z", "name": "Мозгомания из оффлайн. Повтор [I]", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7346" ], "qpid": "7346", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "common_knowledge" }
     ]
   }
 ]
