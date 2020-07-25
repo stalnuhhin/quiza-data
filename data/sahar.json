@@ -16,7 +16,8 @@
       { "time": "2020-07-13T20:00:00+03:00", "name": "IPA (Игра Первопрестольной. Асинхрон)", "price": [ "400 RUB/ком" ], "url": [ "https://vk.com/topic-38771951_40764599" ], "chgk": true },
       { "time": "2020-07-20T17:00:00Z", "name": "Научпоп (повтор)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7215" ], "qpid": "7215", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
       { "time": "2020-07-23T20:00:00+03:00", "name": "Донат", "free": true, "donat": true, "url": [ "https://vk.com/topic-38771951_40810415" ], "chgk": true },
-      { "time": "2020-07-26T13:00:00Z", "name": "Научпоп (повтор)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7215" ], "qpid": "7215", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" }
+      { "time": "2020-07-26T14:00:00Z", "name": "Научпоп (повтор)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7215" ], "qpid": "7215", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
+      { "time": "2020-07-28T17:00:00Z", "name": "Кубок попкорна (повтор)", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7362" ], "qpid": "7362", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" }
     ]
   }
 ]
