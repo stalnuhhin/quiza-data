@@ -25,12 +25,8 @@
 </head>
 <body>
 <div id="app" class="container-fluid mb-5" v-cloak>
-    <div v-for="org in orgs">
-        {{org}}
-    </div>
-
-    <div v-for="gam in gams">
-        {{gam}}
+    <div v-for="sql in sqls">
+        {{sql}}
     </div>
 </div>
 
@@ -46,7 +42,53 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 <script>
-    document.write("<script src=\"main.js?" + new Date().getTime() + "\"><\/script>");
+    const app = new Vue({
+        el: '#app',
+        created() {
+            this.load();
+        },
+        data() {
+            return {
+                sqls: []
+            }
+        },
+        methods: {
+            load: function () {
+                const promise = fetch("archive/202003.json").then(r => r.json());
+                promise.then(r => r.flat(2)).then(r => {
+                    r.forEach(g => {
+                        this.sqls.push(this.toSql(g));
+                    });
+                });
+            },
+            toSql: function(g) {
+                let r = 'INSERT INTO game(' +
+                    'id,status,start_time,end_time,place_type,type,play_type,name,url,' +
+                    'organization,labels,prices,sys_created,sys_modified,' +
+                    'sys_version,sys_status) VALUES (' +
+                        getId() + ',' +
+                        '\'ACTIVE\'' + ',' +
+                        g.time + ',' +
+                        g.time + ',' +
+                        '\'ONLINE\'' + ',' +
+                        '\'QUIZ\'' + ',' +
+                        '\'EVENT\'' + ',' +
+                        g.name + ',' +
+                        g.url[0] + ',' +
+                        g.org + ',' +
+                        g.label + ',' +
+                        g.prices + ',' +
+                        '{"date": "\' || to_char(now(), \'YYYY-MM-DD"T"HH24:MI:SS\')' +
+                            ' || \'", "uid": "\'anton.stalnuhhin@gmail.com\'"}' +
+                        '{"date": "\' || to_char(now(), \'YYYY-MM-DD"T"HH24:MI:SS\')' +
+                            ' || \'", "uid": "\'anton.stalnuhhin@gmail.com\'"}' +
+                        '0' + ',' +
+                        '\'A\'' +
+                ');';
+                return r;
+            }
+        }
+    });
 </script>
 
 </body>

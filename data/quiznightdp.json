@@ -2,7 +2,7 @@
   {
     "id": "8c48ccce-1975-4de5-a1ef-fc3f84c9a6f4",
     "org": "Quiz Night (Днепр)",
-    "latestCheck": "2020-07-24T12:00:00+03:00",
+    "latestCheck": "2020-07-27T12:00:00+03:00",
     "type": ["events"],
     "image": "quiznightdp.png",
     "duration": 2,
@@ -23,6 +23,11 @@
         "time": "2020-07-23T20:00:00+03:00",
         "name": "HOME QUIZ. Игра №11",
         "url": ["https://www.facebook.com/events/4863126773712746/"]
+      },
+      {
+        "time": "2020-07-30T20:00:00+03:00",
+        "name": "HOME QUIZ. Игра №12",
+        "url": ["https://www.facebook.com/events/723190474893175/"]
       }
     ]
   }
