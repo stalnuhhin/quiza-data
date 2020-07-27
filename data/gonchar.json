@@ -168,6 +168,11 @@
         "name": "Потанцуй со мной",
         "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
+      },
+      "ovoschkuril": {
+        "name": "Овощ курильщика",
+        "price": ["900 RUB/ком", "300 UAH/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
       }
     },
     "games": [
@@ -251,8 +256,15 @@
       {"time": "2020-07-26T19:00:00+03:00", "template": "vechnypolden"},
       {"time": "2020-07-26T21:30:00+03:00", "template": "kubikbesk2"},
       {"time": "2020-07-27T02:00:00+03:00", "template": "antibingo"},
+      {"time": "2020-07-27T21:30:00+03:00", "template": "potancujsomnoj"},
       {"time": "2020-07-28T02:00:00+03:00", "template": "familnye"},
-      {"time": "2020-07-29T02:00:00+03:00", "template": "ligastarta17"}
+      {"time": "2020-07-28T19:00:00+03:00", "template": "kubikbesk2"},
+      {"time": "2020-07-28T21:30:00+03:00", "template": "ovoschkuril"},
+      {"time": "2020-07-29T02:00:00+03:00", "template": "ligastarta17"},
+      {"time": "2020-07-29T19:00:00+03:00", "template": "moonpie"},
+      {"time": "2020-07-29T21:30:00+03:00", "template": "kubikbesk2"},
+      {"time": "2020-07-30T21:30:00+03:00", "template": "vechnypolden"},
+      {"time": "2020-07-31T21:30:00+03:00", "template": "familnye"}
     ]
   }
 ]
