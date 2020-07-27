@@ -2,7 +2,7 @@
   {
     "id": "a983715a-2638-4376-931a-1f67f3e3e21a",
     "org": "Наталья Трайдук",
-    "latestCheck": "2020-07-24T12:00:00+03:00",
+    "latestCheck": "2020-07-28T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "traiduk.png",
@@ -48,6 +48,20 @@
         "chgk": true,
         "price": ["6 USD/ком"],
         "url": ["https://www.facebook.com/events/306121170581140/"]
+      },
+      {
+        "time": "2020-07-29T20:00:00+03:00",
+        "name": "Кубик бесконечности: второй бросок",
+        "chgk": true,
+        "price": ["9 USD/ком", "250 UAH/ком"],
+        "url": ["https://www.facebook.com/events/286796172389444/"]
+      },
+      {
+        "time": "2020-07-30T20:00:00+03:00",
+        "name": "Вечер парного ЧГК",
+        "chgk": true,
+        "price": ["4 USD/ком", "110 UAH/ком"],
+        "url": ["https://www.facebook.com/events/2760872257481635"]
       }
     ]
   }
