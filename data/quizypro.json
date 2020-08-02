@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2020-07-26T12:00:00+03:00",
+    "latestCheck": "2020-08-02T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -355,11 +355,30 @@
       { "time": "2020-07-30T13:00:00Z", "name": "Игра в стиле МегаФокс", "price": [ "250 RUB/ком" ], "url": [ "https://quizy.pro/streams/6640" ], "qpid": "6640", "qpuid": "5390", "qpuname": "МиниФокс", "cat": "common_knowledge", "org": "МиниФокс" },
       { "time": "2020-07-30T16:30:00Z", "name": "СПОРТ БЕЗ ФУТБОЛА #10", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7296" ], "qpid": "7296", "qpuid": "232", "qpuname": "Шершняга", "cat": "sports", "org": "Шершняга" },
       { "time": "2020-08-01T11:00:00Z", "name": "СВОЯ ИГРА #2", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7297" ], "qpid": "7297", "qpuid": "232", "qpuname": "Шершняга", "cat": "common_knowledge", "org": "Шершняга" },
-      { "time": "2020-08-02T11:30:00Z", "name": "ИГРА В БУКВЫ#6", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7299" ], "qpid": "7299", "qpuid": "232", "qpuname": "Шершняга", "cat": "common_knowledge", "org": "Шершняга" },
-      { "time": "2020-08-02T14:30:00Z", "name": "ИГРА В БУКВЫ #6", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7300" ], "qpid": "7300", "qpuid": "232", "qpuname": "Шершняга", "cat": "common_knowledge", "org": "Шершняга" },
+      { "time": "2020-08-02T06:00:00Z", "name": "Загадки Эдисона. Online-игра №3.", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7476" ], "qpid": "7476", "qpuid": "492", "qpuname": "EdisonQuiz", "cat": "common_knowledge", "org": "EdisonQuiz" },
+      { "time": "2020-08-02T09:30:00Z", "name": "МУЗЫКАЛЬНЫЕ ЖАНРЫ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7541" ], "qpid": "7541", "qpuid": "10473", "qpuname": "Музыкальные жанры", "cat": "cinema_and_music", "org": "Музыкальные жанры" },
+      { "time": "2020-08-02T11:00:00Z", "name": "ОСТРИЛКА! Повтор", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7230" ], "qpid": "7230", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-02T12:30:00Z", "name": "Мир в вопросах и ответах. Повтор от 28 июля", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7593" ], "qpid": "7593", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-02T14:00:00Z", "name": "IQ-TUNES! Поговорим о музыке.Повтор", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7155" ], "qpid": "7155", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "cinema_and_music", "org": "БРИЗ" },
       { "time": "2020-08-02T15:00:00Z", "name": "Удивительные женщины", "price": [ "349 RUB/ком" ], "url": [ "https://quizy.pro/streams/6327" ], "qpid": "6327", "qpuid": "5215", "qpuname": "Smart Quiz", "cat": "common_knowledge", "org": "Smart Quiz" },
+      { "time": "2020-08-02T15:00:00Z", "name": "ВЕЛИКОЛЕПНЫЙ КИНОКВИЗ #15", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7538" ], "qpid": "7538", "qpuid": "4959", "qpuname": "Великолепные киноквизы", "cat": "cinema_and_music", "org": "Великолепные киноквизы" },
       { "time": "2020-08-02T16:00:00Z", "name": "PRO СПАРТАК", "price": [ "349 RUB/ком" ], "url": [ "https://quizy.pro/streams/6328" ], "qpid": "6328", "qpuid": "5215", "qpuname": "Smart Quiz", "cat": "common_knowledge", "org": "Smart Quiz" },
-      { "time": "2020-08-03T16:00:00Z", "name": "СВОЯ ИГРА #2 (повтор от 01.08)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7298" ], "qpid": "7298", "qpuid": "232", "qpuname": "Шершняга", "cat": "common_knowledge", "org": "Шершняга" }
+      { "time": "2020-08-02T16:00:00Z", "name": "Культурный пласт. Повтор", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7589" ], "qpid": "7589", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-02T17:40:00Z", "name": "Мир в вопросах и ответах. Повтор от 28 июля", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7594" ], "qpid": "7594", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-02T18:00:00Z", "name": "CINEMANIA (КиноQuiz) Сеанс XIV Повтор I от 31.07.", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7592" ], "qpid": "7592", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2020-08-02T19:00:00Z", "name": "Фантастические миры. Повтор.", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7595" ], "qpid": "7595", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-02T20:30:00Z", "name": "Турнир на выбор.", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7597" ], "qpid": "7597", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-03T11:10:00Z", "name": "Хотим в отпуск! повтор игры от 23 мая", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6023" ], "qpid": "6023", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-03T18:00:00Z", "name": "PlayList#1. Повтор.", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7554" ], "qpid": "7554", "qpuid": "6719", "qpuname": "Pianoforte ", "cat": "cinema_and_music", "org": "Pianoforte " },
+      { "time": "2020-08-04T12:00:00Z", "name": "Искусство #5 - Повтор", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7611" ], "qpid": "7611", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "art_and_literature", "org": "Культпросвет" },
+      { "time": "2020-08-04T15:00:00Z", "name": "Искусство #5 - Повтор", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7613" ], "qpid": "7613", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "art_and_literature", "org": "Культпросвет" },
+      { "time": "2020-08-04T17:00:00Z", "name": "iKnow Pub Quiz in English", "price": [ "1200 RUB/ком" ], "url": [ "https://quizy.pro/streams/7489" ], "qpid": "7489", "qpuid": "3578", "qpuname": "iKnow Pub Quiz in English", "cat": "common_knowledge", "org": "iKnow Pub Quiz in English" },
+      { "time": "2020-08-04T18:00:00Z", "name": "Искусство #5 - Повтор", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7612" ], "qpid": "7612", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "art_and_literature", "org": "Культпросвет" },
+      { "time": "2020-08-04T18:00:00Z", "name": "Бестселлер. Премьера!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7618" ], "qpid": "7618", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-05T14:00:00Z", "name": "Quiz-club on-line №31", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/7470" ], "qpid": "7470", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
+      { "time": "2020-08-08T14:00:00Z", "name": "Quiz-club on-line №32", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/7471" ], "qpid": "7471", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
+      { "time": "2020-08-12T14:00:00Z", "name": "Quiz-club on-line №33", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/7472" ], "qpid": "7472", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
+      { "time": "2020-08-15T14:00:00Z", "name": "Quiz-club on-line №34", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/7473" ], "qpid": "7473", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" }
     ]
   }
 ]

@@ -2,7 +2,7 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2020-07-27T12:00:00+03:00",
+    "latestCheck": "2020-08-02T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
@@ -41,6 +41,13 @@
         "template": "chgk",
         "price": ["800 RUB/ком", "300 UAH/ком", "11 USD/ком"],
         "url": ["https://www.facebook.com/events/284244462797215/"]
+      },
+      {
+        "time": "2020-07-30T20:00:00+03:00",
+        "name": "Антибинго - 2020",
+        "template": "chgk",
+        "price": ["800 RUB/ком", "300 UAH/ком", "11 USD/ком"],
+        "url": ["https://www.facebook.com/events/1068598943542780/"]
       }
     ]
   }

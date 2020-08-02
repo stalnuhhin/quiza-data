@@ -8,7 +8,8 @@
     "duration": 2,
     "url": ["https://vk.com/zb_quiz", "https://www.instagram.com/zbyshek_quiz/"],
     "games": [
-      {"time": "2020-07-21T19:45:00+03:00", "name": "Збышек КВИЗ"}
+      {"time": "2020-07-21T19:45:00+03:00", "name": "Збышек КВИЗ"},
+      {"time": "2020-08-18T19:45:00+03:00", "name": "Збышек КВИЗ"}
     ]
   }
 ]
