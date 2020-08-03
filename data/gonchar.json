@@ -2,7 +2,7 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-07-24T12:00:00+03:00",
+    "latestCheck": "2020-08-03T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
@@ -173,6 +173,11 @@
         "name": "Овощ курильщика",
         "price": ["900 RUB/ком", "300 UAH/ком"],
         "url": ["https://tinyurl.com/sinhron"]
+      },
+      "legksmolensk7": {
+        "name": "Легкий Смоленск-7",
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
       }
     },
     "games": [
@@ -264,7 +269,12 @@
       {"time": "2020-07-29T19:00:00+03:00", "template": "moonpie"},
       {"time": "2020-07-29T21:30:00+03:00", "template": "kubikbesk2"},
       {"time": "2020-07-30T21:30:00+03:00", "template": "vechnypolden"},
-      {"time": "2020-07-31T21:30:00+03:00", "template": "familnye"}
+      {"time": "2020-07-31T21:30:00+03:00", "template": "familnye"},
+      {"time": "2020-08-03T19:00:00+03:00", "template": "legksmolensk7"},
+      {"time": "2020-08-03T21:30:00+03:00", "template": "kubikbesk2"},
+      {"time": "2020-08-04T19:00:00+03:00", "template": "potancujsomnoj"},
+      {"time": "2020-08-04T21:30:00+03:00", "template": "kipr"},
+      {"time": "2020-08-05T21:30:00+03:00", "template": "vechnypolden"}
     ]
   }
 ]
