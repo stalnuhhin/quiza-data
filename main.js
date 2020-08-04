@@ -1,4 +1,4 @@
-const DATA_VERSION = 200;
+const DATA_VERSION = 201;
 const DATAFILES = [
     "3x12trivianights.json",
     "artobstrel.json",
