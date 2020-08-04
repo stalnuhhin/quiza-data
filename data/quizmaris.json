@@ -2,7 +2,7 @@
   {
     "id": "9eb0228f-fc4d-4e11-a294-87455f004ad9",
     "org": "Quiz Maris",
-    "latestCheck": "2020-08-02T12:00:00+03:00",
+    "latestCheck": "2020-08-04T12:00:00+03:00",
     "type": ["events"],
     "image": "quizmaris.png",
     "duration": 1,
@@ -50,8 +50,9 @@
       { "time": "2020-07-27T14:00:00Z", "name": "Квиз Марис [НУЛЕВЫЕ]", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/7375" ], "qpid": "7375", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
       { "time": "2020-07-27T19:10:00Z", "name": "Квиз Марис 18+ [ЧЕРНЫЙ #5]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7439" ], "qpid": "7439", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
       { "time": "2020-08-02T09:10:00Z", "name": "Квиз Марис [КИНОКВИЗ]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7616" ], "qpid": "7616", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" },
-      { "time": "2020-08-02T10:00:00.789Z", "name": "Квиз Марис [НОВЫЙ ПАКЕТ 18+]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7617" ], "qpid": "7617", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
-      { "time": "2020-08-03T10:00:00Z", "name": "Квиз Марис [ГАРРИ ПОТТЕР #5]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7587" ], "qpid": "7587", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" }
+      { "time": "2020-08-02T10:00:00Z", "name": "Квиз Марис [НОВЫЙ ПАКЕТ 18+]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7617" ], "qpid": "7617", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-08-03T10:00:00Z", "name": "Квиз Марис [ГАРРИ ПОТТЕР #5]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7587" ], "qpid": "7587", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" },
+      { "time": "2020-08-04T10:00:00Z", "name": "Квиз Марис [ГАРРИ ПОТТЕР #5]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7587" ], "qpid": "7587", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" }
     ]
   }
 ]
