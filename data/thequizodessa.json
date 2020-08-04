@@ -9,15 +9,6 @@
     "price": ["100 UAH/чел", "max 500 UAH/ком"],
     "url": ["https://thequiz.com.ua/calendar_odessa", "https://www.facebook.com/thequiz.odessa"],
     "games": [
-      {"time": "2020-07-06T20:00:00+03:00", "name": "Тематический квиз в стиле 80-х", "url": ["https://www.facebook.com/events/3052384208143761/"]},
-      {"time": "2020-07-07T20:00:00+03:00", "name": "The Quiz, финал online-сезона", "url": ["https://www.facebook.com/events/717909059008892/"]},
-      {"time": "2020-07-10T20:00:00+03:00", "name": "The Quiz, финал XII сезона"},
-      {"time": "2020-07-13T20:00:00+03:00", "name": "The Quiz Lite (\"игра для новичков\")", "url": ["https://www.facebook.com/events/759705621435202/"]},
-      {"time": "2020-07-17T20:00:00+03:00", "name": "КиноКвиз"},
-      {"time": "2020-07-20T20:00:00+03:00", "name": "Футбольный квиз", "url": ["https://www.facebook.com/events/924950771264367/"]},
-      {"time": "2020-07-24T20:00:00+03:00", "name": "The Quiz, первая игра Летнего кубка"},
-      {"time": "2020-07-27T20:00:00+03:00", "name": "The Quiz Lite (\"игра для новичков\")"},
-      {"time": "2020-07-31T20:00:00+03:00", "name": "Тематический квиз по волшебному миру Гарри Поттера"}
     ]
   }
 ]

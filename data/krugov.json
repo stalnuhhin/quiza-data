@@ -91,22 +91,6 @@
       }
     },
     "games": [
-      {"time": "2020-07-02T19:30:00+03:00", "template": "top1000", "url": ["https://forms.gle/Xbjn8aX83F3QZhAZ8"]},
-      {"time": "2020-07-02T22:00:00+03:00", "template": "prostyh", "url": ["https://forms.gle/pP2SsRnrxqW9hMYE6"]},
-      {"time": "2020-07-03T19:30:00+03:00", "template": "prostyh", "url": ["https://forms.gle/LCYPCZ13urUmRPdq5"]},
-      {"time": "2020-07-03T22:00:00+03:00", "template": "top1000", "url": ["https://forms.gle/rFC2o9Tfg92tzc1m6"]},
-      {"time": "2020-07-05T20:00:00+03:00", "template": "top1000", "url": ["https://forms.gle/CYuELvocCPYeK8869"]},
-      {"time": "2020-07-08T20:00:00+03:00", "template": "familigry", "url": ["https://forms.gle/GS7iCEXYXAwdF6jp9"]},
-      {"time": "2020-07-09T20:00:00+03:00", "template": "kipr", "url": ["https://forms.gle/Brze8YWeMfemfWPj6"]},
-      {"time": "2020-07-10T20:00:00+03:00", "template": "sosedgalktika", "url": ["https://forms.gle/e7S9xSdri6qeZG9N7"]},
-      {"time": "2020-07-12T20:00:00+03:00", "template": "beskzemli2", "url": ["https://forms.gle/uDXouoigdpU2fcLE8"]},
-      {"time": "2020-07-13T20:00:00+03:00", "template": "beskzemli2", "url": ["https://forms.gle/GNL2iEiHPnsgFoVh7"]},
-      {"time": "2020-07-16T20:00:00+03:00", "template": "ligastarta17", "url": ["https://forms.gle/UFuyRHUibD4rkkgP9"]},
-      {"time": "2020-07-19T20:00:00+03:00", "template": "antibingo", "url": ["https://forms.gle/HY1MaKNf6p5mVu71A"]},
-      {"time": "2020-07-20T20:00:00+03:00", "template": "ovoschkuril", "url": ["https://forms.gle/aPMXGAnyAxczX2iNA"]},
-      {"time": "2020-07-21T20:00:00+03:00", "template": "ligastarta17", "url": ["https://forms.gle/PDojC5TNQStYENZs6"]},
-      {"time": "2020-07-22T20:00:00+03:00", "template": "ovoschkuril", "url": ["https://forms.gle/sDdANkbLe5ysaWRH8"]},
-      {"time": "2020-07-23T20:00:00+03:00", "template": "deliverycup4", "url": ["https://forms.gle/FNSo5aJdDJnk47uj7"]}
     ]
   }
 ]

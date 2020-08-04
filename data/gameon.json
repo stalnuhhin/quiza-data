@@ -9,30 +9,6 @@
     "lang": "По-английски",
     "url": ["https://www.facebook.com/pg/gameontashkent/posts"],
     "games": [
-      {
-        "time": "2020-07-08T20:30:00+05:00",
-        "name": "Game On #11",
-        "price": ["6 USD/ком", "400 RUB/ком"],
-        "url": ["https://www.facebook.com/gameontashkent/posts/915514235616968"]
-      },
-      {
-        "time": "2020-07-15T20:30:00+05:00",
-        "name": "Game On #12",
-        "price": ["6 USD/ком", "400 RUB/ком"],
-        "url": ["https://www.facebook.com/gameontashkent/posts/920693531765705"]
-      },
-      {
-        "time": "2020-07-22T20:30:00+05:00",
-        "name": "Game On #13",
-        "price": ["6 USD/ком", "400 RUB/ком"],
-        "url": ["https://www.instagram.com/p/CC05Sa6JSNK/"]
-      },
-      {
-        "time": "2020-07-29T20:30:00+05:00",
-        "name": "Game On #14",
-        "price": ["6 USD/ком", "400 RUB/ком"],
-        "url": ["https://www.facebook.com/gameontashkent/posts/931310504037341"]
-      }
     ]
   }
 ]

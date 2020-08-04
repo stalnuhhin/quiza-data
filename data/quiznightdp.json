@@ -9,26 +9,6 @@
     "price": ["100 UAH/чел"],
     "url": ["https://www.facebook.com/pg/quiz.night.dp/events", "https://quiznight.com.ua"],
     "games": [
-      {
-        "time": "2020-07-09T20:00:00+03:00",
-        "name": "HOME QUIZ. Игра №9",
-        "url": ["https://www.facebook.com/events/3037637746354204/"]
-      },
-      {
-        "time": "2020-07-16T20:00:00+03:00",
-        "name": "HOME QUIZ. Игра №10",
-        "url": ["https://www.facebook.com/events/749359665833865/"]
-      },
-      {
-        "time": "2020-07-23T20:00:00+03:00",
-        "name": "HOME QUIZ. Игра №11",
-        "url": ["https://www.facebook.com/events/4863126773712746/"]
-      },
-      {
-        "time": "2020-07-30T20:00:00+03:00",
-        "name": "HOME QUIZ. Игра №12",
-        "url": ["https://www.facebook.com/events/723190474893175/"]
-      }
     ]
   }
 ]

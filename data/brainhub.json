@@ -9,51 +9,6 @@
     "url": ["https://www.facebook.com/pg/BrainHubKiev/events/", "https://www.facebook.com/pg/brainhubkharkiv/events/", "https://www.twitch.tv/brainhubua"],
     "games": [
       {
-        "time": "2020-07-01T20:00:00+03:00",
-        "name": "«Полесские хроники - 2020»",
-        "chgk": true,
-        "price": ["300 UAH/ком", "780 RUB/ком", "11.2 USD/ком", "10 EUR/ком"],
-        "url": ["https://www.facebook.com/events/202259584331034/"]
-      },
-      {
-        "time": "2020-07-07T20:00:00+03:00",
-        "name": "Кубок соседней галактики - 2020. Эпсилон",
-        "chgk": true,
-        "price": ["300 UAH/ком", "800 RUB/ком", "11.25 USD/ком", "10 EUR/ком"],
-        "url": ["https://www.facebook.com/events/3114763661948796/"]
-      },
-      {
-        "time": "2020-07-09T20:00:00+03:00",
-        "name": "Летний Online Киноквиз",
-        "price": ["200 UAH/ком", "50 UAH/чел"],
-        "url": ["https://www.facebook.com/events/1155650754833747/"]
-      },
-      {
-        "time": "2020-07-13T20:00:00+03:00",
-        "name": "«Что? Где? Когда?» - Карантин-лига 2.5",
-        "chgk": true,
-        "price": ["50 UAH/чел"],
-        "url": ["https://www.facebook.com/events/2708300109449617/"]
-      },
-      {
-        "time": "2020-07-15T20:00:00+03:00",
-        "name": "Online Melody Quiz",
-        "price": ["200 UAH/ком", "50 UAH/чел"],
-        "url": ["https://www.facebook.com/events/573161253396597/"]
-      },
-      {
-        "time": "2020-07-23T20:00:00+03:00",
-        "name": "Летний Online Киноквиз",
-        "price": ["200 UAH/ком", "50 UAH/чел"],
-        "url": ["https://www.facebook.com/events/284205946143115/"]
-      },
-      {
-        "time": "2020-07-27T20:00:00+03:00",
-        "name": "«Что? Где? Когда?» - Карантин-лига 2.6",
-        "price": ["50 UAH/чел"],
-        "url": ["https://www.facebook.com/events/731357354282674/"]
-      },
-      {
         "time": "2020-08-06T20:00:00+03:00",
         "name": "Чёрное «Что? Где? Когда?»",
         "price": ["100 UAH/ком"],

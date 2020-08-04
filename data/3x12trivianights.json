@@ -9,22 +9,6 @@
     "url": ["https://www.facebook.com/pg/trivia3x12/events"],
     "games": [
       {
-        "time": "2020-07-03T21:30:00+03:00",
-        "name": "South Park Online Trivia by 3x12",
-        "lang": "По-английски",
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/2700965943341584/"]
-      },
-      {
-        "time": "2020-07-18T22:00:00+03:00",
-        "name": "Back To The Future: Online Trivia",
-        "lang": "По-английски",
-        "donate": true,
-        "free": true,
-        "url": ["https://www.facebook.com/events/3071996466186843/"]
-      },
-      {
         "time": "2020-08-15T19:30:00+03:00",
         "name": "Ancient Rome Online Trivia",
         "lang": "По-английски",

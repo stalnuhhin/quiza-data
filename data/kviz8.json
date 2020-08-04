@@ -10,18 +10,6 @@
     "url": ["https://www.facebook.com/pg/QuizN8/events/"],
     "games": [
       {
-        "time": "2020-07-09T20:00:00+03:00",
-        "name": "Квиз N8. 7 Игра",
-        "price": ["400 UAH/ком"],
-        "url": ["https://www.facebook.com/events/217586719337820/"]
-      },
-      {
-        "time": "2020-07-23T20:00:00+03:00",
-        "name": "Квиз N8. 8 Игра",
-        "price": ["400 UAH/ком"],
-        "url": ["https://www.facebook.com/events/623493571608062/"]
-      },
-      {
         "time": "2020-08-06T20:00:00+03:00",
         "name": "Квиз N8. 9 Игра",
         "price": ["400 UAH/ком"],

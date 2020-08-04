@@ -15,41 +15,6 @@
     },
     "games": [
       {
-        "time": "2020-07-02T20:00:00+03:00",
-        "name": "Летняя серия Bee Clever. Физики и лирики",
-        "template": "chgk",
-        "price": ["300 RUB/ком", "110 UAH/ком", "4 USD/ком", "3.6 EUR/ком"],
-        "url": ["https://www.facebook.com/events/649738872292207"]
-      },
-      {
-        "time": "2020-07-09T20:00:00+03:00",
-        "name": "Белые ночи",
-        "template": "chgk",
-        "price": ["800 RUB/ком", "300 UAH/ком", "11 USD/ком"],
-        "url": ["https://www.facebook.com/events/2589394837969442"]
-      },
-      {
-        "time": "2020-07-16T20:00:00+03:00",
-        "name": "Летняя серия Bee Clever. The Best - 4",
-        "template": "chgk",
-        "price": ["300 RUB/ком", "110 UAH/ком", "4 USD/ком", "3.6 EUR/ком"],
-        "url": ["https://www.facebook.com/events/642554716347138/"]
-      },
-      {
-        "time": "2020-07-23T20:00:00+03:00",
-        "name": "Антибинго - 2020",
-        "template": "chgk",
-        "price": ["800 RUB/ком", "300 UAH/ком", "11 USD/ком"],
-        "url": ["https://www.facebook.com/events/284244462797215/"]
-      },
-      {
-        "time": "2020-07-30T20:00:00+03:00",
-        "name": "Антибинго - 2020",
-        "template": "chgk",
-        "price": ["800 RUB/ком", "300 UAH/ком", "11 USD/ком"],
-        "url": ["https://www.facebook.com/events/1068598943542780/"]
-      },
-      {
         "time": "2020-08-06T20:00:00+03:00",
         "name": "Летняя серия Bee Clever. ЖЗЛ",
         "template": "chgk",

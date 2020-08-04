@@ -9,18 +9,6 @@
     "url": ["https://www.facebook.com/pg/football.quiz.tashkent/posts/"],
     "games": [
       {
-        "time": "2020-07-09T19:00:00+03:00",
-        "name": "Онлайн этап #12",
-        "price": ["3 USD/ком", "220 RUB/ком", "1.25 KZT/ком"],
-        "url": ["https://www.facebook.com/football.quiz.tashkent/photos/a.202711113828491/750344002398530"]
-      },
-      {
-        "time": "2020-07-23T19:00:00+03:00",
-        "name": "Онлайн этап #13",
-        "price": ["3 USD/ком", "220 RUB/ком", "1.25 KZT/ком"],
-        "url": ["https://www.facebook.com/football.quiz.tashkent/photos/a.202711113828491/760471041385826"]
-      },
-      {
         "time": "2020-08-06T19:00:00+03:00",
         "name": "Онлайн этап #14",
         "price": ["3 USD/ком", "220 RUB/ком", "1.25 KZT/ком"],

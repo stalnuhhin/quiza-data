@@ -9,61 +9,6 @@
     "url": ["https://www.facebook.com/profile.php?id=100017788444620"],
     "games": [
       {
-        "time": "2020-07-02T20:00:00+03:00",
-        "name": "Owl Mamy Blue",
-        "chgk": true,
-        "price": ["6 USD/ком", "150 UAH/ком"],
-        "url": ["https://www.facebook.com/events/747021639400643/"]
-      },
-      {
-        "time": "2020-07-09T20:00:00+03:00",
-        "name": "Вечер парного ЧГК",
-        "chgk": true,
-        "price": ["4 USD/ком", "110 UAH/ком"],
-        "url": ["https://www.facebook.com/events/277631563507352"]
-      },
-      {
-        "time": "2020-07-07T20:00:00+03:00",
-        "name": "Топ-1000",
-        "chgk": true,
-        "price": ["9 USD/ком", "250 UAH/ком"],
-        "url": ["https://www.facebook.com/events/621922598439071/"]
-      },
-      {
-        "time": "2020-07-14T20:00:00+03:00",
-        "name": "Бесконечные земли. Том ІІ",
-        "chgk": true,
-        "price": ["9 USD/ком", "250 UAH/ком"],
-        "url": ["https://www.facebook.com/events/280420769950259/"]
-      },
-      {
-        "time": "2020-07-22T20:00:00+03:00",
-        "name": "Cinema Quiz",
-        "price": ["5.5 USD/ком", "150 UAH/ком"],
-        "url": ["https://www.facebook.com/events/926543311185264/"]
-      },
-      {
-        "time": "2020-07-23T20:00:00+03:00",
-        "name": "Потанцуй со мной!",
-        "chgk": true,
-        "price": ["6 USD/ком"],
-        "url": ["https://www.facebook.com/events/306121170581140/"]
-      },
-      {
-        "time": "2020-07-29T20:00:00+03:00",
-        "name": "Кубик бесконечности: второй бросок",
-        "chgk": true,
-        "price": ["9 USD/ком", "250 UAH/ком"],
-        "url": ["https://www.facebook.com/events/286796172389444/"]
-      },
-      {
-        "time": "2020-07-30T20:00:00+03:00",
-        "name": "Вечер парного ЧГК",
-        "chgk": true,
-        "price": ["4 USD/ком", "110 UAH/ком"],
-        "url": ["https://www.facebook.com/events/2760872257481635"]
-      },
-      {
         "time": "2020-08-05T20:00:00+03:00",
         "name": "Потанцуй со мной!",
         "chgk": true,

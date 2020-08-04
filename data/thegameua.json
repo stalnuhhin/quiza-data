@@ -8,17 +8,6 @@
     "image": "thegameua.png",
     "url": ["https://www.facebook.com/pg/theGame.ua/events"],
     "games": [
-      { "time": "2020-07-07T20:00:00+03:00", "name": "Owl Mamy Blue", "chgk": true, "price": [ "300 UAH/ком" ], "url": [ "https://www.facebook.com/events/314735579555884/" ] },
-      { "time": "2020-07-08T20:00:00+03:00", "name": "The Witcher (The GAME 2)", "chgk": true, "price": [ "300 UAH/ком", "12 USD/ком" ], "url": [ "https://www.facebook.com/events/3242073305844453" ] },
-      { "time": "2020-07-09T20:30:00+03:00", "name": "Чернобыль СЕРИАЛ", "chgk": true, "price": [ "300 UAH/ком" ], "url": [ "https://www.facebook.com/events/643012686297166" ] },
-      { "time": "2020-07-16T20:00:00+03:00", "name": "Синхрон-lite. Лига Старта. Выпуск XVII", "chgk": true, "price": [ "300 UAH/ком" ], "url": [ "https://ligastartaonline5.ticketforevent.com/" ] },
-      { "time": "2020-07-20T20:00:00+03:00", "name": "Синхрон-lite. Лига Старта. Выпуск XVII", "chgk": true, "price": [ "300 UAH/ком" ], "url": [ "https://ligastartaonline5.ticketforevent.com/" ] },
-      { "time": "2020-07-21T20:00:00+03:00", "name": "Harry Potter Quiz", "price": [ "300 UAH/ком" ], "url": [ "https://www.facebook.com/events/672718603324184/" ] },
-      { "time": "2020-07-22T20:00:00+03:00", "name": "The Game Islands Quiz", "price": [ "300 UAH/ком" ], "url": [ "https://www.facebook.com/events/753490538729707/" ] },
-      { "time": "2020-07-28T20:00:00+03:00", "name": "Pixar", "price": [ "300 UAH/ком" ], "url": [ "https://www.facebook.com/events/3516199655068242/" ] },
-      { "time": "2020-07-29T20:00:00+03:00", "name": "Lord of the Rings Quiz", "price": [ "300 UAH/ком" ], "url": [ "https://www.facebook.com/events/703470003807841/" ] },
-      { "time": "2020-07-30T20:00:00+03:00", "name": "Автомобили", "price": [ "300 UAH/ком" ], "url": [ "https://www.facebook.com/events/210215340294234/" ] },
-      { "time": "2020-07-31T20:00:00+03:00", "name": "Harry Potter Quiz (New)", "price": [ "300 UAH/ком" ], "url": [ "https://www.facebook.com/events/901269946950613/" ] }
     ]
   }
 ]

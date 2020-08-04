@@ -10,12 +10,6 @@
     "url": ["https://old.ilovequiz.ru/", "https://ilovequiz.ru", "https://www.facebook.com/ilovequiz"],
     "games": [
       {
-        "time": "2020-07-14T21:00:00+03:00",
-        "name": "Онлайн #10.1",
-        "price": ["400 RUB/ком"],
-        "url": ["https://old.ilovequiz.ru/game/117/"]
-      },
-      {
         "time": "2020-08-19T21:00:00+03:00",
         "name": "Онлайн #12.1",
         "price": ["400 RUB/ком"],

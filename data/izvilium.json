@@ -8,7 +8,6 @@
     "duration": 1,
     "url": ["http://izvilium.online/", "https://vk.com/izvilium_sar"],
     "games": [
-      { "time": "2020-07-02T16:30:00Z", "name": "Россия. От Владимира до Владимира (от 18.03.20)", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/5761" ], "qpid": "5761", "qpuid": "1660", "qpuname": "ИZВИЛИУМ", "cat": "common_knowledge" }
     ]
   }
 ]

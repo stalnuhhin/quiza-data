@@ -9,9 +9,6 @@
     "price": ["600 RUB/ком", "200 RUB/чел"],
     "url": ["https://vk.com/eleven_quiz_online"],
     "games": [
-      { "time": "2020-07-02T16:00:00Z", "name": "Eleven Quiz №7", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6615" ], "qpid": "6615", "qpuid": "3390", "qpuname": "ElevenQuiz", "cat": "sports" },
-      { "time": "2020-07-14T16:00:00Z", "name": "Eleven Quiz №8", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/6940" ], "qpid": "6940", "qpuid": "3390", "qpuname": "ElevenQuiz", "cat": "sports" },
-      { "time": "2020-07-24T19:00:00+03:00", "name": "Eleven Quiz №10", "url": [ "https://vk.com/wall-183530227_1640" ] }
     ]
   }
 ]

@@ -10,24 +10,6 @@
     "url": ["https://vk.com/fmquiz"],
     "games": [
       {
-        "time": "2020-07-06T19:00:00+03:00",
-        "name": "FM QUIZ \"Девяностые\"",
-        "price": ["15 BYN/ком"],
-        "url": ["https://vk.com/wall-127402793_9822"]
-      },
-      {
-        "time": "2020-07-20T19:15:00+03:00",
-        "name": "FM QUIZ #100",
-        "price": ["15 BYN/ком"],
-        "url": ["https://vk.com/wall-127402793_9901"]
-      },
-      {
-        "time": "2020-07-27T19:15:00+03:00",
-        "name": "FM QUIZ Музыкальная",
-        "price": ["15 BYN/ком"],
-        "url": ["https://vk.com/wall-127402793_9932"]
-      },
-      {
         "time": "2020-08-03T19:15:00+03:00",
         "name": "FM QUIZ Big Size",
         "price": ["15 BYN/ком"],
