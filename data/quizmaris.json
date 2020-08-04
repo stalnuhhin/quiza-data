@@ -52,7 +52,11 @@
       { "time": "2020-08-02T09:10:00Z", "name": "Квиз Марис [КИНОКВИЗ]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7616" ], "qpid": "7616", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" },
       { "time": "2020-08-02T10:00:00Z", "name": "Квиз Марис [НОВЫЙ ПАКЕТ 18+]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7617" ], "qpid": "7617", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
       { "time": "2020-08-03T10:00:00Z", "name": "Квиз Марис [ГАРРИ ПОТТЕР #5]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7587" ], "qpid": "7587", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" },
-      { "time": "2020-08-04T10:00:00Z", "name": "Квиз Марис [ГАРРИ ПОТТЕР #5]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7587" ], "qpid": "7587", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" }
+      { "time": "2020-08-04T10:00:00Z", "name": "Квиз Марис [ГАРРИ ПОТТЕР #5]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7587" ], "qpid": "7587", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" },
+      { "time": "2020-08-06T10:20:00Z", "name": "Квиз Марис [КИНОКВИЗ]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7665" ], "qpid": "7665", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" },
+      { "time": "2020-08-06T11:10:00Z", "name": "Квиз Марис [ГАРРИ ПОТТЕР #5]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7587" ], "qpid": "7587", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" },
+      { "time": "2020-08-06T12:10:00Z", "name": "Квиз Марис [КЛАССИКА #19]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7666" ], "qpid": "7666", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-08-06T17:40:00Z", "name": "Квиз Марис [НОВЫЙ ПАКЕТ]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7673" ], "qpid": "7673", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" }
     ]
   }
 ]

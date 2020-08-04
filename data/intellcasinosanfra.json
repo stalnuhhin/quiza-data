@@ -2,7 +2,7 @@
   {
     "id": "eaa4a42b-ada8-42d2-a7c1-1a3f282cec6b",
     "org": "Интеллектуальное казино Сан Франциско",
-    "latestCheck": "2020-08-03T12:00:00+03:00",
+    "latestCheck": "2020-08-05T12:00:00+03:00",
     "type": ["events"],
     "image": "intellcasinosanfra.png",
     "chgk": true,
@@ -27,12 +27,12 @@
       },
       {
         "time": "2020-08-09T13:00:00-07:00",
-        "name": "Stanford Open (Летняя Серия - Игра 6)",
+        "name": "Что? Где? Когда? Stanford (Игра 11) - Кубок поручика Ржевского!",
         "url": ["https://www.facebook.com/events/222442442311958"]
       },
       {
         "time": "2020-08-23T13:00:00-07:00",
-        "name": "Stanford Open (Летняя Серия - Игра 7)",
+        "name": "Stanford Open",
         "url": ["https://www.facebook.com/events/222442442311958"]
       }
     ]
