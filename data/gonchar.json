@@ -2,7 +2,7 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-08-05T12:00:00+03:00",
+    "latestCheck": "2020-08-08T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
@@ -183,6 +183,11 @@
         "name": "Легкий Смоленск-7",
         "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
+      },
+      "kuboksvetlyhloshadok": {
+        "name": "Кубок светлых лошадок",
+        "price": ["1000 RUB/ком", "360 UAH/ком", "14.5 USD/ком", "12.5 EUR/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
       }
     },
     "games": [
@@ -198,8 +203,20 @@
       {"time": "2020-08-07T19:00:00+03:00", "template": "legksmolensk7"},
       {"time": "2020-08-07T21:30:00+03:00", "template": "letokinoliga"},
       {"time": "2020-08-08T03:00:00+03:00", "template": "legksmolensk7"},
+      {"time": "2020-08-08T12:00:00+03:00", "template": "vechnypolden"},
+      {"time": "2020-08-08T14:15:00+03:00", "template": "moonpie"},
+      {"time": "2020-08-08T16:30:00+03:00", "template": "tuganbaev"},
+      {"time": "2020-08-08T19:00:00+03:00", "template": "kuboksvetlyhloshadok"},
+      {"time": "2020-08-08T21:30:00+03:00", "template": "kuboksvetlyhloshadok"},
       {"time": "2020-08-09T03:00:00+03:00", "template": "moonpie"},
-      {"time": "2020-08-10T03:00:00+03:00", "template": "beskzemli3"}
+      {"time": "2020-08-09T11:30:00+03:00", "template": "legksmolensk7"},
+      {"time": "2020-08-09T14:00:00+03:00", "template": "belyenochi"},
+      {"time": "2020-08-09T16:30:00+03:00", "template": "kubikbesk2"},
+      {"time": "2020-08-09T19:00:00+03:00", "template": "beskzemli3"},
+      {"time": "2020-08-09T21:30:00+03:00", "template": "kuboksvetlyhloshadok"},
+      {"time": "2020-08-10T03:00:00+03:00", "template": "beskzemli3"},
+      {"time": "2020-08-10T19:00:00+03:00", "template": "kuboksvetlyhloshadok"},
+      {"time": "2020-08-10T21:30:00+03:00", "template": "beskzemli3"}
     ]
   }
 ]

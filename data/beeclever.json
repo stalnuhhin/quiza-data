@@ -2,7 +2,7 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2020-08-05T12:00:00+03:00",
+    "latestCheck": "2020-08-08T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
@@ -20,6 +20,13 @@
         "template": "chgk",
         "price": ["4 USD/ком"],
         "url": ["https://www.facebook.com/events/335305834498219/"]
+      },
+      {
+        "time": "2020-08-13T20:00:00+03:00",
+        "name": "Янтарный лингам",
+        "template": "chgk",
+        "price": ["11 USD/ком", "300 UAH/ком", "9.3 EUR/ком", "800 RUB/ком"],
+        "url": ["https://www.facebook.com/events/293986068579191/"]
       }
     ]
   }
