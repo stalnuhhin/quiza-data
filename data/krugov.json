@@ -99,8 +99,6 @@
       }
     },
     "games": [
-      {"time": "2020-08-08T18:00:00+03:00", "url": ["https://forms.gle/3hXXPCs2hVYfmJ1Z9"], "template": "kuboksvetlloshadok"},
-      {"time": "2020-08-08T21:00:00+03:00", "url": ["https://forms.gle/RG2ffnrwds37NQGbA"], "template": "postmodern3"}
     ]
   }
 ]
