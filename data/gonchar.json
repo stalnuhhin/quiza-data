@@ -2,7 +2,7 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-08-08T12:00:00+03:00",
+    "latestCheck": "2020-08-10T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
@@ -216,7 +216,9 @@
       {"time": "2020-08-09T21:30:00+03:00", "template": "kuboksvetlyhloshadok"},
       {"time": "2020-08-10T03:00:00+03:00", "template": "beskzemli3"},
       {"time": "2020-08-10T19:00:00+03:00", "template": "kuboksvetlyhloshadok"},
-      {"time": "2020-08-10T21:30:00+03:00", "template": "beskzemli3"}
+      {"time": "2020-08-10T21:30:00+03:00", "template": "beskzemli3"},
+      {"time": "2020-08-11T19:00:00+03:00", "template": "beskzemli3"},
+      {"time": "2020-08-11T21:30:00+03:00", "template": "kuboksvetlyhloshadok"}
     ]
   }
 ]
