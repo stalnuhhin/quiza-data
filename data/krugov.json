@@ -9,96 +9,18 @@
     "chgk": true,
     "url": ["https://www.facebook.com/groups/528679377769191"],
     "templates": {
-      "ligastarta16": {
-        "name": "Лига старта XVI",
-        "price": ["300 RUB/чел", "400 RUB/2чел", "700 RUB/ком"]
-      },
-      "kubikbesk1": {
-        "name": "Кубик бесконечности - 1",
-        "price": ["900 RUB/ком"]
-      },
-      "prost": {
-        "name": "Прост!",
-        "price": ["450 RUB/ком"]
-      },
-      "letokinoliga": {
-        "name": "Летняя кинолига",
-        "price": ["800 RUB/ком"]
-      },
-      "frankonskie": {
-        "name": "Франконские игры",
-        "price": ["700 RUB/ком"]
-      },
-      "intermezzo": {
-        "name": "Intermezzo-2020",
-        "price": ["700 RUB/ком"]
-      },
-      "triptihleto": {
-        "name": "Триптих. Лето",
-        "price": ["900 RUB/ком"]
-      },
-      "deliverycup3": {
-        "name": "Delivery cup 3",
-        "price": ["900 RUB/ком"]
-      },
-      "beskzemli1": {
-        "name": "Бесконечные земли. Том I",
-        "price": ["900 RUB/ком"]
-      },
-      "zelenyjshum2": {
-        "name": "Зеленый шум-2",
-        "price": ["300 RUB/чел", "400 RUB/2чел", "700 RUB/ком"]
-      },
-      "top1000": {
-        "name": "Топ-1000",
-        "price": ["350 RUB/чел", "500 RUB/2чел", "900 RUB/ком"]
-      },
-      "prostyh": {
-        "name": "Синхрон простых вопросов",
-        "price": ["900 RUB/ком"]
-      },
-      "familigry": {
-        "name": "Фамильные игры",
-        "price": ["200 RUB/чел", "350 RUB/2чел", "500 RUB/ком"]
-      },
-      "kipr": {
-        "name": "Чемпионат Кипра",
-        "price": ["1200 RUB/ком"]
-      },
-      "sosedgalktika": {
-        "name": "Кубок соседней галактики",
-        "price": ["800 RUB/ком"]
-      },
-      "beskzemli2": {
-        "name": "Бесконечные земли. Том II",
-        "price": ["900 RUB/ком"]
-      },
-      "ligastarta17": {
-        "name": "Лига старта XVII",
-        "price": ["300 RUB/чел", "400 RUB/2чел", "700 RUB/ком"]
-      },
-      "antibingo": {
-        "name": "Антибинго",
+      "dichtenszeit5": {
+        "name": "Dichtenszeit-5",
         "price": ["1000 RUB/ком"]
       },
-      "ovoschkuril": {
-        "name": "Овощ курильщика",
-        "price": ["900 RUB/ком"]
-      },
-      "deliverycup4": {
-        "name": "Delivery Cup №4",
-        "price": ["900 RUB/ком"]
-      },
-      "kuboksvetlloshadok": {
-        "name": "Кубок светлых лошадок",
+      "aina": {
+        "name": "Айна (Зеркало Открытого Чемпионата Казахстана)",
         "price": ["1000 RUB/ком"]
-      },
-      "postmodern3": {
-        "name": "PostModern Talking v3",
-        "price": ["900 RUB/ком"]
       }
     },
     "games": [
+      {"time": "2020-08-13T20:00:00+03:00", "template": "dichtenszeit5", "url": ["https://forms.gle/fUDJKHX5sHsTkCqF8"]},
+      {"time": "2020-08-16T20:00:00+03:00", "template": "aina", "url": ["https://forms.gle/av9RcYYe2F3T2TEk9"]}
     ]
   }
 ]
