@@ -2,7 +2,7 @@
   {
     "id": "901232e6-ef9f-47c7-b9f1-752c67c8eec6",
     "org": "Сахар",
-    "latestCheck": "2020-08-10T12:00:00+03:00",
+    "latestCheck": "2020-08-13T12:00:00+03:00",
     "type": ["events"],
     "chgk": true,
     "duration": 2.5,
@@ -12,8 +12,8 @@
       { "time": "2020-08-03T17:00:00Z", "name": "Столикий синхрон (повтор)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7553" ], "qpid": "7553", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
       { "time": "2020-08-11T17:00:00Z", "name": "Научпоп (повтор)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7215" ], "qpid": "7215", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
       { "time": "2020-08-12T17:00:00Z", "name": "Части Вселенной 1960–1999 (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/7714" ], "qpid": "7714", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
+      { "time": "2020-08-13T17:00:00Z", "name": "Части Вселенной 1960–1999 (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/7714" ], "qpid": "7714", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
       { "time": "2020-08-14T17:00:00Z", "name": "Кубок попкорна '19 (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/7715" ], "qpid": "7715", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
-      { "time": "2020-08-16T17:00:00Z", "name": "Научпоп (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/7215" ], "qpid": "7215", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" }
-    ]
+      { "time": "2020-08-16T17:00:00Z", "name": "Научпоп (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/7215" ], "qpid": "7215", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" }]
   }
 ]

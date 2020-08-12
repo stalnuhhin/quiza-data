@@ -2,7 +2,7 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-08-10T12:00:00+03:00",
+    "latestCheck": "2020-08-13T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
@@ -188,6 +188,16 @@
         "name": "Кубок светлых лошадок",
         "price": ["1000 RUB/ком", "360 UAH/ком", "14.5 USD/ком", "12.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
+      },
+      "oku1": {
+        "name": "ОКУ-1",
+        "price": ["1000 RUB/ком", "360 UAH/ком", "14.5 USD/ком", "12.5 EUR/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
+      },
+      "troll": {
+        "name": "Пещера игорного тролля",
+        "price": ["900 RUB/ком", "300 UAH/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
       }
     },
     "games": [
@@ -218,7 +228,11 @@
       {"time": "2020-08-10T19:00:00+03:00", "template": "kuboksvetlyhloshadok"},
       {"time": "2020-08-10T21:30:00+03:00", "template": "beskzemli3"},
       {"time": "2020-08-11T19:00:00+03:00", "template": "beskzemli3"},
-      {"time": "2020-08-11T21:30:00+03:00", "template": "kuboksvetlyhloshadok"}
+      {"time": "2020-08-11T21:30:00+03:00", "template": "kuboksvetlyhloshadok"},
+      {"time": "2020-08-13T04:30:00+03:00", "template": "moonpie"},
+      {"time": "2020-08-13T19:00:00+03:00", "template": "oku1"},
+      {"time": "2020-08-13T21:30:00+03:00", "template": "troll"},
+      {"time": "2020-08-14T19:00:00+03:00", "template": "troll"}
     ]
   }
 ]
