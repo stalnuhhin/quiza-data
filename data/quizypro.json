@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2020-08-14T12:00:00+03:00",
+    "latestCheck": "2020-08-16T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -142,13 +142,29 @@
       { "time": "2020-08-14T17:40:00Z", "name": "Путешествие с юмором. Повтор от 8 августа", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7722" ], "qpid": "7722", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
       { "time": "2020-08-14T18:00:00Z", "name": "CINEMANIA (КиноQuiz) Сеанс XVI Premiere!", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/7761" ], "qpid": "7761", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
       { "time": "2020-08-15T12:00:00Z", "name": "Фантастические миры. Повтор.", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7595" ], "qpid": "7595", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-15T12:30:00Z", "name": "Классика жанра. Повтор", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7846" ], "qpid": "7846", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-15T12:30:00Z", "name": "POP QUIZ: КИНО И МУЗЫКА #10", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7859" ], "qpid": "7859", "qpuid": "2091", "qpuname": "POP QUIZ", "cat": "cinema_and_music", "org": "POP QUIZ" },
       { "time": "2020-08-15T14:00:00Z", "name": "Quiz-club on-line №34", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/7473" ], "qpid": "7473", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
       { "time": "2020-08-15T14:00:00Z", "name": "Путешествие с юмором. Повтор от 8 августа", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7772" ], "qpid": "7772", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
-      { "time": "2020-08-15T16:00:00Z", "name": "Путешествие с юмором. Повтор от 8 августа", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7771" ], "qpid": "7771", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
-      { "time": "2020-08-15T18:00:00Z", "name": "Бестселлер. Повтор от 4 августа", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7721" ], "qpid": "7721", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-15T16:00:00Z", "name": "Бестселлер. Повтор от 4 августа", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7721" ], "qpid": "7721", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-15T16:00:00Z", "name": "POP QUIZ: КИНО И МУЗЫКА #10", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7860" ], "qpid": "7860", "qpuid": "2091", "qpuname": "POP QUIZ", "cat": "common_knowledge", "org": "POP QUIZ" },
+      { "time": "2020-08-15T17:10:00.321Z", "name": "ПроQUIZтинация. Своя игра #3 ПРЕМЬЕРА!", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/7881" ], "qpid": "7881", "qpuid": "6323", "qpuname": "ПроQUIZтинация", "cat": "common_knowledge", "org": "ПроQUIZтинация" },
+      { "time": "2020-08-15T17:30:00Z", "name": "Путешествие с юмором. Повтор от 8 августа", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7771" ], "qpid": "7771", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-15T19:00:00.925Z", "name": "Playlist#2", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7884" ], "qpid": "7884", "qpuid": "6719", "qpuname": "Pianoforte ", "cat": "cinema_and_music", "org": "Pianoforte " },
+      { "time": "2020-08-15T20:10:00Z", "name": "Турнир на выбор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7850" ], "qpid": "7850", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-16T09:00:00Z", "name": "Фантастические миры. Повтор.", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7595" ], "qpid": "7595", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
       { "time": "2020-08-16T09:00:00Z", "name": "МУЗЫКАЛЬНЫЕ ЖАНРЫ #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7837" ], "qpid": "7837", "qpuid": "10473", "qpuname": "Музыкальные жанры", "cat": "cinema_and_music", "org": "Музыкальные жанры" },
       { "time": "2020-08-16T11:00:00Z", "name": "Путешествие с юмором. Повтор от 8 августа", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7769" ], "qpid": "7769", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
-      { "time": "2020-08-16T15:00:00Z", "name": "ВЕЛИКОЛЕПНЫЙ КИНОКВИЗ #17", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7839" ], "qpid": "7839", "qpuid": "4959", "qpuname": "Великолепные киноквизы", "cat": "cinema_and_music", "org": "Великолепные киноквизы" }
+      { "time": "2020-08-16T11:00:00Z", "name": "Playlist#2", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7885" ], "qpid": "7885", "qpuid": "6719", "qpuname": "Pianoforte ", "cat": "cinema_and_music", "org": "Pianoforte " },
+      { "time": "2020-08-16T13:00:00Z", "name": "Бестселлер. Повтор от 4 августа", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7878" ], "qpid": "7878", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-16T14:30:00Z", "name": "Мир в вопросах и ответах. Повтор", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7796" ], "qpid": "7796", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-16T15:00:00Z", "name": "ВЕЛИКОЛЕПНЫЙ КИНОКВИЗ #17", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7839" ], "qpid": "7839", "qpuid": "4959", "qpuname": "Великолепные киноквизы", "cat": "cinema_and_music", "org": "Великолепные киноквизы" },
+      { "time": "2020-08-16T16:00:00Z", "name": "Буквально обо всем. Повтор", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7879" ], "qpid": "7879", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-16T17:00:00Z", "name": "CINEMANIA (КиноQuiz) Сеанс XVI Повтор I от 14.08.", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/7876" ], "qpid": "7876", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2020-08-16T18:00:00Z", "name": "Путешествие с юмором. Повтор от 8 августа", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7880" ], "qpid": "7880", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-18T17:00:00Z", "name": "День географа", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/7866" ], "qpid": "7866", "qpuid": "10214", "qpuname": "КРООИИ ЛИИ", "cat": "chgk", "org": "КРООИИ ЛИИ" },
+      { "time": "2020-08-18T19:00:00Z", "name": "CINEMANIA (КиноQuiz) Сеанс XVI Повтор II от 14.08.", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/7877" ], "qpid": "7877", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2020-08-22T14:00:00Z", "name": "Quiz-club on-line №35", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/7874" ], "qpid": "7874", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" }
     ]
   }
 ]

@@ -2,7 +2,7 @@
   {
     "id": "9eb0228f-fc4d-4e11-a294-87455f004ad9",
     "org": "Quiz Maris",
-    "latestCheck": "2020-08-14T12:00:00+03:00",
+    "latestCheck": "2020-08-16T12:00:00+03:00",
     "type": ["events"],
     "image": "quizmaris.png",
     "duration": 1,
@@ -45,7 +45,11 @@
       { "time": "2020-08-14T17:40:00Z", "name": "Квиз Марис [КИНОКВИЗ #2]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7750" ], "qpid": "7750", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" },
       { "time": "2020-08-14T18:30:00Z", "name": "Квиз Марис [НОВЫЙ ПАКЕТ]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7805" ], "qpid": "7805", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
       { "time": "2020-08-14T19:20:00Z", "name": "Квиз Марис 18+ [ЧЁРНЫЙ #12]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7751" ], "qpid": "7751", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
-      { "time": "2020-08-14T20:10:00Z", "name": "Квиз Марис [КИНОКВИЗ #1]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7732" ], "qpid": "7732", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" }
+      { "time": "2020-08-14T20:10:00Z", "name": "Квиз Марис [КИНОКВИЗ #1]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7732" ], "qpid": "7732", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" },
+      { "time": "2020-08-15T12:00:00Z", "name": "Квиз Марис [БЕЗ ПРАВИЛ]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7865" ], "qpid": "7865", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-08-15T18:20:00.017Z", "name": "Квиз Марис [КЛАССИЧЕСКАЯ ИГРА #21]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7887" ], "qpid": "7887", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-08-15T19:10:00Z", "name": "Квиз Марис [НОВЫЙ ПАКЕТ]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7886" ], "qpid": "7886", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-08-15T20:20:00Z", "name": "Квиз Марис [АЛКОГОЛЬНЫЙ]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7867" ], "qpid": "7867", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" }
     ]
   }
 ]
