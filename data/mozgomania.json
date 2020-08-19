@@ -2,7 +2,7 @@
   {
     "id": "61f66a97-a27d-435d-a8f1-e7af4e4d8b81",
     "org": "Мозгомания",
-    "latestCheck": "2020-08-13T12:00:00+03:00",
+    "latestCheck": "2020-08-19T12:00:00+03:00",
     "type": ["events"],
     "image": "mozgomania.png",
     "duration": 2,
@@ -12,6 +12,8 @@
       "https://www.facebook.com/pg/mozgomania.ru/posts"
     ],
     "games": [
+      { "time": "2020-08-19T15:00:00Z", "name": "Мозгомания из оффлайн. Премьера [I]", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7346" ], "qpid": "7346", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "common_knowledge" },
+      { "time": "2020-08-19T18:00:00Z", "name": "Мозгомания из оффлайн. Повтор [I]", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7922" ], "qpid": "7922", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "common_knowledge" }
     ]
   }
 ]

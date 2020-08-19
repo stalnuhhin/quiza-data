@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-08-13T12:00:00+03:00",
+    "latestCheck": "2020-08-19T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -13,6 +13,33 @@
         "name": "Чёрное «Что? Где? Когда?»",
         "price": ["100 UAH/ком"],
         "url": ["https://www.facebook.com/events/4253506444719288/"]
+      },
+      {
+        "time": "2020-08-20T20:00:00+03:00",
+        "name": "Летний Online КиноКвиз",
+        "price": ["200 UAH/ком", "50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/352612909236495/"]
+      },
+      {
+        "time": "2020-08-24T20:00:00+03:00",
+        "name": "«Что? Где? Когда?» - Антивирус-лига. Игра 2",
+        "price": ["60 UAH/чел"],
+        "chgk": true,
+        "url": ["https://www.facebook.com/events/2675574959377026/"]
+      },
+      {
+        "time": "2020-08-25T20:00:00+03:00",
+        "name": "Dichtenszeit-5",
+        "price": ["300 UAH/ком", "11 USD/ком", "9.3 EUR/ком", "800 RUB/ком"],
+        "chgk": true,
+        "url": ["https://www.facebook.com/events/734100434098032/"]
+      },
+      {
+        "time": "2020-08-27T20:00:00+03:00",
+        "name": "Чёрное «Что? Где? Когда?»",
+        "price": ["100 UAH/ком"],
+        "chgk": true,
+        "url": ["https://www.facebook.com/events/717523188827261/"]
       }
     ]
   }

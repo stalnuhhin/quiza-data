@@ -2,7 +2,7 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-08-18T12:00:00+03:00",
+    "latestCheck": "2020-08-19T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
@@ -213,6 +213,11 @@
         "name": "Малахитовая шкатулка",
         "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
         "url": ["https://tinyurl.com/sinhron"]
+      },
+      "hemira": {
+        "name": "Загадки ХемИры",
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
+        "url": ["https://tinyurl.com/sinhron"]
       }
     },
     "games": [
@@ -261,11 +266,12 @@
       {"time": "2020-08-17T03:00:00+03:00", "template": "dichtenszeit5"},
       {"time": "2020-08-17T19:00:00+03:00", "template": "malahit"},
       {"time": "2020-08-17T21:30:00+03:00", "template": "aina"},
-      {"time": "2020-08-18T19:00:00+03:00", "template": "dichtenszeit5"},
       {"time": "2020-08-18T21:30:00+03:00", "template": "beskzemli3"},
       {"time": "2020-08-19T19:00:00+03:00", "template": "troll"},
       {"time": "2020-08-19T21:30:00+03:00", "template": "malahit"},
-      {"time": "2020-08-20T19:00:00+03:00", "template": "kuboksvetlyhloshadok"}
+      {"time": "2020-08-20T04:30:00+03:00", "template": "troll"},
+      {"time": "2020-08-20T19:00:00+03:00", "template": "kuboksvetlyhloshadok"},
+      {"time": "2020-08-20T21:30:00+03:00", "template": "hemira"}
     ]
   }
 ]

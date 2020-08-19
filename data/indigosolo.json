@@ -7,7 +7,7 @@
     "type": ["events"],
     "image": "indigosolo.png",
     "duration": 1,
-    "price": ["200 RUB/ком"],
+    "price": ["200 RUB/чел"],
     "url": ["https://vk.com/ligaindigo_solo", "http://ligaindigo.ru"],
     "games": [
       {"time": "2020-08-04T14:00:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
@@ -17,7 +17,9 @@
       {"time": "2020-08-11T14:00:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
       {"time": "2020-08-11T19:30:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
       {"time": "2020-08-14T14:00:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
-      {"time": "2020-08-14T19:30:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]}
+      {"time": "2020-08-14T19:30:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
+      {"time": "2020-08-21T14:00:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
+      {"time": "2020-08-21T19:30:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]}
     ]
   }
 ]
