@@ -2,222 +2,156 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-08-19T12:00:00+03:00",
+    "latestCheck": "2020-08-21T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
     "duration": 2,
-    "url": ["https://www.facebook.com/denis.gonchar.39"],
+    "url": ["https://docs.google.com/forms/d/e/1FAIpQLSdZPv5gb1sUW0is24EA1nOrbYfD9P_Vy6nnyWNYC-4rRol0mw/viewform"],
     "templates": {
-      "chislom": {
-        "name": "Не числом, а умением",
-        "price": ["680 RUB/ком", "200 UAH/ком", "170 RUB/чел", "50 UAH/чел"],
-        "url": ["https://tinyurl.com/chgk2020"]
-      },
-      "prost": {
-        "name": "Прост!",
-        "price": ["500 RUB/ком", "150 UAH/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      "ligastarta16": {
-        "name": "Лига старта XVI",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
       "ligastarta17": {
         "name": "Лига старта XVII",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      "kubikbesk1": {
-        "name": "Кубик бесконечности - 1",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "kubikbesk2": {
         "name": "Кубик бесконечности - 2",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "letokinoliga": {
         "name": "Летняя кинолига",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "kubokkabachkov": {
         "name": "Кубок кабачков - 2020",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "lite35": {
         "name": "Синхрон-lite XXXV",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "vesenijsalat": {
         "name": "Весенний салат",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "arkticheskoe": {
         "name": "Арктическое зеркало",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "buildingstories": {
         "name": "Building Stories",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "tuganbaev": {
         "name": "Мемориал Диара Туганбаева",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "intermezzo": {
         "name": "Intermezzo-2020",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "triptihleto": {
         "name": "Триптих. Лето",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "donat2020": {
         "name": "Донат - 2020",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "beskzemli1": {
         "name": "Бесконечные земли. Том I",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "zelenyjshum2": {
         "name": "Зеленый шум-2",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "polesskiehron": {
         "name": "Полесские хроники",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "owlmamyblue": {
         "name": "Owl Mamy Blue",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "asinhprostyhvoprosov": {
         "name": "Асинхрон простых вопросов",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      "top1000": {
-        "name": "Топ-1000",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
-      },
-      "tbv": {
-        "name": "Теория большого взрыва",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "kipr": {
         "name": "Синхрон чемпионата Кипра",
-        "price": ["1300 RUB/ком", "450 UAH/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["1300 RUB/ком", "450 UAH/ком"]
       },
       "belyenochi": {
         "name": "Асинхрон Белых ночей",
-        "price": ["900 RUB/ком", "320 UAH/ком", "13 USD/ком", "11.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["900 RUB/ком", "320 UAH/ком", "13 USD/ком", "11.5 EUR/ком"]
       },
       "sosedgalaktiki": {
         "name": "Кубок соседней галактики. Эпсилон",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "familnye": {
         "name": "Фамильные игры",
-        "price": ["500 RUB/ком", "180 UAH/ком", "7 USD/ком", "6 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["500 RUB/ком", "180 UAH/ком", "7 USD/ком", "6 EUR/ком"]
       },
       "beskzemli2": {
         "name": "Бесконечные земли. Том II",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "beskzemli3": {
         "name": "Бесконечные земли. Том III",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "antibingo": {
         "name": "Антибинго",
-        "price": ["1000 RUB/ком", "360 UAH/ком", "14.5 USD/ком", "12.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["1000 RUB/ком", "360 UAH/ком", "14.5 USD/ком", "12.5 EUR/ком"]
       },
       "vechnypolden": {
         "name": "Вечный полдень",
-        "price": ["1000 RUB/ком", "360 UAH/ком", "14.5 USD/ком", "12.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["1000 RUB/ком", "360 UAH/ком", "14.5 USD/ком", "12.5 EUR/ком"]
       },
       "moonpie": {
         "name": "Moon pie",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "potancujsomnoj": {
         "name": "Потанцуй со мной",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "ovoschkuril": {
         "name": "Овощ курильщика",
-        "price": ["900 RUB/ком", "300 UAH/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["900 RUB/ком", "300 UAH/ком"]
       },
       "legksmolensk7": {
         "name": "Легкий Смоленск-7",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "kuboksvetlyhloshadok": {
         "name": "Кубок светлых лошадок",
-        "price": ["1000 RUB/ком", "360 UAH/ком", "14.5 USD/ком", "12.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["1000 RUB/ком", "360 UAH/ком", "14.5 USD/ком", "12.5 EUR/ком"]
       },
       "oku1": {
         "name": "ОКУ-1",
-        "price": ["1000 RUB/ком", "360 UAH/ком", "14.5 USD/ком", "12.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["1000 RUB/ком", "360 UAH/ком", "14.5 USD/ком", "12.5 EUR/ком"]
       },
       "troll": {
         "name": "Пещера игорного тролля",
-        "price": ["900 RUB/ком", "300 UAH/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["900 RUB/ком", "300 UAH/ком"]
       },
       "aina": {
         "name": "Айна",
-        "price": ["900 RUB/ком", "300 UAH/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["900 RUB/ком", "300 UAH/ком"]
       },
       "dichtenszeit5": {
         "name": "Dichtenszeit-5",
-        "price": ["900 RUB/ком", "300 UAH/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["900 RUB/ком", "300 UAH/ком"]
       },
       "malahit": {
         "name": "Малахитовая шкатулка",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "hemira": {
         "name": "Загадки ХемИры",
-        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"],
-        "url": ["https://tinyurl.com/sinhron"]
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       }
     },
     "games": [
