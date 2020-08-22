@@ -2,7 +2,7 @@
   {
     "id": "f88f473d-922e-4a86-a0b0-693a5d754a61",
     "org": "TLTQUIZ",
-    "latestCheck": "2020-08-19T12:00:00+03:00",
+    "latestCheck": "2020-08-23T12:00:00+03:00",
     "type": ["events"],
     "image": "tltquiz.png",
     "duration": 1,
@@ -16,7 +16,9 @@
       { "time": "2020-08-13T19:10:00Z", "name": "ПРЕМЬЕРА TLTQUIZ online #34 ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7852" ], "qpid": "7852", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
       { "time": "2020-08-15T18:00:00Z", "name": "TLTQUIZ! Убойная игра", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7868" ], "qpid": "7868", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
       { "time": "2020-08-17T18:00:00Z", "name": "ПРЕМЬЕРА! ТаБуретКа Online #44", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7914" ], "qpid": "7914", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
-      { "time": "2020-08-17T19:00:00Z", "name": "Упорторые ребусы #8 (Повтор)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7907" ], "qpid": "7907", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" }
+      { "time": "2020-08-17T19:00:00Z", "name": "Упорторые ребусы #8 (Повтор)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7907" ], "qpid": "7907", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
+      { "time": "2020-08-23T17:00:00Z", "name": "СУПЕР-ПРЕМЬЕРА TLTQUIZ #35 + тур УПОРОТЫЕ РЕБУСЫ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8009" ], "qpid": "8009", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
+      { "time": "2020-08-23T19:10:00Z", "name": "TLTQUIZ #35 - + ТУР УПОРОТЫЕ РЕБУСЫ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8010" ], "qpid": "8010", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" }
     ]
   }
 ]

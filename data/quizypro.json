@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2020-08-21T12:00:00+03:00",
+    "latestCheck": "2020-08-23T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -214,10 +214,18 @@
       { "time": "2020-08-22T14:00:00Z", "name": "Quiz-club on-line №35", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/7874" ], "qpid": "7874", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
       { "time": "2020-08-22T14:30:00Z", "name": "Бестселлер. Повтор от 4 августа", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7717" ], "qpid": "7717", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
       { "time": "2020-08-22T16:00:00Z", "name": "Хруст извилин. Повтор от 18 августа", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7976" ], "qpid": "7976", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-22T17:20:00Z", "name": "ALPHABET MUSIC QUIZ #28", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7993" ], "qpid": "7993", "qpuid": "4515", "qpuname": "ALPHABET MUSIC QUIZ", "cat": "cinema_and_music", "org": "ALPHABET MUSIC QUIZ" },
       { "time": "2020-08-22T18:00:00Z", "name": "Бестселлер. Повтор от 4 августа", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7981" ], "qpid": "7981", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
-      { "time": "2020-08-23T14:30:00Z", "name": "ДР ЭТОГО ПАРНЯ!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7958" ], "qpid": "7958", "qpuid": "10585", "qpuname": "ДР КОСТЯНА", "cat": "common_knowledge", "org": "ДР КОСТЯНА" },
+      { "time": "2020-08-22T20:00:00Z", "name": "Ночной ТУРНИР на ВЫБОР", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8000" ], "qpid": "8000", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-23T09:00:00Z", "name": "Литература #3 - Повтор", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/8005" ], "qpid": "8005", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "art_and_literature", "org": "Культпросвет" },
       { "time": "2020-08-23T14:30:00Z", "name": "Хруст извилин. Повтор от 18 августа", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7978" ], "qpid": "7978", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
-      { "time": "2020-08-23T18:00:00Z", "name": "Хруст извилин. Повтор от 18 августа", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7977" ], "qpid": "7977", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "chgk", "org": "БРИЗ" }
+      { "time": "2020-08-23T15:00:00Z", "name": "ДР ЭТОГО ПАРНЯ!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7958" ], "qpid": "7958", "qpuid": "10585", "qpuname": "ДР КОСТЯНА", "cat": "common_knowledge", "org": "ДР КОСТЯНА" },
+      { "time": "2020-08-23T17:30:00Z", "name": "CINEMANIA (КиноQuiz) Сеанс XVII Повтор I от 21.08.", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/8008" ], "qpid": "8008", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2020-08-23T18:00:00Z", "name": "Хруст извилин. Повтор от 18 августа", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7977" ], "qpid": "7977", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "chgk", "org": "БРИЗ" },
+      { "time": "2020-08-24T11:00:00Z", "name": "Музыкальный турнир IQ-Tunes. Повтор", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7973" ], "qpid": "7973", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "cinema_and_music", "org": "БРИЗ" },
+      { "time": "2020-08-24T13:30:00Z", "name": "Киноквиз #10 от команды «Человек и кошочка»", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8004" ], "qpid": "8004", "qpuid": "1621", "qpuname": "Человек и кошочка", "cat": "cinema_and_music", "org": "Человек и кошочка" },
+      { "time": "2020-08-24T14:00:00Z", "name": "Хруст извилин. Повтор от 18 августа", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7974" ], "qpid": "7974", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-29T14:00:00Z", "name": "Quiz-club on-line №36", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/8012" ], "qpid": "8012", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" }
     ]
   }
 ]

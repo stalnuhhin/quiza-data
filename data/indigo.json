@@ -2,7 +2,7 @@
   {
     "id": "423edfe1-bb1e-4030-a798-55b3655d7144",
     "org": "Лига Индиго",
-    "latestCheck": "2020-08-19T12:00:00+03:00",
+    "latestCheck": "2020-08-23T12:00:00+03:00",
     "type": ["events"],
     "image": "indigo.png",
     "duration": 1,
@@ -15,7 +15,11 @@
       {"time": "2020-08-19T14:00:00+03:00", "name": "Лига Индиго", "price": ["500 RUB/ком"], "url": ["https://vk.com/li_online_li?w=app5708398_-190890054"]},
       {"time": "2020-08-19T19:30:00+03:00", "name": "Лига Индиго", "price": ["500 RUB/ком"], "url": ["https://vk.com/li_online_li?w=app5708398_-190890054"]},
       {"time": "2020-08-21T14:00:00+03:00", "name": "Лига Индиго", "price": ["500 RUB/ком"], "url": ["https://vk.com/li_online_li?w=app5708398_-190890054"]},
-      {"time": "2020-08-21T19:30:00+03:00", "name": "Лига Индиго", "price": ["500 RUB/ком"], "url": ["https://vk.com/li_online_li?w=app5708398_-190890054"]}
+      {"time": "2020-08-21T19:30:00+03:00", "name": "Лига Индиго", "price": ["500 RUB/ком"], "url": ["https://vk.com/li_online_li?w=app5708398_-190890054"]},
+      {"time": "2020-08-26T14:00:00+03:00", "name": "Лига Индиго 18+", "price": ["500 RUB/ком"], "url": ["https://vk.com/li_online_li?w=app5708398_-190890054"]},
+      {"time": "2020-08-26T19:30:00+03:00", "name": "Лига Индиго 18+", "price": ["500 RUB/ком"], "url": ["https://vk.com/li_online_li?w=app5708398_-190890054"]},
+      {"time": "2020-08-28T14:00:00+03:00", "name": "Лига Индиго", "price": ["500 RUB/ком"], "url": ["https://vk.com/li_online_li?w=app5708398_-190890054"]},
+      {"time": "2020-08-28T19:30:00+03:00", "name": "Лига Индиго", "price": ["500 RUB/ком"], "url": ["https://vk.com/li_online_li?w=app5708398_-190890054"]}
     ]
   }
 ]
