@@ -36,7 +36,13 @@
       {"time": "2020-08-23T16:00:00+03:00", "name": "Кубик Бесконечности: Третий бросок", "price": ["800 RUB/ком"], "url": ["https://intgame.ru/chgk#pay#!/tproduct/222048408-1596628544837"]},
       {"time": "2020-08-23T22:00:00+03:00", "name": "М-лига Игра 5.4", "price": ["900 RUB/ком"]},
       {"time": "2020-08-24T20:00:00+03:00", "name": "М-лига Игра 5.4", "price": ["900 RUB/ком"]},
-      {"time": "2020-08-25T20:00:00+03:00", "name": "Кубик Бесконечности: Третий бросок", "price": ["800 RUB/ком"], "url": ["https://intgame.ru/chgk#pay#!/tproduct/222048408-1596628544837"]}
+      {"time": "2020-08-25T20:00:00+03:00", "name": "Кубик Бесконечности: Третий бросок", "price": ["800 RUB/ком"], "url": ["https://intgame.ru/chgk#pay#!/tproduct/222048408-1596628544837"]},
+      {"time": "2020-08-27T20:00:00+03:00", "name": "Летний Синхронный Умлаут", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-09-06T13:00:00+03:00", "name": "М-лига Игра 6.1", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-09-06T16:00:00+03:00", "name": "Бесконечные земли - 4", "price": ["800 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-09-12T13:00:00+03:00", "name": "М-лига Игра 6.2", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-09-20T14:00:00+03:00", "name": "М-лига Игра 6.3", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-09-27T14:00:00+03:00", "name": "М-лига Игра 6.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]}
     ]
   }
 ]
