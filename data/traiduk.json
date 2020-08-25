@@ -2,7 +2,7 @@
   {
     "id": "a983715a-2638-4376-931a-1f67f3e3e21a",
     "org": "Наталья Трайдук",
-    "latestCheck": "2020-08-23T12:00:00+03:00",
+    "latestCheck": "2020-08-25T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "traiduk.png",
@@ -28,6 +28,13 @@
         "chgk": true,
         "price": ["4 USD/ком"],
         "url": ["https://www.facebook.com/events/284346859530797"]
+      },
+      {
+        "time": "2020-08-26T20:00:00+03:00",
+        "name": "Пещера игорного тролля",
+        "chgk": true,
+        "price": ["7 USD/ком"],
+        "url": ["https://www.facebook.com/permalink.php?story_fbid=674681409801468&id=100017788444620"]
       }
     ]
   }

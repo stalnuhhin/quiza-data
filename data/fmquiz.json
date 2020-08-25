@@ -2,7 +2,7 @@
   {
     "id": "185c70d6-759d-4e11-8198-b59b929f67e5",
     "org": "FM QUIZ",
-    "latestCheck": "2020-08-19T12:00:00+03:00",
+    "latestCheck": "2020-08-25T12:00:00+03:00",
     "type": ["events"],
     "image": "fmquiz.png",
     "duration": 2,
@@ -14,6 +14,12 @@
         "name": "FM QUIZ Big Size",
         "price": ["15 BYN/ком"],
         "url": ["https://vk.com/wall-127402793_9953"]
+      },
+      {
+        "time": "2020-08-31T19:15:00+03:00",
+        "name": "Кино-музыкальная по КНИГАМ И ПИСАТЕЛЯМ",
+        "price": ["15 BYN/ком"],
+        "url": ["https://vk.com/wall-127402793_10022"]
       }
     ]
   }

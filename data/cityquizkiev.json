@@ -3,13 +3,19 @@
     "id": "a97a2514-deaf-448f-b8d3-a4c196887140",
     "org": "City Quiz (Киев)",
     "name": "City Quiz Online (Киев)",
-    "latestCheck": "2020-08-19T12:00:00+03:00",
+    "latestCheck": "2020-08-25T12:00:00+03:00",
     "type": ["events"],
     "duration": 2.5,
     "image": "cityquiz.png",
     "price": ["300 UAH/ком"],
     "url": ["https://www.facebook.com/pg/cityquizshow/events", "https://cityquiz.club/kiev"],
     "games": [
+      {
+        "time": "2020-08-26T20:00:00+03:00",
+        "name": "City Quiz Online #15",
+        "price": ["300 UAH/ком"],
+        "url": ["https://www.facebook.com/events/3327403707336465/"]
+      }
     ]
   }
 ]

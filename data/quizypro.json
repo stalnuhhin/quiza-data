@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2020-08-23T12:00:00+03:00",
+    "latestCheck": "2020-08-25T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -228,9 +228,21 @@
       { "time": "2020-08-24T15:00:00Z", "name": "Просто Игра! Премьера!", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/8013" ], "qpid": "8013", "qpuid": "1304", "qpuname": "Просто Игра", "cat": "common_knowledge", "org": "Просто Игра" },
       { "time": "2020-08-24T16:00:00Z", "name": "Мир в вопросах и ответах. Повтор", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7972" ], "qpid": "7972", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
       { "time": "2020-08-24T16:00:00Z", "name": "HOW ABOUT... FANTASTIC?", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8025" ], "qpid": "8025", "qpuid": "10570", "qpuname": "HOW ABOUT...?", "cat": "cinema_and_music", "org": "HOW ABOUT...?" },
+      { "time": "2020-08-25T08:00:00Z", "name": "Внутри Лапенко №4 | ПРЕМЬЕРА", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/8046" ], "qpid": "8046", "qpuid": "3474", "qpuname": "Антуан Квиз, ман?", "cat": "cinema_and_music", "org": "Антуан Квиз, ман?" },
+      { "time": "2020-08-25T09:30:00Z", "name": "Музыкальный турнир IQ-Tunes. Повтор", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7973" ], "qpid": "7973", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "cinema_and_music", "org": "БРИЗ" },
       { "time": "2020-08-25T11:40:00Z", "name": "ALPHABET MUSIC QUIZ #29", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8023" ], "qpid": "8023", "qpuid": "4515", "qpuname": "ALPHABET MUSIC QUIZ", "cat": "cinema_and_music", "org": "ALPHABET MUSIC QUIZ" },
       { "time": "2020-08-25T16:00:00Z", "name": "ALPHABET MUSIC QUIZ #29", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8024" ], "qpid": "8024", "qpuid": "4515", "qpuname": "ALPHABET MUSIC QUIZ", "cat": "common_knowledge", "org": "ALPHABET MUSIC QUIZ" },
+      { "time": "2020-08-25T16:00:00Z", "name": "Футбольная викторина", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/8043" ], "qpid": "8043", "qpuid": "5223", "qpuname": "Астон Вилла", "cat": "sports", "org": "Астон Вилла" },
       { "time": "2020-08-25T18:00:00Z", "name": "Фантастический коктейль. ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8026" ], "qpid": "8026", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-25T18:00:00Z", "name": "Квиз Тайм #3", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8044" ], "qpid": "8044", "qpuid": "8179", "qpuname": "Quiz Denis & Co", "cat": "common_knowledge", "org": "Quiz Denis & Co" },
+      { "time": "2020-08-26T09:30:00Z", "name": "ОСТРИЛКА! Повтор", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7157" ], "qpid": "7157", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-26T12:00:00Z", "name": "Фантастический коктейль. ПРЕМЬЕРА для ДФО!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8028" ], "qpid": "8028", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-26T12:30:00Z", "name": "POP CINEMA: КОМЕДИИ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8041" ], "qpid": "8041", "qpuid": "2091", "qpuname": "POP QUIZ", "cat": "cinema_and_music", "org": "POP QUIZ" },
+      { "time": "2020-08-26T16:00:00Z", "name": "POP CINEMA: КОМЕДИИ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8042" ], "qpid": "8042", "qpuid": "2091", "qpuname": "POP QUIZ", "cat": "cinema_and_music", "org": "POP QUIZ" },
+      { "time": "2020-08-27T09:30:00Z", "name": "ЕГЭшечка. Повтор", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7965" ], "qpid": "7965", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-08-27T14:00:00Z", "name": "Кинопремии и кинофестивали", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/8034" ], "qpid": "8034", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "cinema_and_music", "org": "Культпросвет" },
+      { "time": "2020-08-27T18:00:00Z", "name": "Кинопремии и кинофестивали", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/8035" ], "qpid": "8035", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "cinema_and_music", "org": "Культпросвет" },
+      { "time": "2020-08-28T09:30:00Z", "name": "Хруст извилин. Повтор от 18 августа", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7947" ], "qpid": "7947", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "chgk", "org": "БРИЗ" },
       { "time": "2020-08-29T14:00:00Z", "name": "Quiz-club on-line №36", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/8012" ], "qpid": "8012", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" }
     ]
   }
