@@ -2,7 +2,7 @@
   {
     "id": "bf5df1c1-bd66-4952-a470-16a093212d61",
     "org": "Online Quiz 64",
-    "latestCheck": "2020-08-23T12:00:00+03:00",
+    "latestCheck": "2020-08-27T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "onlinequiz64.png",
@@ -16,7 +16,9 @@
       { "time": "2020-08-06T16:00:00Z", "name": "СПОРТ #11, заключительный летний!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7639" ], "qpid": "7639", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "sports" },
       { "time": "2020-08-08T11:00:00Z", "name": "СВОЯ ИГРА #3", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7640" ], "qpid": "7640", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
       { "time": "2020-08-09T11:00:00Z", "name": "СВОЯ ИГРА #3", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7641" ], "qpid": "7641", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
-      { "time": "2020-08-09T14:30:00Z", "name": "ИГРА В БУКВЫ #7, последняя игра лета 2020 года!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7642" ], "qpid": "7642", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" }
+      { "time": "2020-08-09T14:30:00Z", "name": "ИГРА В БУКВЫ #7, последняя игра лета 2020 года!", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7642" ], "qpid": "7642", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
+      { "time": "2020-09-06T11:30:00Z", "name": "География #5", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/8064" ], "qpid": "8064", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
+      { "time": "2020-09-06T14:30:00Z", "name": "География #5", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/8065" ], "qpid": "8065", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" }
     ]
   }
 ]
