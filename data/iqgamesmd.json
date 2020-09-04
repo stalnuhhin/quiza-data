@@ -2,7 +2,7 @@
   {
     "id": "e2904f9a-7c1a-4ba2-993d-eaeeaea78fae",
     "org": "iQ",
-    "latestCheck": "2020-08-23T12:00:00+03:00",
+    "latestCheck": "2020-09-05T12:00:00+03:00",
     "type": ["events"],
     "image": "iqgamesmd.png",
     "duration": 5,
@@ -11,24 +11,14 @@
     "url": ["https://www.facebook.com/pg/iqgames.md/posts/"],
     "games": [
       {
-        "time": "2020-08-05T19:00:00+03:00",
-        "name": "«Логика» по-домашнему. Десятая игра лета.",
-        "url": ["https://www.facebook.com/events/731736187615831/"]
+        "time": "2020-09-02T19:00:00+03:00",
+        "name": "«Логика». Первая игра осени",
+        "url": ["https://www.facebook.com/events/1232888507049284/"]
       },
       {
-        "time": "2020-08-12T19:00:00+03:00",
-        "name": "«Логика» по-домашнему. Одиннадцатая игра лета.",
-        "url": ["https://www.facebook.com/events/931546787319940/"]
-      },
-      {
-        "time": "2020-08-19T19:00:00+03:00",
-        "name": "«Логика» по-домашнему. Двенадцатая игра лета.",
-        "url": ["https://www.facebook.com/events/721399848438070/"]
-      },
-      {
-        "time": "2020-08-26T19:00:00+03:00",
-        "name": "«Логика» по-домашнему. Финальная игра лета.",
-        "url": ["https://www.facebook.com/events/304661247475974/"]
+        "time": "2020-09-09T19:00:00+03:00",
+        "name": "«Логика». Вторая игра осени",
+        "url": ["https://www.facebook.com/events/316092549700734/"]
       }
     ]
   }

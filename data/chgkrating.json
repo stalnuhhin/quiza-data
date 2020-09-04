@@ -2,7 +2,7 @@
   {
     "id": "9abb7240-5964-4ceb-a920-03909a2b6edc",
     "org": "Список онлайн турниров по ЧГК",
-    "latestCheck": "2020-08-25T12:00:00+03:00",
+    "latestCheck": "2020-09-05T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "chgkrating.png",
     "chgk": true,

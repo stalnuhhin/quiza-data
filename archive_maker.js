@@ -1,6 +1,5 @@
-const MONTH = 8; // month number starts from 1, not 0.
+const MONTH = 9; // month number starts from 1, not 0.
 const DATAFILES = [
-    // copy here
 ]
 
 const app = new Vue({

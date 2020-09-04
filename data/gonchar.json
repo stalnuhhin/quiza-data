@@ -2,7 +2,7 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-08-31T12:00:00+03:00",
+    "latestCheck": "2020-09-05T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
@@ -11,6 +11,10 @@
     "templates": {
       "ligastarta17": {
         "name": "Лига старта XVII",
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
+      },
+      "ligastarta18": {
+        "name": "Лига старта XVIII",
         "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "kubikbesk2": {
@@ -109,6 +113,10 @@
         "name": "Бесконечные земли. Том III",
         "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
+      "beskzemli4": {
+        "name": "Бесконечные земли. Том IV",
+        "price": ["1100 RUB/ком", "390 UAH/ком"]
+      },
       "antibingo": {
         "name": "Антибинго",
         "price": ["1000 RUB/ком", "360 UAH/ком", "14.5 USD/ком", "12.5 EUR/ком"]
@@ -131,6 +139,10 @@
       },
       "legksmolensk7": {
         "name": "Легкий Смоленск-7",
+        "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
+      },
+      "slozhsmolensk": {
+        "name": "Сложный Смоленск",
         "price": ["800 RUB/ком", "240 UAH/ком", "11.5 USD/ком", "10.5 EUR/ком"]
       },
       "kuboksvetlyhloshadok": {
@@ -179,89 +191,25 @@
       }
     },
     "games": [
-      {"time": "2020-08-03T19:00:00+03:00", "template": "legksmolensk7"},
-      {"time": "2020-08-03T21:30:00+03:00", "template": "kubikbesk2"},
-      {"time": "2020-08-04T19:00:00+03:00", "template": "potancujsomnoj"},
-      {"time": "2020-08-04T21:30:00+03:00", "template": "kipr"},
-      {"time": "2020-08-05T19:00:00+03:00", "template": "moonpie"},
-      {"time": "2020-08-05T21:30:00+03:00", "template": "vechnypolden"},
-      {"time": "2020-08-06T04:30:00+03:00", "template": "potancujsomnoj"},
-      {"time": "2020-08-06T19:00:00+03:00", "template": "ligastarta17"},
-      {"time": "2020-08-06T21:30:00+03:00", "template": "sosedgalaktiki"},
-      {"time": "2020-08-07T19:00:00+03:00", "template": "legksmolensk7"},
-      {"time": "2020-08-07T21:30:00+03:00", "template": "letokinoliga"},
-      {"time": "2020-08-08T03:00:00+03:00", "template": "legksmolensk7"},
-      {"time": "2020-08-08T12:00:00+03:00", "template": "vechnypolden"},
-      {"time": "2020-08-08T14:15:00+03:00", "template": "moonpie"},
-      {"time": "2020-08-08T16:30:00+03:00", "template": "tuganbaev"},
-      {"time": "2020-08-08T19:00:00+03:00", "template": "kuboksvetlyhloshadok"},
-      {"time": "2020-08-08T21:30:00+03:00", "template": "kuboksvetlyhloshadok"},
-      {"time": "2020-08-09T03:00:00+03:00", "template": "moonpie"},
-      {"time": "2020-08-09T11:30:00+03:00", "template": "legksmolensk7"},
-      {"time": "2020-08-09T14:00:00+03:00", "template": "belyenochi"},
-      {"time": "2020-08-09T16:30:00+03:00", "template": "kubikbesk2"},
-      {"time": "2020-08-09T19:00:00+03:00", "template": "beskzemli3"},
-      {"time": "2020-08-09T21:30:00+03:00", "template": "kuboksvetlyhloshadok"},
-      {"time": "2020-08-10T03:00:00+03:00", "template": "beskzemli3"},
-      {"time": "2020-08-10T19:00:00+03:00", "template": "kuboksvetlyhloshadok"},
-      {"time": "2020-08-10T21:30:00+03:00", "template": "beskzemli3"},
-      {"time": "2020-08-11T19:00:00+03:00", "template": "beskzemli3"},
-      {"time": "2020-08-11T21:30:00+03:00", "template": "kuboksvetlyhloshadok"},
-      {"time": "2020-08-13T04:30:00+03:00", "template": "moonpie"},
-      {"time": "2020-08-13T19:00:00+03:00", "template": "oku1"},
-      {"time": "2020-08-13T21:30:00+03:00", "template": "troll"},
-      {"time": "2020-08-14T19:00:00+03:00", "template": "troll"},
-      {"time": "2020-08-15T14:00:00+03:00", "template": "kuboksvetlyhloshadok"},
-      {"time": "2020-08-15T16:30:00+03:00", "template": "dichtenszeit5"},
-      {"time": "2020-08-15T19:00:00+03:00", "template": "aina"},
-      {"time": "2020-08-15T21:30:00+03:00", "template": "troll"},
-      {"time": "2020-08-16T03:00:00+03:00", "template": "troll"},
-      {"time": "2020-08-16T11:30:00+03:00", "template": "aina"},
-      {"time": "2020-08-16T14:00:00+03:00", "template": "potancujsomnoj"},
-      {"time": "2020-08-16T16:30:00+03:00", "template": "aina"},
-      {"time": "2020-08-16T19:00:00+03:00", "template": "troll"},
-      {"time": "2020-08-16T21:30:00+03:00", "template": "dichtenszeit5"},
-      {"time": "2020-08-17T03:00:00+03:00", "template": "dichtenszeit5"},
-      {"time": "2020-08-17T19:00:00+03:00", "template": "malahit"},
-      {"time": "2020-08-17T21:30:00+03:00", "template": "aina"},
-      {"time": "2020-08-18T21:30:00+03:00", "template": "beskzemli3"},
-      {"time": "2020-08-19T19:00:00+03:00", "template": "troll"},
-      {"time": "2020-08-19T21:30:00+03:00", "template": "malahit"},
-      {"time": "2020-08-20T04:30:00+03:00", "template": "troll"},
-      {"time": "2020-08-20T19:00:00+03:00", "template": "kuboksvetlyhloshadok"},
-      {"time": "2020-08-20T21:30:00+03:00", "template": "hemira"},
-      {"time": "2020-08-22T19:00:00+03:00", "template": "zefir"},
-      {"time": "2020-08-22T21:30:00+03:00", "template": "pervpravpolush"},
-      {"time": "2020-08-23T03:00:00+03:00", "template": "zefir"},
-      {"time": "2020-08-23T11:30:00+03:00", "template": "kuboksvetlyhloshadok"},
-      {"time": "2020-08-23T14:00:00+03:00", "template": "beskzemli3"},
-      {"time": "2020-08-23T16:30:00+03:00", "template": "aina"},
-      {"time": "2020-08-23T19:00:00+03:00", "template": "kubikbesk3"},
-      {"time": "2020-08-23T21:30:00+03:00", "template": "malahit"},
-      {"time": "2020-08-24T03:00:00+03:00", "template": "kubikbesk3"},
-      {"time": "2020-08-24T19:00:00+03:00", "template": "dichtenszeit5"},
-      {"time": "2020-08-24T21:30:00+03:00", "template": "kubikbesk3"},
-      {"time": "2020-08-25T19:00:00+03:00", "template": "pervpravpolush"},
-      {"time": "2020-08-25T21:30:00+03:00", "template": "zefir"},
-      {"time": "2020-08-26T19:00:00+03:00", "template": "kubikbesk3"},
-      {"time": "2020-08-26T21:30:00+03:00", "template": "aina"},
-      {"time": "2020-08-27T04:30:00+03:00", "template": "zefir"},
-      {"time": "2020-08-27T19:00:00+03:00", "template": "kubikbesk3"},
-      {"time": "2020-08-27T21:30:00+03:00", "template": "letnumlaut"},
-      {"time": "2020-08-28T19:00:00+03:00", "template": "letnumlaut"},
-      {"time": "2020-08-28T21:30:00+03:00", "template": "zefir"},
-      {"time": "2020-08-29T03:00:00+03:00", "template": "letnumlaut"},
-      {"time": "2020-08-30T03:00:00+03:00", "template": "pervpravpolush"},
-      {"time": "2020-08-31T03:00:00+03:00", "template": "kipr"},
-      {"time": "2020-08-31T19:00:00+03:00", "template": "ligastarta17"},
-      {"time": "2020-08-31T21:30:00+03:00", "template": "pervpravpolush"},
       {"time": "2020-09-01T19:00:00+03:00", "template": "3zvonok"},
       {"time": "2020-09-01T21:30:00+03:00", "template": "ligastarta17"},
       {"time": "2020-09-02T19:00:00+03:00", "template": "ligastarta17"},
       {"time": "2020-09-02T21:30:00+03:00", "template": "osenkinoliga"},
       {"time": "2020-09-03T19:00:00+03:00", "template": "3zvonok"},
       {"time": "2020-09-03T21:30:00+03:00", "template": "ligastarta17"},
-      {"time": "2020-09-04T19:00:00+03:00", "template": "kubikbesk3"}
+      {"time": "2020-09-04T19:00:00+03:00", "template": "kubikbesk3"},
+      {"time": "2020-09-04T21:30:00+03:00", "template": "ligastarta18"},
+      {"time": "2020-09-05T03:00:00+03:00", "template": "ligastarta18"},
+      {"time": "2020-09-05T14:00:00+03:00", "template": "zefir"},
+      {"time": "2020-09-05T16:30:00+03:00", "template": "3zvonok"},
+      {"time": "2020-09-05T19:00:00+03:00", "template": "ligastarta18"},
+      {"time": "2020-09-05T21:30:00+03:00", "template": "slozhsmolensk"},
+      {"time": "2020-09-06T03:00:00+03:00", "template": "3zvonok"},
+      {"time": "2020-09-06T14:00:00+03:00", "template": "kubikbesk3"},
+      {"time": "2020-09-06T16:30:00+03:00", "template": "ligastarta18"},
+      {"time": "2020-09-06T19:00:00+03:00", "template": "beskzemli4"},
+      {"time": "2020-09-06T21:30:00+03:00", "template": "slozhsmolensk"},
+      {"time": "2020-09-07T03:00:00+03:00", "template": "beskzemli4"}
     ]
   }
 ]

@@ -3,17 +3,13 @@
     "id": "371a2d78-4081-4e1e-b94e-175fbb587b21",
     "org": "Quiz Time",
     "name": "Online Quiz Time",
-    "latestCheck": "2020-08-23T12:00:00+03:00",
+    "latestCheck": "2020-09-05T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "quiztimekr.png",
     "price": ["100 UAH/чел"],
     "url": ["https://www.facebook.com/pg/quiztime.kr/events/"],
     "games": [
-      {
-        "time": "2020-08-20T18:30:00+03:00",
-        "name": "QUIZ TIME music & cinema"
-      }
     ]
   }
 ]

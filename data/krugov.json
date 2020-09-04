@@ -2,7 +2,7 @@
   {
     "id": "194c83b3-6690-4589-9a15-3cf6b62fdd63",
     "org": "Андрей Кругов",
-    "latestCheck": "2020-08-31T12:00:00+03:00",
+    "latestCheck": "2020-09-05T12:00:00+03:00",
     "type": ["events"],
     "image": "krugov.png",
     "duration": 2,
@@ -27,10 +27,6 @@
       }
     },
     "games": [
-      {"time": "2020-08-13T20:00:00+03:00", "template": "dichtenszeit5", "url": ["https://forms.gle/fUDJKHX5sHsTkCqF8"]},
-      {"time": "2020-08-16T20:00:00+03:00", "template": "aina", "url": ["https://forms.gle/av9RcYYe2F3T2TEk9"]},
-      {"time": "2020-08-19T20:00:00+03:00", "template": "aina", "url": ["https://forms.gle/PCjkNXDS9co8rDdCA"]},
-      {"time": "2020-08-30T21:00:00+03:00", "template": "letnumlaut", "url": ["https://forms.gle/tTwruNvs1CsL4mps6"]},
       {"time": "2020-09-02T20:00:00+03:00", "template": "3zvonok", "url": ["https://forms.gle/8xYvu4vAHT9sgkSo6"]}
     ]
   }

@@ -3,27 +3,15 @@
     "id": "475c09d5-0c9f-48c7-b6d1-37b0c7ee5316",
     "org": "Лига Индиго Соло",
     "name": "Лига Индиго Соло",
-    "latestCheck": "2020-08-25T12:00:00+03:00",
+    "latestCheck": "2020-09-05T12:00:00+03:00",
     "type": ["events"],
     "image": "indigosolo.png",
     "duration": 1,
     "price": ["200 RUB/чел"],
     "url": ["https://vk.com/ligaindigo_solo", "http://ligaindigo.ru"],
     "games": [
-      {"time": "2020-08-04T14:00:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
-      {"time": "2020-08-04T19:30:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
-      {"time": "2020-08-07T14:00:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
-      {"time": "2020-08-07T19:30:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
-      {"time": "2020-08-11T14:00:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
-      {"time": "2020-08-11T19:30:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
-      {"time": "2020-08-14T14:00:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
-      {"time": "2020-08-14T19:30:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
-      {"time": "2020-08-21T14:00:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
-      {"time": "2020-08-21T19:30:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
-      {"time": "2020-08-25T14:00:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
-      {"time": "2020-08-25T19:30:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
-      {"time": "2020-08-28T14:00:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
-      {"time": "2020-08-28T19:30:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]}
+      {"time": "2020-09-04T14:00:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]},
+      {"time": "2020-09-04T19:30:00+03:00", "name": "Индиго Соло", "url": ["https://vk.com/ligaindigo_solo?w=app5708398_-127721023"]}
     ]
   }
 ]

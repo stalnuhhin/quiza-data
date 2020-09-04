@@ -2,22 +2,16 @@
   {
     "id": "901232e6-ef9f-47c7-b9f1-752c67c8eec6",
     "org": "Сахар",
-    "latestCheck": "2020-08-31T12:00:00+03:00",
+    "latestCheck": "2020-09-05T12:00:00+03:00",
     "type": ["events"],
     "chgk": true,
     "duration": 2.5,
     "image": "sahar.png",
     "url": ["https://vk.com/sugarchgk"],
     "games": [
-      { "time": "2020-08-03T17:00:00Z", "name": "Столикий синхрон (повтор)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7553" ], "qpid": "7553", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
-      { "time": "2020-08-11T17:00:00Z", "name": "Научпоп (повтор)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/7215" ], "qpid": "7215", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
-      { "time": "2020-08-12T17:00:00Z", "name": "Части Вселенной 1960–1999 (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/7714" ], "qpid": "7714", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
-      { "time": "2020-08-13T17:00:00Z", "name": "Части Вселенной 1960–1999 (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/7714" ], "qpid": "7714", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
-      { "time": "2020-08-27T17:00:00Z", "name": "Научпоп (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/7215" ], "qpid": "7215", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
-      { "time": "2020-08-28T17:00:00Z", "name": "Научпоп (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/7215" ], "qpid": "7215", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
-      { "time": "2020-08-30T16:00:00Z", "name": "Коробка шоколадных конфет (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/8057" ], "qpid": "8057", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
-      { "time": "2020-08-31T17:00:00Z", "name": "Части Вселенной 60–99 (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/8037" ], "qpid": "8037", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
-      { "time": "2020-09-01T17:00:00Z", "name": "Кубок попкорна (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/7715" ], "qpid": "7715", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" }
+      { "time": "2020-09-01T17:00:00Z", "name": "Кубок попкорна (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/7715" ], "qpid": "7715", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
+      { "time": "2020-09-04T17:00:00Z", "name": "Части Вселенной 60–99 (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/8037" ], "qpid": "8037", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
+      { "time": "2020-09-07T17:00:00Z", "name": "Кубок попкорна (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/7715" ], "qpid": "7715", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" }
     ]
   }
 ]
