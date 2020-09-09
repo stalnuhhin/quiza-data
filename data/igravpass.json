@@ -2,19 +2,23 @@
   {
     "id": "f13b6e4d-c5b3-449f-bbe5-ef1c0b52efde",
     "org": "Игра В. Пас",
-    "latestCheck": "2020-09-05T12:00:00+03:00",
+    "latestCheck": "2020-09-09T12:00:00+03:00",
     "type": ["events"],
     "image": "igravpass.png",
     "price": ["100 UAH/чел"],
     "url": ["https://www.facebook.com/pg/QuizVPas/events"],
     "templates": {
-      "si21": {
-        "name": "Футбольная «Своя игра» Игровая неделя №21",
+      "si23": {
+        "name": "Футбольная «Своя игра» Игровая неделя №23",
         "duration": 1,
-        "url": ["https://www.facebook.com/events/2595973683987852/"]
+        "url": ["https://www.facebook.com/events/3386119428148446/"]
       }
     },
     "games": [
+      {"template": "si23", "time": "2020-09-08T22:00:00+03:00"},
+      {"template": "si23", "time": "2020-09-09T19:00:00+03:00"},
+      {"template": "si23", "time": "2020-09-10T16:00:00+03:00"},
+      {"template": "si23", "time": "2020-09-10T20:30:00+03:00"}
     ]
   }
 ]
