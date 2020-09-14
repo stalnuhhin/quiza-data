@@ -2,49 +2,26 @@
   {
     "id": "0e148b15-ca59-4c1a-a504-2c013de597ac",
     "org": "Иван Тетерев",
-    "latestCheck": "2020-09-09T12:00:00+03:00",
+    "latestCheck": "2020-09-14T12:00:00+03:00",
     "type": ["events"],
     "image": "chgkrating.png",
     "chgk": true,
     "duration": 2,
-    "url": ["https://www.facebook.com/groups/khvip.online/announcements"],
+    "url": [
+      "https://bit.ly/KhVIP_online",
+      "https://www.facebook.com/groups/khvip.online/announcements"
+    ],
     "templates": {
-      "180uah": {
-        "price": ["420 RUB/ком", "180 UAH/ком", "6 USD/ком"],
-        "url": ["https://bit.ly/KhVIP_online"]
-      },
-      "200uah": {
-        "price": ["600 RUB/ком", "200 UAH/ком", "8 USD/ком"],
-        "url": ["https://bit.ly/KhVIP_online"]
-      },
-      "240uah": {
-        "price": ["800 RUB/ком", "240 UAH/ком", "10 USD/ком"],
-        "url": ["https://bit.ly/KhVIP_online"]
-      },
-      "270uah": {
-        "price": ["800 RUB/ком", "270 UAH/ком", "11 USD/ком"],
-        "url": ["https://bit.ly/KhVIP_online"]
-      },
-      "300uah": {
-        "price": ["900 RUB/ком", "300 UAH/ком", "12 USD/ком"],
-        "url": ["https://bit.ly/KhVIP_online"]
-      },
-      "330uah": {
-        "price": ["1000 RUB/ком", "330 UAH/ком", "14 USD/ком"],
-        "url": ["https://bit.ly/KhVIP_online"]
-      },
-      "360uah": {
-        "price": ["1100 RUB/ком", "360 UAH/ком", "15 USD/ком"],
-        "url": ["https://bit.ly/KhVIP_online"]
-      },
-      "420uah": {
-        "price": ["1200 RUB/ком", "420 UAH/ком", "16 USD/ком"],
-        "url": ["https://bit.ly/KhVIP_online"]
-      },
-      "450uah": {
-        "price": ["1300 RUB/ком", "450 UAH/ком", "18 USD/ком"],
-        "url": ["https://bit.ly/KhVIP_online"]
-      }
+      "180uah": {"price": ["420 RUB/ком", "180 UAH/ком", "6 USD/ком"]},
+      "200uah": {"price": ["600 RUB/ком", "200 UAH/ком", "8 USD/ком"]},
+      "240uah": {"price": ["800 RUB/ком", "240 UAH/ком", "10 USD/ком"]},
+      "270uah": {"price": ["800 RUB/ком", "270 UAH/ком", "11 USD/ком"]},
+      "300uah": {"price": ["900 RUB/ком", "300 UAH/ком", "12 USD/ком"]},
+      "330uah": {"price": ["1000 RUB/ком", "330 UAH/ком", "14 USD/ком"]},
+      "360uah": {"price": ["1100 RUB/ком", "360 UAH/ком", "15 USD/ком"]},
+      "420uah": {"price": ["1200 RUB/ком", "420 UAH/ком", "16 USD/ком"]},
+      "450uah": {"price": ["1300 RUB/ком", "450 UAH/ком", "18 USD/ком"]},
+      "600uah": {"price": ["1700 RUB/ком", "600 UAH/ком", "21 USD/ком"]}
     },
     "games": [
       {"time": "2020-09-01T19:30:00+03:00", "template": "270uah", "name": "Delivery Cup-5. Август"},
@@ -90,13 +67,20 @@
       {"time": "2020-09-13T20:00:00+03:00", "template": "300uah", "name": "Триптих. Осень"},
       {"time": "2020-09-13T22:00:00+03:00", "template": "240uah", "name": "Осенняя кинолига"},
       {"time": "2020-09-14T19:30:00+03:00", "template": "240uah", "name": "Лига Сибири. VI тур"},
+      {"time": "2020-09-14T19:30:00+03:00", "template": "270uah", "name": "Dichtenszeit-6 (ОКУ. День 2)"},
       {"time": "2020-09-14T21:30:00+03:00", "template": "300uah", "name": "Триптих. Осень"},
-      {"time": "2020-09-14T23:30:00+03:00", "template": "180uah", "name": "Эйрамджан в Гуанахуато"},
+      {"time": "2020-09-14T21:30:00+03:00", "template": "180uah", "name": "Эйрамджан в Гуанахуато"},
+      {"time": "2020-09-15T04:00:00+03:00", "template": "300uah", "name": "Delivery Cup-5. Август"},
       {"time": "2020-09-15T20:00:00+03:00", "template": "360uah", "name": "Кубок Эмилии Плятер - часть первая"},
       {"time": "2020-09-15T22:00:00+03:00", "template": "360uah", "name": "Синхрон Моносова-онлайн"},
+      {"time": "2020-09-15T22:00:00+03:00", "template": "360uah", "name": "Бесконечные Земли. Том IV"},
+      {"time": "2020-09-16T04:00:00+03:00", "template": "180uah", "name": "Эйрамджан в Гуанахуато"},
       {"time": "2020-09-16T20:00:00+03:00", "template": "360uah", "name": "Кубок Эмилии Плятер - часть вторая"},
       {"time": "2020-09-16T22:00:00+03:00", "template": "240uah", "name": "Лига Сибири. VI тур"},
-      {"time": "2020-09-17T20:00:00+03:00", "template": "300uah", "name": "Триптих. Осень"},
+      {"time": "2020-09-16T22:30:00+03:00", "template": "300uah", "name": "D.I.S.C.O."},
+      {"time": "2020-09-17T20:00:00+03:00", "template": "330uah", "name": "Триптих. Осень"},
+      {"time": "2020-09-17T20:00:00+03:00", "template": "240uah", "name": "Лига Сибири. VI тур"},
+      {"time": "2020-09-17T22:00:00+03:00", "template": "600uah", "name": "IT-Cup 2020"},
       {"time": "2020-09-17T22:00:00+03:00", "template": "240uah", "name": "Синхрон-lite. Выпуск XXXVI"},
       {"time": "2020-09-18T19:00:00+03:00", "template": "360uah", "name": "Синхрон Моносова-онлайн"},
       {"time": "2020-09-18T21:00:00+03:00", "template": "240uah", "name": "Синхрон-lite. Выпуск XXXVI"},

@@ -2,7 +2,7 @@
   {
     "id": "423edfe1-bb1e-4030-a798-55b3655d7144",
     "org": "Лига Индиго",
-    "latestCheck": "2020-09-09T12:00:00+03:00",
+    "latestCheck": "2020-09-14T12:00:00+03:00",
     "type": ["events"],
     "image": "indigo.png",
     "duration": 1,
@@ -13,7 +13,9 @@
       {"time": "2020-09-09T14:00:00+03:00", "name": "Индиго", "url": ["https://vk.com/li_online_li?w=app5708398_-190890054"]},
       {"time": "2020-09-09T19:30:00+03:00", "name": "Индиго", "url": ["https://vk.com/li_online_li?w=app5708398_-190890054"]},
       {"time": "2020-09-12T14:00:00+03:00", "name": "Индиго", "url": ["https://vk.com/li_online_li?w=app5708398_-190890054"]},
-      {"time": "2020-09-12T19:30:00+03:00", "name": "Индиго", "url": ["https://vk.com/li_online_li?w=app5708398_-190890054"]}
+      {"time": "2020-09-12T19:30:00+03:00", "name": "Индиго", "url": ["https://vk.com/li_online_li?w=app5708398_-190890054"]},
+      {"time": "2020-09-16T14:00:00+03:00", "name": "Игра по Гарри Поттеру", "url": ["https://vk.com/li_online_li?w=app5708398_-190890054"]},
+      {"time": "2020-09-16T19:30:00+03:00", "name": "Игра по Гарри Поттеру", "url": ["https://vk.com/li_online_li?w=app5708398_-190890054"]}
     ]
   }
 ]

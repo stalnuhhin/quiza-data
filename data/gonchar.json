@@ -2,7 +2,7 @@
   {
     "id": "e23de84a-94c1-4973-94f8-3374f7490a61",
     "org": "Денис Гончар",
-    "latestCheck": "2020-09-09T12:00:00+03:00",
+    "latestCheck": "2020-09-14T12:00:00+03:00",
     "type": ["events"],
     "image": "gonchar.png",
     "chgk": true,
@@ -200,6 +200,22 @@
       "monosov": {
         "name": "Синхрон Моносова",
         "price": ["1100 RUB/ком", "400 UAH/ком", "16.5 USD/ком"]
+      },
+      "triptihosen": {
+        "name": "Триптих. Осень",
+        "price": ["1000 RUB/ком", "360 UAH/ком", "15 USD/ком", "20 CAD/ком"]
+      },
+      "sinhronlight36": {
+        "name": "Синхрон-lite. Выпуск XXXVI",
+        "price": ["800 RUB/ком", "240 UAH/ком", "12 USD/ком", "16 CAD/ком", "10.5 EUR/ком"]
+      },
+      "korobkashokkonf": {
+        "name": "Коробка шоколадных конфет",
+        "price": ["900 RUB/ком", "300 UAH/ком", "13.5 USD/ком", "18 CAD/ком"]
+      },
+      "japan": {
+        "name": "Синхрон о Японии \"Нани, доко, ицу\"",
+        "price": ["800 RUB/ком", "240 UAH/ком", "12 USD/ком", "16 CAD/ком", "10.5 EUR/ком"]
       }
     },
     "games": [
@@ -230,7 +246,20 @@
       {"time": "2020-09-10T19:00:00+03:00", "template": "beskzemli4"},
       {"time": "2020-09-10T21:30:00+03:00", "template": "ligasibiri"},
       {"time": "2020-09-11T19:00:00+03:00", "template": "ligasibiri"},
-      {"time": "2020-09-11T21:30:00+03:00", "template": "monosov"}
+      {"time": "2020-09-11T21:30:00+03:00", "template": "monosov"},
+      {"time": "2020-09-14T02:00:00+03:00", "template": "3zvonok"},
+      {"time": "2020-09-14T19:00:00+03:00", "template": "triptihosen"},
+      {"time": "2020-09-14T21:30:00+03:00", "template": "monosov"},
+      {"time": "2020-09-15T19:00:00+03:00", "template": "monosov"},
+      {"time": "2020-09-15T21:30:00+03:00", "template": "ligasibiri"},
+      {"time": "2020-09-16T19:00:00+03:00", "template": "emilia1"},
+      {"time": "2020-09-16T21:30:00+03:00", "template": "triptihosen"},
+      {"time": "2020-09-17T04:30:00+03:00", "template": "monosov"},
+      {"time": "2020-09-17T19:00:00+03:00", "template": "sinhronlight36"},
+      {"time": "2020-09-17T21:30:00+03:00", "template": "ligasibiri"},
+      {"time": "2020-09-18T19:00:00+03:00", "template": "korobkashokkonf"},
+      {"time": "2020-09-18T21:30:00+03:00", "template": "sinhronlight36"},
+      {"time": "2020-09-19T16:30:00+03:00", "template": "japan"}
     ]
   }
 ]

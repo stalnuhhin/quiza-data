@@ -2,7 +2,7 @@
   {
     "id": "5434288a-6ee6-43e9-95a0-d14b065041b4",
     "org": "Большая игра",
-    "latestCheck": "2020-09-05T12:00:00+03:00",
+    "latestCheck": "2020-09-14T12:00:00+03:00",
     "type": ["events"],
     "image": "bolshayaigra.png",
     "chgk": true,
@@ -19,8 +19,20 @@
       {"time": "2020-09-08T20:00:00+03:00", "name": "Бесконечные земли - 4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/224"]},
       {"time": "2020-09-09T20:00:00+03:00", "name": "Онлайн с человеческим лицом", "price": ["800 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/221"]},
       {"time": "2020-09-12T13:00:00+03:00", "name": "М-лига Игра 6.2", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
-      {"time": "2020-09-20T14:00:00+03:00", "name": "М-лига Игра 6.3", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
-      {"time": "2020-09-27T14:00:00+03:00", "name": "М-лига Игра 6.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]}
+      {"time": "2020-09-13T22:00:00+03:00", "name": "М-лига Игра 6.2", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-09-14T20:00:00+03:00", "name": "М-лига Игра 6.2", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-09-16T20:00:00+03:00", "name": "Синхрон Моносова", "price": ["800 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/227"]},
+      {"time": "2020-09-18T20:00:00+03:00", "name": "Нани, доко, ицу - Оваримоногатари", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/234"]},
+      {"time": "2020-09-19T11:00:00+03:00", "name": "Онлайн-СтудЧР. Фестивальный зачет - День первый", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/228"]},
+      {"time": "2020-09-19T14:00:00+03:00", "name": "Кубок Бесконечности. Первый этап", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/235"]},
+      {"time": "2020-09-20T11:00:00+03:00", "name": "Онлайн-СтудЧР. Фестивальный зачет - День второй", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/229"]},
+      {"time": "2020-09-20T13:00:00+03:00", "name": "М-лига Игра 6.3", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/194"]},
+      {"time": "2020-09-20T22:00:00+03:00", "name": "М-лига Игра 6.3", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/194"]},
+      {"time": "2020-09-21T20:00:00+03:00", "name": "М-лига Игра 6.3", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/194"]},
+      {"time": "2020-09-22T20:00:00+03:00", "name": "Кубок Бесконечности. Первый этап", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/235"]},
+      {"time": "2020-10-04T13:00:00+03:00", "name": "М-лига Игра 6.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-10-04T22:00:00+03:00", "name": "М-лига Игра 6.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-10-05T20:00:00+03:00", "name": "М-лига Игра 6.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]}
     ]
   }
 ]

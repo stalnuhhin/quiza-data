@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-09-05T12:00:00+03:00",
+    "latestCheck": "2020-09-14T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -15,11 +15,23 @@
         "url": ["https://www.facebook.com/events/3858913894123326/"]
       },
       {
-        "time": "2020-08-20T20:00:00+03:00",
-        "name": "«Что? Где? Когда?» - Антивирус-лига. Игра 3",
-        "price": ["60 UAH/чел"],
+        "time": "2020-09-16T20:00:00+03:00",
+        "name": "Online Melody Quiz",
+        "price": ["50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/324472892126941/"]
+      },
+      {
+        "time": "2020-09-16T20:00:00+03:00",
+        "name": "Dichtenszeit-6",
+        "price": ["300 UAH/ком"],
+        "url": ["https://www.facebook.com/events/627148541304554/"]
+      },
+      {
+        "time": "2020-09-17T20:00:00+03:00",
+        "name": "Любительская лига Украины по «Что? Где? Когда?». Игра 1",
+        "price": ["300 UAH/ком"],
         "chgk": true,
-        "url": ["https://www.facebook.com/events/343613096823336/"]
+        "url": ["https://www.facebook.com/events/356833915353302/"]
       }
     ]
   }
