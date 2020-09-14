@@ -2,14 +2,25 @@
   {
     "id": "9eb0228f-fc4d-4e11-a294-87455f004ad9",
     "org": "Quiz Maris",
-    "latestCheck": "2020-09-05T12:00:00+03:00",
+    "latestCheck": "2020-09-14T12:00:00+03:00",
     "type": ["events"],
     "image": "quizmaris.png",
     "duration": 1,
     "url": ["https://vk.com/quizmaris", "https://quizmaris.ru"],
     "games": [
       { "time": "2020-09-04T13:30:00.709Z", "name": "Квиз Марис [ГОРЯЧИЙ]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8246" ], "qpid": "8246", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
-      { "time": "2020-09-04T14:20:00.363Z", "name": "Квиз Марис [MARVEL]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/8247" ], "qpid": "8247", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" }
+      { "time": "2020-09-04T14:20:00.363Z", "name": "Квиз Марис [MARVEL]", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/8247" ], "qpid": "8247", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-09-14T09:00:00Z", "name": "Квиз Марис [КЛАССИКА #22]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8384" ], "qpid": "8384", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-09-14T10:00:00Z", "name": "Квиз Марис [БЕЗ ПРАВИЛ]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8383" ], "qpid": "8383", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-09-14T11:00:00Z", "name": "Квиз Марис [КИНОКВИЗ + СТОП-КАДР]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8371" ], "qpid": "8371", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" },
+      { "time": "2020-09-14T12:00:00Z", "name": "Квиз Марис [КЛАССИКА #21]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8386" ], "qpid": "8386", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-09-14T13:00:00Z", "name": "Квиз Марис [Назад в 90е #3]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8388" ], "qpid": "8388", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-09-14T14:00:00Z", "name": "Квиз Марис [БЕЗ ПРАВИЛ]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8367" ], "qpid": "8367", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-09-14T15:00:00Z", "name": "Квиз Марис [КЛАССИКА #20]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8164" ], "qpid": "8164", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-09-14T16:00:00Z", "name": "Квиз Марис [Назад в 90е #3]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8389" ], "qpid": "8389", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-09-14T17:00:00Z", "name": "Квиз Марис [КЛАССИКА #22]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8385" ], "qpid": "8385", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-09-14T18:00:00Z", "name": "Квиз Марис [КЛАССИКА #14]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8372" ], "qpid": "8372", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
+      { "time": "2020-09-14T19:00:00Z", "name": "Квиз Марис [КЛАССИКА #21]", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8387" ], "qpid": "8387", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" }
     ]
   }
 ]
