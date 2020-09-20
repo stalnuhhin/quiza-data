@@ -2,7 +2,7 @@
   {
     "id": "901232e6-ef9f-47c7-b9f1-752c67c8eec6",
     "org": "Сахар",
-    "latestCheck": "2020-09-14T12:00:00+03:00",
+    "latestCheck": "2020-09-21T12:00:00+03:00",
     "type": ["events"],
     "chgk": true,
     "duration": 2.5,
@@ -10,7 +10,13 @@
     "url": ["https://vk.com/sugarchgk"],
     "games": [
       { "time": "2020-09-07T17:00:00Z", "name": "Кубок попкорна (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/7715" ], "qpid": "7715", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
-      { "time": "2020-09-13T16:00:00Z", "name": "Части Вселенной 60–99 (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/8037" ], "qpid": "8037", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" }
+      { "time": "2020-09-13T16:00:00Z", "name": "Части Вселенной 60–99 (повтор)", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/8037" ], "qpid": "8037", "qpuid": "1882", "qpuname": "Куб", "cat": "chgk" },
+      { "time": "2020-09-20T17:00:00+03:00", "name": "Синхрон-lite XXXVI", "price": [ "750 RUB/ком" ], "url": [ "https://vk.com/topic-38771951_41138924" ] },
+      { "time": "2020-09-20T23:00:00+03:00", "name": "Коробка шоколадных конфет – 2020", "price": [ "750 RUB/ком" ], "url": [ "https://vk.com/topic-38771951_41185931" ] },
+      { "time": "2020-09-21T20:00:00+03:00", "name": "Лига старта (сентябрь)", "price": [ "750 RUB/ком" ], "url": [ "https://vk.com/topic-38771951_46049062" ] },
+      { "time": "2020-09-21T23:00:00+03:00", "name": "Триптих. Осень", "price": [ "1000 RUB/ком" ], "url": [ "https://vk.com/topic-38771951_46049066" ] },
+      { "time": "2020-09-22T22:00:00+03:00", "name": "Коробка шоколадных конфет – 2020", "price": [ "750 RUB/ком" ], "url": [ "https://vk.com/topic-38771951_41185931" ] },
+      { "time": "2020-09-22T23:00:00+03:00", "name": "Кубок бесконечности – 1", "price": [ "1100 RUB/ком" ], "url": [ "https://vk.com/topic-38771951_46049097" ] }
     ]
   }
 ]
