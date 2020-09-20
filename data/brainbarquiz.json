@@ -1,9 +1,10 @@
 [
   {
     "id": "2668f220-4f29-43bf-a9af-590cbee446ba",
+    "noOnline": true,
     "org": "BrainBarQuiz",
     "name": "BBQuizHome",
-    "latestCheck": "2020-09-05T12:00:00+03:00",
+    "latestCheck": "2020-09-20T12:00:00+03:00",
     "type": ["events"],
     "image": "brainbarquiz.png",
     "duration": 2,

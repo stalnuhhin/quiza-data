@@ -1,4 +1,4 @@
-const DATA_VERSION = 234;
+const DATA_VERSION = 235;
 const DATAFILES = [
     "3x12trivianights.json",
     "artobstrel.json",
@@ -121,9 +121,9 @@ const app = new Vue({
             activeGames: [],
             rsAggr: [],
             rsMain: [],
+            rsMainClosed: [],
             rsExtra: [],
-            gameCount: 0,
-            orgCount: 0
+            gameCount: 0
         }
     },
     methods: {
@@ -162,10 +162,13 @@ const app = new Vue({
             const data = {};
 
             db.forEach(org => {
-                this.orgCount++;
                 org.latestCheck = org.latestCheck ? moment(org.latestCheck) : undefined;
                 if (org.type.includes('events')) {
-                    this.rsMain.push(org);
+                    if (org.noOnline) {
+                        this.rsMainClosed.push(org);
+                    } else {
+                        this.rsMain.push(org);
+                    }
                 }
                 if (org.type.includes('aggr')) {
                     this.rsAggr.push(org);
@@ -217,6 +220,7 @@ const app = new Vue({
             });
             const compareFn = (a, b) => a.org.localeCompare(b.org);
             this.rsMain.sort(compareFn);
+            this.rsMainClosed.sort(compareFn);
             this.rsExtra.sort(compareFn);
             this.rsAggr.sort(compareFn);
             dates.sort();

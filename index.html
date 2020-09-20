@@ -45,8 +45,18 @@
         </li>
         <li class="nav-item">
             <a class="nav-link"
+               id="frans-tab" data-toggle="tab" href="#frans" role="tab" aria-controls="frans" aria-selected="false">
+                Франшизы ({{rsMain.length}})</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link"
+               id="frans-closed-tab" data-toggle="tab" href="#frans-closed" role="tab" aria-controls="frans-closed" aria-selected="false">
+                Франшизы без онлайна ({{rsMainClosed.length}})</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link"
                id="resou-tab" data-toggle="tab" href="#resou" role="tab" aria-controls="resou" aria-selected="false">
-                Ресурсы ({{orgCount}})</a>
+                Ещё ресурсы ({{rsAggr.length + rsExtra.length}})</a>
         </li>
         <li class="nav-item">
             <a class="nav-link"
@@ -178,11 +188,124 @@
 
         <!-- RESOURCES -->
 
+        <div class="tab-pane fade" id="frans-closed" role="tabpanel" aria-labelledby="frans-closed-tab">
+            <div class="container">
+                <div class="row mt-3">
+                    <div class="col-12">
+                        <h2>Франшизы без онлайна</h2>
+                    </div>
+                </div>
+                <div class="row mt-3">
+                    <div class="col-12">
+                        <p class="text-muted">Здесь франшизы, которые уже на долгое время остановили онлайн-игры.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <table class="table table-hover table-sm">
+                            <tbody>
+                            <tr class="d-flex" v-for="(m, i) in rsMainClosed">
+                                <td class="col-2">
+                                    <img width="50px" v-if="m.image" v-bind:src="'data/images/' + m.image"/>
+                                </td>
+                                <td class="col-8">
+                                    <span data-toggle="tooltip"
+                                          data-placement="bottom"
+                                          v-bind:title="m.desc">
+                                        {{m.org}}
+                                    </span>
+                                    <span v-for="u in m.url">
+                                        <a v-bind:href="u" target="_blank" class="badge alert-primary mr-1">
+                                            {{getUrlName(u)}}
+                                        </a>
+                                    </span>
+                                    <span data-toggle="tooltip"
+                                          data-placement="left"
+                                          title="Есть игры в записи или можно играть в любое время"
+                                          v-if="m.hasContent" class="badge badge-success">
+                                        Любое время
+                                    </span>
+                                    <br/>
+                                    <small v-bind:class="'text-' + (moment().diff(m.latestCheck, 'days') > 3 ? 'danger' : 'muted')">
+                                        Проверка: {{m.latestCheck.fromNow()}}
+                                    </small>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- RESOURCES -->
+
+        <div class="tab-pane fade" id="frans" role="tabpanel" aria-labelledby="frans-tab">
+            <div class="container">
+                <div class="row mt-3">
+                    <div class="col-7">
+                        <h2>Франшизы</h2>
+                    </div>
+
+                    <div class="col-5">
+                        <div class="float-right">
+                            <small>Сортировка:</small>
+                            <span type="button" class="badge badge-secondary" v-on:click="sort('name')">А-Я</span>
+                            <span type="button" class="badge badge-secondary" v-on:click="sort('game')">Игра</span>
+                            <span type="button" class="badge badge-secondary" v-on:click="sort('check')">Проверка</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col">
+                        <table class="table table-hover table-sm">
+                            <tbody>
+                            <tr class="d-flex" v-for="(m, i) in rsMain">
+                                <td class="col-2">
+                                    <img width="50px" v-if="m.image" v-bind:src="'data/images/' + m.image"/>
+                                </td>
+                                <td class="col-8">
+                                    <span data-toggle="tooltip"
+                                          data-placement="bottom"
+                                          v-bind:title="m.desc">
+                                        {{m.org}}
+                                    </span>
+                                    <span v-for="u in m.url">
+                                        <a v-bind:href="u" target="_blank" class="badge alert-primary mr-1">
+                                            {{getUrlName(u)}}
+                                        </a>
+                                    </span>
+                                    <span data-toggle="tooltip"
+                                          data-placement="left"
+                                          title="Есть игры в записи или можно играть в любое время"
+                                          v-if="m.hasContent" class="badge badge-success">
+                                        Любое время
+                                    </span>
+                                    <br/>
+                                    <small v-bind:class="'text-' + (moment().diff(m.latestCheck, 'days') > 3 ? 'danger' : 'muted')">
+                                        Проверка: {{m.latestCheck.fromNow()}}
+                                    </small>
+                                </td>
+                                <td class="col-2">
+                                    <small v-bind:class="'text-' + (moment().diff(m.latestGameTime, 'days') > 1 ? 'danger' : 'muted')">
+                                        {{m.latestGameTime ? m.latestGameTime.fromNow() : '-'}}
+                                    </small>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- RESOURCES -->
+
         <div class="tab-pane fade" id="resou" role="tabpanel" aria-labelledby="resou-tab">
             <div class="container">
                 <div class="row mt-3">
                     <div class="col">
-                        <h2>Дополнительно</h2>
+                        <h2>Где ещё поиграть?</h2>
                     </div>
                 </div>
                 <div class="row">
@@ -247,60 +370,6 @@
                         </table>
                     </div>
                 </div>
-                <div class="row mt-3">
-                    <div class="col-7">
-                        <h2>Франшизы</h2>
-                    </div>
-
-                    <div class="col-5">
-                        <div class="float-right">
-                            <small>Сортировка:</small>
-                            <span type="button" class="badge badge-secondary" v-on:click="sort('name')">А-Я</span>
-                            <span type="button" class="badge badge-secondary" v-on:click="sort('game')">Игра</span>
-                            <span type="button" class="badge badge-secondary" v-on:click="sort('check')">Проверка</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col">
-                        <table class="table table-hover table-sm">
-                            <tbody>
-                            <tr class="d-flex" v-for="(m, i) in rsMain">
-                                <td class="col-2">
-                                    <img width="50px" v-if="m.image" v-bind:src="'data/images/' + m.image"/>
-                                </td>
-                                <td class="col-8">
-                                    <span data-toggle="tooltip"
-                                          data-placement="bottom"
-                                          v-bind:title="m.desc">
-                                        {{m.org}}
-                                    </span>
-                                    <span v-for="u in m.url">
-                                        <a v-bind:href="u" target="_blank" class="badge alert-primary mr-1">
-                                            {{getUrlName(u)}}
-                                        </a>
-                                    </span>
-                                    <span data-toggle="tooltip"
-                                          data-placement="left"
-                                          title="Есть игры в записи или можно играть в любое время"
-                                          v-if="m.hasContent" class="badge badge-success">
-                                        Любое время
-                                    </span>
-                                    <br/>
-                                    <small v-bind:class="'text-' + (moment().diff(m.latestCheck, 'days') > 3 ? 'danger' : 'muted')">
-                                        Проверка: {{m.latestCheck.fromNow()}}
-                                    </small>
-                                </td>
-                                <td class="col-2">
-                                    <small v-bind:class="'text-' + (moment().diff(m.latestGameTime, 'days') > 1 ? 'danger' : 'muted')">
-                                        {{m.latestGameTime ? m.latestGameTime.fromNow() : '-'}}
-                                    </small>
-                                </td>
-                            </tr>
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
             </div>
         </div>
 
@@ -310,6 +379,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col">
+                        <h5 class="mt-3"><b>20.09.2020</b></h5>
+                        <p>
+                            Табами отделены разные ресурсы: дополнительные отдельно, франшизы, которые перестали
+                            выпускать онлайн-игры, активные франшизы.
+                        </p>
                         <h5 class="mt-3"><b>12.05.2020</b></h5>
                         <p>
                             Обновлён дизайн списка - убрал пестроту и сблизил строки. Добавлен подсчёт игр за каждый
