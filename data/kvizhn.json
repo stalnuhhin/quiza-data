@@ -1,9 +1,10 @@
 [
   {
     "id": "682beeb8-a90d-4bb0-9d94-a46d73d63cbd",
+    "noOnline": true,
     "org": "КВИЖН",
     "name": "Квижн-онлайн",
-    "latestCheck": "2020-09-05T12:00:00+03:00",
+    "latestCheck": "2020-09-20T12:00:00+03:00",
     "type": ["events"],
     "image": "kvizhn.png",
     "duration": 2,

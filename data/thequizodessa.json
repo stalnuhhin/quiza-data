@@ -2,13 +2,19 @@
   {
     "id": "0f76500b-de92-4d89-a5b0-bc8358610031",
     "org": "The Quiz (Одесса)",
-    "latestCheck": "2020-09-05T12:00:00+03:00",
+    "latestCheck": "2020-09-20T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "thequizodessa.png",
     "price": ["100 UAH/чел", "max 500 UAH/ком"],
     "url": ["https://thequiz.com.ua/calendar_odessa", "https://www.facebook.com/thequiz.odessa"],
     "games": [
+      {"time": "2020-09-18T20:00:00+03:00", "name": "The Quiz Pro, открытие XIV сезона"},
+      {"time": "2020-09-21T20:00:00+03:00", "name": "The Quiz Lite (\"игра для новичков\")"},
+      {"time": "2020-09-25T20:00:00+03:00", "name": "Юмористическая игра \"Квиздец\" (\"чернуха\")"},
+      {"time": "2020-09-26T20:00:00+03:00", "name": "IV Одесский квиз-марафон"},
+      {"time": "2020-09-28T20:00:00+03:00", "name": "Тематический квиз по детективам"},
+      {"time": "2020-09-31T20:00:00+03:00", "name": "The Quiz Pro, вторая игра XIV сезона"}
     ]
   }
 ]

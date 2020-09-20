@@ -226,7 +226,7 @@
                                         Любое время
                                     </span>
                                     <br/>
-                                    <small v-bind:class="'text-' + (moment().diff(m.latestCheck, 'days') > 3 ? 'danger' : 'muted')">
+                                    <small v-bind:class="'text-' + (moment().diff(m.latestCheck, 'days') > 14 ? 'danger' : 'muted')">
                                         Проверка: {{m.latestCheck.fromNow()}}
                                     </small>
                                 </td>

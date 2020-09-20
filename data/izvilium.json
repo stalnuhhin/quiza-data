@@ -1,12 +1,13 @@
 [
   {
     "id": "b70540a7-55f6-4a26-a163-7599028dc399",
+    "noOnline": true,
     "org": "ИZВИЛИУМ",
-    "latestCheck": "2020-09-05T12:00:00+03:00",
+    "latestCheck": "2020-09-20T12:00:00+03:00",
     "type": ["events"],
     "image": "izvilium.png",
     "duration": 1,
-    "url": ["http://izvilium.online/", "https://vk.com/izvilium_sar"],
+    "url": ["https://izvilium.com/raspisanie-igr", "https://vk.com/izvilium_sar"],
     "games": [
     ]
   }
