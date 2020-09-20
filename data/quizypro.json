@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2020-09-14T12:00:00+03:00",
+    "latestCheck": "2020-09-20T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -111,7 +111,25 @@
       { "time": "2020-09-19T14:00:00Z", "name": "Quiz-club on-line №40", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/8373" ], "qpid": "8373", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
       { "time": "2020-09-19T16:00:00Z", "name": "Логические связи. Повтор от 15 сентября", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8398" ], "qpid": "8398", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "chgk", "org": "БРИЗ" },
       { "time": "2020-09-19T19:00:00Z", "name": "Логические связи. Повтор от 15 сентября", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8399" ], "qpid": "8399", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "chgk", "org": "БРИЗ" },
-      { "time": "2020-09-20T17:00:00Z", "name": "Логические связи. Повтор от 15 сентября", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8400" ], "qpid": "8400", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "chgk", "org": "БРИЗ" }
+      { "time": "2020-09-20T11:00:00Z", "name": "Головоломка. повтор от 18 сентября", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8462" ], "qpid": "8462", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-09-20T11:40:00Z", "name": "AMQ SPECIAL: 2000-e", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8450" ], "qpid": "8450", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-09-20T12:30:00Z", "name": "Советский экран. Повтор от 8 сентября", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8315" ], "qpid": "8315", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "cinema_and_music", "org": "БРИЗ" },
+      { "time": "2020-09-20T16:00:00Z", "name": "НЕПОДРАЖАЕМЫЙ КИНОКВИЗ #21", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8452" ], "qpid": "8452", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-09-20T17:30:00Z", "name": "AMQ SPECIAL: 2000-e", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8451" ], "qpid": "8451", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-09-20T17:30:00Z", "name": "CINEMANIA (КиноQuiz) Сеанс XX Повтор II от 16.09.", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/8472" ], "qpid": "8472", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2020-09-20T18:30:00Z", "name": "Головоломка. повтор от 18 сентября", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8463" ], "qpid": "8463", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-09-20T20:00:00Z", "name": "Турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/8437" ], "qpid": "8437", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-09-21T10:30:00Z", "name": "Логические связи. Повтор от 15 сентября", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8394" ], "qpid": "8394", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "chgk", "org": "БРИЗ" },
+      { "time": "2020-09-21T14:00:00Z", "name": "Путешествие short. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8276" ], "qpid": "8276", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-09-21T16:00:00Z", "name": "Логические связи. Повтор от 15 сентября", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8400" ], "qpid": "8400", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "chgk", "org": "БРИЗ" },
+      { "time": "2020-09-21T17:30:00Z", "name": "Советский экран. Повтор от 8 сентября", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8308" ], "qpid": "8308", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "cinema_and_music", "org": "БРИЗ" },
+      { "time": "2020-09-22T18:30:00Z", "name": "Хруст извилин. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8381" ], "qpid": "8381", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-09-23T19:10:00Z", "name": "Детектив. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8363" ], "qpid": "8363", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-09-24T17:00:00Z", "name": "Между строк. Повтор ", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/7910" ], "qpid": "7910", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
+      { "time": "2020-09-25T10:30:00Z", "name": "Советский экран. Повтор от 8 сентября", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8306" ], "qpid": "8306", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "cinema_and_music", "org": "БРИЗ" },
+      { "time": "2020-09-25T17:30:00Z", "name": "CINEMANIA (КиноQuiz) Сеанс XXI Premiere!", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/8498" ], "qpid": "8498", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2020-09-26T14:00:00Z", "name": "Quiz-club on-line №41", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/8501" ], "qpid": "8501", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
+      { "time": "2020-09-26T16:00:00Z", "name": "Логические связи. Повтор от 15 сентября", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8399" ], "qpid": "8399", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "chgk", "org": "БРИЗ" }
     ]
   }
 ]
