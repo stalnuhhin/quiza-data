@@ -1,4 +1,5 @@
 const ORG_MAPPING = {
+    "БРИЗ": "briz.json",
     "ИZВИЛИУМ": "izvilium.json",
     "online🌎mozgomania.ru": "mozgomania.json",
     "Квизы Скороход": "skorohod.json",
