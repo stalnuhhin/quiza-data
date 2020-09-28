@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-09-20T12:00:00+03:00",
+    "latestCheck": "2020-09-28T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -59,6 +59,27 @@
         "price": ["330 UAH/ком"],
         "chgk": true,
         "url": ["https://www.facebook.com/events/612915249589358/"]
+      },
+      {
+        "time": "2020-10-01T20:00:00+03:00",
+        "name": "Чёрное «Что? Где? Когда?»",
+        "price": ["300 UAH/ком"],
+        "chgk": true,
+        "url": ["https://www.facebook.com/events/2710064219251588/"]
+      },
+      {
+        "time": "2020-10-05T20:00:00+03:00",
+        "name": "IT-chgk",
+        "price": ["420 UAH/ком"],
+        "chgk": true,
+        "url": ["https://www.facebook.com/events/445561173091930"]
+      },
+      {
+        "time": "2020-10-12T20:00:00+03:00",
+        "name": "Осенний кубок BrainHub по «Что? Где? Когда?». Игра 2",
+        "price": ["300 UAH/ком"],
+        "chgk": true,
+        "url": ["https://www.facebook.com/events/2646130872316790/"]
       }
     ]
   }
