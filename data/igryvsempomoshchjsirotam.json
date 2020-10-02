@@ -1,17 +1,14 @@
 [
   {
     "id": "19327fad-bdaa-48b2-8c2a-35c641c1e11d",
+    "noOnline": true,
     "org": "Игры - всем, помощь - сиротам!",
-    "latestCheck": "2020-09-28T12:00:00+03:00",
+    "latestCheck": "2020-10-02T12:00:00+03:00",
     "type": ["events"],
     "image": "igryvsempomoshchjsirotam.png",
     "duration": 2,
     "url": ["https://vk.com/igryvsempomoshchjsirotam"],
     "games": [
-      {"time": "2020-08-01T13:00:00+03:00", "name": "Августовский пунш - 2019 (30)", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/306689413858028/"]},
-      {"time": "2020-08-01T16:30:00+03:00", "name": "Кубок вМоГоТУ - 2019 (36)", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/306689413858028/"]},
-      {"time": "2020-08-02T14:00:00+03:00", "name": "Кубок вМоГоТУ - 2018 (36)", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/306689413858028/"]},
-      {"time": "2020-08-02T17:30:00+03:00", "name": "Кубок вМоГоТУ - 2019 (30)", "chgk": true, "free": true, "donate": true, "url": ["https://www.facebook.com/groups/229434871583483/permalink/306689413858028/"]}
     ]
   }
 ]

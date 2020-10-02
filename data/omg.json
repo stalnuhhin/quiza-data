@@ -2,13 +2,12 @@
   {
     "id": "dd21699d-086e-4a92-8867-fadacbe496bb",
     "org": "OMG! One More Game",
-    "latestCheck": "2020-09-28T12:00:00+03:00",
+    "latestCheck": "2020-10-02T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "omg.png",
     "url": ["https://www.facebook.com/pg/onemoregameeurope/posts"],
     "games": [
-      {"time": "2020-09-29T19:30:00+03:00", "name": "OMG! Hardcore", "price": ["1000 RUB/ком"]}
     ]
   }
 ]

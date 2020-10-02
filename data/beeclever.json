@@ -2,50 +2,33 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2020-09-28T12:00:00+03:00",
+    "latestCheck": "2020-10-02T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
     "url": ["https://www.facebook.com/pg/BEEEECLEVER/events"],
-    "templates": {
-      "chgk": {
-        "chgk": true,
-        "duration": 2.5
-      }
-    },
     "games": [
-      {
-        "time": "2020-09-03T20:00:00+03:00",
-        "name": "Янтарный лингам",
-        "template": "chgk",
-        "price": ["11 USD/ком", "300 UAH/ком", "9.3 EUR/ком", "800 RUB/ком"],
-        "url": ["https://www.facebook.com/events/2412120049094509/"]
-      },
-      {
-        "time": "2020-09-29T20:00:00+03:00",
-        "name": "Кубок бесконечности. Синхронная лига Bee Clever",
-        "template": "chgk",
-        "price": ["15 USD/ком"],
-        "url": ["https://www.facebook.com/events/343703643413371/"]
-      },
       {
         "time": "2020-10-01T20:00:00+03:00",
         "name": "Летняя серия Bee Clever. The Best - 7",
-        "template": "chgk",
+        "chgk": true,
+        "duration": 2.5,
         "price": ["5 USD/ком"],
         "url": ["https://www.facebook.com/events/338116457274023/"]
       },
       {
         "time": "2020-10-06T20:00:00+03:00",
         "name": "Восень патрыярха. Синхронная лига Bee Clever",
-        "template": "chgk",
+        "chgk": true,
+        "duration": 2.5,
         "price": ["13 USD/ком"],
         "url": ["https://www.facebook.com/events/2116569758477133/"]
       },
       {
         "time": "2020-10-17T14:00:00+03:00",
         "name": "Кубок Фидиппида (48 вопросов + квиз + черный ЧГК)",
-        "template": "chgk",
+        "chgk": true,
+        "duration": 2.5,
         "duration": 16,
         "price": ["50 USD/ком"],
         "url": ["https://www.facebook.com/events/723434411547031/"]

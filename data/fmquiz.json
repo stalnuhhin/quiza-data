@@ -2,7 +2,7 @@
   {
     "id": "185c70d6-759d-4e11-8198-b59b929f67e5",
     "org": "FM QUIZ",
-    "latestCheck": "2020-09-28T12:00:00+03:00",
+    "latestCheck": "2020-10-02T12:00:00+03:00",
     "type": ["events"],
     "image": "fmquiz.png",
     "duration": 2,
@@ -10,16 +10,10 @@
     "url": ["https://vk.com/fmquiz"],
     "games": [
       {
-        "time": "2020-09-07T19:15:00+03:00",
-        "name": "FM QUIZ Rock игра",
+        "time": "2020-10-05T19:15:00+03:00",
+        "name": "FM QUIZ КИНОИГРА",
         "price": ["15 BYN/ком"],
-        "url": ["https://vk.com/wall-127402793_10042"]
-      },
-      {
-        "time": "2020-09-14T19:15:00+03:00",
-        "name": "FM QUIZ Сериалы",
-        "price": ["15 BYN/ком"],
-        "url": ["https://vk.com/wall-127402793_10054"]
+        "url": ["https://vk.com/wall-127402793_10066"]
       }
     ]
   }

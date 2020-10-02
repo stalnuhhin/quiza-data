@@ -9,16 +9,6 @@
     "duration": 2.5,
     "url": ["https://otvquiz.ru/online", "https://vk.com/otvquiz", "https://vk.com/quizalco"],
     "desc": "Тематические квизы москвоского клуба Отвечаю!",
-    "templates": {
-      "youtube": {
-        "info": ["Cтрим - в YouTube", "Ответы принимаются через Google Формы"],
-        "payment": ["Оплата - при регистрации на сайте"]
-      },
-      "quizy.pro": {
-        "info": ["Стрим и прием ответов - через платформу quizy.pro"],
-        "payment": ["Оплата - на платформе quizy.pro"]
-      }
-    },
     "games": [
     ]
   }
