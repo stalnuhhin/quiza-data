@@ -2,7 +2,7 @@
   {
     "id": "5434288a-6ee6-43e9-95a0-d14b065041b4",
     "org": "Большая игра",
-    "latestCheck": "2020-10-04T12:00:00+03:00",
+    "latestCheck": "2020-10-08T12:00:00+03:00",
     "type": ["events"],
     "image": "bolshayaigra.png",
     "chgk": true,
@@ -11,7 +11,20 @@
     "games": [
       {"time": "2020-10-04T13:00:00+03:00", "name": "М-лига Игра 6.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
       {"time": "2020-10-04T22:00:00+03:00", "name": "М-лига Игра 6.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
-      {"time": "2020-10-05T20:00:00+03:00", "name": "М-лига Игра 6.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]}
+      {"time": "2020-10-05T20:00:00+03:00", "name": "М-лига Игра 6.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+
+      {"time": "2020-10-11T13:00:00+03:00", "name": "М-лига Игра 7.1", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-10-11T22:00:00+03:00", "name": "М-лига Игра 7.1", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-10-12T20:00:00+03:00", "name": "М-лига Игра 7.1", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-10-18T13:00:00+03:00", "name": "М-лига Игра 7.2", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-10-18T22:00:00+03:00", "name": "М-лига Игра 7.2", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-10-19T20:00:00+03:00", "name": "М-лига Игра 7.2", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-10-15T13:00:00+03:00", "name": "М-лига Игра 7.3", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-10-15T22:00:00+03:00", "name": "М-лига Игра 7.3", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-10-16T20:00:00+03:00", "name": "М-лига Игра 7.3", "price": ["500 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-11-01T13:00:00+03:00", "name": "М-лига Игра 7.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-11-01T22:00:00+03:00", "name": "М-лига Игра 7.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-11-02T20:00:00+03:00", "name": "М-лига Игра 7.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]}
     ]
   }
 ]
