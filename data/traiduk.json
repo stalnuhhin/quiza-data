@@ -2,12 +2,19 @@
   {
     "id": "a983715a-2638-4376-931a-1f67f3e3e21a",
     "org": "Наталья Трайдук",
-    "latestCheck": "2020-10-05T12:00:00+03:00",
+    "latestCheck": "2020-10-08T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "traiduk.png",
     "url": ["https://www.facebook.com/profile.php?id=100017788444620"],
     "games": [
+      {
+        "time": "2020-10-08T20:00:00+03:00",
+        "name": "Синхрон-lite. Выпуск XXXVII",
+        "chgk": true,
+        "price": ["7 USD/ком"],
+        "url": ["https://www.facebook.com/groups/177491475671670/permalink/3449854468435338"]
+      }
     ]
   }
 ]

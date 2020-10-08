@@ -2,7 +2,7 @@
   {
     "id": "194c83b3-6690-4589-9a15-3cf6b62fdd63",
     "org": "Андрей Кругов",
-    "latestCheck": "2020-10-05T12:00:00+03:00",
+    "latestCheck": "2020-10-08T12:00:00+03:00",
     "type": ["events"],
     "image": "krugov.png",
     "duration": 2,
@@ -14,6 +14,12 @@
         "name": "ОВСЧ 1 этап",
         "price": ["300 RUB/чел", "500 RUB/2чел", "700 RUB/ком"],
         "url": ["https://forms.gle/bHNeGPad65u6a59S9"]
+      },
+      {
+        "time": "2020-10-08T20:00:00+03:00",
+        "name": "Синхрон-лайт 37",
+        "price": ["300 RUB/чел", "600 RUB/2чел", "800 RUB/ком"],
+        "url": ["https://forms.gle/H4ZeaawkFz5mQdLF9"]
       }
     ]
   }
