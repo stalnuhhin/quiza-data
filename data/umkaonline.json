@@ -3,7 +3,7 @@
     "id": "964fc8f7-e483-46df-a645-f94174128ae5",
     "org": "Ума Палата Online",
     "name": "Ума Палата",
-    "latestCheck": "2020-10-05T12:00:00+03:00",
+    "latestCheck": "2020-10-12T12:00:00+03:00",
     "type": ["events"],
     "hasContent": true,
     "noregistration": true,
@@ -26,7 +26,6 @@
       {"time": "2020-10-01T21:00:00+03:00", "name": "Умка ONLINE Cinemania"},
       {"time": "2020-10-02T21:00:00+03:00", "name": "Умка ONLINE #вечерняяумка"},
       {"time": "2020-10-05T21:00:00+03:00", "name": "Умка ONLINE #вечерняяумка"},
-      {"time": "2020-10-09T19:00:00+03:00", "name": "Умка ONLINE CineMelomania"},
       {"time": "2020-10-09T21:00:00+03:00", "name": "Умка ONLINE #вечерняяумка + #трещ"}
     ]
   }

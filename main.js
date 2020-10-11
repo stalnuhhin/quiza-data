@@ -1,4 +1,4 @@
-const DATA_VERSION = 251;
+const DATA_VERSION = 252;
 const DATAFILES = [
     "3x12trivianights.json",
     "artobstrel.json",
@@ -10,6 +10,7 @@ const DATAFILES = [
     "braindo.json",
     "braingazm.json",
     "brainhub.json",
+    "brainventura.json",
     "brainwars.json",
     "briz.json",
     "bquizonline.json",

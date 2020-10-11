@@ -1,8 +1,9 @@
 [
   {
     "id": "9eb0228f-fc4d-4e11-a294-87455f004ad9",
+    "noOnline": true,
     "org": "Quiz Maris",
-    "latestCheck": "2020-10-08T12:00:00+03:00",
+    "latestCheck": "2020-10-12T12:00:00+03:00",
     "type": ["events"],
     "image": "quizmaris.png",
     "duration": 1,
