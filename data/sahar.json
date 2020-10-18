@@ -2,7 +2,7 @@
   {
     "id": "901232e6-ef9f-47c7-b9f1-752c67c8eec6",
     "org": "Сахар",
-    "latestCheck": "2020-10-15T12:00:00+03:00",
+    "latestCheck": "2020-10-18T12:00:00+03:00",
     "type": ["events"],
     "chgk": true,
     "duration": 2.5,
@@ -19,7 +19,12 @@
       { "time": "2020-10-10T11:00:00+03:00", "name": "Geek-ЧГК. Тёмная сторона", "price": [ "750 RUB/ком" ], "url": [ "https://vk.com/topic-38771951_46262285" ] },
       { "time": "2020-10-15T20:00:00+03:00", "name": "Geek-ЧГК. Тёмная сторона", "price": [ "750 RUB/ком" ], "url": [ "https://www.facebook.com/groups/chgk.global/permalink/1673391262824162/" ] },
       { "time": "2020-10-16T11:00:00+03:00", "name": "Geek-ЧГК. Тёмная сторона", "price": [ "750 RUB/ком" ], "url": [ "https://www.facebook.com/groups/chgk.global/permalink/1673391262824162/" ] },
-      { "time": "2020-10-16T20:00:00+03:00", "name": "Синхрон-lite XXXVII", "price": [ "800 RUB/ком" ], "url": [ "https://www.facebook.com/groups/chgk.global/permalink/1673391262824162/" ] }
+      { "time": "2020-10-16T20:00:00+03:00", "name": "Синхрон-lite XXXVII", "price": [ "800 RUB/ком" ], "url": [ "https://www.facebook.com/groups/chgk.global/permalink/1673391262824162/" ] },
+      { "time": "2020-10-18T19:00:00+03:00", "name": "Кубок кубков", "price": [ "800 RUB/ком" ], "url": [ "https://vk.com/topic-38771951_40751808" ] },
+      { "time": "2020-10-19T20:00:00+03:00", "name": "Лига старта (октябрь)", "price": [ "800 RUB/ком" ], "url": [ "https://vk.com/topic-38771951_46262280" ] },
+      { "time": "2020-10-20T11:00:00+03:00", "name": "Geek-ЧГК. Тёмная сторона", "price": [ "800 RUB/ком" ], "url": [ "https://vk.com/topic-38771951_46262285" ] },
+      { "time": "2020-10-21T20:00:00+03:00", "name": "Geek-ЧГК. Тёмная сторона", "price": [ "800 RUB/ком" ], "url": [ "https://vk.com/topic-38771951_46262285" ] },
+      { "time": "2020-10-22T20:00:00+03:00", "name": "Кубок кубков", "price": [ "800 RUB/ком" ], "url": [ "https://vk.com/topic-38771951_40751808" ] }
     ]
   }
 ]
