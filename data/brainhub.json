@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-10-08T12:00:00+03:00",
+    "latestCheck": "2020-10-19T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -40,6 +40,19 @@
         "name": "Online Кинолига. Игра 2",
         "price": ["50 UAH/чел"],
         "url": ["https://www.facebook.com/events/1012029099218989"]
+      },
+      {
+        "time": "2020-10-25T12:00:00+03:00",
+        "name": "Синхронные турниры №1 и №2",
+        "chgk": true,
+        "url": ["https://www.facebook.com/events/661271051171006"]
+      },
+      {
+        "time": "2020-10-29T20:00:00+03:00",
+        "name": "«Что? Где? Когда?» по сериалам",
+        "price": ["300 UAH/ком"],
+        "chgk": true,
+        "url": ["https://www.facebook.com/events/5429759407043311"]
       }
     ]
   }
