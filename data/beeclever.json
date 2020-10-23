@@ -2,7 +2,7 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2020-10-18T12:00:00+03:00",
+    "latestCheck": "2020-10-23T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
@@ -28,10 +28,23 @@
         "time": "2020-10-17T14:00:00+03:00",
         "name": "Кубок Фидиппида (48 вопросов + квиз + черный ЧГК)",
         "chgk": true,
-        "duration": 2.5,
         "duration": 16,
         "price": ["50 USD/ком"],
         "url": ["https://www.facebook.com/events/723434411547031/"]
+      },
+      {
+        "time": "2020-10-27T20:00:00+02:00",
+        "name": "Террариум",
+        "chgk": true,
+        "price": ["11 USD/ком"],
+        "url": ["https://www.facebook.com/events/664385754449697/"]
+      },
+      {
+        "time": "2020-10-29T20:00:00+02:00",
+        "name": "Кубок Фидиппида: Первая половина дистанции",
+        "chgk": true,
+        "price": ["11 USD/ком"],
+        "url": ["https://www.facebook.com/events/802872043747531/"]
       }
     ]
   }

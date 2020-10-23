@@ -2,7 +2,7 @@
   {
     "id": "5434288a-6ee6-43e9-95a0-d14b065041b4",
     "org": "Большая игра",
-    "latestCheck": "2020-10-19T12:00:00+03:00",
+    "latestCheck": "2020-10-23T12:00:00+03:00",
     "type": ["events"],
     "image": "bolshayaigra.png",
     "chgk": true,
@@ -31,12 +31,18 @@
       {"time": "2020-10-19T20:00:00+03:00", "name": "М-лига Игра 7.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/363"]},
       {"time": "2020-10-20T20:00:00+03:00", "name": "Турнирум", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/361"]},
       {"time": "2020-10-20T20:00:00+03:00", "name": "Кубок Бесконечности. Второй этап", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/375"]},
-      {"time": "2020-10-25T13:00:00+02:00", "name": "М-лига Игра 7.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
-      {"time": "2020-10-25T22:00:00+02:00", "name": "М-лига Игра 7.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
-      {"time": "2020-10-26T20:00:00+02:00", "name": "М-лига Игра 7.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
-      {"time": "2020-11-01T13:00:00+02:00", "name": "М-лига Игра 7.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
-      {"time": "2020-11-01T22:00:00+02:00", "name": "М-лига Игра 7.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
-      {"time": "2020-11-02T20:00:00+02:00", "name": "М-лига Игра 7.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]}
+      {"time": "2020-10-23T20:00:00+03:00", "name": "ОВСЧ 2", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/380"]},
+      {"time": "2020-10-24T13:00:00+03:00", "name": "ОВСЧ 2", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/380"]},
+      {"time": "2020-10-24T15:00:00+03:00", "name": "Лига вузов - 1", "price": ["700 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/369"]},
+      {"time": "2020-10-24T22:00:00+03:00", "name": "ОВСЧ 2", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/380"]},
+      {"time": "2020-10-25T13:00:00+03:00", "name": "М-лига Игра 7.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/364"]},
+      {"time": "2020-10-25T15:00:00+03:00", "name": "Асинхрон по сериалам от В. Островского", "price": ["700 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/377"]},
+      {"time": "2020-10-25T22:00:00+03:00", "name": "М-лига Игра 7.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/364"]},
+      {"time": "2020-10-26T20:00:00+03:00", "name": "М-лига Игра 7.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/364"]},
+      {"time": "2020-10-28T20:00:00+03:00", "name": "Асинхрон по сериалам от В. Островского", "price": ["700 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/377"]},
+      {"time": "2020-11-01T13:00:00+03:00", "name": "М-лига Игра 7.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-11-01T22:00:00+03:00", "name": "М-лига Игра 7.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-11-02T20:00:00+03:00", "name": "М-лига Игра 7.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]}
     ]
   }
 ]
