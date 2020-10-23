@@ -31,12 +31,12 @@
       {"time": "2020-10-19T20:00:00+03:00", "name": "М-лига Игра 7.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/363"]},
       {"time": "2020-10-20T20:00:00+03:00", "name": "Турнирум", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/361"]},
       {"time": "2020-10-20T20:00:00+03:00", "name": "Кубок Бесконечности. Второй этап", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/375"]},
-      {"time": "2020-10-25T13:00:00+03:00", "name": "М-лига Игра 7.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
-      {"time": "2020-10-25T22:00:00+03:00", "name": "М-лига Игра 7.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
-      {"time": "2020-10-26T20:00:00+03:00", "name": "М-лига Игра 7.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
-      {"time": "2020-11-01T13:00:00+03:00", "name": "М-лига Игра 7.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
-      {"time": "2020-11-01T22:00:00+03:00", "name": "М-лига Игра 7.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
-      {"time": "2020-11-02T20:00:00+03:00", "name": "М-лига Игра 7.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]}
+      {"time": "2020-10-25T13:00:00+02:00", "name": "М-лига Игра 7.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-10-25T22:00:00+02:00", "name": "М-лига Игра 7.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-10-26T20:00:00+02:00", "name": "М-лига Игра 7.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-11-01T13:00:00+02:00", "name": "М-лига Игра 7.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-11-01T22:00:00+02:00", "name": "М-лига Игра 7.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]},
+      {"time": "2020-11-02T20:00:00+02:00", "name": "М-лига Игра 7.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments#tab1"]}
     ]
   }
 ]
