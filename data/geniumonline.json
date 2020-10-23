@@ -1,9 +1,8 @@
 [
   {
     "id": "d9388ed9-a66c-437e-b538-2e700aa8fe46",
-    "noOnline": true,
     "org": "Genium (Максим Поташев)",
-    "latestCheck": "2020-09-20T12:00:00+03:00",
+    "latestCheck": "2020-10-23T12:00:00+03:00",
     "type": ["events"],
     "image": "geniumonline.png",
     "duration": 2,
@@ -12,6 +11,7 @@
     "desc": "Игры Максима Поташева: есть разные типы игр.",
     "info": ["Cтрим в Zoom.", "Ответы вбиваются в их личную систему."],
     "games": [
+      {"time": "2020-10-24T21:00:00+03:00", "name": "Genium Sprint Online", "url": ["http://genium-quiz.com/events/sprint-online-20/"]}
     ]
   }
 ]
