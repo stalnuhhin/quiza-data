@@ -5,6 +5,7 @@
     "latestCheck": "2020-10-26T12:00:00+03:00",
     "type": ["events"],
     "image": "indigo.png",
+    "price": ["500 RUB/ком"],
     "duration": 1,
     "url": ["https://vk.com/li_online_li", "http://ligaindigo.ru/rating-online"],
     "games": [
