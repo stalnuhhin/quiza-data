@@ -1,14 +1,15 @@
 [
   {
     "id": "f88f473d-922e-4a86-a0b0-693a5d754a61",
-    "noOnline": true,
     "org": "TLTQUIZ",
-    "latestCheck": "2020-10-23T12:00:00+03:00",
+    "latestCheck": "2020-10-26T12:00:00+03:00",
     "type": ["events"],
     "image": "tltquiz.png",
     "duration": 1,
     "url": ["https://vk.com/tltquiz"],
     "games": [
+      { "time": "2020-10-26T18:00:00Z", "name": "#54 ТаБуретКа. Авторский пакет", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9072" ], "qpid": "9072", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
+      { "time": "2020-10-26T19:00:00Z", "name": "TLTQUIZ online #46 - ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9074" ], "qpid": "9074", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" }
     ]
   }
 ]

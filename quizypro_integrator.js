@@ -1,3 +1,5 @@
+const URL = 'https://api.quizy.pro/api/v1/streams?limit=1000&page=0&sort=upcoming';
+const AUTH = 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MDQ3ODE0NTgsImlpcyI6InVzZXJsb2dpbiIsInVzZXJfaWQiOjI0OH0.sxDbJlPT0CT-2D2ToXCi4zRALTVmBTZYuPGjoIoyXlE';
 const ORG_MAPPING = {
     "БРИЗ": "briz.json",
     "ИZВИЛИУМ": "izvilium.json",
@@ -32,7 +34,7 @@ const app = new Vue({
     },
     methods: {
         load: function () {
-            fetch("https://api.quizy.pro/api/v1/streams?limit=1000&page=0&sort=upcoming")
+            fetch(URL, {headers: {Authorization: AUTH}})
                 .then(r => r.json())
                 .then(r => this.fillOrgs(r.data.result));
         },

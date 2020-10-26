@@ -1,9 +1,8 @@
 [
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
-    "noOnline": true,
     "org": "Quizy",
-    "latestCheck": "2020-10-23T12:00:00+03:00",
+    "latestCheck": "2020-10-26T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -13,7 +12,22 @@
     "games": [
       { "time": "2020-10-01T09:00:00Z", "name": "Искусство #6", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/8572" ], "qpid": "8572", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "art_and_literature", "org": "Культпросвет" },
       { "time": "2020-10-02T18:00:00Z", "name": "CINEMANIA (КиноQuiz) Сеанс XXII Premiere!", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/8591" ], "qpid": "8591", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
-      { "time": "2020-10-03T14:00:00Z", "name": "Quiz-club on-line №42", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/8595" ], "qpid": "8595", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" }
+      { "time": "2020-10-03T14:00:00Z", "name": "Quiz-club on-line №42", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/8595" ], "qpid": "8595", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
+      { "time": "2020-10-26T10:00:00Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9081" ], "qpid": "9081", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
+      { "time": "2020-10-26T12:00:00Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9077" ], "qpid": "9077", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
+      { "time": "2020-10-26T14:00:00Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9078" ], "qpid": "9078", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
+      { "time": "2020-10-26T14:30:00Z", "name": "AMQ SPECIAL: 1990-e #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9069" ], "qpid": "9069", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-10-26T16:00:00Z", "name": "МУЛЬТФИЛЬМЫ #4", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9068" ], "qpid": "9068", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-10-26T16:00:00Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9079" ], "qpid": "9079", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
+      { "time": "2020-10-26T17:00:00Z", "name": "Фестивальное кино #2", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/9063" ], "qpid": "9063", "qpuid": "4700", "qpuname": "Мы пойдем ко дну с этим кораблем ", "cat": "cinema_and_music", "org": "Мы пойдем ко дну с этим кораблем " },
+      { "time": "2020-10-26T17:30:00Z", "name": "CINEMANIA (КиноQuiz) Сеанс XXV Повтор I от 23.10.", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9051" ], "qpid": "9051", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2020-10-26T17:30:00Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9080" ], "qpid": "9080", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
+      { "time": "2020-10-27T14:30:00Z", "name": "ОБЛОЖКИ АЛЬБОМОВ #1", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9071" ], "qpid": "9071", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-10-27T16:00:00Z", "name": "ALPHABET MUSIC QUIZ #47", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9070" ], "qpid": "9070", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-10-28T14:30:00Z", "name": "СОВЕТСКОЕ КИНО #1", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9061" ], "qpid": "9061", "qpuid": "8407", "qpuname": "СОВЕТСКОЕ КИНО", "cat": "cinema_and_music", "org": "СОВЕТСКОЕ КИНО" },
+      { "time": "2020-10-28T18:00:00Z", "name": "Брат и Брат 2 | ПРЕМЬЕРА", "price": [ "450 RUB/ком" ], "url": [ "https://quizy.pro/streams/9046" ], "qpid": "9046", "qpuid": "3474", "qpuname": "Антуан Квиз, ман?", "cat": "cinema_and_music", "org": "Антуан Квиз, ман?" },
+      { "time": "2020-10-31T08:00:00Z", "name": "Кубок Джека. Высшая лига, октябрь", "price": [ "2400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9039" ], "qpid": "9039", "qpuid": "3208", "qpuname": "Braindoclub", "cat": "common_knowledge", "org": "Braindoclub" },
+      { "time": "2020-10-31T14:00:00Z", "name": "Quiz-club №46. Halloween ", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9052" ], "qpid": "9052", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" }
     ]
   }
 ]

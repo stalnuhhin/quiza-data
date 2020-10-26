@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2020-10-23T12:00:00+03:00",
+    "latestCheck": "2020-10-26T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -11,7 +11,14 @@
       { "time": "2020-10-01T15:30:00Z", "name": "Путешествие short. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8276" ], "qpid": "8276", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge", "org": "БРИЗ" },
       { "time": "2020-10-03T19:30:00Z", "name": "Кино-КВЕСТ. Повтор от 23 сентября", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/8533" ], "qpid": "8533", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "cinema_and_music", "org": "БРИЗ" },
       { "time": "2020-10-04T12:00:00Z", "name": "Кино-КВЕСТ. Повтор от 23 сентября", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8534" ], "qpid": "8534", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "cinema_and_music", "org": "БРИЗ" },
-      { "time": "2020-10-04T16:00:00Z", "name": "Бестселлер. Повтор от 4 августа", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8253" ], "qpid": "8253", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "cinema_and_music", "org": "БРИЗ" }
+      { "time": "2020-10-04T16:00:00Z", "name": "Бестселлер. Повтор от 4 августа", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8253" ], "qpid": "8253", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "cinema_and_music", "org": "БРИЗ" },
+      { "time": "2020-10-26T11:00:00Z", "name": "Турнир \"Один за всех\"!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-10-26T12:20:00Z", "name": "Головоломка. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8949" ], "qpid": "8949", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-10-26T14:00:00Z", "name": "Детектив. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8363" ], "qpid": "8363", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-10-26T15:30:00Z", "name": "Культурный пласт. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8283" ], "qpid": "8283", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-10-26T17:00:00Z", "name": "Фантастический коктейль. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8927" ], "qpid": "8927", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-10-26T18:30:00.225Z", "name": "БУКВАльно обо всем 2. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9075" ], "qpid": "9075", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-10-26T20:10:00Z", "name": "Ночной турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/9067" ], "qpid": "9067", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
   }
 ]

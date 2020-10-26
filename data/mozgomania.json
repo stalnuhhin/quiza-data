@@ -1,9 +1,8 @@
 [
   {
     "id": "61f66a97-a27d-435d-a8f1-e7af4e4d8b81",
-    "noOnline": true,
     "org": "Мозгомания",
-    "latestCheck": "2020-10-12T12:00:00+03:00",
+    "latestCheck": "2020-10-26T12:00:00+03:00",
     "type": ["events"],
     "image": "mozgomania.png",
     "duration": 2,
@@ -13,6 +12,8 @@
       "https://www.facebook.com/pg/mozgomania.ru/posts"
     ],
     "games": [
+      { "time": "2020-10-27T17:00:00Z", "name": "Киномания #1. Премьера.", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9005" ], "qpid": "9005", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" },
+      { "time": "2020-10-27T19:00:00Z", "name": "Киномания #1. Повтор.", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9006" ], "qpid": "9006", "qpuid": "1076", "qpuname": "online🌎mozgomania.ru", "cat": "cinema_and_music" }
     ]
   }
 ]
