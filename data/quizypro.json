@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2020-10-26T12:00:00+03:00",
+    "latestCheck": "2020-10-30T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -27,7 +27,24 @@
       { "time": "2020-10-28T14:30:00Z", "name": "СОВЕТСКОЕ КИНО #1", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9061" ], "qpid": "9061", "qpuid": "8407", "qpuname": "СОВЕТСКОЕ КИНО", "cat": "cinema_and_music", "org": "СОВЕТСКОЕ КИНО" },
       { "time": "2020-10-28T18:00:00Z", "name": "Брат и Брат 2 | ПРЕМЬЕРА", "price": [ "450 RUB/ком" ], "url": [ "https://quizy.pro/streams/9046" ], "qpid": "9046", "qpuid": "3474", "qpuname": "Антуан Квиз, ман?", "cat": "cinema_and_music", "org": "Антуан Квиз, ман?" },
       { "time": "2020-10-31T08:00:00Z", "name": "Кубок Джека. Высшая лига, октябрь", "price": [ "2400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9039" ], "qpid": "9039", "qpuid": "3208", "qpuname": "Braindoclub", "cat": "common_knowledge", "org": "Braindoclub" },
-      { "time": "2020-10-31T14:00:00Z", "name": "Quiz-club №46. Halloween ", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9052" ], "qpid": "9052", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" }
+      { "time": "2020-10-31T14:00:00Z", "name": "Quiz-club №46. Halloween ", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9052" ], "qpid": "9052", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
+      { "time": "2020-10-29T14:30:00Z", "name": "СВОЯ ИГРА #14", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/9116" ], "qpid": "9116", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "chgk", "org": "СВОЯ ИГРА ONLINE" },
+      { "time": "2020-10-29T14:40:00Z", "name": "CINEMANIA (КиноQuiz) Сеанс XXV Повтор от 23.10.", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9131" ], "qpid": "9131", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2020-10-29T16:00:00Z", "name": "MY NAME IS ARTEMISIA #10", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9118" ], "qpid": "9118", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "art_and_literature", "org": "Искусство ухода" },
+      { "time": "2020-10-29T17:00:00Z", "name": "ВОСХИТИТЕЛЬНЫЙ КИНОКВИЗ #26", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9119" ], "qpid": "9119", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-10-29T18:00:00Z", "name": "МУЛЬТФИЛЬМЫ #4", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9120" ], "qpid": "9120", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
+      { "time": "2020-10-30T15:00:00Z", "name": "ВЕЛИКОЛЕПНЫЙ КИНОКВИЗ #10", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/9121" ], "qpid": "9121", "qpuid": "4959", "qpuname": "Неподражаемые киноквизы", "cat": "cinema_and_music", "org": "Неподражаемые киноквизы" },
+      { "time": "2020-10-30T16:00:00Z", "name": "ALPHABET MUSIC QUIZ #48", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9122" ], "qpid": "9122", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
+      { "time": "2020-10-30T17:00:00Z", "name": "Кино и книги", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9146" ], "qpid": "9146", "qpuid": "8727", "qpuname": "Кадр за кадром", "cat": "common_knowledge", "org": "Кадр за кадром" },
+      { "time": "2020-10-31T08:00:00Z", "name": "Кубок Джека. Высшая лига, октябрь", "price": [ "2400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9039" ], "qpid": "9039", "qpuid": "3208", "qpuname": "Braindoclub", "cat": "common_knowledge", "org": "Braindoclub" },
+      { "time": "2020-10-31T11:00:00Z", "name": "МУЛЬТФИЛЬМЫ #4", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9123" ], "qpid": "9123", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-10-31T14:00:00Z", "name": "Quiz-club №46. Halloween ", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9052" ], "qpid": "9052", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
+      { "time": "2020-10-31T14:50:00Z", "name": "ОБЛОЖКИ АЛЬБОМОВ #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9124" ], "qpid": "9124", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-10-31T17:00:00Z", "name": "HALLOWEEN QUIZ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9125" ], "qpid": "9125", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-10-31T18:20:00Z", "name": "AMQ SPECIAL: 1990-e #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9126" ], "qpid": "9126", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-11-01T11:00:00Z", "name": "MY NAME IS ARTEMISIA #9", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9127" ], "qpid": "9127", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "art_and_literature", "org": "Искусство ухода" },
+      { "time": "2020-11-01T16:00:00Z", "name": "ВОСХИТИТЕЛЬНЫЙ КИНОКВИЗ #27", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9129" ], "qpid": "9129", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-11-01T17:00:00Z", "name": "AMQ SPECIAL: 2000-e #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9130" ], "qpid": "9130", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" }
     ]
   }
 ]
