@@ -2,7 +2,7 @@
   {
     "id": "eaa4a42b-ada8-42d2-a7c1-1a3f282cec6b",
     "org": "Интеллектуальное казино Сан Франциско",
-    "latestCheck": "2020-10-26T12:00:00+03:00",
+    "latestCheck": "2020-11-02T12:00:00+03:00",
     "type": ["events"],
     "image": "intellcasinosanfra.png",
     "chgk": true,
@@ -21,8 +21,23 @@
         "url": ["https://www.facebook.com/events/222442442311958"]
       },
       {
-        "time": "2020-11-01T22:00:00+02:00",
+        "time": "2020-11-01T23:00:00+02:00",
         "name": "Что? Где? Когда? Е.Духовного (Stanford) - Осенняя Серия игра 1",
+        "url": ["https://www.facebook.com/events/350592059496995"]
+      },
+      {
+        "time": "2020-11-15T23:00:00+02:00",
+        "name": "Что? Где? Когда? Е.Духовного (Stanford)",
+        "url": ["https://www.facebook.com/events/350592059496995"]
+      },
+      {
+        "time": "2020-11-29T23:00:00+02:00",
+        "name": "Что? Где? Когда? Е.Духовного (Stanford)",
+        "url": ["https://www.facebook.com/events/350592059496995"]
+      },
+      {
+        "time": "2020-12-13T23:00:00+02:00",
+        "name": "Что? Где? Когда? Е.Духовного (Stanford)",
         "url": ["https://www.facebook.com/events/350592059496995"]
       }
     ]
