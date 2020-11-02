@@ -3,14 +3,15 @@
     "id": "9d96803c-51ee-4b7e-816c-5098bce34efc",
     "org": "Квиз №8",
     "name": "Онлайн Квиз №8",
-    "latestCheck": "2020-10-26T12:00:00+03:00",
+    "latestCheck": "2020-11-03T12:00:00+03:00",
     "type": ["events"],
     "image": "kviz8.png",
     "duration": 1,
     "url": ["https://www.facebook.com/pg/QuizN8/events/"],
     "games": [
       {"time": "2020-10-01T20:00:00+03:00", "name": "Квиз №8 #3", "price": ["400 UAH/ком"], "url": ["https://www.facebook.com/events/344910356758868/"]},
-      {"time": "2020-10-15T20:00:00+03:00", "name": "Квиз №8 #4", "price": ["400 UAH/ком"], "url": ["https://www.facebook.com/events/702222773713835/"]}
+      {"time": "2020-10-15T20:00:00+03:00", "name": "Квиз №8 #4", "price": ["400 UAH/ком"], "url": ["https://www.facebook.com/events/702222773713835/"]},
+      {"time": "2020-11-05T20:00:00+02:00", "name": "Квиз №8 #5", "price": ["400 UAH/ком"], "url": ["https://www.facebook.com/events/435955447394038/"]}
     ]
   }
 ]

@@ -2,12 +2,18 @@
   {
     "id": "dcf5c4cb-1d20-4879-bb7e-d4ad772aa9c8",
     "org": "Head Trick Quiz",
-    "latestCheck": "2020-10-26T12:00:00+03:00",
+    "latestCheck": "2020-11-03T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "headtrick.png",
     "url": ["https://www.facebook.com/pg/football.quiz.tashkent/posts/"],
     "games": [
+      {
+        "time": "2020-11-05T21:00:00+03:00",
+        "name": "Head Trick Quiz #17",
+        "price": ["5 USD/ком", "370 RUB/ком"],
+        "url": ["https://www.facebook.com/football.quiz.tashkent/posts/840316323401297"]
+      }
     ]
   }
 ]
