@@ -9,44 +9,6 @@
     "url": ["https://www.facebook.com/pg/BEEEECLEVER/events"],
     "games": [
       {
-        "time": "2020-10-01T20:00:00+03:00",
-        "name": "Летняя серия Bee Clever. The Best - 7",
-        "chgk": true,
-        "duration": 2.5,
-        "price": ["5 USD/ком"],
-        "url": ["https://www.facebook.com/events/338116457274023/"]
-      },
-      {
-        "time": "2020-10-06T20:00:00+03:00",
-        "name": "Восень патрыярха. Синхронная лига Bee Clever",
-        "chgk": true,
-        "duration": 2.5,
-        "price": ["13 USD/ком"],
-        "url": ["https://www.facebook.com/events/2116569758477133/"]
-      },
-      {
-        "time": "2020-10-17T14:00:00+03:00",
-        "name": "Кубок Фидиппида (48 вопросов + квиз + черный ЧГК)",
-        "chgk": true,
-        "duration": 16,
-        "price": ["50 USD/ком"],
-        "url": ["https://www.facebook.com/events/723434411547031/"]
-      },
-      {
-        "time": "2020-10-27T20:00:00+02:00",
-        "name": "Террариум",
-        "chgk": true,
-        "price": ["11 USD/ком"],
-        "url": ["https://www.facebook.com/events/664385754449697/"]
-      },
-      {
-        "time": "2020-10-29T20:00:00+02:00",
-        "name": "Кубок Фидиппида: Первая половина дистанции",
-        "chgk": true,
-        "price": ["11 USD/ком"],
-        "url": ["https://www.facebook.com/events/802872043747531/"]
-      },
-      {
         "time": "2020-11-03T20:00:00+02:00",
         "name": "Кубок Хэллоуина",
         "chgk": true,

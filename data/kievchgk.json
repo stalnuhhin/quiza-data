@@ -9,18 +9,6 @@
     "chgk": true,
     "url": ["https://www.facebook.com/pg/chgk.kiev.ua/events/"],
     "games": [
-      {
-        "time": "2020-10-10T19:00:00+03:00",
-        "name": "ЧГК по кино «V - значит Vопросы»",
-        "price": ["300 UAH/ком"],
-        "url": ["https://www.facebook.com/events/960593071111374"]
-      },
-      {
-        "time": "2020-10-28T20:00:00+02:00",
-        "name": "Онлайн ЧГК. s03e02 от #kievchgk",
-        "price": ["360 UAH/ком"],
-        "url": ["https://www.facebook.com/events/355865889193914"]
-      }
     ]
   }
 ]

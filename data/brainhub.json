@@ -9,52 +9,6 @@
     "url": ["https://www.facebook.com/pg/BrainHubKiev/events/", "https://www.facebook.com/pg/brainhubkharkiv/events/", "https://www.twitch.tv/brainhubua"],
     "games": [
       {
-        "time": "2020-10-01T20:00:00+03:00",
-        "name": "Чёрное «Что? Где? Когда?»",
-        "price": ["300 UAH/ком"],
-        "chgk": true,
-        "url": ["https://www.facebook.com/events/2710064219251588/"]
-      },
-      {
-        "time": "2020-10-05T20:00:00+03:00",
-        "name": "IT-chgk",
-        "price": ["420 UAH/ком"],
-        "chgk": true,
-        "url": ["https://www.facebook.com/events/445561173091930"]
-      },
-      {
-        "time": "2020-10-07T20:00:00+03:00",
-        "name": "SoundBattle 60х-90х",
-        "price": ["50 UAH/чел"],
-        "url": ["https://www.facebook.com/events/1677366012418269"]
-      },
-      {
-        "time": "2020-10-12T20:00:00+03:00",
-        "name": "Осенний кубок BrainHub по «Что? Где? Когда?». Игра 2",
-        "price": ["300 UAH/ком"],
-        "chgk": true,
-        "url": ["https://www.facebook.com/events/2646130872316790/"]
-      },
-      {
-        "time": "2020-10-15T20:00:00+03:00",
-        "name": "Online Кинолига. Игра 2",
-        "price": ["50 UAH/чел"],
-        "url": ["https://www.facebook.com/events/1012029099218989"]
-      },
-      {
-        "time": "2020-10-25T12:00:00+02:00",
-        "name": "Синхронные турниры №1 и №2",
-        "chgk": true,
-        "url": ["https://www.facebook.com/events/661271051171006"]
-      },
-      {
-        "time": "2020-10-29T20:00:00+02:00",
-        "name": "«Что? Где? Когда?» по сериалам",
-        "price": ["300 UAH/ком"],
-        "chgk": true,
-        "url": ["https://www.facebook.com/events/5429759407043311"]
-      },
-      {
         "time": "2020-11-05T20:00:00+02:00",
         "name": "Online Кинолига. Игра 3",
         "price": ["50 UAH/чел"],

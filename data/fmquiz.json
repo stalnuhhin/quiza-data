@@ -9,18 +9,6 @@
     "price": ["20 BYN/ком"],
     "url": ["https://vk.com/fmquiz"],
     "games": [
-      {
-        "time": "2020-10-05T19:15:00+03:00",
-        "name": "FM QUIZ КИНОИГРА",
-        "price": ["15 BYN/ком"],
-        "url": ["https://vk.com/wall-127402793_10066"]
-      },
-      {
-        "time": "2020-10-19T19:15:00+03:00",
-        "name": "FM QUIZ Музыкальная",
-        "price": ["15 BYN/ком"],
-        "url": ["https://vk.com/wall-127402793_10075"]
-      }
     ]
   }
 ]

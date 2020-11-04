@@ -9,18 +9,6 @@
     "chgk": true,
     "url": ["https://www.facebook.com/groups/528679377769191"],
     "games": [
-      {
-        "time": "2020-10-01T20:00:00+03:00",
-        "name": "ОВСЧ 1 этап",
-        "price": ["300 RUB/чел", "500 RUB/2чел", "700 RUB/ком"],
-        "url": ["https://forms.gle/bHNeGPad65u6a59S9"]
-      },
-      {
-        "time": "2020-10-08T20:00:00+03:00",
-        "name": "Синхрон-лайт 37",
-        "price": ["300 RUB/чел", "600 RUB/2чел", "800 RUB/ком"],
-        "url": ["https://forms.gle/H4ZeaawkFz5mQdLF9"]
-      }
     ]
   }
 ]

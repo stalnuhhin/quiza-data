@@ -2,25 +2,32 @@
   {
     "id": "a983715a-2638-4376-931a-1f67f3e3e21a",
     "org": "Наталья Трайдук",
-    "latestCheck": "2020-11-03T12:00:00+03:00",
+    "latestCheck": "2020-11-04T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "traiduk.png",
     "url": ["https://www.facebook.com/profile.php?id=100017788444620"],
     "games": [
       {
-        "time": "2020-10-08T20:00:00+03:00",
-        "name": "Синхрон-lite. Выпуск XXXVII",
-        "chgk": true,
-        "price": ["7 USD/ком"],
-        "url": ["https://www.facebook.com/groups/177491475671670/permalink/3449854468435338"]
-      },
-      {
-        "time": "2020-10-20T20:00:00+03:00",
-        "name": "Лига старта. Эпизод XIХ",
+        "time": "2020-11-04T21:00:00+03:00",
+        "name": "36 оттенков чёрного. Осень",
         "chgk": true,
         "price": ["6 USD/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/364437604749875"]
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/378449443348691"]
+      },
+      {
+        "time": "2020-11-05T21:00:00+03:00",
+        "name": "Лига старта. Эпизод ХХ",
+        "chgk": true,
+        "price": ["6 USD/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/378449443348691"]
+      },
+      {
+        "time": "2020-11-10T21:00:00+03:00",
+        "name": "Пещера игорного тролля",
+        "chgk": true,
+        "price": ["7 USD/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/378449443348691"]
       },
       {
         "time": "2020-11-11T21:00:00+03:00",
@@ -28,6 +35,20 @@
         "chgk": true,
         "price": ["4 USD/ком"],
         "url": ["https://www.facebook.com/groups/229434871583483/permalink/377191450141157"]
+      },
+      {
+        "time": "2020-11-16T21:00:00+03:00",
+        "name": "ПАРАbellum",
+        "chgk": true,
+        "price": ["4 USD/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/378449443348691"]
+      },
+      {
+        "time": "2020-11-19T21:00:00+03:00",
+        "name": "Синхрон-lite. Выпуск 38",
+        "chgk": true,
+        "price": ["7 USD/ком"],
+        "url": ["https://www.facebook.com/groups/229434871583483/permalink/378449443348691"]
       }
     ]
   }

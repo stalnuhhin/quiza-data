@@ -8,18 +8,6 @@
     "image": "inquizitor.png",
     "url": ["https://www.facebook.com/pg/UmniygorodBaku/events/"],
     "games": [
-      {
-        "time": "2020-10-07T20:00:00+04:00",
-        "name": "Детская игра InQUIZitor Online",
-        "price": ["5 AZN/чел"],
-        "url": ["https://www.facebook.com/events/1518188418364538"]
-      },
-      {
-        "time": "2020-10-23T20:00:00+04:00",
-        "name": "InQUIZitor Online v18",
-        "price": ["12 AZN/ком"],
-        "url": ["https://www.facebook.com/events/783311895574398"]
-      }
     ]
   }
 ]

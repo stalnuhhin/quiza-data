@@ -2,23 +2,12 @@
   {
     "id": "96573ec2-f376-41c2-8303-6b3072432f69",
     "org": "BRAINVENTURA",
-    "latestCheck": "2020-11-02T12:00:00+03:00",
+    "latestCheck": "2020-11-04T12:00:00+03:00",
     "type": ["events"],
     "image": "brainventura.png",
     "duration": 3,
     "url": ["http://brainventura.ru", "https://vk.com/brainventura", "https://www.instagram.com/brainventura", "https://www.twitch.tv/brainventura"],
     "games": [
-      {
-        "time": "2020-10-17T19:00:00.000+03:00",
-        "name": "Игра #1",
-        "free": true,
-        "url": [ "https://vk.com/wall-189809700_10" ]
-      },
-      {
-        "time": "2020-10-31T19:00:00.000+03:00",
-        "name": "Игра #2",
-        "free": true
-      }
     ]
   }
 ]

@@ -11,8 +11,6 @@
     "desc": "Игры Максима Поташева: есть разные типы игр.",
     "info": ["Cтрим в Zoom.", "Ответы вбиваются в их личную систему."],
     "games": [
-      {"time": "2020-10-24T21:00:00+03:00", "name": "Genium Sprint Online", "url": ["http://genium-quiz.com/events/sprint-online-20/"]},
-      {"time": "2020-10-31T21:00:00+03:00", "name": "Genium Challenge Online", "url": ["http://genium-quiz.com/events/challenge-online-22/"]},
       {"time": "2020-11-07T21:00:00+03:00", "name": "Genium Sprint Online", "url": ["http://genium-quiz.com/events/sprint-online-21/"]}
     ]
   }

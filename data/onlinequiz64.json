@@ -8,8 +8,6 @@
     "image": "onlinequiz64.png",
     "url": ["https://vk.com/onlinequiz64"],
     "games": [
-      { "time": "2020-10-04T19:30:00Z", "name": "Игра в буквы #8", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/8638" ], "qpid": "8638", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
-      { "time": "2020-10-04T21:30:00Z", "name": "Спорт #12, футбол", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/8639" ], "qpid": "8639", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" }
     ]
   }
 ]

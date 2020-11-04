@@ -8,10 +8,6 @@
     "image": "sherlockquiz.png",
     "url": ["https://vk.com/club156622966", "http://sherlockquiz.com/ru"],
     "games": [
-      {"time": "2020-10-07T18:45:00-07:00", "name": "Черный квиз (Северная Америка)", "free": true, "donate": true, "url":  ["https://sherlockquiz.com/ru/game/view/2477?city_id=31"]},
-      {"time": "2020-10-14T18:45:00-07:00", "name": "Кубок ШерлокоБойни (Северная Америка)", "free": true, "donate": true, "url":  ["https://sherlockquiz.com/ru/game/view/2481?city_id=31"]},
-      {"time": "2020-10-21T18:45:00-07:00", "name": "Кубок ШерлокоБойни (Северная Америка)", "price": ["80 USD/ком"], "url":  ["https://sherlockquiz.com/ru/game/view/2614?city_id=31"]},
-      {"time": "2020-10-28T18:45:00-07:00", "name": "Кубок ШерлокоБойни (Северная Америка)", "price": ["80 USD/ком"], "url":  ["https://sherlockquiz.com/ru/game/view/2638?city_id=31"]}
     ]
   }
 ]
