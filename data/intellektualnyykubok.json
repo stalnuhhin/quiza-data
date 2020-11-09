@@ -2,7 +2,7 @@
   {
     "id": "e493f95d-bd47-4b34-ab63-4e8c1316cfee",
     "org": "Интеллектуальный кубок",
-    "latestCheck": "2020-11-02T12:00:00+03:00",
+    "latestCheck": "2020-11-09T12:00:00+03:00",
     "type": ["events"],
     "image": "intellektualnyykubok.png",
     "duration": 2,
@@ -11,6 +11,21 @@
     "games": [
       {
         "time": "2020-11-06T20:00:00+03:00",
+        "name": "Интеллектуальная онлайн-игра \"Радость от ума\" с Борисом Белозеровым",
+        "url": ["https://intellektualnyy-kubok.timepad.ru/event/1393329/"]
+      },
+      {
+        "time": "2020-11-13T20:00:00+03:00",
+        "name": "Интеллектуальная онлайн-игра \"Радость от ума\" с Борисом Белозеровым",
+        "url": ["https://intellektualnyy-kubok.timepad.ru/event/1393329/"]
+      },
+      {
+        "time": "2020-11-27T20:00:00+03:00",
+        "name": "Интеллектуальная онлайн-игра \"Радость от ума\" с Борисом Белозеровым",
+        "url": ["https://intellektualnyy-kubok.timepad.ru/event/1393329/"]
+      },
+      {
+        "time": "2020-12-04T20:00:00+03:00",
         "name": "Интеллектуальная онлайн-игра \"Радость от ума\" с Борисом Белозеровым",
         "url": ["https://intellektualnyy-kubok.timepad.ru/event/1393329/"]
       }

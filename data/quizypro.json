@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2020-11-04T12:00:00+03:00",
+    "latestCheck": "2020-11-09T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -29,7 +29,18 @@
       { "time": "2020-11-04T18:00:00Z", "name": "Кинокругосветка #2 HARD", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/9157" ], "qpid": "9157", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "cinema_and_music", "org": "Культпросвет" },
       { "time": "2020-11-05T17:00:00Z", "name": "ВЕЛИКОЛЕПНЫЙ КИНОКВИЗ #13", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/9264" ], "qpid": "9264", "qpuid": "4959", "qpuname": "Неподражаемые киноквизы", "cat": "cinema_and_music", "org": "Неподражаемые киноквизы" },
       { "time": "2020-11-07T14:00:00Z", "name": "Quiz-club №48", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9246" ], "qpid": "9246", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
-      { "time": "2020-11-14T08:20:00Z", "name": "Жизнь в гармонии с природой", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9244" ], "qpid": "9244", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "kids", "org": "Эрудит-Премьер" }
+      { "time": "2020-11-09T10:30:00.874Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9380" ], "qpid": "9380", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
+      { "time": "2020-11-09T11:00:00Z", "name": "CINEMANIA (КиноQuiz) Сеанс XXVI Повтор для ДВ", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9334" ], "qpid": "9334", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2020-11-09T14:00:00Z", "name": "8 кинофраншиз от Человека и кошочки", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9350" ], "qpid": "9350", "qpuid": "1621", "qpuname": "Человек и кошочка", "cat": "cinema_and_music", "org": "Человек и кошочка" },
+      { "time": "2020-11-09T15:00:00Z", "name": "BINGO,BRO! Саундтреки (ПОВТОР)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/9297" ], "qpid": "9297", "qpuid": "2119", "qpuname": "The БС", "cat": "cinema_and_music", "org": "The БС" },
+      { "time": "2020-11-09T16:00:00.727Z", "name": "МУЛЬТФИЛЬМЫ #6", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9375" ], "qpid": "9375", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-11-09T16:20:00Z", "name": "8 кинофраншиз от Человека и кошочки", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9351" ], "qpid": "9351", "qpuid": "1621", "qpuname": "Человек и кошочка", "cat": "cinema_and_music", "org": "Человек и кошочка" },
+      { "time": "2020-11-09T17:00:00Z", "name": "HOLLYWOOD: TOP 10", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9332" ], "qpid": "9332", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
+      { "time": "2020-11-10T14:30:00Z", "name": "АЛФАВИТ: МУЗЫКА 2010-ых!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9376" ], "qpid": "9376", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-11-10T14:30:00Z", "name": "ОБЛОЖКИ АЛЬБОМОВ #3", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9378" ], "qpid": "9378", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-11-10T16:00:00Z", "name": "ALPHABET MUSIC QUIZ #51", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9377" ], "qpid": "9377", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-11-14T08:20:00Z", "name": "Жизнь в гармонии с природой", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9244" ], "qpid": "9244", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "kids", "org": "Эрудит-Премьер" },
+      { "time": "2020-11-14T14:00:00Z", "name": "Quiz-club №49", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9357" ], "qpid": "9357", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" }
     ]
   }
 ]

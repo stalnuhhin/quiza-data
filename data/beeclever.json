@@ -2,7 +2,7 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2020-11-03T12:00:00+03:00",
+    "latestCheck": "2020-11-09T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
@@ -21,6 +21,13 @@
         "chgk": true,
         "price": ["9 USD/ком"],
         "url": ["https://www.facebook.com/events/1225015987865623/"]
+      },
+      {
+        "time": "2020-11-10T20:00:00+02:00",
+        "name": "Зима близко. Синхронная лига Bee Clever",
+        "chgk": true,
+        "price": ["12 USD/ком"],
+        "url": ["https://www.facebook.com/events/363955058047811"]
       },
       {
         "time": "2020-11-12T20:00:00+02:00",

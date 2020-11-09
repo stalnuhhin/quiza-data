@@ -2,23 +2,32 @@
   {
     "id": "f13b6e4d-c5b3-449f-bbe5-ef1c0b52efde",
     "org": "Игра В. Пас",
-    "latestCheck": "2020-11-03T12:00:00+03:00",
+    "latestCheck": "2020-11-09T12:00:00+03:00",
     "type": ["events"],
     "image": "igravpass.png",
-    "price": ["100 UAH/чел"],
+    "price": ["4 USD/чел"],
     "url": ["https://www.facebook.com/pg/QuizVPas/events"],
     "templates": {
       "si31": {
         "name": "Футбольная «Своя игра» Игровая неделя №31",
         "duration": 1,
         "url": ["https://www.facebook.com/events/326208738458272"]
+      },
+      "si32": {
+        "name": "Футбольная «Своя игра» Игровая неделя №32",
+        "duration": 1,
+        "url": ["https://www.facebook.com/events/1336692303333903"]
       }
     },
     "games": [
       {"template": "si31", "time": "2020-11-02T22:00:00+02:00"},
       {"template": "si31", "time": "2020-11-03T14:00:00+02:00"},
       {"template": "si31", "time": "2020-11-04T18:30:00+02:00"},
-      {"template": "si31", "time": "2020-11-05T20:30:00+02:00"}
+      {"template": "si31", "time": "2020-11-05T20:30:00+02:00"},
+      {"template": "si32", "time": "2020-11-09T22:00:00+02:00"},
+      {"template": "si32", "time": "2020-11-10T20:30:00+02:00"},
+      {"template": "si32", "time": "2020-11-11T18:30:00+02:00"},
+      {"template": "si32", "time": "2020-11-12T14:00:00+02:00"}
     ]
   }
 ]

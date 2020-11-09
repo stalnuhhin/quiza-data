@@ -1,0 +1,21 @@
+[
+  {
+    "id": "2d438bfd-ce5c-4784-a24b-1deb744aa0af",
+    "org": "Premier Chgk Online",
+    "latestCheck": "2020-11-09T12:00:00+03:00",
+    "type": ["events"],
+    "image": "premierchgkonline.png",
+    "duration": 2.5,
+    "url": ["https://ttttt.me/premierchgk"],
+    "templates": {
+      "800": {"price": ["800 RUB/ком", "12.5 USD/ком"]},
+      "900": {"price": ["900 RUB/ком", "12.5 USD/ком"]}
+    },
+    "games": [
+      { "time": "2020-11-09T21:00:00+03:00", "template": "800", "name": "Асинхрон простых вопросов. Осень"},
+      { "time": "2020-11-10T21:00:00+03:00", "template": "900", "name": "Зима близко"},
+      { "time": "2020-11-11T21:00:00+03:00", "template": "900", "name": "Красно-жёлтые дни"},
+      { "time": "2020-11-12T21:00:00+03:00", "template": "900", "name": "Зима близко"}
+    ]
+  }
+]
