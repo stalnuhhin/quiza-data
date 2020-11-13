@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2020-11-09T12:00:00+03:00",
+    "latestCheck": "2020-11-13T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -37,7 +37,20 @@
       { "time": "2020-11-10T18:00:00Z", "name": "Цепная реакция. ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9339" ], "qpid": "9339", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2020-11-12T10:30:00Z", "name": "Турнир \"Один за всех\"!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2020-11-12T19:00:00Z", "name": "Бестселлер. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9173" ], "qpid": "9173", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2020-11-13T12:00:00Z", "name": "ЭВРИКА! Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9340" ], "qpid": "9340", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
+      { "time": "2020-11-13T12:00:00Z", "name": "ЭВРИКА! Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9340" ], "qpid": "9340", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-11-13T18:00:00Z", "name": "Цепная реакция. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9410" ], "qpid": "9410", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-11-13T20:00:00Z", "name": "Ночной турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/9475" ], "qpid": "9475", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-11-14T14:00:00Z", "name": "Турнир на ВЫБОР", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9474" ], "qpid": "9474", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-11-14T15:30:00Z", "name": "Кино-КВЕСТ. Повтор от 23 сентября", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8530" ], "qpid": "8530", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "cinema_and_music" },
+      { "time": "2020-11-14T17:00:00Z", "name": "БУКВАльно обо всем 2. ", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9189" ], "qpid": "9189", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-11-14T18:30:00Z", "name": "Цепная реакция. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9407" ], "qpid": "9407", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-11-14T20:00:00Z", "name": "Ночной турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/9432" ], "qpid": "9432", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-11-15T15:00:00Z", "name": "Турнир на ВЫБОР", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9472" ], "qpid": "9472", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-11-15T16:30:00Z", "name": "Цепная реакция. 10 логических цепочек!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9403" ], "qpid": "9403", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-11-15T18:00:00Z", "name": "ЭВРИКА! Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9340" ], "qpid": "9340", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-11-15T19:40:00Z", "name": "Ночной турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/9473" ], "qpid": "9473", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-11-16T10:30:00Z", "name": "Турнир \"Один за всех\"!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-11-16T18:00:00Z", "name": "Цепная реакция. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9408" ], "qpid": "9408", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
   }
 ]

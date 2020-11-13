@@ -2,12 +2,14 @@
   {
     "id": "bf5df1c1-bd66-4952-a470-16a093212d61",
     "org": "Online Quiz 64",
-    "latestCheck": "2020-11-09T12:00:00+03:00",
+    "latestCheck": "2020-11-13T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "onlinequiz64.png",
     "url": ["https://vk.com/onlinequiz64"],
     "games": [
+      { "time": "2020-11-22T11:30:00Z", "name": "География #6", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9409" ], "qpid": "9409", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" },
+      { "time": "2020-11-22T14:30:00Z", "name": "География #6", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9411" ], "qpid": "9411", "qpuid": "232", "qpuname": "Online Quiz 64", "cat": "common_knowledge" }
     ]
   }
 ]

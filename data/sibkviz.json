@@ -2,7 +2,7 @@
   {
     "id": "ab4a284a-ea0e-4c31-9935-981d29dbdf68",
     "org": "СибКвиз",
-    "latestCheck": "2020-11-09T12:00:00+03:00",
+    "latestCheck": "2020-11-13T12:00:00+03:00",
     "type": ["events"],
     "image": "sibkviz.png",
     "duration": 2,
@@ -22,7 +22,13 @@
       { "time": "2020-11-13T13:00:00Z", "name": "СибКвиз Зебест#8", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9319" ], "qpid": "9319", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
       { "time": "2020-11-13T16:00:00Z", "name": "СибКвиз Зебест#8", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9320" ], "qpid": "9320", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
       { "time": "2020-11-15T13:00:00Z", "name": "СибКвиз Онлайн#60", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9321" ], "qpid": "9321", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
-      { "time": "2020-11-15T16:00:00Z", "name": "СибКвиз Онлайн#60", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9322" ], "qpid": "9322", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" }
+      { "time": "2020-11-15T16:00:00Z", "name": "СибКвиз Онлайн#60", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9322" ], "qpid": "9322", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2020-11-17T13:00:00Z", "name": "СибКвиз Кино+Книги", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9481" ], "qpid": "9481", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2020-11-17T16:00:00Z", "name": "СибКвиз Кино+Книги", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9482" ], "qpid": "9482", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2020-11-20T13:00:00Z", "name": "СибКвиз ЗеБестОфЗеБест", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9483" ], "qpid": "9483", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2020-11-20T16:00:00Z", "name": "СибКвиз ЗеБестОфЗеБест", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9484" ], "qpid": "9484", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2020-11-22T13:00:00Z", "name": "СибКвиз Онлайн#62", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9485" ], "qpid": "9485", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2020-11-22T16:00:00Z", "name": "СибКвиз Онлайн#62", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9486" ], "qpid": "9486", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" }
     ]
   }
 ]
