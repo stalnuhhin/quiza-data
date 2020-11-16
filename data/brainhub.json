@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-11-09T12:00:00+03:00",
+    "latestCheck": "2020-11-16T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -34,6 +34,19 @@
         "chgk": true,
         "price": ["300 UAH/ком"],
         "url": ["https://www.facebook.com/events/631688864173715"]
+      },
+      {
+        "time": "2020-11-26T20:00:00+02:00",
+        "name": "Online Кинолига. Игра 4",
+        "price": ["50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/443963829918285"]
+      },
+      {
+        "time": "2020-12-31T12:00:00+02:00",
+        "name": "Синхронные турниры №1 и №2",
+        "duration": 4,
+        "chgk": true,
+        "url": ["https://www.facebook.com/events/661271051171006"]
       }
     ]
   }

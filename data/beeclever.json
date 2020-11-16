@@ -2,7 +2,7 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2020-11-09T12:00:00+03:00",
+    "latestCheck": "2020-11-16T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
@@ -35,6 +35,20 @@
         "chgk": true,
         "price": ["11 USD/ком"],
         "url": ["https://www.facebook.com/events/630713437598982/"]
+      },
+      {
+        "time": "2020-11-17T20:00:00+02:00",
+        "name": "Кубок бесконечности: Камень пространства. Синхронная лига Bee Clever",
+        "chgk": true,
+        "price": ["12 USD/ком"],
+        "url": ["https://www.facebook.com/events/1524121854447260/"]
+      },
+      {
+        "time": "2020-11-26T20:00:00+02:00",
+        "name": "Кубок Джерри Мок. Синхронная лига Bee Cleve",
+        "chgk": true,
+        "price": ["12 USD/ком"],
+        "url": ["https://www.facebook.com/events/739300626662350/"]
       }
     ]
   }
