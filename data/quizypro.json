@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2020-11-14T12:00:00+03:00",
+    "latestCheck": "2020-11-16T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -57,8 +57,17 @@
       { "time": "2020-11-15T16:00:00Z", "name": "ВОСХИТИТЕЛЬНЫЙ КИНОКВИЗ #29", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9449" ], "qpid": "9449", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2020-11-15T17:00:00Z", "name": "AMQ SPECIAL: 1960-e #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9450" ], "qpid": "9450", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2020-11-15T18:10:00Z", "name": "СВОЯ ИГРА #3", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/9452" ], "qpid": "9452", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "cinema_and_music", "org": "СВОЯ ИГРА ONLINE" },
+      { "time": "2020-11-16T14:30:00Z", "name": "КИНО И МУЗЫКА #1", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9530" ], "qpid": "9530", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-11-16T16:00:00.568Z", "name": "МУЛЬТФИЛЬМЫ #7", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9548" ], "qpid": "9548", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-11-16T17:00:00Z", "name": "AMQ SPECIAL: 1960-e #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9450" ], "qpid": "9450", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-11-16T17:30:00Z", "name": "Пятница, 13", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9532" ], "qpid": "9532", "qpuid": "3673", "qpuname": "Easy Quizee", "cat": "cinema_and_music", "org": "Easy Quizee" },
+      { "time": "2020-11-16T18:20:00Z", "name": "HOLLYWOOD: TOP 10 #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9550" ], "qpid": "9550", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-11-17T14:00:00Z", "name": "Киноквиз #13 от «Человека и кошочки»", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9551" ], "qpid": "9551", "qpuid": "1621", "qpuname": "Человек и кошочка", "cat": "cinema_and_music", "org": "Человек и кошочка" },
+      { "time": "2020-11-17T16:00:00Z", "name": "ALPHABET MUSIC QUIZ #53", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9549" ], "qpid": "9549", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-11-17T16:20:00Z", "name": "Киноквиз #13 от «Человека и кошочки»", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9552" ], "qpid": "9552", "qpuid": "1621", "qpuname": "Человек и кошочка", "cat": "common_knowledge", "org": "Человек и кошочка" },
       { "time": "2020-11-21T08:00:00Z", "name": "Кубок Лектера. Первая лига, ноябрь", "price": [ "2400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9383" ], "qpid": "9383", "qpuid": "3208", "qpuname": "Braindoclub", "cat": "other", "org": "Braindoclub" },
       { "time": "2020-11-21T08:00:00Z", "name": "Кубок Лектера. Открытая лига, BDA, ноябрь", "price": [ "2400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9387" ], "qpid": "9387", "qpuid": "3208", "qpuname": "Braindoclub", "cat": "other", "org": "Braindoclub" },
+      { "time": "2020-11-21T14:00:00Z", "name": "QUIZ-CLUB №50", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9521" ], "qpid": "9521", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
       { "time": "2020-11-28T08:00:00Z", "name": "Кубок Лектера. Высшая лига, ноябрь", "price": [ "2400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9388" ], "qpid": "9388", "qpuid": "3208", "qpuname": "Braindoclub", "cat": "other", "org": "Braindoclub" }
     ]
   }
