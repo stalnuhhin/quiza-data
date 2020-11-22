@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2020-11-16T12:00:00+03:00",
+    "latestCheck": "2020-11-22T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -55,7 +55,11 @@
       { "time": "2020-11-16T17:00:00Z", "name": "Приятный хруст извилин. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9543" ], "qpid": "9543", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2020-11-16T18:30:00Z", "name": "Цепная реакция. Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9408" ], "qpid": "9408", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2020-11-16T20:00:00Z", "name": "Ночной турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/9473" ], "qpid": "9473", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2020-11-23T10:30:00Z", "name": "Турнир \"Один за всех\"!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
+      { "time": "2020-11-23T10:30:00Z", "name": "Один за всех! Каналья!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-11-24T14:00:00Z", "name": "Цепная реакция. Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9408" ], "qpid": "9408", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-11-24T16:00:00Z", "name": "Логические связи. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9373" ], "qpid": "9373", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-11-24T16:00:00Z", "name": "ЭВРИКА! ", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9402" ], "qpid": "9402", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-12-01T15:00:00Z", "name": "Культурный пласт. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8283" ], "qpid": "8283", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
   }
 ]
