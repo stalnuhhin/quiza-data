@@ -2,7 +2,7 @@
   {
     "id": "5434288a-6ee6-43e9-95a0-d14b065041b4",
     "org": "Большая игра",
-    "latestCheck": "2020-11-16T12:00:00+03:00",
+    "latestCheck": "2020-11-24T12:00:00+03:00",
     "type": ["events"],
     "image": "bolshayaigra.png",
     "chgk": true,
@@ -27,12 +27,18 @@
       {"time": "2020-11-16T20:00:00+03:00", "name": "М-лига Игра 8.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/396"]},
       {"time": "2020-11-17T20:00:00+03:00", "name": "Кубок Бесконечности. 3 этап", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/405"]},
       {"time": "2020-11-18T20:00:00+03:00", "name": "Топ-1000", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/404"]},
-      {"time": "2020-11-22T13:00:00+03:00", "name": "М-лига Игра 8.3", "price": ["600 RUB/ком"], "url": ["https://intgame.ru/chgk#buttons"]},
-      {"time": "2020-11-22T22:00:00+03:00", "name": "М-лига Игра 8.3", "price": ["600 RUB/ком"], "url": ["https://intgame.ru/chgk#buttons"]},
-      {"time": "2020-11-23T20:00:00+03:00", "name": "М-лига Игра 8.3", "price": ["600 RUB/ком"], "url": ["https://intgame.ru/chgk#buttons"]},
-      {"time": "2020-11-29T13:00:00+03:00", "name": "М-лига Игра 8.4", "price": ["600 RUB/ком"], "url": ["https://intgame.ru/chgk#buttons"]},
-      {"time": "2020-11-29T22:00:00+03:00", "name": "М-лига Игра 8.4", "price": ["600 RUB/ком"], "url": ["https://intgame.ru/chgk#buttons"]},
-      {"time": "2020-11-30T20:00:00+03:00", "name": "М-лига Игра 8.4", "price": ["600 RUB/ком"], "url": ["https://intgame.ru/chgk#buttons"]}
+      {"time": "2020-11-21T12:00:00+03:00", "name": "Лига вузов - 2", "price": ["700 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/412"]},
+      {"time": "2020-11-22T13:00:00+03:00", "name": "М-лига Игра 8.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/397"]},
+      {"time": "2020-11-22T15:00:00+03:00", "name": "Кубок Джерри Мок", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/418"]},
+      {"time": "2020-11-22T22:00:00+03:00", "name": "М-лига Игра 8.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/397"]},
+      {"time": "2020-11-23T20:00:00+03:00", "name": "М-лига Игра 8.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/397"]},
+      {"time": "2020-11-24T20:00:00+03:00", "name": "Кубок Джерри Мок", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/418"]},
+      {"time": "2020-11-24T20:00:00+03:00", "name": "Лига вузов - 2", "price": ["700 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/412"]},
+      {"time": "2020-11-29T13:00:00+03:00", "name": "М-лига Игра 8.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/398"]},
+      {"time": "2020-11-29T16:00:00+03:00", "name": "Бесконечные земли - 7", "url": ["https://chgk-world.ru/tournaments/426"]},
+      {"time": "2020-11-29T20:00:00+03:00", "name": "Декабрьский марш", "url": ["https://chgk-world.ru/tournaments/419"]},
+      {"time": "2020-11-29T22:00:00+03:00", "name": "М-лига Игра 8.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/398"]},
+      {"time": "2020-11-30T20:00:00+03:00", "name": "М-лига Игра 8.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/398"]}
     ]
   }
 ]
