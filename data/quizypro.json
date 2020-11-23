@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2020-11-22T12:00:00+03:00",
+    "latestCheck": "2020-11-23T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -74,9 +74,20 @@
       { "time": "2020-11-22T16:00:00Z", "name": "ВОСХИТИТЕЛЬНЫЙ КИНОКВИЗ #30", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9606" ], "qpid": "9606", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2020-11-22T16:00:00.828Z", "name": "Угадай трек по словам | Премьера", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9687" ], "qpid": "9687", "qpuid": "3474", "qpuname": "Антуан Квиз, ман?", "cat": "cinema_and_music", "org": "Антуан Квиз, ман?" },
       { "time": "2020-11-22T17:00:00Z", "name": "HOLLYWOOD: TOP 10 #3", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9608" ], "qpid": "9608", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-11-23T09:00:00Z", "name": "Угадай трек по словам | Премьера", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9704" ], "qpid": "9704", "qpuid": "3474", "qpuname": "Антуан Квиз, ман?", "cat": "cinema_and_music", "org": "Антуан Квиз, ман?" },
+      { "time": "2020-11-23T10:00:00.869Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9711" ], "qpid": "9711", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
+      { "time": "2020-11-23T12:00:00.36Z", "name": "Музыкальные картинки", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9712" ], "qpid": "9712", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
       { "time": "2020-11-23T14:00:00Z", "name": "QUIZ-CLUB - КИНО И МУЗЫКА №51.1", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9630" ], "qpid": "9630", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "cinema_and_music", "org": "QUIZ-CLUB" },
       { "time": "2020-11-23T15:00:00Z", "name": "BINGO, BRO! Киновселенная Марвел (ПОВТОР)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/9655" ], "qpid": "9655", "qpuid": "2119", "qpuname": "The БС", "cat": "cinema_and_music", "org": "The БС" },
+      { "time": "2020-11-23T16:00:00.025Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9709" ], "qpid": "9709", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
+      { "time": "2020-11-23T16:00:00.141Z", "name": "СЕРИАЛЫ #10", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9702" ], "qpid": "9702", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2020-11-23T16:30:00Z", "name": "QUIZ-CLUB КИНО И МУЗЫКА. №51.2", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9632" ], "qpid": "9632", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "cinema_and_music", "org": "QUIZ-CLUB" },
+      { "time": "2020-11-23T18:00:00Z", "name": "ЧТО-ТО В ПЕСНЯХ #1", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9708" ], "qpid": "9708", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
+      { "time": "2020-11-23T18:00:00.637Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9710" ], "qpid": "9710", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
+      { "time": "2020-11-24T12:00:00Z", "name": "КИНО И МУЗЫКА #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9705" ], "qpid": "9705", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-11-24T14:00:00Z", "name": "Киноквиз №14 от «Человека и кошочки»", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9697" ], "qpid": "9697", "qpuid": "1621", "qpuname": "Человек и кошочка", "cat": "cinema_and_music", "org": "Человек и кошочка" },
+      { "time": "2020-11-24T14:30:00Z", "name": "СОВЕТСКОЕ КИНО #3", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9706" ], "qpid": "9706", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-11-24T16:00:00Z", "name": "ALPHABET MUSIC QUIZ #55", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9703" ], "qpid": "9703", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2020-11-28T08:00:00Z", "name": "Кубок Лектера. Высшая лига, ноябрь", "price": [ "2400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9388" ], "qpid": "9388", "qpuid": "3208", "qpuname": "Braindoclub", "cat": "other", "org": "Braindoclub" }
     ]
   }
