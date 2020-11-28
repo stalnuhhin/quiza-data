@@ -2,7 +2,7 @@
   {
     "id": "f88f473d-922e-4a86-a0b0-693a5d754a61",
     "org": "TLTQUIZ",
-    "latestCheck": "2020-11-23T12:00:00+03:00",
+    "latestCheck": "2020-11-28T12:00:00+03:00",
     "type": ["events"],
     "image": "tltquiz.png",
     "duration": 1,
@@ -17,7 +17,9 @@
       { "time": "2020-11-13T18:00:00Z", "name": "TLTQUIZ Online #50 - ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9381" ], "qpid": "9381", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
       { "time": "2020-11-16T16:00:00Z", "name": "#51 TLTQUIZ online", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9542" ], "qpid": "9542", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
       { "time": "2020-11-16T17:00:00Z", "name": "#58 ТаБуретКа online", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9546" ], "qpid": "9546", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
-      { "time": "2020-11-16T18:00:00Z", "name": "#52 TLTQUIZ online", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9547" ], "qpid": "9547", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" }
+      { "time": "2020-11-16T18:00:00Z", "name": "#52 TLTQUIZ online", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9547" ], "qpid": "9547", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
+      { "time": "2020-11-28T18:00:00.318Z", "name": "ПРЕМЬЕРА! ТаБуретКа online #62", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9816" ], "qpid": "9816", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
+      { "time": "2020-11-28T19:00:00.23Z", "name": "TLTQUIZ online #55 - ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9817" ], "qpid": "9817", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" }
     ]
   }
 ]
