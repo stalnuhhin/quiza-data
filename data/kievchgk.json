@@ -2,7 +2,7 @@
   {
     "id": "1482b61a-0e8c-4f7b-b99e-79ac41502c68",
     "org": "ЧГК в Киеве",
-    "latestCheck": "2020-11-23T12:00:00+03:00",
+    "latestCheck": "2020-12-01T12:00:00+03:00",
     "type": ["events"],
     "image": "kievchgk.png",
     "duration": 2,
@@ -20,6 +20,12 @@
         "name": "Онлайн ЧГК. s03e04 от #kievchgk",
         "price": ["360 UAH/ком"],
         "url": ["https://www.facebook.com/events/797008794192250"]
+      },
+      {
+        "time": "2020-12-06T19:00:00+02:00",
+        "name": "ЧГК по кино «127 минут»",
+        "price": ["300 UAH/ком"],
+        "url": ["https://www.facebook.com/events/772493273331678"]
       }
     ]
   }

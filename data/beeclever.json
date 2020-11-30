@@ -2,7 +2,7 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2020-11-24T12:00:00+03:00",
+    "latestCheck": "2020-12-01T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
@@ -45,10 +45,24 @@
       },
       {
         "time": "2020-11-26T20:00:00+02:00",
-        "name": "Кубок Джерри Мок. Синхронная лига Bee Cleve",
+        "name": "Кубок Джерри Мок. Синхронная лига Bee Clever",
         "chgk": true,
         "price": ["12 USD/ком"],
         "url": ["https://www.facebook.com/events/739300626662350/"]
+      },
+      {
+        "time": "2020-12-01T20:00:00+02:00",
+        "name": "Адыходзячая восень",
+        "chgk": true,
+        "price": ["12 USD/ком"],
+        "url": ["https://www.facebook.com/events/1182873468797909/"]
+      },
+      {
+        "time": "2020-12-03T20:00:00+02:00",
+        "name": "Ноготочки. Синхронная лига Bee Clever",
+        "chgk": true,
+        "price": ["10 USD/ком"],
+        "url": ["https://www.facebook.com/events/4042399885773670/"]
       }
     ]
   }
