@@ -118,6 +118,7 @@
       { "time": "2020-12-03T10:30:00Z", "name": "Easy Quzee \"Своя игра\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9849" ], "qpid": "9849", "qpuid": "3673", "qpuname": "Easy Quizee", "cat": "common_knowledge", "org": "Easy Quizee" },
       { "time": "2020-12-03T14:00:00Z", "name": "Quiz-club №53", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9823" ], "qpid": "9823", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
       { "time": "2020-12-03T16:30:00Z", "name": "Quiz-club №53.1", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9833" ], "qpid": "9833", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
+      { "time": "2020-12-05T12:00:00Z", "name": "CLASSIC HOLLYWOOD ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9850" ], "qpid": "9850", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2020-12-05T14:00:00Z", "name": "Alt+F4 Quiz #1", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/9744" ], "qpid": "9744", "qpuid": "7027", "qpuname": "Alt+F4 Quiz", "cat": "common_knowledge", "org": "Alt+F4 Quiz" },
       { "time": "2020-12-05T14:00:00Z", "name": "Quiz-club №54", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9838" ], "qpid": "9838", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" }
     ]
