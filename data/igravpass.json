@@ -2,50 +2,24 @@
   {
     "id": "f13b6e4d-c5b3-449f-bbe5-ef1c0b52efde",
     "org": "Игра В. Пас",
-    "latestCheck": "2020-12-01T12:00:00+03:00",
+    "latestCheck": "2020-12-06T12:00:00+03:00",
     "type": ["events"],
     "image": "igravpass.png",
     "price": ["4 USD/чел"],
     "url": ["https://www.facebook.com/pg/QuizVPas/events"],
     "templates": {
-      "si31": {
-        "name": "Футбольная «Своя игра» Игровая неделя №31",
+      "si35": {
+        "name": "Футбольная «Своя игра» Игровая неделя №35",
         "duration": 1,
-        "url": ["https://www.facebook.com/events/326208738458272"]
-      },
-      "si32": {
-        "name": "Футбольная «Своя игра» Игровая неделя №32",
-        "duration": 1,
-        "url": ["https://www.facebook.com/events/1336692303333903"]
-      },
-      "si33": {
-        "name": "Футбольная «Своя игра» Игровая неделя №33",
-        "duration": 1,
-        "url": ["https://www.facebook.com/events/375700673638673"]
-      },
-      "si34": {
-        "name": "Футбольная «Своя игра» Игровая неделя №34",
-        "duration": 1,
-        "url": ["https://www.facebook.com/events/896135771211158"]
+        "url": ["https://www.facebook.com/events/202626251345011"]
       }
     },
     "games": [
-      {"template": "si31", "time": "2020-11-02T22:00:00+02:00"},
-      {"template": "si31", "time": "2020-11-03T14:00:00+02:00"},
-      {"template": "si31", "time": "2020-11-04T18:30:00+02:00"},
-      {"template": "si31", "time": "2020-11-05T20:30:00+02:00"},
-      {"template": "si32", "time": "2020-11-09T22:00:00+02:00"},
-      {"template": "si32", "time": "2020-11-10T20:30:00+02:00"},
-      {"template": "si32", "time": "2020-11-11T18:30:00+02:00"},
-      {"template": "si32", "time": "2020-11-12T14:00:00+02:00"},
-      {"template": "si33", "time": "2020-11-16T22:00:00+02:00"},
-      {"template": "si33", "time": "2020-11-17T19:00:00+02:00"},
-      {"template": "si33", "time": "2020-11-18T14:00:00+02:00"},
-      {"template": "si33", "time": "2020-11-19T20:30:00+02:00"},
-      {"template": "si34", "time": "2020-11-23T22:00:00+02:00"},
-      {"template": "si34", "time": "2020-11-24T19:00:00+02:00"},
-      {"template": "si34", "time": "2020-11-25T20:30:00+02:00"},
-      {"template": "si34", "time": "2020-11-26T14:00:00+02:00"}
+      {"template": "si35", "time": "2020-12-07T22:00:00+02:00"},
+      {"template": "si35", "time": "2020-12-08T19:00:00+02:00"},
+      {"template": "si35", "time": "2020-12-09T23:00:00+02:00"},
+      {"template": "si35", "time": "2020-12-10T14:00:00+02:00"},
+      {"template": "si35", "time": "2020-12-11T20:30:00+02:00"}
     ]
   }
 ]

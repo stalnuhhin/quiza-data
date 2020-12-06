@@ -1,8 +1,9 @@
 [
   {
     "id": "185c70d6-759d-4e11-8198-b59b929f67e5",
+    "noOnline": true,
     "org": "FM QUIZ",
-    "latestCheck": "2020-12-01T12:00:00+03:00",
+    "latestCheck": "2020-12-06T12:00:00+03:00",
     "type": ["events"],
     "image": "fmquiz.png",
     "duration": 2,

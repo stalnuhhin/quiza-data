@@ -2,17 +2,23 @@
   {
     "id": "9b59f86c-307f-41c2-a672-a7dedd5da824",
     "org": "Sherlock Quiz",
-    "latestCheck": "2020-11-09T12:00:00+03:00",
+    "latestCheck": "2020-12-06T12:00:00+03:00",
     "type": ["events"],
     "duration": 2.5,
     "image": "sherlockquiz.png",
     "url": ["https://vk.com/club156622966", "http://sherlockquiz.com/ru"],
     "games": [
       {
-        "time": "2020-11-11T01:45:00.000Z",
+        "time": "2020-12-09T01:45:00.000Z",
         "name": "Кубок ШерлокоБойни (Северная Америка)",
         "price": ["80 USD/ком"],
-        "url": ["https://sherlockquiz.com/ru/game/view/2648?city_id=31"]
+        "url": ["https://sherlockquiz.com/ru/game/view/2689?city_id=31"]
+      },
+      {
+        "time": "2020-12-09T19:00:00+03:00",
+        "name": "Бесконтактный Шерлок (Минск)",
+        "price": ["28 BYN/ком"],
+        "url": ["https://sherlockquiz.com/ru/game/view/2690?city_id=9"]
       }
     ]
   }

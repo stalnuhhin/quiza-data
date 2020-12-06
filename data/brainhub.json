@@ -2,52 +2,12 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-11-24T12:00:00+03:00",
+    "latestCheck": "2020-12-06T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
     "url": ["https://www.facebook.com/pg/BrainHubKiev/events/", "https://www.facebook.com/pg/brainhubkharkiv/events/", "https://www.twitch.tv/brainhubua"],
     "games": [
-      {
-        "time": "2020-11-05T20:00:00+02:00",
-        "name": "Online Кинолига. Игра 3",
-        "price": ["50 UAH/чел"],
-        "url": ["https://www.facebook.com/events/438769623785515"]
-      },
-      {
-        "time": "2020-11-09T20:00:00+02:00",
-        "name": "«Что? Где? Когда?» от BrainHub",
-        "chgk": true,
-        "price": ["60 UAH/чел"],
-        "url": ["https://www.facebook.com/events/2401896053453115"]
-      },
-      {
-        "time": "2020-11-12T20:00:00+02:00",
-        "name": "Кино ЧГК",
-        "chgk": true,
-        "price": ["300 UAH/ком"],
-        "url": ["https://www.facebook.com/events/409015193423009"]
-      },
-      {
-        "time": "2020-11-23T20:00:00+02:00",
-        "name": "Осенний кубок BrainHub по «Что? Где? Когда?». Игра 3",
-        "chgk": true,
-        "price": ["300 UAH/ком"],
-        "url": ["https://www.facebook.com/events/631688864173715"]
-      },
-      {
-        "time": "2020-11-26T20:00:00+02:00",
-        "name": "Online Кинолига. Игра 4",
-        "price": ["50 UAH/чел"],
-        "url": ["https://www.facebook.com/events/443963829918285"]
-      },
-      {
-        "time": "2020-11-30T20:00:00+02:00",
-        "name": "«Что? Где? Когда?» от BrainHub",
-        "chgk": true,
-        "price": ["60 UAH/чел"],
-        "url": ["https://www.facebook.com/events/281741376570310"]
-      },
       {
         "time": "2020-12-03T20:00:00+02:00",
         "name": "Чёрное «Что? Где? Когда?»",
@@ -61,6 +21,27 @@
         "chgk": true,
         "price": ["300 UAH/ком"],
         "url": ["https://www.facebook.com/events/845273472680534/"]
+      },
+      {
+        "time": "2020-12-14T20:00:00+02:00",
+        "name": "Осенний кубок BrainHub по «Что? Где? Когда?». Игра 4",
+        "chgk": true,
+        "price": ["300 UAH/ком"],
+        "url": ["https://www.facebook.com/events/198664355145466/"]
+      },
+      {
+        "time": "2020-12-17T20:00:00+02:00",
+        "name": "Online Кинолига. Игра 5",
+        "chgk": true,
+        "price": ["50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/223319135807699/"]
+      },
+      {
+        "time": "2020-12-21T20:00:00+02:00",
+        "name": "«Что? Где? Когда?» от BrainHub",
+        "chgk": true,
+        "price": ["60 UAH/чел"],
+        "url": ["https://www.facebook.com/events/1374372916228203/"]
       },
       {
         "time": "2020-12-31T12:00:00+02:00",

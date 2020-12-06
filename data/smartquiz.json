@@ -1,10 +1,9 @@
 [
   {
     "id": "5076cd2a-6129-4770-b165-dc32e65ccc94",
-    "noOnline": true,
     "org": "Smart-Quiz",
     "name": "Smart-Quiz",
-    "latestCheck": "2020-10-23T12:00:00+03:00",
+    "latestCheck": "2020-12-06T12:00:00+03:00",
     "type": ["events"],
     "hasContent": true,
     "image": "smartquiz.png",
@@ -19,6 +18,7 @@
     "info": ["Трансляция на YouTube-канале."],
     "payment": ["Игры бесплатные, но клуб будет благодарен за поддержку: Приват24: 5168745603142578."],
     "games": [
+      {"time": "2020-12-10T19:00:00+02:00", "name": "Smart-quiz online"}
     ]
   }
 ]

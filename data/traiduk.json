@@ -2,53 +2,39 @@
   {
     "id": "a983715a-2638-4376-931a-1f67f3e3e21a",
     "org": "Наталья Трайдук",
-    "latestCheck": "2020-11-24T12:00:00+03:00",
+    "latestCheck": "2020-12-06T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "traiduk.png",
     "url": ["https://www.facebook.com/profile.php?id=100017788444620"],
     "games": [
       {
-        "time": "2020-11-04T21:00:00+03:00",
-        "name": "36 оттенков чёрного. Осень",
+        "time": "2020-12-01T21:00:00+03:00",
+        "name": "Дорога ярости (индивидуальный)",
         "chgk": true,
-        "price": ["6 USD/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/378449443348691"]
+        "price": ["3.5 USD/ком"],
+        "url": ["https://www.facebook.com/permalink.php?story_fbid=744904899445785&id=100017788444620"]
       },
       {
-        "time": "2020-11-05T21:00:00+03:00",
-        "name": "Лига старта. Эпизод ХХ",
-        "chgk": true,
-        "price": ["6 USD/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/378449443348691"]
-      },
-      {
-        "time": "2020-11-10T21:00:00+03:00",
-        "name": "Пещера игорного тролля",
-        "chgk": true,
-        "price": ["7 USD/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/378449443348691"]
-      },
-      {
-        "time": "2020-11-11T21:00:00+03:00",
-        "name": "Тet-а-tet 2",
-        "chgk": true,
-        "price": ["4 USD/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/377191450141157"]
-      },
-      {
-        "time": "2020-11-16T21:00:00+03:00",
-        "name": "Топ-1000",
+        "time": "2020-12-02T21:00:00+03:00",
+        "name": "Адыходзячая Восень",
         "chgk": true,
         "price": ["8 USD/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/387355122458123"]
+        "url": ["https://www.facebook.com/permalink.php?story_fbid=744904899445785&id=100017788444620"]
       },
       {
-        "time": "2020-11-19T21:00:00+03:00",
-        "name": "Синхрон-lite. Выпуск 38",
+        "time": "2020-12-07T21:00:00+03:00",
+        "name": "Дорога ярости (индивидуальный)",
         "chgk": true,
-        "price": ["7 USD/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/378449443348691"]
+        "price": ["3.5 USD/ком"],
+        "url": ["https://www.facebook.com/permalink.php?story_fbid=744904899445785&id=100017788444620"]
+      },
+      {
+        "time": "2020-12-09T21:00:00+03:00",
+        "name": "Хайфайв",
+        "chgk": true,
+        "price": ["6 USD/ком"],
+        "url": ["https://www.facebook.com/permalink.php?story_fbid=744904899445785&id=100017788444620"]
       }
     ]
   }

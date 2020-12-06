@@ -1,9 +1,8 @@
 [
   {
     "id": "23f70919-ee24-4541-8325-66c0570743d2",
-    "noOnline": true,
     "org": "Умка",
-    "latestCheck": "2020-09-20T12:00:00+03:00",
+    "latestCheck": "2020-12-06T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "umkaquiz.png",

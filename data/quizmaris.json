@@ -2,19 +2,12 @@
   {
     "id": "9eb0228f-fc4d-4e11-a294-87455f004ad9",
     "org": "Quiz Maris",
-    "latestCheck": "2020-12-01T12:00:00+03:00",
+    "latestCheck": "2020-12-06T12:00:00+03:00",
     "type": ["events"],
     "image": "quizmaris.png",
     "duration": 1,
     "url": ["https://vk.com/quizmaris", "https://quizmaris.ru"],
     "games": [
-      { "time": "2020-11-04T10:00:00Z", "name": "Квиз Марис [НОВЫЙ ПАКЕТ]", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9272" ], "qpid": "9272", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
-      { "time": "2020-11-04T11:00:00Z", "name": "Квиз Марис [ГАРРИ ПОТТЕР # 7]", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9271" ], "qpid": "9271", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" },
-      { "time": "2020-11-04T12:00:00Z", "name": "Квиз Марис НОВЫЙ ПАКЕТ [КИНОКВИЗ]", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9270" ], "qpid": "9270", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" },
-      { "time": "2020-11-05T14:00:00Z", "name": "Квиз Марис [ВЫБИРАЙ]", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9243" ], "qpid": "9243", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
-      { "time": "2020-11-13T17:30:00.338Z", "name": "Квиз Марис [УГАДАЙ МЕЛОДИЮ]", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9503" ], "qpid": "9503", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" },
-      { "time": "2020-11-13T18:30:00.939Z", "name": "Квиз Марис [МНОГО ЛОГИКИ]", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9502" ], "qpid": "9502", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" },
-      { "time": "2020-11-13T19:30:00Z", "name": "Квиз Марис [КИНОКВИЗ]", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9453" ], "qpid": "9453", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "cinema_and_music" }
     ]
   }
 ]

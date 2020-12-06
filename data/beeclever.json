@@ -2,54 +2,12 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2020-12-01T12:00:00+03:00",
+    "latestCheck": "2020-12-06T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
     "url": ["https://www.facebook.com/pg/BEEEECLEVER/events"],
     "games": [
-      {
-        "time": "2020-11-03T20:00:00+02:00",
-        "name": "Кубок Хэллоуина",
-        "chgk": true,
-        "price": ["12 USD/ком"],
-        "url": ["https://www.facebook.com/events/735623773696897/"]
-      },
-      {
-        "time": "2020-11-05T21:00:00+02:00",
-        "name": "Кубок F***DP",
-        "chgk": true,
-        "price": ["9 USD/ком"],
-        "url": ["https://www.facebook.com/events/1225015987865623/"]
-      },
-      {
-        "time": "2020-11-10T20:00:00+02:00",
-        "name": "Зима близко. Синхронная лига Bee Clever",
-        "chgk": true,
-        "price": ["12 USD/ком"],
-        "url": ["https://www.facebook.com/events/363955058047811"]
-      },
-      {
-        "time": "2020-11-12T20:00:00+02:00",
-        "name": "Кубок Фидиппида: Вторая половина дистанции",
-        "chgk": true,
-        "price": ["11 USD/ком"],
-        "url": ["https://www.facebook.com/events/630713437598982/"]
-      },
-      {
-        "time": "2020-11-17T20:00:00+02:00",
-        "name": "Кубок бесконечности: Камень пространства. Синхронная лига Bee Clever",
-        "chgk": true,
-        "price": ["12 USD/ком"],
-        "url": ["https://www.facebook.com/events/1524121854447260/"]
-      },
-      {
-        "time": "2020-11-26T20:00:00+02:00",
-        "name": "Кубок Джерри Мок. Синхронная лига Bee Clever",
-        "chgk": true,
-        "price": ["12 USD/ком"],
-        "url": ["https://www.facebook.com/events/739300626662350/"]
-      },
       {
         "time": "2020-12-01T20:00:00+02:00",
         "name": "Адыходзячая восень",
