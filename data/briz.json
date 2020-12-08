@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2020-12-06T12:00:00+03:00",
+    "latestCheck": "2020-12-08T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -15,9 +15,13 @@
       { "time": "2020-12-07T11:00:00Z", "name": "Перпетуум сапиенс. ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9856" ], "qpid": "9856", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2020-12-07T16:00:00Z", "name": "Перпетуум сапиенс. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9857" ], "qpid": "9857", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2020-12-07T20:00:00Z", "name": "Ночной турнир на ВЫБОР!", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/9912" ], "qpid": "9912", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2020-12-08T10:30:00Z", "name": "Один за всех! Каналья!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2020-12-08T14:30:00Z", "name": "Иностранные странности", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9927" ], "qpid": "9927", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2020-12-10T16:00:00Z", "name": "V.I.P. - очень интересные персоны", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9342" ], "qpid": "9342", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
+      { "time": "2020-12-08T18:30:00Z", "name": "Перпетуум сапиенс. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9970" ], "qpid": "9970", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-12-08T20:00:00Z", "name": "Ночной турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/9973" ], "qpid": "9973", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-12-09T10:30:00Z", "name": "Перпетуум сапиенс. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9971" ], "qpid": "9971", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-12-09T14:30:00Z", "name": "Иностранные странности", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9927" ], "qpid": "9927", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-12-09T16:00:00Z", "name": "Занимательный глобус", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9972" ], "qpid": "9972", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-12-10T16:00:00Z", "name": "V.I.P. - очень интересные персоны", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9342" ], "qpid": "9342", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-12-11T15:00:00Z", "name": "Один за всех! Каналья!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
   }
 ]

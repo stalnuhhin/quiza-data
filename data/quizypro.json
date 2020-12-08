@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2020-12-06T12:00:00+03:00",
+    "latestCheck": "2020-12-08T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -26,8 +26,18 @@
       { "time": "2020-12-06T16:00:00Z", "name": "ВОСХИТИТЕЛЬНЫЙ КИНОКВИЗ #32", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9901" ], "qpid": "9901", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2020-12-06T17:30:00Z", "name": "СВОЯ ИГРА #20", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/9887" ], "qpid": "9887", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "common_knowledge", "org": "СВОЯ ИГРА ONLINE" },
       { "time": "2020-12-06T18:40:00Z", "name": "HOLLYWOOD: TOP 10 #5", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9903" ], "qpid": "9903", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
+      { "time": "2020-12-08T10:00:00Z", "name": "КИНО И МУЗЫКА #4", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9968" ], "qpid": "9968", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-12-08T16:00:00Z", "name": "ALPHABET MUSIC QUIZ #59", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9967" ], "qpid": "9967", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-12-08T17:30:00Z", "name": "КЛАССИКА ГОЛЛИВУДА", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9969" ], "qpid": "9969", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
+      { "time": "2020-12-08T18:30:00Z", "name": "HOLLYWOOD: TOP 10 #5", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9903" ], "qpid": "9903", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-12-09T12:00:00Z", "name": "КиноРебус #2", "price": [ "360 RUB/ком" ], "url": [ "https://quizy.pro/streams/9983" ], "qpid": "9983", "qpuid": "2752", "qpuname": "Число смерти", "cat": "cinema_and_music", "org": "Число смерти" },
+      { "time": "2020-12-09T17:00:00Z", "name": "КиноРебус #2", "price": [ "360 RUB/ком" ], "url": [ "https://quizy.pro/streams/9984" ], "qpid": "9984", "qpuid": "2752", "qpuname": "Число смерти", "cat": "cinema_and_music", "org": "Число смерти" },
+      { "time": "2020-12-10T17:10:00Z", "name": "ВОСХИТИТЕЛЬНЫЙ КИНОКВИЗ #32 (Новая игра!)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9901" ], "qpid": "9901", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2020-12-12T08:00:00Z", "name": "II Чемпионат игры \"Эрудит-Премьер\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9870" ], "qpid": "9870", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "kids", "org": "Эрудит-Премьер" },
+      { "time": "2020-12-12T12:00:00Z", "name": "СЕРИАЛЫ #11", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9985" ], "qpid": "9985", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2020-12-12T14:00:00Z", "name": "QUIZ-CLUB №55", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9955" ], "qpid": "9955", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
+      { "time": "2020-12-13T09:00:00Z", "name": "Против Лому нет приема #3. Квиз про регби", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/9979" ], "qpid": "9979", "qpuid": "3869", "qpuname": "Против Лому нет приема", "cat": "sports", "org": "Против Лому нет приема" },
+      { "time": "2020-12-13T13:00:00Z", "name": "Против Лому нет приема #3. Квиз про регби. Повтор.", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/9980" ], "qpid": "9980", "qpuid": "3869", "qpuname": "Против Лому нет приема", "cat": "sports", "org": "Против Лому нет приема" },
       { "time": "2021-01-16T08:20:00Z", "name": "«Антарктида. 200-летие открытия»", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9860" ], "qpid": "9860", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "kids", "org": "Эрудит-Премьер" }
     ]
   }

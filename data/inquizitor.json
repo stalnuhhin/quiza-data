@@ -2,7 +2,7 @@
   {
     "id": "d7a51b52-2a98-4298-9f67-ab0db6c1729f",
     "org": "inQUIZitor: умный город- Баку",
-    "latestCheck": "2020-12-06T12:00:00+03:00",
+    "latestCheck": "2020-12-08T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "inquizitor.png",
@@ -12,6 +12,11 @@
         "time": "2020-12-02T18:30:00+02:00",
         "name": "Детская игра InQUIZitor Online",
         "url": ["https://www.facebook.com/events/206001757596392"]
+      },
+      {
+        "time": "2020-12-09T18:30:00+02:00",
+        "name": "Детская игра InQUIZitor Online",
+        "url": ["https://www.facebook.com/events/522585112034125"]
       }
     ]
   }
