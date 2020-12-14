@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2020-12-08T12:00:00+03:00",
+    "latestCheck": "2020-12-14T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -38,6 +38,16 @@
       { "time": "2020-12-12T14:00:00Z", "name": "QUIZ-CLUB №55", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/9955" ], "qpid": "9955", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
       { "time": "2020-12-13T09:00:00Z", "name": "Против Лому нет приема #3. Квиз про регби", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/9979" ], "qpid": "9979", "qpuid": "3869", "qpuname": "Против Лому нет приема", "cat": "sports", "org": "Против Лому нет приема" },
       { "time": "2020-12-13T13:00:00Z", "name": "Против Лому нет приема #3. Квиз про регби. Повтор.", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/9980" ], "qpid": "9980", "qpuid": "3869", "qpuname": "Против Лому нет приема", "cat": "sports", "org": "Против Лому нет приема" },
+      { "time": "2020-12-14T15:00:00Z", "name": "ЧТО-ТО В ПЕСНЯХ #3", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10033" ], "qpid": "10033", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-12-14T16:10:00.466Z", "name": "АЗБУКА КИНО", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10088" ], "qpid": "10088", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-12-14T17:00:00Z", "name": "КИНОКВИЗ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10081" ], "qpid": "10081", "qpuid": "4700", "qpuname": "Мы пойдем ко дну с этим кораблем ", "cat": "cinema_and_music", "org": "Мы пойдем ко дну с этим кораблем " },
+      { "time": "2020-12-14T17:30:00Z", "name": "HOLLYWOOD: TOP 10", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10091" ], "qpid": "10091", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-12-14T18:00:00Z", "name": "Easy Quizee \"Своя игра #2\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10077" ], "qpid": "10077", "qpuid": "3673", "qpuname": "Easy Quizee", "cat": "common_knowledge", "org": "Easy Quizee" },
+      { "time": "2020-12-15T10:00:00Z", "name": "СВОЯ ИГРА #11 (повтор для ДВ)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10092" ], "qpid": "10092", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "chgk", "org": "СВОЯ ИГРА ONLINE" },
+      { "time": "2020-12-15T11:00:00Z", "name": "СОВЕТСКОЕ КИНО #6", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10090" ], "qpid": "10090", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-12-15T16:00:00Z", "name": "ALPHABET MUSIC QUIZ #61", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10089" ], "qpid": "10089", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-12-16T18:00:00Z", "name": "CINEMANIA (КиноQUIZ) Сеанс XXVIII PREMIERE!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10082" ], "qpid": "10082", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2020-12-20T17:00:00Z", "name": "Знатоки НБА. Баскетбольный квиз №7. Новый сезон!", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/10050" ], "qpid": "10050", "qpuid": "6035", "qpuname": "NBA FROM THE SOURCE", "cat": "sports", "org": "NBA FROM THE SOURCE" },
       { "time": "2021-01-16T08:20:00Z", "name": "«Антарктида. 200-летие открытия»", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9860" ], "qpid": "9860", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "kids", "org": "Эрудит-Премьер" }
     ]
   }

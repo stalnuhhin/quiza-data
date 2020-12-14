@@ -2,24 +2,34 @@
   {
     "id": "f13b6e4d-c5b3-449f-bbe5-ef1c0b52efde",
     "org": "Игра В. Пас",
-    "latestCheck": "2020-12-06T12:00:00+03:00",
+    "latestCheck": "2020-12-14T12:00:00+03:00",
     "type": ["events"],
     "image": "igravpass.png",
     "price": ["4 USD/чел"],
     "url": ["https://www.facebook.com/pg/QuizVPas/events"],
     "templates": {
-      "si35": {
-        "name": "Футбольная «Своя игра» Игровая неделя №35",
+      "si36": {
+        "name": "Футбольная «Своя игра» Игровая неделя №36",
         "duration": 1,
         "url": ["https://www.facebook.com/events/202626251345011"]
+      },
+      "si37": {
+        "name": "Футбольная «Своя игра» Игровая неделя №37",
+        "duration": 1,
+        "url": ["https://www.facebook.com/events/2748637512132767"]
       }
     },
     "games": [
-      {"template": "si35", "time": "2020-12-07T22:00:00+02:00"},
-      {"template": "si35", "time": "2020-12-08T19:00:00+02:00"},
-      {"template": "si35", "time": "2020-12-09T23:00:00+02:00"},
-      {"template": "si35", "time": "2020-12-10T14:00:00+02:00"},
-      {"template": "si35", "time": "2020-12-11T20:30:00+02:00"}
+      {"template": "si36", "time": "2020-12-07T22:00:00+02:00"},
+      {"template": "si36", "time": "2020-12-08T19:00:00+02:00"},
+      {"template": "si36", "time": "2020-12-09T23:00:00+02:00"},
+      {"template": "si36", "time": "2020-12-10T14:00:00+02:00"},
+      {"template": "si36", "time": "2020-12-11T20:30:00+02:00"},
+      {"template": "si37", "time": "2020-12-14T22:00:00+02:00"},
+      {"template": "si37", "time": "2020-12-15T19:00:00+02:00"},
+      {"template": "si37", "time": "2020-12-16T14:00:00+02:00"},
+      {"template": "si37", "time": "2020-12-17T23:00:00+02:00"},
+      {"template": "si37", "time": "2020-12-18T20:30:00+02:00"}
     ]
   }
 ]
