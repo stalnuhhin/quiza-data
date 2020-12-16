@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2020-12-15T12:00:00+03:00",
+    "latestCheck": "2020-12-16T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -46,8 +46,14 @@
       { "time": "2020-12-15T10:00:00Z", "name": "СВОЯ ИГРА #11 (повтор для ДВ)", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10092" ], "qpid": "10092", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "chgk", "org": "СВОЯ ИГРА ONLINE" },
       { "time": "2020-12-15T11:00:00Z", "name": "СОВЕТСКОЕ КИНО #6", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10090" ], "qpid": "10090", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2020-12-15T16:00:00Z", "name": "ALPHABET MUSIC QUIZ #61", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10089" ], "qpid": "10089", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-12-16T11:00:00Z", "name": "АЗБУКА КИНО ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10111" ], "qpid": "10111", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-12-16T16:00:00Z", "name": "РОК-МУЗЫКА #14", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10108" ], "qpid": "10108", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-12-16T17:30:00Z", "name": "СВОЯ ИГРА #21", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10110" ], "qpid": "10110", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "chgk", "org": "СВОЯ ИГРА ONLINE" },
       { "time": "2020-12-16T18:00:00Z", "name": "CINEMANIA (КиноQUIZ) Сеанс XXVIII PREMIERE!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10082" ], "qpid": "10082", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2020-12-17T11:00:00Z", "name": "CINEMANIA (КиноQUIZ) Сеанс XXVIII (Повтор для ДВ)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10112" ], "qpid": "10112", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2020-12-19T08:00:00Z", "name": "Кубок Клауса. Первая / Открытая лига, декабрь", "price": [ "2400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10103" ], "qpid": "10103", "qpuid": "3208", "qpuname": "Braindoclub", "cat": "other", "org": "Braindoclub" },
       { "time": "2020-12-20T17:00:00Z", "name": "Знатоки НБА. Баскетбольный квиз №7. Новый сезон!", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/10050" ], "qpid": "10050", "qpuid": "6035", "qpuname": "NBA FROM THE SOURCE", "cat": "sports", "org": "NBA FROM THE SOURCE" },
+      { "time": "2020-12-26T08:00:00Z", "name": "Кубок Клауса. Высшая лига, декабрь", "price": [ "2400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10104" ], "qpid": "10104", "qpuid": "3208", "qpuname": "Braindoclub", "cat": "common_knowledge", "org": "Braindoclub" },
       { "time": "2021-01-16T08:20:00Z", "name": "«Антарктида. 200-летие открытия»", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9860" ], "qpid": "9860", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "kids", "org": "Эрудит-Премьер" }
     ]
   }

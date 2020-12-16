@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2020-12-15T12:00:00+03:00",
+    "latestCheck": "2020-12-16T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -25,7 +25,7 @@
       { "time": "2020-12-15T16:00:00Z", "name": "V.I.P. - очень интересные персоны", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9342" ], "qpid": "9342", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2020-12-15T18:00:00Z", "name": "Перпетуум сапиенс", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10095" ], "qpid": "10095", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2020-12-17T15:00:00Z", "name": "Один за всех! Каналья!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2020-12-21T16:30:00Z", "name": "Головоломка. Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9612" ], "qpid": "9612", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
+      { "time": "2020-12-21T16:30:00Z", "name": "Головоломка. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9612" ], "qpid": "9612", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
   }
 ]

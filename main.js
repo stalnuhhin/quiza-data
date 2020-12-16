@@ -1,4 +1,4 @@
-const DATA_VERSION = 283;
+const DATA_VERSION = 284;
 const DATAFILES = [
     "3x12trivianights.json",
     "artobstrel.json",
@@ -71,6 +71,7 @@ const DATAFILES = [
     "onlinequiz64.json",
     "otvquiz.json",
     "panopticumzhitomir.json",
+    "pohjaookull.json",
     "potterquiz.json",
     "premierchgkonline.json",
     "pubquiz.json",
