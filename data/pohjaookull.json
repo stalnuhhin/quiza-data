@@ -6,14 +6,14 @@
     "type": ["events"],
     "image": "pohjaookull.png",
     "duration": 2,
-    "price": ["10 EUR/ком"],
-    "chgk": true,
     "url": ["https://www.facebook.com/groups/PohjaOokull"],
     "desc": "Таллинский клуб Что? Где? Когда?",
     "games": [
       {
         "time": "2020-12-17T19:00:00+02:00",
         "name": "Лига старта. Эпизод XXI",
+        "chgk": true,
+        "price": ["10 EUR/ком", "4 EUR/чел"],
         "url": ["https://www.facebook.com/groups/PohjaOokull/permalink/407551660682279"]
       }
     ]
