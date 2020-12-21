@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2020-12-20T12:00:00+03:00",
+    "latestCheck": "2020-12-21T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -78,7 +78,9 @@
       { "time": "2020-12-20T17:00:00Z", "name": "Знатоки НБА. Баскетбольный квиз №7. Новый сезон!", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/10050" ], "qpid": "10050", "qpuid": "6035", "qpuname": "NBA FROM THE SOURCE", "cat": "sports", "org": "NBA FROM THE SOURCE" },
       { "time": "2020-12-20T17:30:00Z", "name": "HOLLYWOOD: TOP 10", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10140" ], "qpid": "10140", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2020-12-20T17:50:00Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/10218" ], "qpid": "10218", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
+      { "time": "2020-12-21T11:00:00Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/10233" ], "qpid": "10233", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
       { "time": "2020-12-21T14:30:00Z", "name": "ЧТО-ТО В ПЕСНЯХ #4", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10137" ], "qpid": "10137", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2020-12-21T16:00:00.757Z", "name": "АЗБУКА КИНО #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10236" ], "qpid": "10236", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2020-12-21T18:00:00Z", "name": "CINEMANIA (КиноQUIZ) Сеанс XXVIII Повтор от 16.12.", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10214" ], "qpid": "10214", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
       { "time": "2020-12-25T14:30:00Z", "name": "РОЖДЕСТВО С QUIZ-CLUB (#57)", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/10215" ], "qpid": "10215", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
       { "time": "2020-12-26T06:30:00Z", "name": "ПРАЗДНИЧНЫЙ КАЛЕЙДОСКОП", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10158" ], "qpid": "10158", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "other", "org": "Эрудит-Премьер" },

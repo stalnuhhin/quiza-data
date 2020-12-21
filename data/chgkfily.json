@@ -2,14 +2,15 @@
   {
     "id": "73519809-ffb6-4fc3-9528-7c9d58998342",
     "org": "ЧГК Филы",
-    "latestCheck": "2020-12-20T12:00:00+03:00",
+    "latestCheck": "2020-12-21T12:00:00+03:00",
     "type": ["events"],
     "chgk": true,
     "duration": 2.5,
     "image": "chgkfily.png",
     "url": ["https://www.facebook.com/pg/4gk.phil/events"],
     "games": [
-      {"time": "2020-12-11T02:00:00+02:00", "name": "Декабрьский Синхрон", "url": ["https://www.facebook.com/events/159536875873007"]}
+      {"time": "2020-12-11T02:00:00+02:00", "name": "Декабрьский Синхрон", "url": ["https://www.facebook.com/events/159536875873007"]},
+      {"time": "2020-12-30T02:00:00+02:00", "name": "Синхрон-lite. Лига старта. Эпизод XXI", "url": ["https://www.facebook.com/events/1662307107289428"]}
     ]
   }
 ]
