@@ -2,7 +2,7 @@
   {
     "id": "9b59f86c-307f-41c2-a672-a7dedd5da824",
     "org": "Sherlock Quiz",
-    "latestCheck": "2020-12-14T12:00:00+03:00",
+    "latestCheck": "2020-12-22T12:00:00+03:00",
     "type": ["events"],
     "duration": 2.5,
     "image": "sherlockquiz.png",
@@ -31,6 +31,24 @@
         "name": "Кубок ШерлокоБойни (Северная Америка)",
         "price": ["80 USD/ком"],
         "url": ["https://sherlockquiz.com/ru/game/view/2705?city_id=31"]
+      },
+      {
+        "time": "2020-12-23T19:00:00+03:00",
+        "name": "Скрипка Шерлока 13 online (Минск)",
+        "price": ["28 BYN/ком"],
+        "url": ["https://sherlockquiz.com/ru/game/view/2639?city_id=9"]
+      },
+      {
+        "time": "2020-12-23T01:45:00.000Z",
+        "name": "Кубок ШерлокоБойни (Северная Америка)",
+        "price": ["80 USD/ком"],
+        "url": ["https://sherlockquiz.com/ru/game/view/2709?city_id=31"]
+      },
+      {
+        "time": "2020-12-30T01:45:00.000Z",
+        "name": "Кубок ШерлокоБойни (Северная Америка)",
+        "price": ["80 USD/ком"],
+        "url": ["https://sherlockquiz.com/ru/game/view/2720?city_id=31"]
       }
     ]
   }
