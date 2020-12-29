@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2020-12-25T12:00:00+03:00",
+    "latestCheck": "2020-12-30T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -33,7 +33,18 @@
       { "time": "2020-12-26T17:00:00Z", "name": "НАША Праздничая ИГРА", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10304" ], "qpid": "10304", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2020-12-27T16:00:00Z", "name": "НАША Праздничая ИГРА", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10305" ], "qpid": "10305", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2020-12-29T13:00:00Z", "name": "Один за всех! Каналья!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-01-04T16:30:00Z", "name": "Головоломка. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9612" ], "qpid": "9612", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
+      { "time": "2020-12-29T18:00:00Z", "name": "Турнир НА ВЫБОР", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10398" ], "qpid": "10398", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-12-30T10:00:00Z", "name": "НАША Праздничая ИГРА", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10379" ], "qpid": "10379", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-12-30T19:00:00Z", "name": "НАША Праздничая ИГРА", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10380" ], "qpid": "10380", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-12-31T14:00:00Z", "name": "Занимательный глобус", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/10276" ], "qpid": "10276", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2020-12-31T17:00:00Z", "name": "Турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/9973" ], "qpid": "9973", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-01T13:00:00Z", "name": "НАША Праздничая ИГРА", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10381" ], "qpid": "10381", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-01T18:00:00Z", "name": "НАША ИГРА: ТУР ПО МИРУ. ПРЕМЬЕРА!!!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10384" ], "qpid": "10384", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-01T20:30:00Z", "name": "Турнир на ВЫБОР!", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/9912" ], "qpid": "9912", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-02T12:00:00Z", "name": "НАША ИГРА: ТУР ПО МИРУ. Премьера для ДВ!!!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10394" ], "qpid": "10394", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-04T16:30:00Z", "name": "Головоломка. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9612" ], "qpid": "9612", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-05T17:00:00Z", "name": "Перпетуум сапиенс!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/10238" ], "qpid": "10238", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-12T18:00:00Z", "name": "Один за всех! Каналья!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
   }
 ]

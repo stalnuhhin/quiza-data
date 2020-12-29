@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2020-12-25T12:00:00+03:00",
+    "latestCheck": "2020-12-30T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -105,6 +105,10 @@
       { "time": "2020-12-26T19:40:00Z", "name": "ALPHABET MUSIC QUIZ #63", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10303" ], "qpid": "10303", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2020-12-27T16:00:00Z", "name": "ВОСХИТИТЕЛЬНЫЙ КИНОКВИЗ #35", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10300" ], "qpid": "10300", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2020-12-27T17:30:00Z", "name": "СВОЯ ИГРА #1", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10302" ], "qpid": "10302", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "common_knowledge", "org": "СВОЯ ИГРА ONLINE" },
+      { "time": "2020-12-29T14:50:00.088Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/10401" ], "qpid": "10401", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
+      { "time": "2020-12-30T16:00:00Z", "name": "НОВОГОДНИЙ КВИЗ!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10390" ], "qpid": "10390", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
+      { "time": "2020-12-30T17:30:00Z", "name": "СВОЯ ИГРА #23", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10402" ], "qpid": "10402", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "common_knowledge", "org": "СВОЯ ИГРА ONLINE" },
+      { "time": "2020-12-30T18:40:00Z", "name": "НОВОГОДНИЙ КВИЗ!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10391" ], "qpid": "10391", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "other", "org": "Искусство ухода" },
       { "time": "2021-01-16T08:20:00Z", "name": "«Антарктида. 200-летие открытия»", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9860" ], "qpid": "9860", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "kids", "org": "Эрудит-Премьер" }
     ]
   }
