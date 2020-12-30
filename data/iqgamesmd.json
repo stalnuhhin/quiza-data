@@ -2,7 +2,7 @@
   {
     "id": "e2904f9a-7c1a-4ba2-993d-eaeeaea78fae",
     "org": "iQ",
-    "latestCheck": "2020-12-25T12:00:00+03:00",
+    "latestCheck": "2020-12-30T12:00:00+03:00",
     "type": ["events"],
     "image": "iqgamesmd.png",
     "duration": 5,
@@ -33,6 +33,11 @@
         "time": "2020-12-24T19:00:00+02:00",
         "name": "Виртуальный квест «В поисках Деда Мороза»",
         "url": ["https://www.facebook.com/events/670049140541513"]
+      },
+      {
+        "time": "2020-12-30T19:00:00+02:00",
+        "name": "«Логика» по-домашнему. Пятая онлайн-игра зимы",
+        "url": ["https://www.facebook.com/events/145181153853987"]
       }
     ]
   }

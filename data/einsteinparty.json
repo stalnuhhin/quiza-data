@@ -1,15 +1,22 @@
 [
   {
     "id": "125c4564-361c-43dc-8c52-b6c92dfc58dc",
-    "noOnline": true,
     "org": "Эйнштейн Party",
-    "latestCheck": "2020-10-18T12:00:00+03:00",
+    "latestCheck": "2020-12-30T12:00:00+03:00",
     "type": ["events"],
     "image": "einsteinparty.png",
     "duration": 2,
     "price": ["1000 RUB/ком"],
-    "url": ["https://www.albertparty.ru/schedule", "https://www.instagram.com/einsteinparty"],
+    "url": ["https://online.albertparty.ru/#schedule", "https://www.instagram.com/einsteinparty"],
     "games": [
+      {"time": "2020-12-31T20:00:00+03:00", "name": "СССР НОВОГОДНИЙ"},
+      {"time": "2021-01-01T01:00:00+03:00", "name": "ONLINE 18+ 3_2"},
+      {"time": "2021-01-01T19:00:00+03:00", "name": "ONLINE 85"},
+      {"time": "2021-01-02T19:00:00+03:00", "name": "ONLINE#3. ЗАГАДОЧНЫЙ КОРПОРАТИВ"},
+      {"time": "2021-01-03T19:00:00+03:00", "name": "ONLINE 245"},
+      {"time": "2021-01-06T18:00:00+03:00", "name": "КАРАОКЕ №1"},
+      {"time": "2021-01-08T18:00:00+03:00", "name": "ONLINE 245_2"},
+      {"time": "2021-01-09T18:00:00+03:00", "name": "ONLINE 86"}
     ]
   }
 ]

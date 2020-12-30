@@ -2,7 +2,7 @@
   {
     "id": "5434288a-6ee6-43e9-95a0-d14b065041b4",
     "org": "Большая игра",
-    "latestCheck": "2020-12-22T12:00:00+03:00",
+    "latestCheck": "2020-12-30T12:00:00+03:00",
     "type": ["events"],
     "image": "bolshayaigra.png",
     "chgk": true,
@@ -51,9 +51,21 @@
       {"time": "2020-12-27T20:00:00+03:00", "name": "Олимпийский кубок Беларуси", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/518"]},
       {"time": "2020-12-27T22:00:00+03:00", "name": "М-Лига 9.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/478"]},
       {"time": "2020-12-28T20:00:00+03:00", "name": "М-Лига 9.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/478"]},
-      {"time": "2020-12-30T20:00:00+03:00", "name": "Бесконечные земли - 8. Assemble!", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/514"]},
+      {"time": "2020-12-29T20:00:00+03:00", "name": "Бесконечные земли - 8. Assemble!", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/514"]},
       {"time": "2020-12-30T20:00:00+03:00", "name": "Delivery Cup. Декабрь", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/495"]},
-      {"time": "2020-01-03T13:00:00+03:00", "name": "Взгляд отца", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/517"]}
+      {"time": "2021-01-03T13:00:00+03:00", "name": "Взгляд отца", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/517"]},
+      {"time": "2021-01-03T15:00:00+03:00", "name": "Кубок Оливье", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/525"]},
+      {"time": "2021-01-03T22:00:00+03:00", "name": "Кубок Оливье", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/525"]},
+      {"time": "2021-01-04T20:00:00+03:00", "name": "Кубок Оливье", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/525"]},
+      {"time": "2021-01-05T13:00:00+03:00", "name": "Кинолига от В. Островского и А. Бойко", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/483"]},
+      {"time": "2021-01-05T20:00:00+03:00", "name": "ЧГК по сериалам от В. Островского", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/526"]},
+      {"time": "2021-01-06T13:00:00+03:00", "name": "ЧГК по сериалам от В. Островского", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/526"]},
+      {"time": "2021-01-07T20:00:00+03:00", "name": "Кинолига от В. Островского и А. Бойко", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/483"]},
+      {"time": "2021-01-08T15:00:00+03:00", "name": "Громокипящий кубок - 2020", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/527"]},
+      {"time": "2021-01-10T20:00:00+03:00", "name": "Громокипящий кубок - 2020", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/527"]},
+      {"time": "2021-01-10T13:00:00+03:00", "name": "М-Лига 10.1", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/524"]},
+      {"time": "2021-01-10T22:00:00+03:00", "name": "М-Лига 10.1", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/524"]},
+      {"time": "2021-01-11T20:00:00+03:00", "name": "М-Лига 10.1", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/524"]}
     ]
   }
 ]
