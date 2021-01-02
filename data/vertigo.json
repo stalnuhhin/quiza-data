@@ -2,14 +2,13 @@
   {
     "id": "c3b6e2fe-54fa-410c-a208-975fe848678c",
     "org": "ВертиGO",
-    "latestCheck": "2020-12-30T12:00:00+03:00",
+    "latestCheck": "2021-01-03T12:00:00+03:00",
     "type": ["events"],
     "image": "vertigo.png",
     "duration": 1.5,
     "url": ["https://vk.com/vertigoquiz"],
     "games": [
-      { "time": "2020-12-06T14:30:00Z", "name": "ВертиGO Футбол!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9854" ], "qpid": "9854", "qpuid": "2783", "qpuname": "ВертиGO", "cat": "sports" },
-      { "time": "2020-12-10T19:00:00+03:00", "name": "ВертиGO ONLINE", "price": ["500 RUB/ком"], "url": ["https://vk.com/app5708398_-144404394"] }
+      { "time": "2021-01-07T18:00:00+03:00", "name": "ВертиGO ONLINE", "price": ["500 RUB/ком"], "url": ["https://vk.com/wall-144404394_18281"] }
     ]
   }
 ]

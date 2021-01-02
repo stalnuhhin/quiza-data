@@ -2,81 +2,25 @@
   {
     "id": "a983715a-2638-4376-931a-1f67f3e3e21a",
     "org": "Наталья Трайдук",
-    "latestCheck": "2020-12-30T12:00:00+03:00",
+    "latestCheck": "2021-01-03T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "traiduk.png",
     "url": ["https://www.facebook.com/profile.php?id=100017788444620"],
     "games": [
       {
-        "time": "2020-12-01T21:00:00+03:00",
-        "name": "Дорога ярости (индивидуальный)",
-        "chgk": true,
-        "price": ["3.5 USD/ком"],
-        "url": ["https://www.facebook.com/permalink.php?story_fbid=744904899445785&id=100017788444620"]
-      },
-      {
-        "time": "2020-12-02T21:00:00+03:00",
-        "name": "Адыходзячая Восень",
-        "chgk": true,
-        "price": ["8 USD/ком"],
-        "url": ["https://www.facebook.com/permalink.php?story_fbid=744904899445785&id=100017788444620"]
-      },
-      {
-        "time": "2020-12-07T21:00:00+03:00",
-        "name": "Дорога ярости (индивидуальный)",
-        "chgk": true,
-        "price": ["3.5 USD/ком"],
-        "url": ["https://www.facebook.com/permalink.php?story_fbid=744904899445785&id=100017788444620"]
-      },
-      {
-        "time": "2020-12-09T21:00:00+03:00",
-        "name": "Хайфайв",
-        "chgk": true,
-        "price": ["6 USD/ком"],
-        "url": ["https://www.facebook.com/permalink.php?story_fbid=744904899445785&id=100017788444620"]
-      },
-      {
-        "time": "2020-12-10T21:00:00+03:00",
-        "name": "Синхрон-lite. Выпуск XXXIX",
-        "chgk": true,
-        "price": ["7 USD/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/402203457639956"]
-      },
-      {
-        "time": "2020-12-14T21:00:00+03:00",
-        "name": "ПАРАbellum",
+        "time": "2021-01-09T15:00:00+03:00",
+        "name": "Добро пожаловать в Тигроленд!",
         "chgk": true,
         "price": ["4 USD/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/402203457639956"]
+        "url": ["https://www.facebook.com/permalink.php?story_fbid=762774040992204&id=100017788444620"]
       },
       {
-        "time": "2020-12-17T21:00:00+03:00",
-        "name": "Хайфайв",
+        "time": "2021-01-13T21:00:00+03:00",
+        "name": "Добро пожаловать в Тигроленд!",
         "chgk": true,
-        "price": ["6 USD/ком"],
-        "url": ["https://www.facebook.com/permalink.php?story_fbid=753556281913980&id=100017788444620"]
-      },
-      {
-        "time": "2020-12-19T15:00:00+03:00",
-        "name": "Дорога ярости",
-        "chgk": true,
-        "price": ["3.5 USD/ком"],
-        "url": ["https://www.facebook.com/permalink.php?story_fbid=753556281913980&id=100017788444620"]
-      },
-      {
-        "time": "2020-12-22T21:00:00+03:00",
-        "name": "ЧГК по сериалам",
-        "chgk": true,
-        "price": ["7 USD/ком"],
-        "url": ["https://www.facebook.com/permalink.php?story_fbid=753556281913980&id=100017788444620"]
-      },
-      {
-        "time": "2020-12-23T21:00:00+03:00",
-        "name": "Лига старта. Эпизод XXI",
-        "chgk": true,
-        "price": ["7 USD/ком"],
-        "url": ["https://www.facebook.com/permalink.php?story_fbid=753556281913980&id=100017788444620"]
+        "price": ["4 USD/ком"],
+        "url": ["https://www.facebook.com/permalink.php?story_fbid=762774040992204&id=100017788444620"]
       }
     ]
   }

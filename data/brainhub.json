@@ -2,60 +2,18 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2020-12-30T12:00:00+03:00",
+    "latestCheck": "2021-01-03T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
     "url": ["https://www.facebook.com/pg/BrainHubKiev/events/", "https://www.facebook.com/pg/brainhubkharkiv/events/", "https://www.twitch.tv/brainhubua"],
     "games": [
       {
-        "time": "2020-12-03T20:00:00+02:00",
-        "name": "Чёрное «Что? Где? Когда?»",
-        "chgk": true,
-        "price": ["300 UAH/ком"],
-        "url": ["https://www.facebook.com/events/210084533930527/"]
-      },
-      {
-        "time": "2020-12-10T20:00:00+02:00",
-        "name": "Кино ЧГК",
-        "chgk": true,
-        "price": ["300 UAH/ком"],
-        "url": ["https://www.facebook.com/events/845273472680534/"]
-      },
-      {
-        "time": "2020-12-14T20:00:00+02:00",
-        "name": "Осенний кубок BrainHub по «Что? Где? Когда?». Игра 4",
-        "chgk": true,
-        "price": ["300 UAH/ком"],
-        "url": ["https://www.facebook.com/events/198664355145466/"]
-      },
-      {
-        "time": "2020-12-17T20:00:00+02:00",
-        "name": "Online Кинолига. Игра 5",
-        "chgk": true,
-        "price": ["50 UAH/чел"],
-        "url": ["https://www.facebook.com/events/223319135807699/"]
-      },
-      {
-        "time": "2020-12-21T20:00:00+02:00",
-        "name": "«Что? Где? Когда?» от BrainHub",
+        "time": "2021-01-04T20:00:00+02:00",
+        "name": "Не новогоднее ЧГК от БХ-2: Новые вопросы о главном",
         "chgk": true,
         "price": ["60 UAH/чел"],
-        "url": ["https://www.facebook.com/events/1374372916228203/"]
-      },
-      {
-        "time": "2020-12-23T20:00:00+02:00",
-        "name": "«Что? Где? Когда?» по сериалам",
-        "chgk": true,
-        "price": ["300 UAH/ком"],
-        "url": ["https://www.facebook.com/events/914322392706062/"]
-      },
-      {
-        "time": "2020-12-28T20:00:00+02:00",
-        "name": "Не новогоднее ЧГК от BrainHub",
-        "chgk": true,
-        "price": ["60 UAH/чел"],
-        "url": ["https://www.facebook.com/events/466090724786591"]
+        "url": ["https://www.facebook.com/events/136252764968516"]
       },
       {
         "time": "2021-01-14T20:00:00+02:00",
@@ -70,6 +28,12 @@
         "chgk": true,
         "price": ["300 UAH/ком"],
         "url": ["https://www.facebook.com/events/409324620273623"]
+      },
+      {
+        "time": "2021-01-21T20:00:00+02:00",
+        "name": "1-й этап 2-го сезона Online Кинолиги",
+        "price": ["50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/441842353504353"]
       }
     ]
   }

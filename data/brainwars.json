@@ -3,14 +3,14 @@
     "id": "fd583069-80d4-4dee-88f7-2761d68626c5",
     "org": "Brain Wars",
     "name": "Brain Wars",
-    "latestCheck": "2020-12-30T12:00:00+03:00",
+    "latestCheck": "2021-01-03T12:00:00+03:00",
     "type": ["events"],
     "image": "brainwars.png",
     "duration": 2,
-    "price": ["450 RUB/ком"],
+    "price": ["400 RUB/чел"],
     "url": ["https://vk.com/quizdez"],
     "games": [
-      {"time": "2020-12-11T19:30:00+03:00", "name": "PAIN WARS", "url": ["https://vk.com/wall-152157756_9998"]}
+      {"time": "2021-01-08T15:00:00+03:00", "name": "BrainWars", "url": ["https://vk.com/wall-152157756_10043"]}
     ]
   }
 ]

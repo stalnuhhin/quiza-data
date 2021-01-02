@@ -9,48 +9,6 @@
     "url": ["https://vk.com/club156622966", "http://sherlockquiz.com/ru"],
     "games": [
       {
-        "time": "2020-12-09T01:45:00.000Z",
-        "name": "Кубок ШерлокоБойни (Северная Америка)",
-        "price": ["80 USD/ком"],
-        "url": ["https://sherlockquiz.com/ru/game/view/2689?city_id=31"]
-      },
-      {
-        "time": "2020-12-09T19:00:00+03:00",
-        "name": "Бесконтактный Шерлок (Минск)",
-        "price": ["28 BYN/ком"],
-        "url": ["https://sherlockquiz.com/ru/game/view/2690?city_id=9"]
-      },
-      {
-        "time": "2020-12-16T19:00:00+03:00",
-        "name": "Бесконтактный Шерлок (Минск)",
-        "price": ["28 BYN/ком"],
-        "url": ["https://sherlockquiz.com/ru/game/view/2694?city_id=9"]
-      },
-      {
-        "time": "2020-12-16T01:45:00.000Z",
-        "name": "Кубок ШерлокоБойни (Северная Америка)",
-        "price": ["80 USD/ком"],
-        "url": ["https://sherlockquiz.com/ru/game/view/2705?city_id=31"]
-      },
-      {
-        "time": "2020-12-23T19:00:00+03:00",
-        "name": "Скрипка Шерлока 13 online (Минск)",
-        "price": ["28 BYN/ком"],
-        "url": ["https://sherlockquiz.com/ru/game/view/2639?city_id=9"]
-      },
-      {
-        "time": "2020-12-23T01:45:00.000Z",
-        "name": "Кубок ШерлокоБойни (Северная Америка)",
-        "price": ["80 USD/ком"],
-        "url": ["https://sherlockquiz.com/ru/game/view/2709?city_id=31"]
-      },
-      {
-        "time": "2020-12-30T01:45:00.000Z",
-        "name": "Кубок ШерлокоБойни (Северная Америка)",
-        "price": ["80 USD/ком"],
-        "url": ["https://sherlockquiz.com/ru/game/view/2720?city_id=31"]
-      },
-      {
         "time": "2021-01-06T19:00:00+03:00",
         "name": "Тайна Дома Шерлока (Минск)",
         "price": ["28 BYN/ком"],

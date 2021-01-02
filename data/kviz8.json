@@ -3,15 +3,13 @@
     "id": "9d96803c-51ee-4b7e-816c-5098bce34efc",
     "org": "Квиз №8",
     "name": "Онлайн Квиз №8",
-    "latestCheck": "2020-12-30T12:00:00+03:00",
+    "latestCheck": "2021-01-03T12:00:00+03:00",
     "type": ["events"],
     "price": ["400 UAH/ком"],
     "image": "kviz8.png",
     "duration": 1,
     "url": ["https://www.facebook.com/pg/QuizN8/events/"],
     "games": [
-      {"time": "2020-12-03T20:00:00+02:00", "name": "Седьмой тур Второго сезона (3.12.2020)", "price": ["400 UAH/ком"], "url": ["https://www.facebook.com/events/1495339087323545"]},
-      {"time": "2020-12-17T20:00:00+02:00", "name": "Квиз N8 Восьмая Игра Сезона (17.12.2020)", "price": ["400 UAH/ком"], "url": ["https://www.facebook.com/events/395036015279666"]}
     ]
   }
 ]

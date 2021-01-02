@@ -2,7 +2,7 @@
   {
     "id": "779e76a6-ac03-42a8-b363-9e95be3e9188",
     "org": "Põhja Öökull",
-    "latestCheck": "2020-12-30T12:00:00+03:00",
+    "latestCheck": "2021-01-03T12:00:00+03:00",
     "type": ["events"],
     "image": "pohjaookull.png",
     "duration": 2,
@@ -10,11 +10,18 @@
     "desc": "Таллинский клуб Что? Где? Когда?",
     "games": [
       {
-        "time": "2020-12-17T19:00:00+02:00",
-        "name": "Лига старта. Эпизод XXI",
+        "time": "2021-01-03T13:00:00+02:00",
+        "name": "Quantum",
         "chgk": true,
-        "price": ["10 EUR/ком", "4 EUR/чел"],
-        "url": ["https://www.facebook.com/groups/PohjaOokull/permalink/407551660682279"]
+        "price": ["10 EUR/ком"],
+        "url": ["https://www.facebook.com/groups/PohjaOokull/permalink/420271569410288/"]
+      },
+      {
+        "time": "2021-01-03T16:00:00+02:00",
+        "name": "Синхрон северных стран",
+        "chgk": true,
+        "price": ["10 EUR/ком"],
+        "url": ["https://www.facebook.com/groups/PohjaOokull/permalink/420271569410288/"]
       }
     ]
   }

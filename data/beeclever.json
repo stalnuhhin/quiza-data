@@ -2,54 +2,12 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2020-12-30T12:00:00+03:00",
+    "latestCheck": "2021-01-03T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
     "url": ["https://www.facebook.com/pg/BEEEECLEVER/events"],
     "games": [
-      {
-        "time": "2020-12-01T20:00:00+02:00",
-        "name": "Адыходзячая восень",
-        "chgk": true,
-        "price": ["12 USD/ком"],
-        "url": ["https://www.facebook.com/events/1182873468797909/"]
-      },
-      {
-        "time": "2020-12-03T20:00:00+02:00",
-        "name": "Ноготочки. Синхронная лига Bee Clever",
-        "chgk": true,
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/events/4042399885773670/"]
-      },
-      {
-        "time": "2020-12-15T20:00:00+02:00",
-        "name": "Тебе поверят",
-        "chgk": true,
-        "price": ["15 USD/ком"],
-        "url": ["https://www.facebook.com/events/1267503353607129/"]
-      },
-      {
-        "time": "2020-12-17T20:00:00+02:00",
-        "name": "Кубок бесконечности: Камень времени. Синхронная лига Bee Clever",
-        "chgk": true,
-        "price": ["13 USD/ком"],
-        "url": ["https://www.facebook.com/events/1114585722312013/"]
-      },
-      {
-        "time": "2020-12-22T20:00:00+02:00",
-        "name": "Кубок МГУ. Синхронная лига Bee Clever",
-        "chgk": true,
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/events/815838762592735/"]
-      },
-      {
-        "time": "2020-12-28T20:00:00+02:00",
-        "name": "Взгляд отца. Синхронная лига Bee Clever",
-        "chgk": true,
-        "price": ["12 USD/ком"],
-        "url": ["https://www.facebook.com/events/1176341809429438/"]
-      }
     ]
   }
 ]

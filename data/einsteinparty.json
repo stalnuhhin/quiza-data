@@ -2,14 +2,13 @@
   {
     "id": "125c4564-361c-43dc-8c52-b6c92dfc58dc",
     "org": "Эйнштейн Party",
-    "latestCheck": "2020-12-30T12:00:00+03:00",
+    "latestCheck": "2021-01-03T12:00:00+03:00",
     "type": ["events"],
     "image": "einsteinparty.png",
     "duration": 2,
     "price": ["1000 RUB/ком"],
     "url": ["https://online.albertparty.ru/#schedule", "https://www.instagram.com/einsteinparty"],
     "games": [
-      {"time": "2020-12-31T20:00:00+03:00", "name": "СССР НОВОГОДНИЙ"},
       {"time": "2021-01-01T01:00:00+03:00", "name": "ONLINE 18+ 3_2"},
       {"time": "2021-01-01T19:00:00+03:00", "name": "ONLINE 85"},
       {"time": "2021-01-02T19:00:00+03:00", "name": "ONLINE#3. ЗАГАДОЧНЫЙ КОРПОРАТИВ"},

@@ -8,41 +8,6 @@
     "chgk": true,
     "duration": 2,
     "games": [
-      {
-        "time": "2020-12-17T20:00:00+03:00",
-        "name": "Лёгкий Смоленск-9",
-        "chgk": true,
-        "price": ["500 RUB/ком", "300 RUB/1-2чел"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/407942667066035/"]
-      },
-      {
-        "time": "2020-12-19T16:00:00+03:00",
-        "name": "Лёгкий Смоленск-9",
-        "chgk": true,
-        "price": ["500 RUB/ком", "300 RUB/1-2чел"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/407942667066035/"]
-      },
-      {
-        "time": "2020-12-20T19:15:00+03:00",
-        "name": "Хайфайв",
-        "chgk": true,
-        "price": ["600 RUB/ком"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/407942667066035/"]
-      },
-      {
-        "time": "2020-12-22T19:30:00+03:00",
-        "name": "Лёгкий Смоленск-9",
-        "chgk": true,
-        "price": ["500 RUB/ком", "300 RUB/1-2чел"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/407942667066035/"]
-      },
-      {
-        "time": "2020-12-26T18:00:00+03:00",
-        "name": "Лёгкий Смоленск-9",
-        "chgk": true,
-        "price": ["500 RUB/ком", "300 RUB/1-2чел"],
-        "url": ["https://www.facebook.com/groups/229434871583483/permalink/407942667066035/"]
-      }
     ]
   }
 ]
