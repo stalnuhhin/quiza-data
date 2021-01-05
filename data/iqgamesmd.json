@@ -2,13 +2,14 @@
   {
     "id": "e2904f9a-7c1a-4ba2-993d-eaeeaea78fae",
     "org": "iQ",
-    "latestCheck": "2021-01-03T12:00:00+03:00",
+    "latestCheck": "2021-01-06T12:00:00+03:00",
     "type": ["events"],
     "image": "iqgamesmd.png",
     "duration": 5,
     "price": ["50 MDL/чем"],
     "url": ["https://www.facebook.com/iqgames.md/events/"],
     "games": [
+      {"time": "2021-01-06T19:00:00+02:00", "name": "«Логика» по-домашнему. Шестая онлайн-игра зимы", "url": ["https://www.facebook.com/events/142282267697069"]}
     ]
   }
 ]
