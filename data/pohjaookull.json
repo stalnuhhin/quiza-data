@@ -6,23 +6,27 @@
     "type": ["events"],
     "image": "pohjaookull.png",
     "duration": 2,
-    "url": ["https://www.facebook.com/groups/PohjaOokull"],
+    "chgk": true,
+    "price": ["10 EUR/ком", "900 RUB/ком"],
+    "url": ["http://so-va.online/#rec266781550","https://www.facebook.com/groups/PohjaOokull"],
     "desc": "Таллинский клуб Что? Где? Когда?",
     "games": [
       {
         "time": "2021-01-03T13:00:00+02:00",
         "name": "Quantum",
-        "chgk": true,
-        "price": ["10 EUR/ком"],
         "url": ["https://www.facebook.com/groups/PohjaOokull/permalink/420271569410288/"]
       },
       {
         "time": "2021-01-03T16:00:00+02:00",
         "name": "Синхрон северных стран",
-        "chgk": true,
-        "price": ["10 EUR/ком"],
         "url": ["https://www.facebook.com/groups/PohjaOokull/permalink/420271569410288/"]
-      }
+      },
+      {"time": "2021-01-06T17:00:00+03:00", "name": "Quantum"},
+      {"time": "2021-01-06T20:00:00+03:00", "name": "Кубок Оливье"},
+      {"time": "2021-01-06T23:00:00+03:00", "name": "Синхрон северных стран"},
+      {"time": "2021-01-07T17:00:00+03:00", "name": "Бесконечные земли: том VIII"},
+      {"time": "2021-01-07T20:00:00+03:00", "name": "Кубок Оливье"},
+      {"time": "2021-01-07T22:30:00+03:00", "name": "Синхрон северных стран"}
     ]
   }
 ]
