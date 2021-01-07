@@ -20,6 +20,7 @@
       {"time": "2021-01-07T20:00:00+03:00", "name": "Кинолига от В. Островского и А. Бойко", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/483"]},
       {"time": "2021-01-08T15:00:00+03:00", "name": "Громокипящий кубок - 2020", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/527"]},
       {"time": "2021-01-08T20:00:00+03:00", "name": "Кубок Белого Быка", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/531"]},
+      {"time": "2021-01-08T22:00:00+03:00", "name": "Кубок Оливье", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/525"]},
       {"time": "2021-01-09T13:00:00+03:00", "name": "Лига старта - 22", "price": ["700 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/533"]},
       {"time": "2021-01-09T15:00:00+03:00", "name": "Кубок Белого Быка", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/531"]},
       {"time": "2021-01-09T20:00:00+03:00", "name": "Winter Is Here", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/532"]},
