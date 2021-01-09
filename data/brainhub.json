@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2021-01-06T12:00:00+03:00",
+    "latestCheck": "2021-01-09T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -24,9 +24,16 @@
       },
       {
         "time": "2021-01-10T12:00:00+02:00",
-        "name": "Синхронные турниры №1 и №2",
+        "name": "Бесконечные Земли: том VIII. Assemble!",
         "chgk": true,
-        "duration": 4,
+        "price": ["390 UAH/ком"],
+        "url": ["https://www.facebook.com/events/661271051171006"]
+      },
+      {
+        "time": "2021-01-10T14:00:00+02:00",
+        "name": "Громокипящий кубок – 2021",
+        "chgk": true,
+        "price": ["390 UAH/ком"],
         "url": ["https://www.facebook.com/events/661271051171006"]
       },
       {

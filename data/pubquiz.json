@@ -2,7 +2,7 @@
   {
     "id": "9645838f-9182-4221-842c-730ddaf75f98",
     "org": "PubQuiz",
-    "latestCheck": "2021-01-06T12:00:00+03:00",
+    "latestCheck": "2021-01-09T12:00:00+03:00",
     "type": ["events"],
     "image": "pubquiz.png",
     "duration": 3,
@@ -10,6 +10,7 @@
     "url": ["https://www.facebook.com/pg/PubQuiz.Me/events/", "https://online.event.in.ua/"],
     "desc": "Украинский клуб PubQuiz",
     "games": [
+      {"time": "2021-01-13T20:00:00+02:00", "name": "Movie Quiz. Третья игра", "url": ["https://www.facebook.com/events/399140734693773/"]},
       {"time": "2021-01-21T20:00:00+02:00", "name": "Movie Quiz. Третья игра", "url": ["https://www.facebook.com/events/412281846764642/"]}
     ]
   }
