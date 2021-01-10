@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2021-01-09T12:00:00+03:00",
+    "latestCheck": "2021-01-11T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -13,7 +13,7 @@
       { "time": "2021-01-02T12:00:00Z", "name": "ВОСХИТИТЕЛЬНЫЙ КИНОКВИЗ #35", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10419" ], "qpid": "10419", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-01-02T13:00:00Z", "name": "ХОРРОРЫ ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10429" ], "qpid": "10429", "qpuid": "10570", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-01-02T14:30:00Z", "name": "РЭП-МУЗЫКА", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10428" ], "qpid": "10428", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
-      { "time": "2021-01-02T14:30:00.067Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/10450" ], "qpid": "10450", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
+      { "time": "2021-01-02T14:30:00Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/10450" ], "qpid": "10450", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
       { "time": "2021-01-02T16:00:00Z", "name": "КИНО И МУЗЫКА #8", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10424" ], "qpid": "10424", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-01-02T17:30:00Z", "name": "НОВОГОДНИЙ КВИЗ (повтор)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10426" ], "qpid": "10426", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
       { "time": "2021-01-02T19:00:00Z", "name": "КИНО И МУЗЫКА #8", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10427" ], "qpid": "10427", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
@@ -23,7 +23,7 @@
       { "time": "2021-01-04T14:30:00Z", "name": "QUIZ-CLUB №58", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/10448" ], "qpid": "10448", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
       { "time": "2021-01-04T16:00:00Z", "name": "Спорт Спорт Спорт №1 2021", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10433" ], "qpid": "10433", "qpuid": "5060", "qpuname": "Quiz да ball", "cat": "sports", "org": "Quiz да ball" },
       { "time": "2021-01-05T10:00:00Z", "name": "Квиз про дартс", "price": [ "501 RUB/ком" ], "url": [ "https://quizy.pro/streams/10411" ], "qpid": "10411", "qpuid": "3869", "qpuname": "Против Лому нет приема", "cat": "sports", "org": "Против Лому нет приема" },
-      { "time": "2021-01-05T10:00:00.981Z", "name": "Easy Quizee \"Своя игра #3\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10479" ], "qpid": "10479", "qpuid": "3673", "qpuname": "Easy Quizee", "cat": "common_knowledge", "org": "Easy Quizee" },
+      { "time": "2021-01-05T10:00:00Z", "name": "Easy Quizee \"Своя игра #3\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10479" ], "qpid": "10479", "qpuid": "3673", "qpuname": "Easy Quizee", "cat": "common_knowledge", "org": "Easy Quizee" },
       { "time": "2021-01-05T14:00:00Z", "name": "Киноквиз #15 от «Человека и кошочки»", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10467" ], "qpid": "10467", "qpuid": "1621", "qpuname": "Человек и кошочка", "cat": "cinema_and_music", "org": "Человек и кошочка" },
       { "time": "2021-01-05T15:00:00Z", "name": "Искусство #7", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10456" ], "qpid": "10456", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "art_and_literature", "org": "Культпросвет" },
       { "time": "2021-01-05T16:00:00Z", "name": "Кинокругосветка #2 - повтор", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10459" ], "qpid": "10459", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "cinema_and_music", "org": "Культпросвет" },
@@ -67,7 +67,11 @@
       { "time": "2021-01-10T11:00:00Z", "name": "MY NAME IN ARTEMISIA #11 (Новый пакет!)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10518" ], "qpid": "10518", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
       { "time": "2021-01-10T12:00:00Z", "name": "ВОСХИТИТЕЛЬНЫЙ КИНОКВИЗ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10519" ], "qpid": "10519", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
       { "time": "2021-01-10T16:00:00Z", "name": "ВОСХИТИТЕЛЬНЫЙ КИНОКВИЗ #37", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10520" ], "qpid": "10520", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-01-11T13:00:00Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/10576" ], "qpid": "10576", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
+      { "time": "2021-01-11T17:00:00Z", "name": "CINEMANIA (КиноQuiz) Сеанс XXIX Повтор I", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10577" ], "qpid": "10577", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2021-01-12T11:00:00Z", "name": "CINEMANIA (КиноQuiz) Сеанс XXIX Повтор для ДВ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10578" ], "qpid": "10578", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
       { "time": "2021-01-13T17:00:00Z", "name": "ФутКвиз, 1-я игра", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10525" ], "qpid": "10525", "qpuid": "12208", "qpuname": "ФутКвиз", "cat": "sports", "org": "ФутКвиз" },
+      { "time": "2021-01-15T17:00:00Z", "name": "CINEMANIA (КиноQuiz) Сеанс XXX 18+ PREMIERE!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10579" ], "qpid": "10579", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
       { "time": "2021-01-16T08:20:00Z", "name": "«Антарктида. 200-летие открытия»", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9860" ], "qpid": "9860", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "kids", "org": "Эрудит-Премьер" },
       { "time": "2021-01-16T14:00:00Z", "name": "QUIZ-CLUB №60", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/10521" ], "qpid": "10521", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" }
     ]

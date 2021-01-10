@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2021-01-09T12:00:00+03:00",
+    "latestCheck": "2021-01-11T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -34,8 +34,17 @@
       { "time": "2021-01-09T14:00:00Z", "name": "Теория большого пальца.", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10493" ], "qpid": "10493", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-01-09T15:30:00Z", "name": "БУКВАльно обо всем 2. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9343" ], "qpid": "9343", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-01-09T17:00:00Z", "name": "НАША ИГРА: КинМульКниж.", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10498" ], "qpid": "10498", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-01-10T18:00:00Z", "name": "НАША ИГРА: КинМульКниж.", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10499" ], "qpid": "10499", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-01-12T18:00:00Z", "name": "Один за всех! Каналья!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
+      { "time": "2021-01-10T20:00:00Z", "name": "НОЧНОЙ турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/10562" ], "qpid": "10562", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-11T11:30:00Z", "name": "НАША ИГРА: КинМульКниж - 80+ вопросов", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10563" ], "qpid": "10563", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-11T16:00:00Z", "name": "Теория большого пальца.", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10493" ], "qpid": "10493", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-11T18:00:00Z", "name": "Тур по миру. Наша игра!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10492" ], "qpid": "10492", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-12T12:00:00Z", "name": "БУКВАльно обо всем 2. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9343" ], "qpid": "9343", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-12T13:30:00Z", "name": "Эврика. 55 вопросов в формате ЧГК", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10559" ], "qpid": "10559", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-12T15:00:00Z", "name": "Занимательный глобус", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10405" ], "qpid": "10405", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-12T16:30:00Z", "name": "Путешествие SHORT. Повтор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/9308" ], "qpid": "9308", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-12T18:00:00Z", "name": "Один за всех! Каналья!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-13T17:00:00Z", "name": "НАША Праздничная игра - 100 вопросов ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10565" ], "qpid": "10565", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-15T18:00:00Z", "name": "С кем?Чем?Зачем? ПРЕМЬЕРА!!!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10575" ], "qpid": "10575", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
   }
 ]

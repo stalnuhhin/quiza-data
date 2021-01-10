@@ -17,7 +17,8 @@ const ORG_MAPPING = {
     "ElevenQuiz": "elevenquiz.json",
     "Brain Wars": "brainwars.json",
     "QLEVER - Включай мозги!": "qlever.json",
-    "ИнQUIZиция": "inquizicia.json"
+    "ИнQUIZиция": "inquizicia.json",
+    "Квиз Quriosity": "quriosity.json"
 };
 
 const app = new Vue({
