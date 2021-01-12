@@ -2,12 +2,12 @@
   {
     "id": "779e76a6-ac03-42a8-b363-9e95be3e9188",
     "org": "Põhja Öökull",
-    "latestCheck": "2021-01-11T12:00:00+03:00",
+    "latestCheck": "2021-01-13T12:00:00+03:00",
     "type": ["events"],
     "image": "pohjaookull.png",
     "duration": 2,
     "chgk": true,
-    "url": ["http://so-va.online/#rec266781550","https://www.facebook.com/groups/PohjaOokull"],
+    "url": ["http://so-va.online/#rec266781550", "http://so-va.online/25", "https://www.facebook.com/groups/PohjaOokull"],
     "desc": "Таллинский клуб Что? Где? Когда?",
     "templates": {
       "550": {"price": ["550 RUB/ком", "6 EUR/ком"]},
@@ -50,6 +50,8 @@
       {"time": "2021-01-13T23:59:00+03:00", "template": "900", "name": "Взгляд Отца"},
       {"time": "2021-01-14T14:00:00+03:00", "template": "750", "name": "Синхрон-lite. Выпуск XL"},
       {"time": "2021-01-14T17:00:00+03:00", "template": "750", "name": "Синхрон-lite. Выпуск XL"},
+      {"time": "2021-01-14T20:00:00+03:00", "free": true, "donation": true, "name": "Мелодии и ритмы зарубежной эстрады"},
+      {"time": "2021-01-14T21:30:00+03:00", "free": true, "donation": true, "name": "Кинопанорама"},
       {"time": "2021-01-14T23:00:00+03:00", "template": "750", "name": "Синхрон-lite. Выпуск XL"}
     ]
   }
