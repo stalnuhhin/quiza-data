@@ -2,13 +2,18 @@
   {
     "id": "8c48ccce-1975-4de5-a1ef-fc3f84c9a6f4",
     "org": "Quiz Night (Днепр)",
-    "latestCheck": "2021-01-11T12:00:00+03:00",
+    "latestCheck": "2021-01-15T12:00:00+03:00",
     "type": ["events"],
     "image": "quiznightdp.png",
     "duration": 2,
     "price": ["100 UAH/чел"],
     "url": ["https://www.facebook.com/pg/quiz.night.dp/events", "https://quiznight.com.ua"],
     "games": [
+      {
+        "time": "2021-01-17T18:00:00+02:00",
+        "name": "Дело №2: \"Убийство в клубе анонимных алкоголиков\"",
+        "url": ["https://www.facebook.com/events/1788501304685404"]
+      }
     ]
   }
 ]
