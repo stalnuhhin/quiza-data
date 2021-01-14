@@ -1,8 +1,9 @@
 [
   {
     "id": "118686cb-808d-46e3-98c6-4f32ddde05bc",
+    "noOnline": true,
     "org": "Узнавайзинг",
-    "latestCheck": "2021-01-11T12:00:00+03:00",
+    "latestCheck": "2021-01-15T12:00:00+03:00",
     "type": ["events"],
     "image": "uznavaizing.png",
     "duration": 1.5,
