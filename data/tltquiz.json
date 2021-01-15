@@ -2,14 +2,16 @@
   {
     "id": "f88f473d-922e-4a86-a0b0-693a5d754a61",
     "org": "TLTQUIZ",
-    "latestCheck": "2021-01-15T12:00:00+03:00",
+    "latestCheck": "2021-01-16T12:00:00+03:00",
     "type": ["events"],
     "image": "tltquiz.png",
     "duration": 1,
     "url": ["https://vk.com/tltquiz"],
     "games": [
       { "time": "2021-01-09T18:00:00Z", "name": "ПРЕМЬЕРА! ТаБуретКа online #69", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10536" ], "qpid": "10536", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
-      { "time": "2021-01-09T19:00:00Z", "name": "ПРЕМЬЕРА #63 TLTQUIZ online!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10535" ], "qpid": "10535", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" }
+      { "time": "2021-01-09T19:00:00Z", "name": "ПРЕМЬЕРА #63 TLTQUIZ online!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10535" ], "qpid": "10535", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
+      { "time": "2021-01-15T18:00:00.175Z", "name": "ТаБуретКа online #70 - ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10666" ], "qpid": "10666", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
+      { "time": "2021-01-15T19:00:00.958Z", "name": "TLTQUIZ online #64 - ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10667" ], "qpid": "10667", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" }
     ]
   }
 ]

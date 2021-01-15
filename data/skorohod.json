@@ -2,7 +2,7 @@
   {
     "id": "eef21320-ac8d-4899-9be8-7d8a34c9936c",
     "org": "Квизы Скороход",
-    "latestCheck": "2021-01-15T12:00:00+03:00",
+    "latestCheck": "2021-01-16T12:00:00+03:00",
     "type": ["events"],
     "image": "skorohod.png",
     "duration": 1,
@@ -22,7 +22,8 @@
       { "time": "2021-01-09T12:00:00Z", "name": "Фильмоскоп №26(повтор)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10528" ], "qpid": "10528", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" },
       { "time": "2021-01-09T14:20:00Z", "name": "Музыкальный Скороход №43(повтор)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/9859" ], "qpid": "9859", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" },
       { "time": "2021-01-11T15:20:00Z", "name": "Фильмоскоп №54. ИТОГИ 2020. Часть 1", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10555" ], "qpid": "10555", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" },
-      { "time": "2021-01-12T14:00:00Z", "name": "Фильмоскоп №54. ИТОГИ 2020. Часть 1", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10555" ], "qpid": "10555", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" }
+      { "time": "2021-01-12T14:00:00Z", "name": "Фильмоскоп №54. ИТОГИ 2020. Часть 1", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10555" ], "qpid": "10555", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" },
+      { "time": "2021-01-15T14:50:00Z", "name": "Фильмоскоп №15(повтор)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10620" ], "qpid": "10620", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" }
     ]
   }
 ]
