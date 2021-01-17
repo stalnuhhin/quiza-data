@@ -2,7 +2,7 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2021-01-15T12:00:00+03:00",
+    "latestCheck": "2021-01-18T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
@@ -19,6 +19,12 @@
         "name": "Синхрон Урюбджирова. Синхронная лига Bee Clever",
         "price": ["11 USD/ком"],
         "url": ["https://www.facebook.com/events/421699289243813"]
+      },
+      {
+        "time": "2021-01-23T15:00:00+02:00",
+        "name": "Взгляд отца",
+        "price": ["12 USD/ком"],
+        "url": ["https://www.facebook.com/events/2763613540623428"]
       },
       {
         "time": "2021-01-26T20:00:00+02:00",
