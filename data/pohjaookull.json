@@ -6,13 +6,13 @@
     "type": ["events"],
     "image": "pohjaookull.png",
     "duration": 2,
-    "url": ["http://so-va.online/#rec266781550", "http://so-va.online/25", "https://www.facebook.com/groups/PohjaOokull"],
+    "url": ["https://www.facebook.com/groups/PohjaOokull"],
     "desc": "Таллинский клуб Что? Где? Когда?",
     "templates": {
-      "freequiz": {"free": true, "donation": true},
-      "550": {"price": ["550 RUB/ком", "6 EUR/ком"], "chgk": true},
-      "750": {"price": ["750 RUB/ком", "8 EUR/ком"], "chgk": true},
-      "900": {"price": ["900 RUB/ком", "10 EUR/ком"], "chgk": true}
+      "freequiz": {"free": true, "donation": true, "url": ["http://so-va.online/25"]},
+      "550": {"price": ["550 RUB/ком", "6 EUR/ком"], "chgk": true, "url": ["http://so-va.online/#rec266781550"]},
+      "750": {"price": ["750 RUB/ком", "8 EUR/ком"], "chgk": true, "url": ["http://so-va.online/#rec266781550"]},
+      "900": {"price": ["900 RUB/ком", "10 EUR/ком"], "chgk": true, "url": ["http://so-va.online/#rec266781550"]}
     },
     "games": [
       {"time": "2021-01-03T13:00:00+02:00", "template": "900", "name": "Quantum", "url": ["https://www.facebook.com/groups/PohjaOokull/permalink/420271569410288/"]},
