@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2021-01-19T12:00:00+03:00",
+    "latestCheck": "2021-01-20T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -126,10 +126,23 @@
       { "time": "2021-01-19T17:00:00Z", "name": "АЗБУКА ЗАРУБЕЖНОЙ МУЗЫКИ #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10746" ], "qpid": "10746", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-01-19T17:30:00Z", "name": "Полная Ребусня 18+ ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10749" ], "qpid": "10749", "qpuid": "3329", "qpuname": "mr.БРЭИНШТУРМ", "cat": "other", "org": "mr.БРЭИНШТУРМ" },
       { "time": "2021-01-19T18:30:00Z", "name": "CINEMANIA (КиноQUIZ) Сеанс XXX 18+", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10687" ], "qpid": "10687", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2021-01-20T11:00:00Z", "name": "ФИЛЬМЫ ПО КОМИКСАМ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10756" ], "qpid": "10756", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
+      { "time": "2021-01-20T11:00:00.395Z", "name": "Пошлая Ребусня (18+)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10768" ], "qpid": "10768", "qpuid": "3329", "qpuname": "mr.БРЭИНШТУРМ", "cat": "other", "org": "mr.БРЭИНШТУРМ" },
+      { "time": "2021-01-20T13:00:00Z", "name": "АЗБУКА ЗАРУБЕЖНОЙ МУЗЫКИ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10758" ], "qpid": "10758", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
+      { "time": "2021-01-20T14:30:00Z", "name": "Футбольный Easy Quizee \"Удар головой\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10765" ], "qpid": "10765", "qpuid": "3673", "qpuname": "Easy Quizee", "cat": "sports", "org": "Easy Quizee" },
+      { "time": "2021-01-20T16:00:00Z", "name": "РОК-МУЗЫКА #18", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10754" ], "qpid": "10754", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-01-20T17:30:00Z", "name": "СВОЯ ИГРА #27", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10753" ], "qpid": "10753", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "common_knowledge", "org": "СВОЯ ИГРА ONLINE" },
       { "time": "2021-01-20T18:30:00Z", "name": "CINEMANIA (КиноQUIZ) Сеанс XXX 18+", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10688" ], "qpid": "10688", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2021-01-20T19:30:00Z", "name": "Полная Ребусня по Гарри Поттеру (Повтор)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10748" ], "qpid": "10748", "qpuid": "3329", "qpuname": "mr.БРЭИНШТУРМ", "cat": "other", "org": "mr.БРЭИНШТУРМ" },
+      { "time": "2021-01-20T22:00:00Z", "name": "ап", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/10766" ], "qpid": "10766", "qpuid": "11313", "qpuname": "Анна", "cat": "common_knowledge", "org": "Анна" },
+      { "time": "2021-01-22T18:00:00Z", "name": "CINEMANIA (КиноQUIZ) Сеанс 31-й Premiere!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10759" ], "qpid": "10759", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
       { "time": "2021-01-22T18:30:00Z", "name": "ОБЛОЖКИ АЛЬБОМОВ #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10733" ], "qpid": "10733", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
+      { "time": "2021-01-23T11:30:00Z", "name": "Футбольный Easy Quizee \"Удар головой\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10761" ], "qpid": "10761", "qpuid": "3673", "qpuname": "Easy Quizee", "cat": "sports", "org": "Easy Quizee" },
       { "time": "2021-01-23T13:00:00Z", "name": "Футбольный свояк #1", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10680" ], "qpid": "10680", "qpuid": "2409", "qpuname": "Футбольный квиз Артема Хачатуряна", "cat": "sports", "org": "Футбольный квиз Артема Хачатуряна" },
-      { "time": "2021-01-23T14:00:00Z", "name": "QUIZ-CLUB #61", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/10700" ], "qpid": "10700", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" }
+      { "time": "2021-01-23T14:00:00Z", "name": "QUIZ-CLUB #61", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/10700" ], "qpid": "10700", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
+      { "time": "2021-01-23T15:00:00Z", "name": "Футбольный Easy Quizee \"Удар головой\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10762" ], "qpid": "10762", "qpuid": "3673", "qpuname": "Easy Quizee", "cat": "sports", "org": "Easy Quizee" },
+      { "time": "2021-01-24T15:00:00Z", "name": "Зарубежная музыка РЕТРО #4", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10767" ], "qpid": "10767", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "cinema_and_music", "org": "Культпросвет" },
+      { "time": "2021-01-24T18:00:00Z", "name": "Зарубежная музыка РЕТРО #4", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10769" ], "qpid": "10769", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "cinema_and_music", "org": "Культпросвет" }
     ]
   }
 ]

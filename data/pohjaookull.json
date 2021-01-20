@@ -2,7 +2,7 @@
   {
     "id": "779e76a6-ac03-42a8-b363-9e95be3e9188",
     "org": "Põhja Öökull",
-    "latestCheck": "2021-01-19T12:00:00+03:00",
+    "latestCheck": "2021-01-20T12:00:00+03:00",
     "type": ["events"],
     "image": "pohjaookull.png",
     "duration": 2,
@@ -77,7 +77,12 @@
       {"time": "2021-01-21T21:30:00+03:00", "template": "freequiz", "name": "Книжный мир, лёгкая"},
       {"time": "2021-01-22T20:00:00+03:00", "template": "freequiz", "name": "Русская музыка, лёгкая"},
       {"time": "2021-01-22T21:30:00+03:00", "template": "freequiz", "name": "Внутри Лапенко, средняя"},
-      {"time": "2021-01-22T23:00:00+03:00", "template": "freequiz", "name": "Ужжжастики, средняя"}
+      {"time": "2021-01-22T23:00:00+03:00", "template": "freequiz", "name": "Ужжжастики, средняя"},
+      {"time": "2021-01-23T20:00:00+03:00", "template": "freequiz", "name": "Комиксы, лёгкая, ПОВТОР"},
+      {"time": "2021-01-23T21:30:00+03:00", "template": "freequiz", "name": "Кинопанорама vol.2, средняя"},
+      {"time": "2021-01-23T23:00:00+03:00", "template": "freequiz", "name": "Около футбола, сложная"},
+      {"time": "2021-01-24T20:00:00+03:00", "template": "freequiz", "name": "Советский экран, лёгкая, ПОВТОР"},
+      {"time": "2021-01-24T21:30:00+03:00", "template": "freequiz", "name": "Unrussian music, средняя"}
     ]
   }
 ]
