@@ -2,11 +2,11 @@
   {
     "id": "779e76a6-ac03-42a8-b363-9e95be3e9188",
     "org": "Põhja Öökull",
-    "latestCheck": "2021-01-20T12:00:00+03:00",
+    "latestCheck": "2021-01-22T12:00:00+03:00",
     "type": ["events"],
     "image": "pohjaookull.png",
     "duration": 2,
-    "url": ["https://www.facebook.com/groups/PohjaOokull"],
+    "url": ["https://www.facebook.com/groups/PohjaOokull", "http://so-va.online"],
     "desc": "Таллинский клуб Что? Где? Когда?",
     "templates": {
       "freequiz": {"free": true, "donation": true, "url": ["http://so-va.online/25"]},
@@ -75,14 +75,25 @@
       {"time": "2021-01-20T21:30:00+03:00", "template": "freequiz", "name": "Живописная живопись, лёгкая"},
       {"time": "2021-01-21T20:00:00+03:00", "template": "freequiz", "name": "Вокруг света, лёгкая, ПОВТОР"},
       {"time": "2021-01-21T21:30:00+03:00", "template": "freequiz", "name": "Книжный мир, лёгкая"},
+      {"time": "2021-01-22T13:00:00+03:00", "template": "750", "name": "Лига Старта. Эпизод XXII"},
+      {"time": "2021-01-22T16:00:00+03:00", "template": "900", "name": "Кубок Бесконечности. V этап"},
       {"time": "2021-01-22T20:00:00+03:00", "template": "freequiz", "name": "Русская музыка, лёгкая"},
       {"time": "2021-01-22T21:30:00+03:00", "template": "freequiz", "name": "Внутри Лапенко, средняя"},
       {"time": "2021-01-22T23:00:00+03:00", "template": "freequiz", "name": "Ужжжастики, средняя"},
+      {"time": "2021-01-23T13:00:00+03:00", "template": "750", "name": "Синхрон-lite XL"},
+      {"time": "2021-01-23T16:00:00+03:00", "template": "900", "name": "Кубок Бесконечности. V этап"},
       {"time": "2021-01-23T20:00:00+03:00", "template": "freequiz", "name": "Комиксы, лёгкая, ПОВТОР"},
       {"time": "2021-01-23T21:30:00+03:00", "template": "freequiz", "name": "Кинопанорама vol.2, средняя"},
       {"time": "2021-01-23T23:00:00+03:00", "template": "freequiz", "name": "Около футбола, сложная"},
+      {"time": "2021-01-24T13:00:00+03:00", "template": "900", "name": "Delivery Cup Январь"},
+      {"time": "2021-01-24T16:00:00+03:00", "template": "900", "name": "Бесконечные Земли. Том IX"},
+      {"time": "2021-01-24T23:00:00+03:00", "template": "900", "name": "36 оттенков чёрного. Зима"},
       {"time": "2021-01-24T20:00:00+03:00", "template": "freequiz", "name": "Советский экран, лёгкая, ПОВТОР"},
-      {"time": "2021-01-24T21:30:00+03:00", "template": "freequiz", "name": "Unrussian music, средняя"}
+      {"time": "2021-01-24T21:30:00+03:00", "template": "freequiz", "name": "Unrussian music, средняя"},
+      {"time": "2021-01-25T13:00:00+03:00", "template": "750", "name": "Синхрон-lite XL"},
+      {"time": "2021-01-25T16:00:00+03:00", "template": "900", "name": "Бесконечные Земли. Том IX"},
+      {"time": "2021-01-25T19:00:00+03:00", "template": "900", "name": "Delivery Cup Январь"},
+      {"time": "2021-01-25T22:00:00+03:00", "template": "900", "name": "36 оттенков чёрного. Зима"}
     ]
   }
 ]
