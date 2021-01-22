@@ -2,7 +2,7 @@
   {
     "id": "eaa4a42b-ada8-42d2-a7c1-1a3f282cec6b",
     "org": "Интеллектуальное казино Сан Франциско",
-    "latestCheck": "2021-01-18T12:00:00+03:00",
+    "latestCheck": "2021-01-22T12:00:00+03:00",
     "type": ["events"],
     "image": "intellcasinosanfra.png",
     "chgk": true,
@@ -15,11 +15,6 @@
       "Бесплатно, но так, как за Zoom для такого количества людей надо платить, мы просим тех, кто считает, что мы делаем хорошее дело, дать $5 donation на PayPal: formulaodin@yahoo.com"
     ],
     "games": [
-      {
-        "time": "2021-01-31T22:00:00+02:00",
-        "name": "Что? Где? Когда? Е.Духовного (Stanford)",
-        "url": ["https://www.facebook.com/events/392827118606822"]
-      }
     ]
   }
 ]

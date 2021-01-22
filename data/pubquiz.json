@@ -2,7 +2,7 @@
   {
     "id": "9645838f-9182-4221-842c-730ddaf75f98",
     "org": "PubQuiz",
-    "latestCheck": "2021-01-18T12:00:00+03:00",
+    "latestCheck": "2021-01-22T12:00:00+03:00",
     "type": ["events"],
     "image": "pubquiz.png",
     "duration": 3,
@@ -12,7 +12,8 @@
     "games": [
       {"time": "2021-01-13T20:00:00+02:00", "name": "Movie Quiz. Третья игра", "url": ["https://www.facebook.com/events/399140734693773/"]},
       {"time": "2021-01-20T20:00:00+02:00", "name": "PubQuiz Online", "url": ["https://www.facebook.com/events/248527783375419/"]},
-      {"time": "2021-01-21T20:00:00+02:00", "name": "Movie Quiz. Третья игра", "url": ["https://www.facebook.com/events/412281846764642/"]}
+      {"time": "2021-01-21T20:00:00+02:00", "name": "Movie Quiz. Третья игра", "url": ["https://www.facebook.com/events/412281846764642/"]},
+      {"time": "2021-01-27T20:00:00+02:00", "name": "Movie Quiz. Четвертая игра", "url": ["https://www.facebook.com/events/1422447804773998/"]}
     ]
   }
 ]

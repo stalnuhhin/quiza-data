@@ -1,9 +1,10 @@
-const DATA_VERSION = 316;
+const DATA_VERSION = 317;
 const DATAFILES = [
     "3x12trivianights.json",
     "artobstrel.json",
     "beeclever.json",
     "bezdurakov.json",
+    "bezumnyjimperator.json",
     "bolshayaigra.json",
     "brainbarquiz.json",
     "brainbattle.json",
@@ -99,7 +100,6 @@ const DATAFILES = [
     "thequizodessa.json",
     "teterev.json",
     "tltquiz.json",
-    "traiduk.json",
     "trequartista.json",
     "umforum.json",
     "umapalatadetskaja.json",
