@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2021-01-23T12:00:00+03:00",
+    "latestCheck": "2021-01-25T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -162,6 +162,15 @@
       { "time": "2021-01-24T16:00:00Z", "name": "КОРОТЫШИ #3", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10791" ], "qpid": "10791", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-01-24T17:30:00Z", "name": "СВОЯ ИГРА #4", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10775" ], "qpid": "10775", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "chgk", "org": "СВОЯ ИГРА ONLINE" },
       { "time": "2021-01-24T18:00:00Z", "name": "Зарубежная музыка РЕТРО #4", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10769" ], "qpid": "10769", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "cinema_and_music", "org": "Культпросвет" },
+      { "time": "2021-01-25T11:00:00Z", "name": "Quiz Time #4", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10863" ], "qpid": "10863", "qpuid": "8179", "qpuname": "Quiz Denis & Co", "cat": "common_knowledge", "org": "Quiz Denis & Co" },
+      { "time": "2021-01-25T13:00:00Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/10866" ], "qpid": "10866", "qpuid": "5647", "qpuname": "IQra Квиз", "cat": "common_knowledge", "org": "IQra Квиз" },
+      { "time": "2021-01-25T16:00:00Z", "name": "Футбольный Easy Quizee \"Удар головой\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10859" ], "qpid": "10859", "qpuid": "3673", "qpuname": "Easy Quizee", "cat": "sports", "org": "Easy Quizee" },
+      { "time": "2021-01-25T17:30:00Z", "name": "MARVEL", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10865" ], "qpid": "10865", "qpuid": "4700", "qpuname": "Мы пойдем ко дну с этим кораблем ", "cat": "cinema_and_music", "org": "Мы пойдем ко дну с этим кораблем " },
+      { "time": "2021-01-25T18:00:00Z", "name": "CINEMANIA (КиноQUIZ) Сеанс 31-й PREMIERE!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10847" ], "qpid": "10847", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2021-01-26T10:30:00Z", "name": "Quiz Time (турнир на выбор)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10864" ], "qpid": "10864", "qpuid": "8179", "qpuname": "Quiz Denis & Co", "cat": "common_knowledge", "org": "Quiz Denis & Co" },
+      { "time": "2021-01-26T18:00:00Z", "name": "Зарубежная музыка РЕТРО #4", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10769" ], "qpid": "10769", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "cinema_and_music", "org": "Культпросвет" },
+      { "time": "2021-01-27T12:30:00Z", "name": "Зарубежная музыка РЕТРО #4", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/10767" ], "qpid": "10767", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "cinema_and_music", "org": "Культпросвет" },
+      { "time": "2021-01-29T18:30:00Z", "name": "ФИЛЬМЫ ПО КОМИКСАМ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10784" ], "qpid": "10784", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-02-20T08:20:00Z", "name": "\"Декабристы в Сибири\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10785" ], "qpid": "10785", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "common_knowledge", "org": "Эрудит-Премьер" }
     ]
   }

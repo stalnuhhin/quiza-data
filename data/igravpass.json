@@ -2,7 +2,7 @@
   {
     "id": "f13b6e4d-c5b3-449f-bbe5-ef1c0b52efde",
     "org": "Игра В. Пас",
-    "latestCheck": "2021-01-22T12:00:00+03:00",
+    "latestCheck": "2021-01-25T12:00:00+03:00",
     "type": ["events"],
     "image": "igravpass.png",
     "price": ["4 USD/чел"],
@@ -22,6 +22,11 @@
         "name": "Футбольная «Своя игра» Игровая неделя №41",
         "duration": 1,
         "url": ["https://www.facebook.com/events/739995796639572"]
+      },
+      "si42": {
+        "name": "Футбольная «Своя игра» Игровая неделя №42",
+        "duration": 1,
+        "url": ["https://www.facebook.com/events/3893541877377878"]
       }
     },
     "games": [
@@ -51,6 +56,12 @@
         "price": ["3.6 USD/чел", "100 UAH/чел"],
         "url": ["https://www.facebook.com/events/363592415074539"]
       },
+      {"template": "si42", "time": "2021-01-25T22:00:00+02:00"},
+      {"template": "si42", "time": "2021-01-26T23:00:00+02:00"},
+      {"template": "si42", "time": "2021-01-27T14:00:00+02:00"},
+      {"template": "si42", "time": "2021-01-27T16:00:00+02:00"},
+      {"template": "si42", "time": "2021-01-28T19:00:00+02:00"},
+      {"template": "si42", "time": "2021-01-29T21:00:00+02:00"},
       {
         "time": "2021-01-30T20:00:00+02:00",
         "name": "ЧГК по вселенной Ведьмака",

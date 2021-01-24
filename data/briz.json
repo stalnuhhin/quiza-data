@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2021-01-23T12:00:00+03:00",
+    "latestCheck": "2021-01-25T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -72,6 +72,9 @@
       { "time": "2021-01-23T15:00:00Z", "name": "ВРЕМЯ ПОДУМАТЬ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10831" ], "qpid": "10831", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-01-23T16:30:00Z", "name": "С кем?ЧЕем?Зачем?", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10814" ], "qpid": "10814", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-01-23T18:00:00Z", "name": "ВРЕМЯ ПОДУМАТЬ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10832" ], "qpid": "10832", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-25T09:00:00Z", "name": "Турнир на ВЫБОР", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10694" ], "qpid": "10694", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-25T16:00:00Z", "name": "НАША ИГРА: КинМульКниж", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10815" ], "qpid": "10815", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-01-25T18:00:00Z", "name": "Теория большого пальца", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10704" ], "qpid": "10704", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-01-26T18:00:00Z", "name": "Один за всех! Каналья!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-01-29T18:00:00Z", "name": "НАША ИГРА: ИНСАЙТ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10713" ], "qpid": "10713", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-02-05T18:00:00Z", "name": "ОСТАП и компания", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10714" ], "qpid": "10714", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },

@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2021-01-22T12:00:00+03:00",
+    "latestCheck": "2021-01-25T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -87,7 +87,7 @@
       },
       {
         "time": "2021-01-27T20:00:00+02:00",
-        "name": "Синхронный турнир",
+        "name": "Хайфайв",
         "chgk": true,
         "price": ["300 UAH/ком"],
         "url": ["https://www.facebook.com/events/171536074311538"]
@@ -98,6 +98,18 @@
         "chgk": true,
         "price": ["300 UAH/ком"],
         "url": ["https://www.facebook.com/events/170600274859537"]
+      },
+      {
+        "time": "2021-01-31T12:00:00+02:00",
+        "name": "ЧГК",
+        "chgk": true,
+        "url": ["https://www.facebook.com/events/318458339568195"]
+      },
+      {
+        "time": "2021-01-31T14:00:00+02:00",
+        "name": "ЧГК",
+        "chgk": true,
+        "url": ["https://www.facebook.com/events/318458339568195"]
       },
       {
         "time": "2021-02-15T20:00:00+02:00",
