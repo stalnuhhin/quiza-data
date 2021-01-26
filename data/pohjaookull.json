@@ -2,7 +2,7 @@
   {
     "id": "779e76a6-ac03-42a8-b363-9e95be3e9188",
     "org": "Põhja Öökull",
-    "latestCheck": "2021-01-25T12:00:00+03:00",
+    "latestCheck": "2021-01-26T12:00:00+03:00",
     "type": ["events"],
     "image": "pohjaookull.png",
     "duration": 2,
@@ -10,6 +10,7 @@
     "desc": "Таллинский клуб Что? Где? Когда?",
     "templates": {
       "freequiz": {"free": true, "donation": true, "url": ["http://so-va.online/25"]},
+      "450": {"price": ["450 RUB/ком", "5 EUR/ком", "6 USD/ком"], "url": ["http://so-va.online/25"]},
       "550": {"price": ["550 RUB/ком", "6 EUR/ком"], "chgk": true, "url": ["http://so-va.online/#rec266781550"]},
       "750": {"price": ["750 RUB/ком", "8 EUR/ком"], "chgk": true, "url": ["http://so-va.online/#rec266781550"]},
       "900": {"price": ["900 RUB/ком", "10 EUR/ком"], "chgk": true, "url": ["http://so-va.online/#rec266781550"]}
@@ -93,7 +94,20 @@
       {"time": "2021-01-25T13:00:00+03:00", "template": "750", "name": "Синхрон-lite XL"},
       {"time": "2021-01-25T16:00:00+03:00", "template": "900", "name": "Бесконечные Земли. Том IX"},
       {"time": "2021-01-25T19:00:00+03:00", "template": "900", "name": "Delivery Cup Январь"},
-      {"time": "2021-01-25T22:00:00+03:00", "template": "900", "name": "36 оттенков чёрного. Зима"}
+      {"time": "2021-01-25T22:00:00+03:00", "template": "900", "name": "36 оттенков чёрного. Зима"},
+      {"time": "2021-01-26T20:00:00+03:00", "template": "freequiz", "name": "Советский Экран vol.2, лёгкая"},
+      {"time": "2021-01-26T21:30:00+03:00", "template": "freequiz", "name": "Да Будет Рок!, лёгкая"},
+      {"time": "2021-01-27T20:00:00+03:00", "template": "freequiz", "name": "Кинопанорама vol.2, лёгкая, ПОВТОР"},
+      {"time": "2021-01-27T21:30:00+03:00", "template": "freequiz", "name": "Русская Музыка, лёгкая, ПОВТОР"},
+      {"time": "2021-01-28T20:00:00+03:00", "template": "450", "name": "Опять 25! Два в одном (50 вопросов)"},
+      {"time": "2021-01-29T20:00:00+03:00", "template": "freequiz", "name": "Сериалы, лёгкая"},
+      {"time": "2021-01-29T21:30:00+03:00", "template": "freequiz", "name": "Вокруг Света vol.2, средняя"},
+      {"time": "2021-01-29T23:00:00+03:00", "template": "freequiz", "name": "Вокруг Хоккея, сложная"},
+      {"time": "2021-01-30T20:00:00+03:00", "template": "freequiz", "name": "Комиксы vol.2, лёгкая"},
+      {"time": "2021-01-30T21:30:00+03:00", "template": "freequiz", "name": "Русский Рок, лёгкая"},
+      {"time": "2021-01-30T23:00:00+03:00", "template": "freequiz", "name": "Мир Гарри Поттера vol.2, сложная"},
+      {"time": "2021-01-31T20:00:00+03:00", "template": "freequiz", "name": "Unrussian Music, лёгкая, ПОВТОР"},
+      {"time": "2021-01-31T21:30:00+03:00", "template": "freequiz", "name": "Забавные Киноигры vol.2, сложная+"}
     ]
   }
 ]
