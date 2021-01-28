@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2021-01-26T12:00:00+03:00",
+    "latestCheck": "2021-01-29T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -97,7 +97,10 @@
       { "time": "2021-01-31T13:00:00Z", "name": "Турнир на выбор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10883" ], "qpid": "10883", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-01-31T16:00:00Z", "name": "НАША ИГРА: ИНСАЙТ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10880" ], "qpid": "10880", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-01-31T18:00:00Z", "name": "Турнир на выбор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10884" ], "qpid": "10884", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-01T18:00:00Z", "name": "Перпетуум сапиенс", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10926" ], "qpid": "10926", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-02T10:30:00Z", "name": "Советский экран 2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10275" ], "qpid": "10275", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "cinema_and_music" },
       { "time": "2021-02-02T18:00:00Z", "name": "Один за всех! Каналья!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-04T13:00:00Z", "name": "Занимательный глобус", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10144" ], "qpid": "10144", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-02-05T18:00:00Z", "name": "ОСТАП и компания", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10714" ], "qpid": "10714", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-02-06T19:00:00Z", "name": "ЖАРА 16+. ПРЕМЬЕРА!!!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10661" ], "qpid": "10661", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
