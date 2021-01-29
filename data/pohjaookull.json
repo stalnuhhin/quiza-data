@@ -2,7 +2,7 @@
   {
     "id": "779e76a6-ac03-42a8-b363-9e95be3e9188",
     "org": "Põhja Öökull",
-    "latestCheck": "2021-01-26T12:00:00+03:00",
+    "latestCheck": "2021-01-29T12:00:00+03:00",
     "type": ["events"],
     "image": "pohjaookull.png",
     "duration": 2,
@@ -106,6 +106,8 @@
       {"time": "2021-01-30T20:00:00+03:00", "template": "freequiz", "name": "Комиксы vol.2, лёгкая"},
       {"time": "2021-01-30T21:30:00+03:00", "template": "freequiz", "name": "Русский Рок, лёгкая"},
       {"time": "2021-01-30T23:00:00+03:00", "template": "freequiz", "name": "Мир Гарри Поттера vol.2, сложная"},
+      {"time": "2021-01-31T13:00:00+03:00", "template": "900", "name": "Хайфайв"},
+      {"time": "2021-01-31T16:00:00+03:00", "template": "900", "name": "Куб-3"},
       {"time": "2021-01-31T20:00:00+03:00", "template": "freequiz", "name": "Unrussian Music, лёгкая, ПОВТОР"},
       {"time": "2021-01-31T21:30:00+03:00", "template": "freequiz", "name": "Забавные Киноигры vol.2, сложная+"}
     ]
