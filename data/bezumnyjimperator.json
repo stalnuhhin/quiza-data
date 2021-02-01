@@ -2,22 +2,21 @@
   {
     "id": "a983715a-2638-4376-931a-1f67f3e3e21a",
     "org": "Безумный император",
-    "latestCheck": "2021-01-25T12:00:00+03:00",
+    "latestCheck": "2021-02-01T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "chgk": true,
     "image": "bezumnyjimperator.png",
     "url": ["https://www.facebook.com/groups/137021291483392"],
     "games": [
-      {"time": "2021-01-09T15:00:00+03:00", "name": "Добро пожаловать в Тигроленд!", "price": ["4 USD/ком"], "url": ["https://www.facebook.com/permalink.php?story_fbid=762774040992204&id=100017788444620"]},
-      {"time": "2021-01-13T21:00:00+03:00", "name": "Добро пожаловать в Тигроленд!", "price": ["4 USD/ком"], "url": ["https://www.facebook.com/permalink.php?story_fbid=762774040992204&id=100017788444620"]},
-      {"time": "2021-01-19T21:00:00+03:00", "name": "Дорога ярости", "price": ["3.5 USD/чел"], "url": ["https://www.facebook.com/groups/137021291483392/permalink/137237848128403/"]},
-      {"time": "2021-01-21T21:00:00+03:00", "name": "Синхрон-lite. Выпуск XL", "price": ["7 USD/ком"], "url": ["https://www.facebook.com/groups/137021291483392/permalink/137237848128403/"]},
-      {"time": "2021-01-24T15:00:00+03:00", "name": "Добро пожаловать в Тигроленд!", "price": ["4 USD/ком"], "url": ["https://www.facebook.com/groups/137021291483392/permalink/137237848128403/"]},
-      {"time": "2021-01-25T21:00:00+03:00", "name": "Californication 2.0", "price": ["4 USD/ком"], "url": ["https://www.facebook.com/groups/137021291483392/permalink/137237848128403/"]},
-      {"time": "2021-01-28T21:00:00+03:00", "name": "Зимняя кинолига", "price": ["7 USD/ком"], "url": ["https://www.facebook.com/groups/137021291483392/permalink/137237848128403/"]},
-      {"time": "2021-01-31T15:00:00+03:00", "name": "Дорога ярости", "price": ["3.5 USD/ком"], "url": ["https://www.facebook.com/groups/137021291483392/permalink/137237848128403/"]},
-      {"time": "2021-01-31T17:00:00+03:00", "name": "Хайфайв", "price": ["7 USD/ком"], "url": ["https://www.facebook.com/groups/137021291483392/permalink/137237848128403/"]}
+      {"time": "2021-02-03T21:00:00+03:00", "name": "Добро пожаловать в Тигроленд!", "price": ["4 USD/ком"], "url": ["https://www.facebook.com/groups/137021291483392/permalink/144140094104845"]},
+      {"time": "2021-02-04T21:00:00+03:00", "name": "Синхрон-lite. Выпуск XLI", "price": ["7 USD/ком"], "url": ["https://www.facebook.com/groups/137021291483392/permalink/144140094104845"]},
+      {"time": "2021-02-06T15:00:00+03:00", "name": "Дорога ярости-2: операция \"Подснежник\"", "price": ["3.5 USD/чел"], "url": ["https://www.facebook.com/groups/137021291483392/permalink/144140094104845"]},
+      {"time": "2021-02-08T21:00:00+03:00", "name": "Лига старта. Эпизод XXXIII", "price": ["7 USD/ком"], "url": ["https://www.facebook.com/groups/137021291483392/permalink/144140094104845"]},
+      {"time": "2021-02-10T21:00:00+03:00", "name": "Дорога ярости-2: операция \"Подснежник\"", "price": ["3.5 USD/чел"], "url": ["https://www.facebook.com/groups/137021291483392/permalink/144140094104845"]},
+      {"time": "2021-02-13T15:00:00+03:00", "name": "Добро пожаловать в Тигроленд!", "price": ["4 USD/ком"], "url": ["https://www.facebook.com/groups/137021291483392/permalink/144140094104845"]},
+      {"time": "2021-02-16T21:00:00+03:00", "name": "CHGK IS...", "price": ["4 USD/ком"], "url": ["https://www.facebook.com/groups/137021291483392/permalink/144140094104845"]},
+      {"time": "2021-02-17T21:00:00+03:00", "name": "Зимний Асинхронный Умлаут 2021", "price": ["8 USD/ком"], "url": ["https://www.facebook.com/groups/137021291483392/permalink/144140094104845"]}
     ]
   }
 ]
