@@ -2,118 +2,37 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2021-01-25T12:00:00+03:00",
+    "latestCheck": "2021-02-02T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
     "url": ["https://www.facebook.com/pg/BrainHubKiev/events/", "https://www.facebook.com/pg/brainhubkharkiv/events/", "https://www.twitch.tv/brainhubua"],
     "games": [
       {
-        "time": "2021-01-04T20:00:00+02:00",
-        "name": "Не новогоднее ЧГК от БХ-2: Новые вопросы о главном",
-        "chgk": true,
-        "price": ["60 UAH/чел"],
-        "url": ["https://www.facebook.com/events/136252764968516"]
-      },
-      {
-        "time": "2021-01-05T20:00:00+02:00",
-        "name": "Славянка без раздаток. 3 этап",
-        "chgk": true,
-        "price": ["390 UAH/ком"],
-        "url": ["https://www.facebook.com/events/3510596718988226"]
-      },
-      {
-        "time": "2021-01-10T12:00:00+02:00",
-        "name": "Бесконечные Земли: том VIII. Assemble!",
-        "chgk": true,
-        "price": ["390 UAH/ком"],
-        "url": ["https://www.facebook.com/events/661271051171006"]
-      },
-      {
-        "time": "2021-01-10T14:00:00+02:00",
-        "name": "Громокипящий кубок – 2021",
-        "chgk": true,
-        "price": ["390 UAH/ком"],
-        "url": ["https://www.facebook.com/events/661271051171006"]
-      },
-      {
-        "time": "2021-01-14T20:00:00+02:00",
-        "name": "Чёрное «Что? Где? Когда?»",
+        "time": "2021-02-03T20:00:00+02:00",
+        "name": "ЛУК: Восход солнца",
         "chgk": true,
         "price": ["360 UAH/ком"],
-        "url": ["https://www.facebook.com/events/109015474344883"]
+        "url": ["https://www.facebook.com/events/1166098850471607"]
       },
       {
-        "time": "2021-01-18T20:00:00+02:00",
-        "name": "Осенний кубок BrainHub по «Что? Где? Когда?». Игра 5",
+        "time": "2021-02-07T12:00:00+02:00",
+        "name": "Леденец",
         "chgk": true,
-        "price": ["300 UAH/ком"],
-        "url": ["https://www.facebook.com/events/409324620273623"]
+        "price": ["330 UAH/ком"],
+        "url": ["https://www.facebook.com/events/770470740569246"]
       },
       {
-        "time": "2021-01-20T20:00:00+02:00",
-        "name": "Кубок Бесконечности. V этап: Камень Разума",
+        "time": "2021-02-07T14:00:00+02:00",
+        "name": "Молодёжный кубок Европы. Этап 2",
         "chgk": true,
         "price": ["390 UAH/ком"],
-        "url": ["https://www.facebook.com/events/2732480346966885"]
-      },
-      {
-        "time": "2021-01-21T20:00:00+02:00",
-        "name": "1-й этап 2-го сезона Online Кинолиги",
-        "chgk": true,
-        "price": ["50 UAH/чел"],
-        "url": ["https://www.facebook.com/events/441842353504353"]
-      },
-      {
-        "time": "2021-01-23T12:00:00+02:00",
-        "name": "Куб-3",
-        "chgk": true,
-        "price": ["330 UAH/ком"],
-        "url": ["https://www.facebook.com/events/411136069979076"]
-      },
-      {
-        "time": "2021-01-23T14:00:00+02:00",
-        "name": "Delivery Cup Январь",
-        "chgk": true,
-        "price": ["330 UAH/ком"],
-        "url": ["https://www.facebook.com/events/411136069979076"]
-      },
-      {
-        "time": "2021-01-25T20:00:00+02:00",
-        "name": "«Что? Где? Когда?» от BrainHub",
-        "chgk": true,
-        "price": ["60 UAH/чел"],
-        "url": ["https://www.facebook.com/events/707387580140071"]
-      },
-      {
-        "time": "2021-01-27T20:00:00+02:00",
-        "name": "Хайфайв",
-        "chgk": true,
-        "price": ["300 UAH/ком"],
-        "url": ["https://www.facebook.com/events/171536074311538"]
-      },
-      {
-        "time": "2021-01-28T20:00:00+02:00",
-        "name": "Чёрное «Что? Где? Когда?»",
-        "chgk": true,
-        "price": ["300 UAH/ком"],
-        "url": ["https://www.facebook.com/events/170600274859537"]
-      },
-      {
-        "time": "2021-01-31T12:00:00+02:00",
-        "name": "ЧГК",
-        "chgk": true,
-        "url": ["https://www.facebook.com/events/318458339568195"]
-      },
-      {
-        "time": "2021-01-31T14:00:00+02:00",
-        "name": "ЧГК",
-        "chgk": true,
-        "url": ["https://www.facebook.com/events/318458339568195"]
+        "url": ["https://www.facebook.com/events/770470740569246"]
       },
       {
         "time": "2021-02-15T20:00:00+02:00",
         "name": "Парное «Что? Где? Когда?»",
+        "chgk": true,
         "price": ["140 UAH/1-2чел"],
         "url": ["https://www.facebook.com/events/437138500973023"]
       }

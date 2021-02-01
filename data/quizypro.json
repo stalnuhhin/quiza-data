@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2021-02-01T12:00:00+03:00",
+    "latestCheck": "2021-02-02T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -11,11 +11,13 @@
     "url": ["https://quizy.pro"],
     "games": [
       { "time": "2021-02-01T16:00:00Z", "name": "Easy Quizee \"Своя игра#3\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10969" ], "qpid": "10969", "qpuid": "3673", "qpuname": "Easy Quizee", "cat": "common_knowledge", "org": "Easy Quizee" },
+      { "time": "2021-02-01T16:00:00.466Z", "name": "Феникс Квиз Игра №6 Повтор от 31.01", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10976" ], "qpid": "10976", "qpuid": "265", "qpuname": "Феникс", "cat": "common_knowledge", "org": "Феникс" },
       { "time": "2021-02-01T17:30:00Z", "name": "КИНОКВИЗ #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10954" ], "qpid": "10954", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-02-01T17:30:00Z", "name": "МузОбозКино #5", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10965" ], "qpid": "10965", "qpuid": "8179", "qpuname": "Quiz Denis & Co", "cat": "cinema_and_music", "org": "Quiz Denis & Co" },
+      { "time": "2021-02-01T17:30:00.508Z", "name": "Теория большого взрыва vs Как я встретил вашу маму", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10980" ], "qpid": "10980", "qpuid": "3673", "qpuname": "Easy Quizee", "cat": "cinema_and_music", "org": "Easy Quizee" },
       { "time": "2021-02-01T18:30:00Z", "name": "КИНО И МУЗЫКА #12", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10963" ], "qpid": "10963", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
       { "time": "2021-02-04T18:00:00Z", "name": "ОБЛОЖКИ АЛЬБОМОВ #3", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10919" ], "qpid": "10919", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
-      { "time": "2021-02-06T11:00:00Z", "name": "День рождения ", "price": [ "390 RUB/ком" ], "url": [ "https://quizy.pro/streams/10900" ], "qpid": "10900", "qpuid": "12322", "qpuname": "Новый город Дружный", "cat": "common_knowledge", "org": "Новый город Дружный" },
+      { "time": "2021-02-06T21:00:00Z", "name": "День рождения ", "price": [ "390 RUB/ком" ], "url": [ "https://quizy.pro/streams/10900" ], "qpid": "10900", "qpuid": "12322", "qpuname": "Новый город Дружный", "cat": "common_knowledge", "org": "Новый город Дружный" },
       { "time": "2021-02-07T11:00:00Z", "name": "КВИЗ ПО ЖИВОПИСИ #10", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10921" ], "qpid": "10921", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "art_and_literature", "org": "Искусство ухода" },
       { "time": "2021-02-20T08:20:00Z", "name": "\"Декабристы в Сибири\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10785" ], "qpid": "10785", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "common_knowledge", "org": "Эрудит-Премьер" }
     ]
