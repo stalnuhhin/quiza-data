@@ -6,14 +6,27 @@
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
-    "url": ["https://www.facebook.com/pg/BEEEECLEVER/events"],
+    "url": ["http://beeclever.space/","https://www.facebook.com/pg/BEEEECLEVER/events"],
     "games": [
       {
         "time": "2021-02-02T20:00:00+02:00",
         "name": "М0н07 вызгы. Умри, но не сейчас. Синхронная лига Bee Clever",
         "chgk": true,
         "price": ["13 USD/ком"],
-        "url": ["https://www.facebook.com/events/229787658764520"]
+        "url": ["http://beeclever.space/regform.php?turnir=43"]
+      },
+      {
+        "time": "2021-02-09T20:00:00+02:00",
+        "name": "Триптих. Зима",
+        "chgk": true,
+        "price": ["12 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=44"]
+      },
+      {
+        "time": "2021-02-26T20:00:00+02:00",
+        "name": "Весенняя серия Bee Clever. Этап 1",
+        "chgk": true,
+        "price": ["8 USD/ком"]
       }
     ]
   }
