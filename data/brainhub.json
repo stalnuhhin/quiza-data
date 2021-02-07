@@ -2,7 +2,7 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2021-02-02T12:00:00+03:00",
+    "latestCheck": "2021-02-08T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
@@ -35,6 +35,12 @@
         "chgk": true,
         "price": ["140 UAH/1-2чел"],
         "url": ["https://www.facebook.com/events/437138500973023"]
+      },
+      {
+        "time": "2021-02-18T20:00:00+02:00",
+        "name": "2-й этап 2-го сезона Online Кинолиги",
+        "price": ["50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/463332625045047"]
       }
     ]
   }

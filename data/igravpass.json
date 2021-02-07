@@ -2,7 +2,7 @@
   {
     "id": "f13b6e4d-c5b3-449f-bbe5-ef1c0b52efde",
     "org": "Игра В. Пас",
-    "latestCheck": "2021-02-07T12:00:00+03:00",
+    "latestCheck": "2021-02-08T12:00:00+03:00",
     "type": ["events"],
     "image": "igravpass.png",
     "price": ["4 USD/чел"],
@@ -39,7 +39,14 @@
       {"template": "si44", "time": "2021-02-09T23:00:00+02:00"},
       {"template": "si44", "time": "2021-02-10T14:00:00+02:00"},
       {"template": "si44", "time": "2021-02-11T19:00:00+02:00"},
-      {"template": "si44", "time": "2021-02-12T21:00:00+02:00"}
+      {"template": "si44", "time": "2021-02-12T21:00:00+02:00"},
+      {
+        "time": "2021-02-13T20:00:00+02:00",
+        "name": "ЧГК по Калифорнии",
+        "chgk": true,
+        "price": ["3.6 USD/чел", "100 UAH/чел"],
+        "url": ["https://www.facebook.com/events/251904306582750"]
+      }
     ]
   }
 ]

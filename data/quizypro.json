@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2021-02-07T12:00:00+03:00",
+    "latestCheck": "2021-02-08T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -54,9 +54,17 @@
       { "time": "2021-02-07T18:40:00Z", "name": "ОБЛОЖКИ АЛЬБОМОВ #3", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10919" ], "qpid": "10919", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-02-07T19:00:00Z", "name": "IQra Квиз Игра NEW", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/11081" ], "qpid": "11081", "qpuid": "265", "qpuname": "Феникс", "cat": "common_knowledge", "org": "Феникс" },
       { "time": "2021-02-07T19:00:00Z", "name": "КИНО И МУЗЫКА #13", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11092" ], "qpid": "11092", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
+      { "time": "2021-02-08T12:00:00.438Z", "name": "МузОбозКино #5", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/11111" ], "qpid": "11111", "qpuid": "8179", "qpuname": "Quiz Denis & Co", "cat": "cinema_and_music", "org": "Quiz Denis & Co" },
+      { "time": "2021-02-08T17:30:00Z", "name": "КИНОКВИЗ. EPISODE 3", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11107" ], "qpid": "11107", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-02-08T17:40:00.957Z", "name": "МузОбозКино #6", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11110" ], "qpid": "11110", "qpuid": "8179", "qpuname": "Quiz Denis & Co", "cat": "cinema_and_music", "org": "Quiz Denis & Co" },
       { "time": "2021-02-08T18:00:00Z", "name": "CINEMANIA (КиноQUIZ) Сеанс 32-й", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11039" ], "qpid": "11039", "qpuid": "4528", "qpuname": "Dolce Vita", "cat": "cinema_and_music", "org": "Dolce Vita" },
+      { "time": "2021-02-08T18:40:00Z", "name": "КИНО И МУЗЫКА #13", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11092" ], "qpid": "11092", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
+      { "time": "2021-02-09T14:10:00Z", "name": "Русское кино", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/11106" ], "qpid": "11106", "qpuid": "6719", "qpuname": "Pianoforte ", "cat": "common_knowledge", "org": "Pianoforte " },
       { "time": "2021-02-12T18:30:00Z", "name": "СЕРИАЛЫ #11", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11018" ], "qpid": "11018", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-02-12T18:40:00Z", "name": "ОБЛОЖКИ АЛЬБОМОВ #3", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10919" ], "qpid": "10919", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-02-13T14:00:00Z", "name": "Quiz-club №65", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/11086" ], "qpid": "11086", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
+      { "time": "2021-02-14T13:00:00Z", "name": "POP QUIZ #14", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11108" ], "qpid": "11108", "qpuid": "2091", "qpuname": "POP QUIZ", "cat": "common_knowledge", "org": "POP QUIZ" },
+      { "time": "2021-02-14T16:00:00Z", "name": "POP QUIZ #14", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11109" ], "qpid": "11109", "qpuid": "2091", "qpuname": "POP QUIZ", "cat": "common_knowledge", "org": "POP QUIZ" },
       { "time": "2021-02-20T08:20:00Z", "name": "\"Декабристы в Сибири\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10785" ], "qpid": "10785", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "common_knowledge", "org": "Эрудит-Премьер" }
     ]
   }
