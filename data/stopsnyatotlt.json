@@ -2,7 +2,7 @@
   {
     "id": "6491cce6-ce64-4973-bd04-e8e2c3cdc230",
     "org": "Киноквиз \"Стоп!Снято!\"",
-    "latestCheck": "2021-02-05T12:00:00+03:00",
+    "latestCheck": "2021-02-07T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "stopsnyatotlt.png",
@@ -11,7 +11,8 @@
     "games": [
       { "time": "2021-02-05T17:30:00Z", "name": "Стоп!Снято! (Кино Quiz) Алфавит №3 (Премьера)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11013" ], "qpid": "11013", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" },
       { "time": "2021-02-05T19:10:00Z", "name": "Стоп!Снято! (Кино Quiz) Алфавит №3 (Премьера)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11014" ], "qpid": "11014", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" },
-      { "time": "2021-02-06T18:00:00Z", "name": "\"Стоп!Снято!\" Гарри Поттер vs Властелин колец", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11015" ], "qpid": "11015", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" }
+      { "time": "2021-02-06T18:00:00Z", "name": "\"Стоп!Снято!\" Гарри Поттер vs Властелин колец", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11015" ], "qpid": "11015", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" },
+      { "time": "2021-02-07T14:00:00Z", "name": "Стоп!Снято! \"Гарри Поттер vs Властелин колец\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11094" ], "qpid": "11094", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" }
     ]
   }
 ]
