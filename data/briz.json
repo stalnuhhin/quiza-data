@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2021-02-08T12:00:00+03:00",
+    "latestCheck": "2021-02-10T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -32,10 +32,13 @@
       { "time": "2021-02-08T13:00:00Z", "name": "Между строк. Повтор ", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/7910" ], "qpid": "7910", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-02-08T14:30:00Z", "name": "Эврика. 55 вопросов", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10797" ], "qpid": "10797", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-02-08T16:00:00Z", "name": "Двойной смысл. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11062" ], "qpid": "11062", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-02-08T18:00:00.776Z", "name": "Литературный КВИЗ: Русские писатели. Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11112" ], "qpid": "11112", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-02-09T16:30:00Z", "name": "ВРЕМЯ ПОДУМАТЬ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10832" ], "qpid": "10832", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "chgk" },
-      { "time": "2021-02-09T18:00:00Z", "name": "Один за всех! Каналья!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-02-09T18:00:00Z", "name": "V.I.P. - очень интересные персоны", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11055" ], "qpid": "11055", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-08T18:00:00Z", "name": "Литературный КВИЗ: Русские писатели. Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11112" ], "qpid": "11112", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-09T16:50:00Z", "name": "ВРЕМЯ ПОДУМАТЬ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10832" ], "qpid": "10832", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "chgk" },
+      { "time": "2021-02-09T18:10:00Z", "name": "V.I.P. - очень интересные персоны", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11055" ], "qpid": "11055", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-09T19:00:00Z", "name": "Двойной смысл. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11062" ], "qpid": "11062", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-09T20:00:00Z", "name": "НОЧНОЙ турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/11114" ], "qpid": "11114", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-10T13:30:00Z", "name": "Один за всех! Каналья!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-10T18:30:00Z", "name": "НАША ИГРА: ИНСАЙТ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11121" ], "qpid": "11121", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-02-12T18:00:00Z", "name": "КНИГИ vs ФИЛЬМЫ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11066" ], "qpid": "11066", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-02-13T19:00:00Z", "name": "ЖАРА 16+. ПРЕМЬЕРА!!!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10661" ], "qpid": "10661", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
