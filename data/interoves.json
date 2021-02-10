@@ -1,0 +1,19 @@
+[
+  {
+    "id": "9c9aea1e-7ee0-46ca-915a-37480f90300a",
+    "org": "inter oves locum praesta",
+    "latestCheck": "2021-02-11T12:00:00+03:00",
+    "type": ["events"],
+    "image": "interoves.png",
+    "hasContent": true,
+    "duration": 2,
+    "free": true,
+    "donate": true,
+    "desc": "Интеллектуальные игры, в которых можно пользоваться Интернетом.",
+    "payment": ["Игры бесплатные, за донаты."],
+    "url": ["https://interoves.ml"],
+    "games": [
+      {"time": "2021-02-14T18:00:00+02:00", "name": "Десяточка 43"}
+    ]
+  }
+]
