@@ -2,6 +2,7 @@ const DATA_VERSION = 333;
 const DATAFILES = [
     "3x12trivianights.json",
     "artobstrel.json",
+    "batsian.json",
     "beeclever.json",
     "bezdurakov.json",
     "bezumnyjimperator.json",
