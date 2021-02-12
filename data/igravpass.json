@@ -2,7 +2,7 @@
   {
     "id": "f13b6e4d-c5b3-449f-bbe5-ef1c0b52efde",
     "org": "Игра В. Пас",
-    "latestCheck": "2021-02-08T12:00:00+03:00",
+    "latestCheck": "2021-02-13T12:00:00+03:00",
     "type": ["events"],
     "image": "igravpass.png",
     "price": ["4 USD/чел"],
@@ -17,6 +17,11 @@
         "name": "Футбольная «Своя игра» Игровая неделя №44",
         "duration": 1,
         "url": ["https://www.facebook.com/events/785392268719616"]
+      },
+      "si45": {
+        "name": "Футбольная «Своя игра» Игровая неделя №45",
+        "duration": 1,
+        "url": ["https://www.facebook.com/events/248559106847931"]
       }
     },
     "games": [
@@ -46,7 +51,20 @@
         "chgk": true,
         "price": ["3.6 USD/чел", "100 UAH/чел"],
         "url": ["https://www.facebook.com/events/251904306582750"]
-      }
+      },
+      {
+        "time": "2021-02-14T20:30:00+02:00",
+        "name": "Парное ЧГК",
+        "chgk": true,
+        "price": ["1.8 USD/чел", "50 UAH/чел"],
+        "url": ["https://www.facebook.com/events/1076956426115557"]
+      },
+      {"template": "si45", "time": "2021-02-15T22:00:00+02:00"},
+      {"template": "si45", "time": "2021-02-16T16:00:00+02:00"},
+      {"template": "si45", "time": "2021-02-16T23:00:00+02:00"},
+      {"template": "si45", "time": "2021-02-17T14:00:00+02:00"},
+      {"template": "si45", "time": "2021-02-18T19:00:00+02:00"},
+      {"template": "si45", "time": "2021-02-19T21:00:00+02:00"}
     ]
   }
 ]

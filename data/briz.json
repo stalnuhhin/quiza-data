@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2021-02-11T12:00:00+03:00",
+    "latestCheck": "2021-02-13T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -40,8 +40,17 @@
       { "time": "2021-02-10T13:30:00Z", "name": "Один за всех! Каналья!", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/8631" ], "qpid": "8631", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-02-10T18:30:00Z", "name": "НАША ИГРА: ИНСАЙТ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11121" ], "qpid": "11121", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-02-10T20:00:00Z", "name": "НОЧНОЙ турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/11114" ], "qpid": "11114", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-02-12T18:00:00Z", "name": "КНИГИ vs ФИЛЬМЫ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11066" ], "qpid": "11066", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-02-13T19:00:00Z", "name": "ЖАРА 16+. ПРЕМЬЕРА!!!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10661" ], "qpid": "10661", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
+      { "time": "2021-02-12T18:00:00Z", "name": "КНИГИ vs ФИЛЬМЫ. ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11066" ], "qpid": "11066", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-12T20:00:00Z", "name": "НОЧНОЙ турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/11192" ], "qpid": "11192", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-13T11:00:00Z", "name": "КНИГИ vs ФИЛЬМЫ. ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11176" ], "qpid": "11176", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-13T17:00:00Z", "name": "КНИГИ vs ФИЛЬМЫ. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11181" ], "qpid": "11181", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-13T19:00:00Z", "name": "ЖАРА 16+. ПРЕМЬЕРА!!!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10661" ], "qpid": "10661", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-14T11:00:00Z", "name": "ЖАРА 16+. ПРЕМЬЕРА!!!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11180" ], "qpid": "11180", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-14T13:00:00Z", "name": "КНИГИ vs ФИЛЬМЫ. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11185" ], "qpid": "11185", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-14T15:00:00Z", "name": "ЖАРА 16+", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11187" ], "qpid": "11187", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-14T17:00:00Z", "name": "КНИГИ vs ФИЛЬМЫ. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11186" ], "qpid": "11186", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-14T18:30:00Z", "name": "ЖАРА 16+", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11188" ], "qpid": "11188", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-25T18:00:00Z", "name": "Занимательный глобус", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10405" ], "qpid": "10405", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
   }
 ]
