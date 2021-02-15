@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2021-02-15T12:00:00+03:00",
+    "latestCheck": "2021-02-16T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -55,7 +55,8 @@
       { "time": "2021-02-15T15:30:00Z", "name": "Двойной смысл", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11178" ], "qpid": "11178", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-02-15T17:00:00Z", "name": "КНИГИ vs ФИЛЬМЫ. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11186" ], "qpid": "11186", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-02-15T18:40:00Z", "name": "Двойной смысл. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11062" ], "qpid": "11062", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-02-15T20:00:00.602Z", "name": "НОЧНОЙ турнир НА ВЫБОР!", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/11218" ], "qpid": "11218", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-15T20:50:00.602Z", "name": "НОЧНОЙ турнир НА ВЫБОР!", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/11218" ], "qpid": "11218", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-02-16T18:40:00Z", "name": "Двойной смысл. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11062" ], "qpid": "11062", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-02-17T18:30:00Z", "name": "ЖАРА 16+", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11187" ], "qpid": "11187", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-02-25T18:00:00Z", "name": "Занимательный глобус", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10405" ], "qpid": "10405", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
