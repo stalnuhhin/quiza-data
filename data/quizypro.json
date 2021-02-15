@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2021-02-13T12:00:00+03:00",
+    "latestCheck": "2021-02-15T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -98,8 +98,14 @@
       { "time": "2021-02-14T13:00:00Z", "name": "POP QUIZ #14", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11108" ], "qpid": "11108", "qpuid": "2091", "qpuname": "POP QUIZ", "cat": "common_knowledge", "org": "POP QUIZ" },
       { "time": "2021-02-14T16:00:00Z", "name": "POP QUIZ #14", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11109" ], "qpid": "11109", "qpuid": "2091", "qpuname": "POP QUIZ", "cat": "common_knowledge", "org": "POP QUIZ" },
       { "time": "2021-02-14T17:30:00Z", "name": "СВОЯ ИГРА #7", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/11143" ], "qpid": "11143", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "chgk", "org": "СВОЯ ИГРА ONLINE" },
+      { "time": "2021-02-15T10:30:00Z", "name": "КИНОКВИЗ. EPISODE 4", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11146" ], "qpid": "11146", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-02-15T12:00:00Z", "name": "Феникс Квиз Игра №8 ПРЕМЬЕРА!!!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11216" ], "qpid": "11216", "qpuid": "265", "qpuname": "Феникс", "cat": "common_knowledge", "org": "Феникс" },
+      { "time": "2021-02-15T16:00:00Z", "name": "Феникс Квиз Игра №8 ПРЕМЬЕРА!!!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11217" ], "qpid": "11217", "qpuid": "265", "qpuname": "Феникс", "cat": "common_knowledge", "org": "Феникс" },
       { "time": "2021-02-15T17:00:00Z", "name": "Квиз о танцах и всем, что с ними связано", "price": [ "299 RUB/ком" ], "url": [ "https://quizy.pro/streams/11157" ], "qpid": "11157", "qpuid": "1806", "qpuname": "TeamQuiz", "cat": "common_knowledge", "org": "TeamQuiz" },
-      { "time": "2021-02-20T08:20:00Z", "name": "\"Декабристы в Сибири\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10785" ], "qpid": "10785", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "common_knowledge", "org": "Эрудит-Премьер" }
+      { "time": "2021-02-16T11:00:00Z", "name": "Турнир на выбор", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/11204" ], "qpid": "11204", "qpuid": "8179", "qpuname": "Quiz Denis & Co", "cat": "other", "org": "Quiz Denis & Co" },
+      { "time": "2021-02-19T20:00:00Z", "name": "ОБЛОЖКИ АЛЬБОМОВ #3", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10919" ], "qpid": "10919", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-02-20T08:20:00Z", "name": "\"Декабристы в Сибири\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10785" ], "qpid": "10785", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "common_knowledge", "org": "Эрудит-Премьер" },
+      { "time": "2021-02-20T14:00:00Z", "name": "Quiz-club №66", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/11212" ], "qpid": "11212", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" }
     ]
   }
 ]
