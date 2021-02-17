@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2021-02-16T12:00:00+03:00",
+    "latestCheck": "2021-02-17T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -108,11 +108,17 @@
       { "time": "2021-02-16T14:00:00Z", "name": "IQra Квиз Игра NEW", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11230" ], "qpid": "11230", "qpuid": "265", "qpuname": "Феникс", "cat": "common_knowledge", "org": "Феникс" },
       { "time": "2021-02-16T16:00:00.072Z", "name": "ALPHABET MUSIC QUIZ #71", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11233" ], "qpid": "11233", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-02-16T17:30:00Z", "name": "КИНО И МУЗЫКА #14", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11234" ], "qpid": "11234", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-02-17T10:30:00Z", "name": "Своя игра #3", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10718" ], "qpid": "10718", "qpuid": "3673", "qpuname": "Easy Quizee", "cat": "common_knowledge", "org": "Easy Quizee" },
+      { "time": "2021-02-17T12:00:00Z", "name": "Феникс Квиз Игра №8 Повтор от 15.02", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11250" ], "qpid": "11250", "qpuid": "265", "qpuname": "Феникс", "cat": "common_knowledge", "org": "Феникс" },
+      { "time": "2021-02-17T16:00:00Z", "name": "Marvel Мстители", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11242" ], "qpid": "11242", "qpuid": "3673", "qpuname": "Easy Quizee", "cat": "cinema_and_music", "org": "Easy Quizee" },
+      { "time": "2021-02-17T16:00:00Z", "name": "РОК-МУЗЫКА #22", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11253" ], "qpid": "11253", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
+      { "time": "2021-02-17T17:30:00Z", "name": "СВОЯ ИГРА #32", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/11252" ], "qpid": "11252", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "chgk", "org": "СВОЯ ИГРА ONLINE" },
       { "time": "2021-02-19T20:00:00Z", "name": "ОБЛОЖКИ АЛЬБОМОВ #3", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10919" ], "qpid": "10919", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-02-20T08:20:00Z", "name": "\"Декабристы в Сибири\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10785" ], "qpid": "10785", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "common_knowledge", "org": "Эрудит-Премьер" },
       { "time": "2021-02-20T14:00:00Z", "name": "Quiz-club №66", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/11212" ], "qpid": "11212", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
       { "time": "2021-02-21T11:00:00Z", "name": "МУЛЬТФИЛЬМЫ #8", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11223" ], "qpid": "11223", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
-      { "time": "2021-02-21T16:00:00Z", "name": "Сезон 2021. Игра №2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11227" ], "qpid": "11227", "qpuid": "5060", "qpuname": "Quiz да ball", "cat": "common_knowledge", "org": "Quiz да ball" }
+      { "time": "2021-02-21T16:00:00Z", "name": "Сезон 2021. Игра №2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11227" ], "qpid": "11227", "qpuid": "5060", "qpuname": "Quiz да ball", "cat": "sports", "org": "Quiz да ball" },
+      { "time": "2021-02-23T11:00:00Z", "name": "Повтор Игра №2 . 2021", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11245" ], "qpid": "11245", "qpuid": "5060", "qpuname": "Quiz да ball", "cat": "sports", "org": "Quiz да ball" }
     ]
   }
 ]
