@@ -2,7 +2,7 @@
   {
     "id": "d9388ed9-a66c-437e-b538-2e700aa8fe46",
     "org": "Genium (Максим Поташев)",
-    "latestCheck": "2021-02-21T12:00:00+03:00",
+    "latestCheck": "2021-02-23T12:00:00+03:00",
     "type": ["events"],
     "image": "geniumonline.png",
     "duration": 2,
@@ -13,7 +13,8 @@
     "games": [
       {"time": "2021-02-06T21:00:00+03:00", "name": "Genium Challenge Online", "url": ["https://genium-event.timepad.ru/event/1426557/"]},
       {"time": "2021-02-13T21:00:00+03:00", "name": "Genium Sprint Online", "url": ["https://genium-event.timepad.ru/event/1435556/"]},
-      {"time": "2021-02-20T21:00:00+03:00", "name": "Genium Challenge Online", "url": ["https://genium-event.timepad.ru/event/1426557/"]}
+      {"time": "2021-02-20T21:00:00+03:00", "name": "Genium Challenge Online", "url": ["https://genium-event.timepad.ru/event/1426557/"]},
+      {"time": "2021-02-27T21:00:00+03:00", "name": "Genium Sprint Online", "url": ["https://genium-event.timepad.ru/event/1435556/"]}
     ]
   }
 ]
