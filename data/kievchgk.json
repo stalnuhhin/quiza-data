@@ -2,7 +2,7 @@
   {
     "id": "1482b61a-0e8c-4f7b-b99e-79ac41502c68",
     "org": "ЧГК в Киеве",
-    "latestCheck": "2021-02-19T12:00:00+03:00",
+    "latestCheck": "2021-02-25T12:00:00+03:00",
     "type": ["events"],
     "image": "kievchgk.png",
     "duration": 2,
@@ -10,7 +10,8 @@
     "url": ["https://www.facebook.com/pg/chgk.kiev.ua/events/"],
     "games": [
       {"time": "2021-02-06T19:00:00+02:00", "name": "Чёрное ЧГК от #kievchgk", "price": ["300 UAH/ком"], "url": ["https://www.facebook.com/events/271001537690261"]},
-      {"time": "2021-02-13T19:00:00+02:00", "name": "Онлайн ЧГК. s04e02 // #kievchgk", "price": ["360 UAH/ком"], "url": ["https://www.facebook.com/events/556119518683626"]}
+      {"time": "2021-02-13T19:00:00+02:00", "name": "Онлайн ЧГК. s04e02 // #kievchgk", "price": ["360 UAH/ком"], "url": ["https://www.facebook.com/events/556119518683626"]},
+      {"time": "2021-02-27T19:00:00+02:00", "name": "Онлайн ЧГК. s04e03 // #kievchgk", "price": ["360 UAH/ком"], "url": ["https://www.facebook.com/events/440717893909971"]}
     ]
   }
 ]
