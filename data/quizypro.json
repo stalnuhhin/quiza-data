@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2021-02-25T12:00:00+03:00",
+    "latestCheck": "2021-02-28T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -178,11 +178,17 @@
       { "time": "2021-02-27T17:30:00Z", "name": "СВОЯ ИГРА #8", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/11412" ], "qpid": "11412", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "chgk", "org": "СВОЯ ИГРА ONLINE" },
       { "time": "2021-02-27T18:50:00Z", "name": "ALPHABET MUSIC QUIZ #73", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11406" ], "qpid": "11406", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-02-27T20:00:00Z", "name": "ALPHABET MUSIC QUIZ #74", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11407" ], "qpid": "11407", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-02-28T09:00:00Z", "name": "Европа", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/11449" ], "qpid": "11449", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "art_and_literature", "org": "Культпросвет" },
       { "time": "2021-02-28T11:00:00Z", "name": "КВИЗ ПО ЖИВОПИСИ #12", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11413" ], "qpid": "11413", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "art_and_literature", "org": "Искусство ухода" },
       { "time": "2021-02-28T13:00:00Z", "name": "Quiz-club №67", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/11341" ], "qpid": "11341", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
       { "time": "2021-02-28T13:00:00Z", "name": "CLASSIC HOLLYWOOD", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11414" ], "qpid": "11414", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-02-28T14:00:00Z", "name": "Европа", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/11450" ], "qpid": "11450", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "art_and_literature", "org": "Культпросвет" },
       { "time": "2021-02-28T16:00:00Z", "name": "МУЗЫКАЛОЧКА #1", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11417" ], "qpid": "11417", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-02-28T16:00:00Z", "name": "Своя игра #4", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11456" ], "qpid": "11456", "qpuid": "3673", "qpuname": "Easy Quizee", "cat": "common_knowledge", "org": "Easy Quizee" },
       { "time": "2021-02-28T18:40:00Z", "name": "АЗБУКА КИНО #4", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11418" ], "qpid": "11418", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-03-01T15:00:00Z", "name": "Футбольный Easy Quizee \"Удар головой\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10947" ], "qpid": "10947", "qpuid": "3673", "qpuname": "Easy Quizee", "cat": "sports", "org": "Easy Quizee" },
+      { "time": "2021-03-01T18:00:00Z", "name": "КИНОКВИЗ. EPISODE VI", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11408" ], "qpid": "11408", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-03-01T18:00:00Z", "name": "Европа", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/11451" ], "qpid": "11451", "qpuid": "6158", "qpuname": "Культпросвет", "cat": "art_and_literature", "org": "Культпросвет" },
       { "time": "2021-03-20T08:20:00Z", "name": "\"Океан и его экология\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11258" ], "qpid": "11258", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "common_knowledge", "org": "Эрудит-Премьер" }
     ]
   }
