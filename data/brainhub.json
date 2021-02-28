@@ -2,46 +2,12 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2021-02-25T12:00:00+03:00",
+    "latestCheck": "2021-03-01T12:00:00+03:00",
     "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
     "url": ["https://www.facebook.com/pg/BrainHubKiev/events/", "https://www.facebook.com/pg/brainhubkharkiv/events/", "https://www.twitch.tv/brainhubua"],
     "games": [
-      {
-        "time": "2021-02-03T20:00:00+02:00",
-        "name": "ЛУК: Восход солнца",
-        "chgk": true,
-        "price": ["360 UAH/ком"],
-        "url": ["https://www.facebook.com/events/1166098850471607"]
-      },
-      {
-        "time": "2021-02-07T12:00:00+02:00",
-        "name": "Леденец",
-        "chgk": true,
-        "price": ["330 UAH/ком"],
-        "url": ["https://www.facebook.com/events/770470740569246"]
-      },
-      {
-        "time": "2021-02-07T14:00:00+02:00",
-        "name": "Молодёжный кубок Европы. Этап 2",
-        "chgk": true,
-        "price": ["390 UAH/ком"],
-        "url": ["https://www.facebook.com/events/770470740569246"]
-      },
-      {
-        "time": "2021-02-15T20:00:00+02:00",
-        "name": "Парное «Что? Где? Когда?»",
-        "chgk": true,
-        "price": ["140 UAH/1-2чел"],
-        "url": ["https://www.facebook.com/events/437138500973023"]
-      },
-      {
-        "time": "2021-02-18T20:00:00+02:00",
-        "name": "2-й этап 2-го сезона Online Кинолиги",
-        "price": ["50 UAH/чел"],
-        "url": ["https://www.facebook.com/events/463332625045047"]
-      }
     ]
   }
 ]

@@ -2,19 +2,13 @@
   {
     "id": "eef21320-ac8d-4899-9be8-7d8a34c9936c",
     "org": "Квизы Скороход",
-    "latestCheck": "2021-02-21T12:00:00+03:00",
+    "latestCheck": "2021-03-01T12:00:00+03:00",
     "type": ["events"],
     "image": "skorohod.png",
     "duration": 1,
     "price": ["200 RUB/ком"],
     "url": ["https://vk.com/skorohod_quiz"],
     "games": [
-      {
-        "time": "2021-02-21T21:00:00+03:00",
-        "name": "Умка #вечернаяяумка (новая)",
-        "price": ["300 RUB/чел"],
-        "url": ["https://vk.com/wall-74247084_2397"]
-      }
     ]
   }
 ]

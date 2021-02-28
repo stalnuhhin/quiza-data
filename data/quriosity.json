@@ -2,20 +2,12 @@
   {
     "id": "64698db6-1f11-49ca-9b9d-c81ef239a849",
     "org": "Quriosity (Telegram)",
-    "latestCheck": "2021-02-28T12:00:00+03:00",
+    "latestCheck": "2021-03-01T12:00:00+03:00",
     "type": ["events"],
     "duration": 1,
     "image": "quriosity.png",
     "url": ["https://www.facebook.com/quriosity.quiz", "https://ttttt.me/quriosity_quiz"],
     "games": [
-      {
-        "time": "2021-02-14T16:00:00+03:00",
-        "name": "РЕТРО Кино и музыка"
-      },
-      {
-        "time": "2021-02-28T16:00:00+03:00",
-        "name": "ОНЛАЙН №28"
-      }
     ]
   }
 ]

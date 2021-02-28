@@ -4,7 +4,7 @@
     "noOnline": true,
     "org": "КВИЖН",
     "name": "Квижн-онлайн",
-    "latestCheck": "2020-12-30T12:00:00+03:00",
+    "latestCheck": "2021-03-01T12:00:00+03:00",
     "type": ["events"],
     "image": "kvizhn.png",
     "duration": 2,
