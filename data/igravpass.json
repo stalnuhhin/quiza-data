@@ -2,19 +2,24 @@
   {
     "id": "f13b6e4d-c5b3-449f-bbe5-ef1c0b52efde",
     "org": "Игра В. Пас",
-    "latestCheck": "2021-03-01T12:00:00+03:00",
+    "latestCheck": "2021-03-02T12:00:00+03:00",
     "type": ["events"],
     "image": "igravpass.png",
     "price": ["4 USD/чел"],
     "url": ["https://www.facebook.com/pg/QuizVPas/events"],
     "templates": {
-      "si46": {
-        "name": "Футбольная «Своя игра» Игровая неделя №46",
+      "si47": {
+        "name": "Футбольная «Своя игра» Игровая неделя №47",
         "duration": 1,
-        "url": ["https://www.facebook.com/events/1196819130720635"]
+        "url": ["https://www.facebook.com/events/859199004872994"]
       }
     },
     "games": [
+      {"time": "2021-03-02T16:00:00+02:00", "template": "si47"},
+      {"time": "2021-03-02T23:00:00+02:00", "template": "si47"},
+      {"time": "2021-03-03T19:00:00+02:00", "template": "si47"},
+      {"time": "2021-03-04T20:30:00+02:00", "template": "si47"},
+      {"time": "2021-03-05T21:00:00+02:00", "template": "si47"}
     ]
   }
 ]
