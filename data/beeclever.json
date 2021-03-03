@@ -2,7 +2,7 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2021-03-01T12:00:00+03:00",
+    "latestCheck": "2021-03-03T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
@@ -13,6 +13,20 @@
         "name": "LM: Красный. Синхронная лига Bee Clever",
         "chgk": true,
         "price": ["13 USD/ком"]
+      },
+      {
+        "time": "2021-03-09T20:00:00+02:00",
+        "name": "День правосудия. Синхронная лига BeeClever",
+        "chgk": true,
+        "price": ["13 USD/ком"],
+        "url": ["https://www.facebook.com/events/4189962177713396"]
+      },
+      {
+        "time": "2021-03-11T20:00:00+02:00",
+        "name": "Весенняя серия Bee Clever. Этап 2",
+        "chgk": true,
+        "price": ["9 USD/ком"],
+        "url": ["https://www.facebook.com/events/279764607050543/"]
       }
     ]
   }
