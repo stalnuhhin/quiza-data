@@ -2,7 +2,7 @@
   {
     "id": "9c9aea1e-7ee0-46ca-915a-37480f90300a",
     "org": "inter oves locum praesta",
-    "latestCheck": "2021-03-01T12:00:00+03:00",
+    "latestCheck": "2021-03-06T12:00:00+03:00",
     "type": ["events"],
     "image": "interoves.png",
     "hasContent": true,
@@ -13,6 +13,7 @@
     "payment": ["Игры бесплатные, за донаты."],
     "url": ["https://interoves.ml"],
     "games": [
+      {"time": "2021-03-07T18:00:00+02:00", "name": "Десяточка 46"}
     ]
   }
 ]
