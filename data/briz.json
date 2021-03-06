@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2021-03-06T12:00:00+03:00",
+    "latestCheck": "2021-03-07T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -27,6 +27,7 @@
       { "time": "2021-03-06T11:00:00Z", "name": "А знаешь ли ты? ПРЕМЬЕРА для ДВ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11477" ], "qpid": "11477", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-03-06T16:00:00Z", "name": "А знаешь ли ты? Новинка!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11497" ], "qpid": "11497", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-03-06T19:00:00Z", "name": "Играй, ГОРМОН! Премьера!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11499" ], "qpid": "11499", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-03-06T20:30:00.113Z", "name": "НОЧНОЙ турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/11580" ], "qpid": "11580", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-03-07T12:30:00Z", "name": "Играй, ГОРМОН! Премьера для ДВ и Сибири!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11500" ], "qpid": "11500", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-03-07T13:00:00Z", "name": "А знаешь ли ты? Новинка!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11498" ], "qpid": "11498", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-03-07T15:00:00Z", "name": "Играй, ГОРМОН! Новинка!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11501" ], "qpid": "11501", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },

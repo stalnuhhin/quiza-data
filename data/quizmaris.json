@@ -3,13 +3,13 @@
     "id": "9eb0228f-fc4d-4e11-a294-87455f004ad9",
     "noOnline": true,
     "org": "Quiz Maris",
-    "latestCheck": "2021-03-06T12:00:00+03:00",
+    "latestCheck": "2021-03-07T12:00:00+03:00",
     "type": ["events"],
     "image": "quizmaris.png",
     "duration": 1,
     "url": ["https://vk.com/quizmaris", "https://quizmaris.ru"],
     "games": [
-      { "time": "2021-03-05T19:00:00Z", "name": "Квиз Марис [ПРЕМЬЕРА]", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/11550" ], "qpid": "11550", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" }
+      { "time": "2021-03-06T19:00:00Z", "name": "Квиз Марис [ПРЕМЬЕРА]", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/11550" ], "qpid": "11550", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" }
     ]
   }
 ]

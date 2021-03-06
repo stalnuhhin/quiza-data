@@ -2,7 +2,7 @@
   {
     "id": "d9388ed9-a66c-437e-b538-2e700aa8fe46",
     "org": "Genium (Максим Поташев)",
-    "latestCheck": "2021-03-01T12:00:00+03:00",
+    "latestCheck": "2021-03-07T12:00:00+03:00",
     "type": ["events"],
     "image": "geniumonline.png",
     "duration": 2,
@@ -14,6 +14,12 @@
     "desc": "Игры Максима Поташева: есть разные типы игр.",
     "info": ["Cтрим в Zoom.", "Ответы вбиваются в их личную систему."],
     "games": [
+      {
+        "time": "2021-03-06T21:00:00+03:00",
+        "name": "Genium Challenge Online",
+        "price": ["600 RUB/ком"],
+        "url": ["https://genium-event.timepad.ru/event/1426557"]
+      },
       {
         "time": "2021-03-20T21:00:00+03:00",
         "name": "Отборочный турнир на чемпионат мира по игре Genium Challenge",
