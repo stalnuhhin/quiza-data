@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2021-03-07T12:00:00+03:00",
+    "latestCheck": "2021-03-08T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -49,7 +49,13 @@
       { "time": "2021-03-07T18:00:00Z", "name": "Вдарим рок! | Квиз по рок музыке | ПРЕМЬЕРА", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11576" ], "qpid": "11576", "qpuid": "3474", "qpuname": "Антуан Квиз, ман?", "cat": "cinema_and_music", "org": "Антуан Квиз, ман?" },
       { "time": "2021-03-07T18:40:00Z", "name": "КИНОКВИЗ. EPISODE 7", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11573" ], "qpid": "11573", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-03-07T19:40:00Z", "name": "АЗБУКА КИНО #3", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11523" ], "qpid": "11523", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
-      { "time": "2021-03-08T16:00:00Z", "name": "Повтор. Сезон 2021. Игра №3", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/11566" ], "qpid": "11566", "qpuid": "5060", "qpuname": "Quiz да ball", "cat": "common_knowledge", "org": "Quiz да ball" },
+      { "time": "2021-03-08T12:00:00Z", "name": "IQra Black 16+ #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11578" ], "qpid": "11578", "qpuid": "265", "qpuname": "Феникс", "cat": "common_knowledge", "org": "Феникс" },
+      { "time": "2021-03-08T13:00:00Z", "name": "IQra Квиз Игра NEW", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11587" ], "qpid": "11587", "qpuid": "265", "qpuname": "Феникс", "cat": "common_knowledge", "org": "Феникс" },
+      { "time": "2021-03-08T16:00:00Z", "name": "Сезон 2021. Игра №3", "price": [ "300 RUB/ком" ], "url": [ "https://quizy.pro/streams/11565" ], "qpid": "11565", "qpuid": "5060", "qpuname": "Quiz да ball", "cat": "common_knowledge", "org": "Quiz да ball" },
+      { "time": "2021-03-08T17:00:00Z", "name": "ALPHABET MUSIC QUIZ #76", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11521" ], "qpid": "11521", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-03-08T18:00:00Z", "name": "IQra Квиз Игра NEW", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11592" ], "qpid": "11592", "qpuid": "265", "qpuname": "Феникс", "cat": "common_knowledge", "org": "Феникс" },
+      { "time": "2021-03-11T17:00:00Z", "name": "Феникс Квиз Игра №9 ПРЕМЬЕРА!!!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11591" ], "qpid": "11591", "qpuid": "265", "qpuname": "Феникс", "cat": "common_knowledge", "org": "Феникс" },
+      { "time": "2021-03-13T14:00:00Z", "name": "QUIZ-CLUB №69", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/11583" ], "qpid": "11583", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
       { "time": "2021-03-20T08:20:00Z", "name": "\"Океан и его экология\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11258" ], "qpid": "11258", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "common_knowledge", "org": "Эрудит-Премьер" }
     ]
   }
