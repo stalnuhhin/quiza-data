@@ -3,7 +3,7 @@
     "id": "9760298f-4f4a-420c-93f0-db17ce6eb658",
     "noOnline": true,
     "org": "Эврика Online",
-    "latestCheck": "2021-03-07T12:00:00+03:00",
+    "latestCheck": "2021-03-14T12:00:00+03:00",
     "type": ["events"],
     "image": "eureka.png",
     "price": ["20 EUR/ком", "4 EUR/чел"],
@@ -14,6 +14,14 @@
         "name": "Eureka #7 (159): Имени Стаса Михайлова",
         "price": ["5 EUR/чел"],
         "url": ["https://www.facebook.com/events/445552569833466/"]
+      },
+      {
+        "time": "2021-03-19T19:00:00+02:00",
+        "name": "Eureka Special + Опять 25!",
+        "price": [],
+        "free": true,
+        "donation": true,
+        "url": ["https://www.facebook.com/events/841315693265219/"]
       }
     ]
   }
