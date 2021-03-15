@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2021-03-13T12:00:00+03:00",
+    "latestCheck": "2021-03-16T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -78,6 +78,13 @@
       { "time": "2021-03-14T16:00:00Z", "name": "МУЗЫКАЛОЧКА #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11644" ], "qpid": "11644", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-03-14T17:30:00Z", "name": "СВОЯ ИГРА #9", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11631" ], "qpid": "11631", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "chgk", "org": "СВОЯ ИГРА ONLINE" },
       { "time": "2021-03-14T18:30:00Z", "name": "ЛИТЕРАТУРА #3", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11634" ], "qpid": "11634", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "art_and_literature", "org": "Искусство ухода" },
+      { "time": "2021-03-15T11:00:00Z", "name": "Квиз Тайм №5", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11649" ], "qpid": "11649", "qpuid": "8179", "qpuname": "Quiz Denis & Co", "cat": "common_knowledge", "org": "Quiz Denis & Co" },
+      { "time": "2021-03-15T16:00:00Z", "name": "Квиз тайм №5", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11695" ], "qpid": "11695", "qpuid": "8179", "qpuname": "Quiz Denis & Co", "cat": "common_knowledge", "org": "Quiz Denis & Co" },
+      { "time": "2021-03-15T16:00:00.171Z", "name": "ALPHABET MUSIC QUIZ #78", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11698" ], "qpid": "11698", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-03-15T17:30:00Z", "name": "IQra Квиз Игра №61 ПРЕМЬЕРА!!!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11694" ], "qpid": "11694", "qpuid": "265", "qpuname": "Феникс", "cat": "common_knowledge", "org": "Феникс" },
+      { "time": "2021-03-15T18:00:00Z", "name": "ЛИТЕРАТУРА #3", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11634" ], "qpid": "11634", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "art_and_literature", "org": "Искусство ухода" },
+      { "time": "2021-03-16T16:00:00Z", "name": "ALPHABET MUSIC QUIZ #79", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11700" ], "qpid": "11700", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-03-16T18:00:00Z", "name": "КИНО И МУЗЫКА #18", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11699" ], "qpid": "11699", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-03-20T08:20:00Z", "name": "\"Океан и его экология\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11258" ], "qpid": "11258", "qpuid": "10658", "qpuname": "Эрудит-Премьер", "cat": "common_knowledge", "org": "Эрудит-Премьер" }
     ]
   }
