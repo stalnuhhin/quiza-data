@@ -2,7 +2,7 @@
   {
     "id": "1482b61a-0e8c-4f7b-b99e-79ac41502c68",
     "org": "ЧГК в Киеве",
-    "latestCheck": "2021-03-16T12:00:00+03:00",
+    "latestCheck": "2021-03-21T12:00:00+03:00",
     "type": ["events"],
     "image": "kievchgk.png",
     "duration": 2,
@@ -10,7 +10,8 @@
     "url": ["https://www.facebook.com/pg/chgk.kiev.ua/events/"],
     "games": [
       {"time": "2021-03-13T19:00:00+02:00", "name": "Онлайн ЧГК. s04e04 // #kievchgk", "price": ["360 UAH/ком"], "url": ["https://www.facebook.com/events/463271534858135"]},
-      {"time": "2021-03-20T19:00:00+02:00", "name": "Saint Patrick's Day // #kievchgk", "price": [], "free": true, "url": ["https://www.facebook.com/events/248100016955319"]}
+      {"time": "2021-03-20T19:00:00+02:00", "name": "Saint Patrick's Day // #kievchgk", "price": [], "free": true, "url": ["https://www.facebook.com/events/248100016955319"]},
+      {"time": "2021-03-28T18:00:00+03:00", "name": "ЧГК по кино «Movie 36»", "price": ["300 UAH/ком", "11 USD/ком"], "url": ["https://www.facebook.com/events/272450474445690"]}
     ]
   }
 ]
