@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2021-03-21T12:00:00+03:00",
+    "latestCheck": "2021-03-22T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -78,10 +78,16 @@
       { "time": "2021-03-21T17:30:00Z", "name": "Отпускное настроение. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11756" ], "qpid": "11756", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-03-21T19:00:00Z", "name": "КОСМОПОЛИТ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11777" ], "qpid": "11777", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-03-21T20:30:00Z", "name": "Ночной турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/11778" ], "qpid": "11778", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-03-22T11:00:00Z", "name": "КОСМОПОЛИТ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/10275" ], "qpid": "10275", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "cinema_and_music" },
+      { "time": "2021-03-22T12:30:00Z", "name": "Отпускное настроение. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11756" ], "qpid": "11756", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-03-22T14:30:00Z", "name": "Вывих мозга", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11663" ], "qpid": "11663", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-03-22T16:30:00Z", "name": "Наша игра: АДРЕНАЛИН", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11744" ], "qpid": "11744", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-03-22T16:00:00Z", "name": "Отпускное настроение. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11791" ], "qpid": "11791", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-03-22T18:00:00Z", "name": "КОСМОПОЛИТ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11790" ], "qpid": "11790", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-03-22T20:00:00Z", "name": "Ночной турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/11778" ], "qpid": "11778", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-03-23T13:00:00Z", "name": "Наша игра: АДРЕНАЛИН", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11744" ], "qpid": "11744", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-03-23T16:00:00Z", "name": "90-е. Наизнанку!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11701" ], "qpid": "11701", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-03-23T16:00:00Z", "name": "КОСМОПОЛИТ. ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11755" ], "qpid": "11755", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-03-24T16:00:00Z", "name": "КОСМОПОЛИТ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11776" ], "qpid": "11776", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-03-31T12:40:00Z", "name": "Советский экран-2. Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11364" ], "qpid": "11364", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
   }

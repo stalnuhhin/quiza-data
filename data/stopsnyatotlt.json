@@ -17,7 +17,8 @@
       { "time": "2021-03-19T17:30:00Z", "name": "Стоп!Снято! (КиноQuiz) КИНО 18+", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11568" ], "qpid": "11568", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" },
       { "time": "2021-03-20T18:00:00Z", "name": "\"Гарри Поттер vs Властелин колец - 2\" ПРЕМЬЕРА", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11750" ], "qpid": "11750", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" },
       { "time": "2021-03-21T15:00:00Z", "name": "Стоп!Снято! \"Гарри Поттер vs Властелин колец - 2\"", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11772" ], "qpid": "11772", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" },
-      { "time": "2021-03-21T16:00:00Z", "name": "Стоп!Снято! \"Властелин колец\" (повтор)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11774" ], "qpid": "11774", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" }
+      { "time": "2021-03-21T16:00:00Z", "name": "Стоп!Снято! \"Властелин колец\" (повтор)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11774" ], "qpid": "11774", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" },
+      { "time": "2021-03-23T16:00:00Z", "name": "Стоп!Снято! \"Властелин колец\" (повтор)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11774" ], "qpid": "11774", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" }
     ]
   }
 ]
