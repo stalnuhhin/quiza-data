@@ -2,11 +2,11 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2021-03-23T12:00:00+03:00",
+    "latestCheck": "2021-03-28T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
-    "url": ["https://www.facebook.com/pg/BEEEECLEVER/events", "http://beeclever.space/"],
+    "url": ["https://www.facebook.com/BEEEECLEVER/events", "http://beeclever.space/"],
     "games": [
       {
         "time": "2021-03-02T20:00:00+02:00",
@@ -48,6 +48,13 @@
         "chgk": true,
         "price": ["13 USD/ком"],
         "url": ["https://www.facebook.com/events/287700722773498/"]
+      },
+      {
+        "time": "2021-03-30T20:00:00+03:00",
+        "name": "Триптих. Весна. Синхронная лига Bee Clever",
+        "chgk": true,
+        "price": ["13 USD/ком"],
+        "url": ["https://www.facebook.com/events/267623814868423"]
       }
     ]
   }

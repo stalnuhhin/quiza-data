@@ -2,7 +2,7 @@
   {
     "id": "5434288a-6ee6-43e9-95a0-d14b065041b4",
     "org": "Большая игра",
-    "latestCheck": "2021-03-26T12:00:00+03:00",
+    "latestCheck": "2021-03-28T12:00:00+03:00",
     "type": ["events"],
     "image": "bolshayaigra.png",
     "chgk": true,
@@ -50,6 +50,7 @@
       {"time": "2021-03-26T20:00:00+03:00", "name": "Синхрон-lite 43", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/703"]},
       {"time": "2021-03-27T13:00:00+03:00", "name": "Delivery Cup. Март", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/712"]},
       {"time": "2021-03-27T15:00:00+03:00", "name": "Зеркало U-Mind Games", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/710"]},
+      {"time": "2021-03-27T20:00:00+03:00", "name": "Куб-5", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/725"]},
       {"time": "2021-03-28T13:00:00+03:00", "name": "М-Лига 12.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/692"]},
       {"time": "2021-03-28T16:00:00+03:00", "name": "Триптих. Весна", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/713"]},
       {"time": "2021-03-28T20:00:00+03:00", "name": "Зеркало U-Mind Games", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/710"]},

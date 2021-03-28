@@ -2,12 +2,12 @@
   {
     "id": "9645838f-9182-4221-842c-730ddaf75f98",
     "org": "PubQuiz",
-    "latestCheck": "2021-03-21T12:00:00+03:00",
+    "latestCheck": "2021-03-28T12:00:00+03:00",
     "type": ["events"],
     "image": "pubquiz.png",
     "duration": 3,
     "price": ["300 UAH/ком"],
-    "url": ["https://www.facebook.com/pg/PubQuiz.Me/events/", "https://online.event.in.ua/"],
+    "url": ["https://www.facebook.com/PubQuiz.Me/events", "https://online.event.in.ua/"],
     "desc": "Украинский клуб PubQuiz",
     "games": [
       {"time": "2021-03-11T20:00:00+02:00", "name": "Movie Quiz. Шестая игра", "url": ["https://www.facebook.com/events/251233853305285/"]},

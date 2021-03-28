@@ -2,7 +2,7 @@
   {
     "id": "779e76a6-ac03-42a8-b363-9e95be3e9188",
     "org": "Põhja Öökull",
-    "latestCheck": "2021-03-26T12:00:00+03:00",
+    "latestCheck": "2021-03-28T12:00:00+03:00",
     "type": ["events"],
     "image": "pohjaookull.png",
     "duration": 2,
@@ -40,7 +40,8 @@
       {"time": "2021-03-27T21:00:00+03:00", "template": "900", "name": "Delivery Cup Март"},
       {"time": "2021-03-28T12:00:00+03:00", "template": "900", "name": "Delivery Cup Март"},
       {"time": "2021-03-28T15:00:00+03:00", "template": "1500", "name": "48"},
-      {"time": "2021-03-28T18:00:00+03:00", "template": "900", "name": "Чизкейк"}
+      {"time": "2021-03-28T18:00:00+03:00", "template": "900", "name": "Чизкейк"},
+      {"time": "2021-03-30T19:00:00+03:00", "template": "freequiz", "name": "ДВА В ОДНОМ. КОМАНДНАЯ ИГРА"}
     ]
   }
 ]
