@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2021-03-28T12:00:00+03:00",
+    "latestCheck": "2021-03-29T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -152,6 +152,16 @@
       { "time": "2021-03-28T18:00:00Z", "name": "Квиз Тайм №6", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11861" ], "qpid": "11861", "qpuid": "8179", "qpuname": "Quiz Denis & Co", "cat": "common_knowledge", "org": "Quiz Denis & Co" },
       { "time": "2021-03-28T18:40:00Z", "name": "КИНОКВИЗ. EPISODE 10", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11851" ], "qpid": "11851", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-03-28T19:00:00Z", "name": "Феникс Квиз Игра NEW", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11748" ], "qpid": "11748", "qpuid": "265", "qpuname": "Феникс", "cat": "common_knowledge", "org": "Феникс" },
+      { "time": "2021-03-29T12:00:00Z", "name": "Квиз Тайм №6", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11857" ], "qpid": "11857", "qpuid": "8179", "qpuname": "Quiz Denis & Co", "cat": "common_knowledge", "org": "Quiz Denis & Co" },
+      { "time": "2021-03-29T14:00:00Z", "name": "Авто Квиз", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11875" ], "qpid": "11875", "qpuid": "11892", "qpuname": "Авто Квиз", "cat": "common_knowledge", "org": "Авто Квиз" },
+      { "time": "2021-03-29T17:30:00Z", "name": "КИНОКВИЗ. EPISODE 10", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11851" ], "qpid": "11851", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-03-29T18:00:00Z", "name": "Квиз Тайм №6", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11861" ], "qpid": "11861", "qpuid": "8179", "qpuname": "Quiz Denis & Co", "cat": "common_knowledge", "org": "Quiz Denis & Co" },
+      { "time": "2021-03-29T19:00:00Z", "name": "Феникс Квиз Игра NEW", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11748" ], "qpid": "11748", "qpuid": "265", "qpuname": "Феникс", "cat": "common_knowledge", "org": "Феникс" },
+      { "time": "2021-03-30T12:00:00Z", "name": "СВОЯ ИГРА #13", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11828" ], "qpid": "11828", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "chgk", "org": "СВОЯ ИГРА ONLINE" },
+      { "time": "2021-03-30T14:30:00Z", "name": "СЕРИАЛЫ #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11876" ], "qpid": "11876", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-03-30T14:30:00Z", "name": "CULTURE #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11879" ], "qpid": "11879", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-03-30T16:00:00Z", "name": "ALPHABET MUSIC QUIZ #83", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11878" ], "qpid": "11878", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-03-30T17:30:00Z", "name": "КИНО И МУЗЫКА #20", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11877" ], "qpid": "11877", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-03-31T15:00:00Z", "name": "Киноквиз от «Человека и кошочки»", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11854" ], "qpid": "11854", "qpuid": "1621", "qpuname": "Человек и кошочка 😍😻", "cat": "common_knowledge", "org": "Человек и кошочка 😍😻" }
     ]
   }

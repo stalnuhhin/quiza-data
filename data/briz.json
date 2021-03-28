@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2021-03-28T12:00:00+03:00",
+    "latestCheck": "2021-03-29T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -105,7 +105,10 @@
       { "time": "2021-03-28T16:00:00Z", "name": "Иностранные странности", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11317" ], "qpid": "11317", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-03-28T17:30:00Z", "name": "Безумство умных!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11800" ], "qpid": "11800", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-03-28T19:00:00Z", "name": "НОЧНОЙ турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/11836" ], "qpid": "11836", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-03-29T13:30:00Z", "name": "КОСМОПОЛИТ. ПОВТОР", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11802" ], "qpid": "11802", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-03-29T14:00:00Z", "name": "НА ИГРА: ТУР ПО МИРУ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11616" ], "qpid": "11616", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-03-30T13:30:00Z", "name": "КНИГИ vs ФИЛЬМЫ. Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11239" ], "qpid": "11239", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-03-30T15:00:00Z", "name": "Иностранные странности", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11317" ], "qpid": "11317", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-03-31T12:40:00Z", "name": "Советский экран-2. Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11364" ], "qpid": "11364", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
   }
