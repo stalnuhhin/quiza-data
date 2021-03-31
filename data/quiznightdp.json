@@ -3,12 +3,12 @@
     "id": "8c48ccce-1975-4de5-a1ef-fc3f84c9a6f4",
     "noOnline": true,
     "org": "Quiz Night (Днепр)",
-    "latestCheck": "2021-03-01T12:00:00+03:00",
+    "latestCheck": "2021-04-01T12:00:00+03:00",
     "type": ["events"],
     "image": "quiznightdp.png",
     "duration": 2,
     "price": ["100 UAH/чел"],
-    "url": ["https://www.facebook.com/pg/quiz.night.dp/events", "https://quiznight.com.ua"],
+    "url": ["https://www.facebook.com/quiz.night.dp/events", "https://quiznight.com.ua"],
     "games": [
     ]
   }

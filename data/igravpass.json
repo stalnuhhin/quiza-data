@@ -2,32 +2,12 @@
   {
     "id": "f13b6e4d-c5b3-449f-bbe5-ef1c0b52efde",
     "org": "Игра В. Пас",
-    "latestCheck": "2021-03-28T12:00:00+03:00",
+    "latestCheck": "2021-04-01T12:00:00+03:00",
     "type": ["events"],
     "image": "igravpass.png",
     "price": ["4 USD/чел"],
     "url": ["https://www.facebook.com/QuizVPas/events/"],
     "templates": {
-      "si47": {
-        "name": "Футбольная «Своя игра» Игровая неделя №47",
-        "duration": 1,
-        "url": ["https://www.facebook.com/events/859199004872994"]
-      },
-      "si48": {
-        "name": "Футбольная «Своя игра» Игровая неделя №48",
-        "duration": 1,
-        "url": ["https://www.facebook.com/events/2956319064693403"]
-      },
-      "si49": {
-        "name": "Футбольная «Своя игра» Игровая неделя №49",
-        "duration": 1,
-        "url": ["https://www.facebook.com/events/452447895955652"]
-      },
-      "si50": {
-        "name": "Футбольная «Своя игра» Игровая неделя №50",
-        "duration": 1,
-        "url": ["https://www.facebook.com/events/2880503205562224"]
-      },
       "si51": {
         "name": "Футбольная «Своя игра» Игровая неделя №51",
         "duration": 1,
@@ -35,30 +15,6 @@
       }
     },
     "games": [
-      {"time": "2021-03-02T16:00:00+02:00", "template": "si47"},
-      {"time": "2021-03-02T23:00:00+02:00", "template": "si47"},
-      {"time": "2021-03-03T19:00:00+02:00", "template": "si47"},
-      {"time": "2021-03-04T20:30:00+02:00", "template": "si47"},
-      {"time": "2021-03-05T21:00:00+02:00", "template": "si47"},
-      {"time": "2021-03-08T22:00:00+02:00", "template": "si48"},
-      {"time": "2021-03-09T14:00:00+02:00", "template": "si48"},
-      {"time": "2021-03-09T23:00:00+02:00", "template": "si48"},
-      {"time": "2021-03-10T19:00:00+02:00", "template": "si48"},
-      {"time": "2021-03-12T21:00:00+02:00", "template": "si48"},
-      {"time": "2021-03-15T23:00:00+02:00", "template": "si49"},
-      {"time": "2021-03-16T20:00:00+02:00", "template": "si49"},
-      {"time": "2021-03-17T20:30:00+02:00", "template": "si49"},
-      {"time": "2021-03-18T14:00:00+02:00", "template": "si49"},
-      {"time": "2021-03-19T22:00:00+02:00", "template": "si49"},
-      {"time": "2021-03-22T23:00:00+02:00", "template": "si50"},
-      {"time": "2021-03-23T16:00:00+02:00", "template": "si50"},
-      {"time": "2021-03-24T20:30:00+02:00", "template": "si50"},
-      {"time": "2021-03-25T14:00:00+02:00", "template": "si50"},
-      {"time": "2021-03-26T22:00:00+02:00", "template": "si50"},
-      {"time": "2021-03-27T20:00:00+02:00", "price": ["100 UAH/чел"], "name": "Футбольный квиз online", "url": ["https://www.facebook.com/events/1178658019255214"]},
-      {"time": "2021-03-29T23:00:00+03:00", "template": "si51"},
-      {"time": "2021-03-30T16:00:00+03:00", "template": "si51"},
-      {"time": "2021-03-31T20:30:00+03:00", "template": "si51"},
       {"time": "2021-04-01T14:00:00+03:00", "template": "si51"},
       {"time": "2021-04-02T22:00:00+03:00", "template": "si51"}
     ]

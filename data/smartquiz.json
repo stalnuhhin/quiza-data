@@ -3,7 +3,7 @@
     "id": "5076cd2a-6129-4770-b165-dc32e65ccc94",
     "org": "Smart-Quiz",
     "name": "Smart-Quiz",
-    "latestCheck": "2021-03-28T12:00:00+03:00",
+    "latestCheck": "2021-04-01T12:00:00+03:00",
     "type": ["events"],
     "hasContent": true,
     "image": "smartquiz.png",
@@ -18,16 +18,6 @@
     "info": ["Трансляция на YouTube-канале."],
     "payment": ["Игры бесплатные, но клуб будет благодарен за поддержку: Приват24: 5168745603142578."],
     "games": [
-      {
-        "time": "2021-03-04T19:00:00+02:00",
-        "name": "Smart-Quiz",
-        "url": ["https://www.facebook.com/events/886990192061604"]
-      },
-      {
-        "time": "2021-03-25T19:00:00+02:00",
-        "name": "Smart-Quiz",
-        "url": ["https://www.facebook.com/events/156279906347617"]
-      }
     ]
   }
 ]

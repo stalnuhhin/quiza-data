@@ -2,14 +2,13 @@
   {
     "id": "eef21320-ac8d-4899-9be8-7d8a34c9936c",
     "org": "Квизы Скороход",
-    "latestCheck": "2021-03-14T12:00:00+03:00",
+    "latestCheck": "2021-04-01T12:00:00+03:00",
     "type": ["events"],
     "image": "skorohod.png",
     "duration": 1,
     "price": ["200 RUB/ком"],
     "url": ["https://vk.com/skorohod_quiz"],
     "games": [
-      { "time": "2021-03-04T13:00:00Z", "name": "Музыкальный Скороход №44(НОВАЯ ИГРА)", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11475" ], "qpid": "11475", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" }
     ]
   }
 ]

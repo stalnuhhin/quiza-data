@@ -2,19 +2,12 @@
   {
     "id": "f88f473d-922e-4a86-a0b0-693a5d754a61",
     "org": "TLTQUIZ",
-    "latestCheck": "2021-03-30T12:00:00+03:00",
+    "latestCheck": "2021-04-01T12:00:00+03:00",
     "type": ["events"],
     "image": "tltquiz.png",
     "duration": 1,
     "url": ["https://vk.com/tltquiz"],
     "games": [
-      { "time": "2021-03-05T18:00:00Z", "name": "ТаБуретКа online #40", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11455" ], "qpid": "11455", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
-      { "time": "2021-03-05T19:00:00.187Z", "name": "TLTQUIZ online #30", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11563" ], "qpid": "11563", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
-      { "time": "2021-03-06T17:00:00.644Z", "name": "ТаБуретКа online #39", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11581" ], "qpid": "11581", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
-      { "time": "2021-03-06T18:00:00.816Z", "name": "TLTQUIZ online #32", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11582" ], "qpid": "11582", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
-      { "time": "2021-03-12T17:00:00Z", "name": "ТаБуретКа online #39", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11581" ], "qpid": "11581", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
-      { "time": "2021-03-19T17:00:00Z", "name": "ТабуретКа online #36", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11682" ], "qpid": "11682", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
-      { "time": "2021-03-27T17:00:00Z", "name": "ТаБуретКа online #38", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11768" ], "qpid": "11768", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
       { "time": "2021-04-02T17:00:00Z", "name": "ТаБуретКа online #41", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11867" ], "qpid": "11867", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" }
     ]
   }

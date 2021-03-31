@@ -2,59 +2,25 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2021-03-28T12:00:00+03:00",
+    "latestCheck": "2021-04-01T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
     "url": ["https://www.facebook.com/BEEEECLEVER/events", "http://beeclever.space/"],
     "games": [
       {
-        "time": "2021-03-02T20:00:00+02:00",
-        "name": "LM: Красный. Синхронная лига Bee Clever",
-        "chgk": true,
-        "price": ["13 USD/ком"]
-      },
-      {
-        "time": "2021-03-09T20:00:00+02:00",
-        "name": "День правосудия. Синхронная лига BeeClever",
+        "time": "2021-04-06T20:00:00+03:00",
+        "name": "Кубок Эмили Плятер. Синхронная лига Bee Clever",
         "chgk": true,
         "price": ["13 USD/ком"],
-        "url": ["https://www.facebook.com/events/4189962177713396"]
+        "url": ["https://www.facebook.com/events/838307950092854/"]
       },
       {
-        "time": "2021-03-11T20:00:00+02:00",
-        "name": "Весенняя серия Bee Clever. Этап 2",
-        "chgk": true,
-        "price": ["9 USD/ком"],
-        "url": ["https://www.facebook.com/events/279764607050543/"]
-      },
-      {
-        "time": "2021-03-16T20:00:00+02:00",
-        "name": "Гран-при Славянки. Синхронная лига Bee Clever",
-        "chgk": true,
-        "price": ["12 USD/ком"],
-        "url": ["https://www.facebook.com/events/2953787841523995/"]
-      },
-      {
-        "time": "2021-03-23T20:00:00+02:00",
-        "name": "Бесконечные земли - XI. Синхронная лига Bee Clever",
+        "time": "2021-04-10T20:00:00+03:00",
+        "name": "Город грехов - 2021: Долго и счастливо. Повтор",
         "chgk": true,
         "price": ["13 USD/ком"],
-        "url": ["https://www.facebook.com/events/3432645876839384/"]
-      },
-      {
-        "time": "2021-03-27T20:00:00+02:00",
-        "name": "Город грехов - 2021: Долго и счастливо",
-        "chgk": true,
-        "price": ["13 USD/ком"],
-        "url": ["https://www.facebook.com/events/287700722773498/"]
-      },
-      {
-        "time": "2021-03-30T20:00:00+03:00",
-        "name": "Триптих. Весна. Синхронная лига Bee Clever",
-        "chgk": true,
-        "price": ["13 USD/ком"],
-        "url": ["https://www.facebook.com/events/267623814868423"]
+        "url": ["https://www.facebook.com/events/1156277968151330/"]
       }
     ]
   }
