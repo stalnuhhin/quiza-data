@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2021-04-01T12:00:00+03:00",
+    "latestCheck": "2021-04-02T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -10,13 +10,18 @@
     "games": [
       { "time": "2021-04-01T11:10:00Z", "name": "Цепная реакция", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11916" ], "qpid": "11916", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-04-01T13:30:00Z", "name": "КНИГИ vs ФИЛЬМЫ. Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11239" ], "qpid": "11239", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-02T11:00:00Z", "name": "Цепная реакция", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11916" ], "qpid": "11916", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-02T12:30:00Z", "name": "Безумство умных!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11800" ], "qpid": "11800", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-02T14:00:00Z", "name": "КОСМОПОЛИТ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11776" ], "qpid": "11776", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-04-02T17:00:00Z", "name": "Радости жизни! ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11894" ], "qpid": "11894", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-02T20:00:00Z", "name": "Ночной турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/11903" ], "qpid": "11903", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-04-03T10:00:00Z", "name": "Радости жизни! ПРЕМЬЕРА для ДФО и СИБИРИ!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11895" ], "qpid": "11895", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-04-03T14:00:00Z", "name": "Радости жизни! Новинка!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11896" ], "qpid": "11896", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-04-03T17:00:00Z", "name": "Радости жизни! Новинка!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11897" ], "qpid": "11897", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-04-04T10:00:00Z", "name": "Радости жизни! Новинка!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11898" ], "qpid": "11898", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-04-04T15:00:00Z", "name": "Радости жизни! Новинка!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11899" ], "qpid": "11899", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-04-05T12:40:00Z", "name": "Советский экран-2. Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11364" ], "qpid": "11364", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
+      { "time": "2021-04-05T12:40:00Z", "name": "Советский экран-2. Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11364" ], "qpid": "11364", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-07T14:00:00Z", "name": "КНИГИ vs ФИЛЬМЫ. Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11239" ], "qpid": "11239", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
   }
 ]
