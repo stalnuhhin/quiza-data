@@ -2,7 +2,7 @@
   {
     "id": "f13b6e4d-c5b3-449f-bbe5-ef1c0b52efde",
     "org": "Игра В. Пас",
-    "latestCheck": "2021-04-01T12:00:00+03:00",
+    "latestCheck": "2021-04-05T12:00:00+03:00",
     "type": ["events"],
     "image": "igravpass.png",
     "price": ["4 USD/чел"],
@@ -12,11 +12,21 @@
         "name": "Футбольная «Своя игра» Игровая неделя №51",
         "duration": 1,
         "url": ["https://www.facebook.com/events/1939400926207445"]
+      },
+      "si52": {
+        "name": "Футбольная «Своя игра» Игровая неделя №52",
+        "duration": 1,
+        "url": ["https://www.facebook.com/events/482054959685053"]
       }
     },
     "games": [
       {"time": "2021-04-01T14:00:00+03:00", "template": "si51"},
-      {"time": "2021-04-02T22:00:00+03:00", "template": "si51"}
+      {"time": "2021-04-02T22:00:00+03:00", "template": "si51"},
+      {"time": "2021-04-05T23:00:00+03:00", "template": "si52"},
+      {"time": "2021-04-06T16:00:00+03:00", "template": "si52"},
+      {"time": "2021-04-07T20:30:00+03:00", "template": "si52"},
+      {"time": "2021-04-08T14:00:00+03:00", "template": "si52"},
+      {"time": "2021-04-09T22:00:00+03:00", "template": "si52"}
     ]
   }
 ]
