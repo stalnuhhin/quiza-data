@@ -2,14 +2,15 @@
   {
     "id": "6491cce6-ce64-4973-bd04-e8e2c3cdc230",
     "org": "Киноквиз \"Стоп!Снято!\"",
-    "latestCheck": "2021-04-05T12:00:00+03:00",
+    "latestCheck": "2021-04-06T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "image": "stopsnyatotlt.png",
     "price": ["250 RUB/ком"],
     "url": ["https://vk.com/stopsnyatotlt"],
     "games": [
-      { "time": "2021-04-05T17:00:00Z", "name": "Стоп!Снято! (КиноQuiz) Классика №39", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11962" ], "qpid": "11962", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" }
+      { "time": "2021-04-05T17:00:00Z", "name": "Стоп!Снято! (КиноQuiz) Классика №39", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11962" ], "qpid": "11962", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "cinema_and_music" },
+      { "time": "2021-04-06T18:00:00Z", "name": "Стоп!Снято! \"АЛФАВИТ\" (Не про кино) ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11969" ], "qpid": "11969", "qpuid": "2745", "qpuname": "Стоп!Снято!", "cat": "common_knowledge" }
     ]
   }
 ]
