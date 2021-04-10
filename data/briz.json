@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2021-04-07T12:00:00+03:00",
+    "latestCheck": "2021-04-10T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -46,13 +46,22 @@
       { "time": "2021-04-09T14:30:00Z", "name": "КОСМОПОЛИТ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11833" ], "qpid": "11833", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-04-09T18:30:00Z", "name": "НАША ИГРА: Без словаря! ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11974" ], "qpid": "11974", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-04-10T11:00:00Z", "name": "НАША ИГРА: Без словаря! ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11975" ], "qpid": "11975", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-04-10T13:00:00Z", "name": "НАША ИГРА: КинМульКниж. Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11986" ], "qpid": "11986", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "cinema_and_music" },
-      { "time": "2021-04-10T16:00:00Z", "name": "НАША ИГРА: Без словаря!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11977" ], "qpid": "11977", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-10T12:30:00Z", "name": "Радости жизни! Новинка!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11973" ], "qpid": "11973", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-10T13:30:00Z", "name": "КинМульКниж. Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11987" ], "qpid": "11987", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-10T14:30:00Z", "name": "Время подумать", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11936" ], "qpid": "11936", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-10T15:30:00Z", "name": "НАША ИГРА: Без словаря!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11977" ], "qpid": "11977", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-10T16:30:00Z", "name": "Играй ГОРМОН! Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11901" ], "qpid": "11901", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-10T18:00:00Z", "name": "90-е. Наизнанку", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/12008" ], "qpid": "12008", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-04-10T19:00:00Z", "name": "НАША ИГРА: Без словаря!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11976" ], "qpid": "11976", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-10T20:30:00Z", "name": "НОЧНОЙ турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/12032" ], "qpid": "12032", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-04-11T11:00:00Z", "name": "НАША ИГРА: Без словаря!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11978" ], "qpid": "11978", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-04-11T14:00:00Z", "name": "НАША ИГРА: Без словаря!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11980" ], "qpid": "11980", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-04-11T15:30:00Z", "name": "КНИГИ vs ФИЛЬМЫ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11185" ], "qpid": "11185", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-04-11T18:00:00Z", "name": "НАША ИГРА: Без словаря!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11979" ], "qpid": "11979", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
+      { "time": "2021-04-11T18:00:00Z", "name": "НАША ИГРА: Без словаря!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11979" ], "qpid": "11979", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-12T13:00:00Z", "name": "ЖАРА. 16+", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12007" ], "qpid": "12007", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-13T11:00:00Z", "name": "Иностранные странности", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11317" ], "qpid": "11317", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-13T15:30:00Z", "name": "ТУР ПО МИРУ. 91 вопрос. Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11616" ], "qpid": "11616", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-14T17:10:00Z", "name": "Радости жизни! Новинка!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11899" ], "qpid": "11899", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
   }
 ]
