@@ -3,13 +3,14 @@
     "id": "9d96803c-51ee-4b7e-816c-5098bce34efc",
     "org": "Квиз №8",
     "name": "Онлайн Квиз №8",
-    "latestCheck": "2021-04-05T12:00:00+03:00",
+    "latestCheck": "2021-04-12T12:00:00+03:00",
     "type": ["events"],
     "price": ["400 UAH/ком"],
     "image": "kviz8.png",
     "duration": 1,
     "url": ["https://www.facebook.com/QuizN8/events"],
     "games": [
+      {"time": "2021-04-08T20:00:00+03:00", "name": "Квиз N8. Весенняя серия", "url": ["https://www.facebook.com/events/441428900492958"]}
     ]
   }
 ]

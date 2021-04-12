@@ -2,7 +2,7 @@
   {
     "id": "5434288a-6ee6-43e9-95a0-d14b065041b4",
     "org": "Большая игра",
-    "latestCheck": "2021-04-08T12:00:00+03:00",
+    "latestCheck": "2021-04-12T12:00:00+03:00",
     "type": ["events"],
     "image": "bolshayaigra.png",
     "chgk": true,
@@ -35,6 +35,7 @@
       {"time": "2021-04-13T22:00:00+03:00", "name": "М-Лига 13.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/730"]},
       {"time": "2021-04-14T20:00:00+03:00", "name": "Лига старта 25", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/735"]},
       {"time": "2021-04-18T13:00:00+03:00", "name": "М-Лига 13.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/731"]},
+      {"time": "2021-04-18T16:00:00+03:00", "name": "Бесконечные земли - 12", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/743"]},
       {"time": "2021-04-18T22:00:00+03:00", "name": "М-Лига 13.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/731"]},
       {"time": "2021-04-19T20:00:00+03:00", "name": "М-Лига 13.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/731"]},
       {"time": "2021-04-25T13:00:00+03:00", "name": "М-Лига 13.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/732"]},

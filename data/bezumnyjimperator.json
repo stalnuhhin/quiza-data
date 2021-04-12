@@ -2,7 +2,7 @@
   {
     "id": "a983715a-2638-4376-931a-1f67f3e3e21a",
     "org": "Безумный император",
-    "latestCheck": "2021-04-01T12:00:00+03:00",
+    "latestCheck": "2021-04-12T12:00:00+03:00",
     "type": ["events"],
     "duration": 2,
     "chgk": true,
@@ -26,6 +26,18 @@
         "name": "Дорога ярости-2: операция «Подснежник»",
         "price": ["3.5 USD/чел"],
         "url": ["https://www.facebook.com/groups/137021291483392/permalink/172541531264701"]
+      },
+      {
+        "time": "2021-04-13T20:00:00+03:00",
+        "name": "пляжный* ЧГК-турнир «Триас»",
+        "price": ["5 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/permalink/178177660701088"]
+      },
+      {
+        "time": "2021-04-15T20:00:00+03:00",
+        "name": "Синхрон-lite. Выпуск XLIV",
+        "price": ["8 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/permalink/178177660701088"]
       }
     ]
   }
