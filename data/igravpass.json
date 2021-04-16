@@ -2,7 +2,7 @@
   {
     "id": "f13b6e4d-c5b3-449f-bbe5-ef1c0b52efde",
     "org": "Игра В. Пас",
-    "latestCheck": "2021-04-12T12:00:00+03:00",
+    "latestCheck": "2021-04-17T12:00:00+03:00",
     "type": ["events"],
     "image": "igravpass.png",
     "price": ["4 USD/чел"],
@@ -22,6 +22,11 @@
         "name": "Футбольная «Своя игра» Игровая неделя №53",
         "duration": 1,
         "url": ["https://www.facebook.com/events/1098598187219079"]
+      },
+      "si54": {
+        "name": "Футбольная «Своя игра» Игровая неделя №54",
+        "duration": 1,
+        "url": ["https://www.facebook.com/events/320815702775546"]
       }
     },
     "games": [
@@ -36,7 +41,13 @@
       {"time": "2021-04-13T16:00:00+03:00", "template": "si53"},
       {"time": "2021-04-14T20:30:00+03:00", "template": "si53"},
       {"time": "2021-04-15T14:00:00+03:00", "template": "si53"},
-      {"time": "2021-04-16T22:00:00+03:00", "template": "si53"}
+      {"time": "2021-04-16T22:00:00+03:00", "template": "si53"},
+      {"time": "2021-04-19T23:00:00+03:00", "template": "si54"},
+      {"time": "2021-04-20T16:00:00+03:00", "template": "si54"},
+      {"time": "2021-04-20T20:00:00+03:00", "name": "Футбольный квиз online", "price": ["100 UAH/чел", "3.6 USD/чел"], "url": ["https://www.facebook.com/events/463864358153006"]},
+      {"time": "2021-04-21T20:30:00+03:00", "template": "si54"},
+      {"time": "2021-04-22T14:00:00+03:00", "template": "si54"},
+      {"time": "2021-04-23T22:00:00+03:00", "template": "si54"}
     ]
   }
 ]
