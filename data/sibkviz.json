@@ -2,7 +2,7 @@
   {
     "id": "ab4a284a-ea0e-4c31-9935-981d29dbdf68",
     "org": "СибКвиз",
-    "latestCheck": "2021-04-16T12:00:00+03:00",
+    "latestCheck": "2021-04-19T12:00:00+03:00",
     "type": ["events"],
     "image": "sibkviz.png",
     "duration": 2,
@@ -17,7 +17,10 @@
       { "time": "2021-04-11T13:00:00Z", "name": "СибКвиз Онлайн#89", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11948" ], "qpid": "11948", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
       { "time": "2021-04-16T13:00:00Z", "name": "СибКвиз ЗеБест#12", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12025" ], "qpid": "12025", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
       { "time": "2021-04-16T16:00:00Z", "name": "СибКвиз ЗеБест#12", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12026" ], "qpid": "12026", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
-      { "time": "2021-04-18T13:00:00Z", "name": "СибКвиз ЗеБест#12", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12027" ], "qpid": "12027", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" }
+      { "time": "2021-04-18T13:00:00Z", "name": "СибКвиз ЗеБест#12", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12027" ], "qpid": "12027", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2021-04-23T13:00:00Z", "name": "СибКвиз Онлайн#91", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12135" ], "qpid": "12135", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2021-04-23T16:00:00Z", "name": "СибКвиз Онлайн#91", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12136" ], "qpid": "12136", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2021-04-25T13:00:00Z", "name": "СибКвиз Онлайн#91", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12137" ], "qpid": "12137", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" }
     ]
   }
 ]
