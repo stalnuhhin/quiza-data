@@ -2,7 +2,7 @@
   {
     "id": "5434288a-6ee6-43e9-95a0-d14b065041b4",
     "org": "Большая игра",
-    "latestCheck": "2021-04-16T12:00:00+03:00",
+    "latestCheck": "2021-04-20T12:00:00+03:00",
     "type": ["events"],
     "image": "bolshayaigra.png",
     "chgk": true,
@@ -46,11 +46,20 @@
       {"time": "2021-04-20T20:00:00+03:00", "name": "Бесконечные земли - 12", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/743"]},
       {"time": "2021-04-20T22:00:00+03:00", "name": "М-Лига 13.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/731"]},
       {"time": "2021-04-21T20:00:00+03:00", "name": "Синхрон-lite XLIV", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/736"]},
+      {"time": "2021-04-23T20:00:00+03:00", "name": "Весенняя кинолига", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/685"]},
+      {"time": "2021-04-24T13:00:00+03:00", "name": "Пальмовое первенство", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/754"]},
+      {"time": "2021-04-24T15:00:00+03:00", "name": "Части Вселенной", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/748"]},
       {"time": "2021-04-24T20:00:00+03:00", "name": "Салат курильщика", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/751"]},
+      {"time": "2021-04-24T22:00:00+03:00", "name": "Турнирум. Проба девятая", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/747"]},
+      {"time": "2021-04-25T11:00:00+03:00", "name": "Турнирум. Проба девятая", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/747"]},
       {"time": "2021-04-25T13:00:00+03:00", "name": "М-Лига 13.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/732"]},
+      {"time": "2021-04-25T16:00:00+03:00", "name": "Декамерон", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/750"]},
       {"time": "2021-04-25T20:00:00+03:00", "name": "Салат курильщика", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/751"]},
       {"time": "2021-04-25T22:00:00+03:00", "name": "М-Лига 13.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/732"]},
-      {"time": "2021-04-26T20:00:00+03:00", "name": "М-Лига 13.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/732"]}
+      {"time": "2021-04-26T20:00:00+03:00", "name": "М-Лига 13.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/732"]},
+      {"time": "2021-04-27T20:00:00+03:00", "name": "Декамерон", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/750"]},
+      {"time": "2021-04-27T22:00:00+03:00", "name": "М-Лига 13.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/732"]},
+      {"time": "2021-04-28T20:00:00+03:00", "name": "Пальмовое первенство", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/754"]}
     ]
   }
 ]
