@@ -38,21 +38,16 @@
         <li id="period"></li>
     </ul>
 </div>
-<div id="graph"></div>
+<div id="graph" style="padding: 0; margin: 0;"></div>
 
-<div class="container mb-5">
-    <div class="row">
-        <div class="col">
-            <div class="float-right">
-                <script type="text/javascript" id="clustrmaps"
-                        src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=m&d=x_2GErbTXEgfa6-bcya7Z-oBpzPyxVgorr11_xyHpPs&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353"></script>
-            </div>
-        </div>
-    </div>
+<div>
+    <script type="text/javascript" id="clustrmaps"
+            src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=m&d=x_2GErbTXEgfa6-bcya7Z-oBpzPyxVgorr11_xyHpPs&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353"></script>
 </div>
 
 <script src='//unpkg.com/timelines-chart'></script>
 <script>
+    const SCREEN_WIDTH = window.screen.availWidth;
     const NOW = Date.now();
     const START_AFTER = new Date(NOW - 4 * 30 * 24 * 60 * 60 * 1000)
         .toISOString().slice(0, 10); // NOW-4months
@@ -176,13 +171,15 @@
 
     function drawGraph(data) {
         TimelinesChart()(document.getElementById("graph"))
+            .width(SCREEN_WIDTH > 600 ? SCREEN_WIDTH - 40 : 600)
             .maxHeight(2400)
             .maxLineHeight(24)
+            .leftMargin(SCREEN_WIDTH > 800 ? 100 : 0)
+            .rightMargin(SCREEN_WIDTH > 800 ? 300 : 200)
             .dateMarker(new Date())
             .zScaleLabel('Сложность')
             .zQualitative(true)
             .enableOverview(true)
-            .rightMargin(300)
             .onSegmentClick(this.segmentClick)
             .segmentTooltipContent(this.segmentTooltip)
             .data(data);
@@ -195,11 +192,14 @@
     });
 
     function displayDataInfoBullet() {
-        document.getElementById("period").innerText
-            = "Запрошены игры, которые начались не раньше " + START_AFTER
-            + " (4 месяца назад) и закончились в промежутке с " + END_AFTER
-            + " (7 дней назад) до " + END_BEFORE + " (через 4 месяца). "
-            + "Найдено игр: " + GAME_COUNT;
+        let period = document.getElementById("period");
+        if (period) {
+            period.innerText
+                = "Запрошены игры, которые начались не раньше " + START_AFTER
+                + " (4 месяца назад) и закончились в промежутке с " + END_AFTER
+                + " (7 дней назад) до " + END_BEFORE + " (через 4 месяца). "
+                + "Найдено игр: " + GAME_COUNT;
+        }
     }
 
 </script>
