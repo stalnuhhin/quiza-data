@@ -39,6 +39,18 @@
     </ul>
 </div>
 <div id="graph"></div>
+
+<div class="container mb-5">
+    <div class="row">
+        <div class="col">
+            <div class="float-right">
+                <script type="text/javascript" id="clustrmaps"
+                        src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=m&d=x_2GErbTXEgfa6-bcya7Z-oBpzPyxVgorr11_xyHpPs&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353"></script>
+            </div>
+        </div>
+    </div>
+</div>
+
 <script src='//unpkg.com/timelines-chart'></script>
 <script>
     const NOW = Date.now();
@@ -190,6 +202,18 @@
             + "Найдено игр: " + GAME_COUNT;
     }
 
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-30793561-3"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+    gtag('config', 'UA-30793561-3');
 </script>
 </body>
 </html>

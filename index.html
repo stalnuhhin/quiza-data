@@ -81,7 +81,12 @@
             <div class="container">
                 <div class="row mt-3">
                     <div class="col clearfix">
-                        <div class="btn-group float-right" role="group" aria-label="Basic example">
+                        <div class="float-right text-muted small">Фильтр</div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col clearfix">
+                        <div class="btn-group float-right" role="group">
                             <button type="button" class="btn btn-sm"
                                     v-bind:class="[!filter.mode ? 'btn-success' : 'btn-secondary']"
                                     v-on:click="filter.mode = undefined">
