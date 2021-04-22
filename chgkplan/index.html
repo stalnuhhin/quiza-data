@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+    <link rel="icon" href="../favicon.ico" type="image/x-icon">
+    <title>QUIZA: игры ЧГК</title>
+    <meta property="og:title" content="QUIZA: Агрегатор интеллектуальных онлайн-игр"/>
+    <meta property="og:description" content="Агрегатор интеллектуальных онлайн-игр: все игры в одном месте."/>
+    <meta property="og:image" content="https://quiza.stalnuhhin.ee/preview.png"/>
+    <meta name="keywords"
+          content="онлайн квиз, онлайн квизы, виртуальный квиз, виртуальные квизы, онлайн викторина, онлайн викторины,
+          виртуальный викторина, виртуальные викторины, интеллектуальные игры онлайн, чгк онлайн, онлайн чгк, онлайн,
+          квиз, квизы, викторина, викторины, поломать мозг, поиграть и подумать, разгадывать загадки, угадывать ответы,
+          угадывать кадры из фильмов, угадывать песни, пабквиз онлайн, пабквизы онлайн, агрегатор квизов, агрегатор
+    пабквизов, агрегатор викторин, играть квиз онлайн бесплатно, играть викторину онлайн бесплатно"/>
+</head>
+<body>
+<div style="text-align: right;">
+    <a href="..">Вернуться в агрегатор QUIZA</a>
+</div>
+<div style="font-size: 12px;">
+    <ul>
+        <li>Все данные приходят с <a href="https://rating.chgk.info/synch.php">сайта рейтинга</a> при открытии этой
+            странички.
+        </li>
+        <li>Блоки поделены по типу турниров (надпись слева), а справа названия турниров для быстрого поиска.</li>
+        <li>При наведении на полоску вы увидите больше данных о турнире, а при нажатии на неё откроется соответствующая
+            страница рейтинга.
+        </li>
+        <li>Вы можете выделять область графика, зажав курсор, и приближать её таким образом. Сброс сверху справа: "Reset
+            Zoom".
+        </li>
+        <li>К сожалению, сложности игры нет в данных. Если бы они приходили, можно было бы окрасить полоски в разные
+            цвета по сложности.
+        </li>
+        <li id="period"></li>
+    </ul>
+</div>
+<div id="graph"></div>
+<script src='//unpkg.com/timelines-chart'></script>
+<script>
+    const NOW = Date.now();
+    const START_AFTER = new Date(NOW - 4 * 30 * 24 * 60 * 60 * 1000)
+        .toISOString().slice(0, 10); // NOW-4months
+    const END_AFTER = new Date(NOW - 7 * 24 * 60 * 60 * 1000)
+        .toISOString().slice(0, 10); // NOW-7days
+    const END_BEFORE = new Date(NOW + 4 * 30 * 24 * 60 * 60 * 1000)
+        .toISOString().slice(0, 10); // NOW+4months
+    let GAME_COUNT = -1;
+
+    function _groupBy(xs, f) {
+        return xs.reduce((r, v, i, a, k = f(v)) => ((r[k] || (r[k] = [])).push(v), r), {});
+    }
+
+    function getApiPage(page) {
+        return "http://api.rating.chgk.net/tournaments?dateStart%5Bafter%5D=" + START_AFTER
+            + "&dateEnd%5Bbefore%5D=" + END_BEFORE + "&dateEnd%5Bafter%5D=" + END_AFTER + "&page=" + page;
+    }
+
+    function generateUrls() {
+        let page = 1;
+        return Array.from({length: 7}).map(() => getApiPage(page++));
+    }
+
+    function loadData() {
+        const promises = this.generateUrls().map(url => fetch(url).then(r => r.json()));
+        return Promise.all(promises).then(r => r.flat(2));
+    }
+
+    function prepareData(data) {
+        GAME_COUNT = data.length;
+        const result = [];
+        data.forEach(g => {
+            g.start = Date.parse(g.dateStart);
+            g.end = Date.parse(g.dateEnd);
+        });
+        const groups = this._groupBy(data, (i) => i.type.id + " " + i.type.name);
+        Object.entries(groups).map(g => {
+            result.push(this.prepareGroup(g[0], g[1]));
+        });
+        return result;
+    }
+
+    function prepareGroup(groupName, games) {
+        const labels = games.sort(smartSort).map(game => this.prepareLabel(game));
+        return {"group": groupName, "data": labels}
+    }
+
+    function smartSort(a, b) {
+        const aAfter = NOW > a.end;
+        const bAfter = NOW > b.end;
+        if (aAfter && !bAfter) {
+            return -1;
+        }
+        if (!aAfter && bAfter) {
+            return 1;
+        }
+
+        const aBefore = NOW < a.start;
+        const bBefore = NOW < b.start;
+        if (aBefore && bBefore) {
+            return a.dateStart.localeCompare(b.dateStart);
+        }
+
+        const aIn = NOW > a.start && NOW < a.end;
+        const bIn = NOW > b.start && NOW < b.end;
+        if (aIn && !bIn) {
+            return -1;
+        }
+        if (!aIn && bIn) {
+            return 1;
+        }
+        return a.dateEnd.localeCompare(b.dateEnd);
+    }
+
+    function prepareLabel(game) {
+        return {
+            "label": game.name,
+            "data": [{
+                "game": game,
+                "timeRange": [game.dateStart, game.dateEnd],
+                "val": 1
+            }]
+        }
+    }
+
+    function segmentClick(e) {
+        const id = e.srcElement.__data__.data.game.id;
+        window.open("https://rating.chgk.info/tournament/" + id, "_blank")
+    }
+
+    function days(start, end) {
+        return Math.floor((end - start) / 1000 / 60 / 60 / 24);
+    }
+
+    function currency(c) {
+        return c == "r" ? "руб" : c == "u" ? "usd" : c == "e" ? "eur" : "";
+    }
+
+    function segmentTooltip(e) {
+        const g = e.data.game;
+        const start = new Date(g.start);
+        const end = new Date(g.end);
+        const org = g.orgcommittee[0];
+        return "<div style='max-width: 250px; font-size: 12px; text-align: left; white-space: normal;'>" +
+            "<b>ID:</b> " + g.id + "<br/>" +
+            "<b>Игра:</b> " + g.name + "<br/>" +
+            "<b>Оргкомитет:</b> " + org.surname + ", " + org.name + " (" + org.id + ")<br/>" +
+            "<b>Вопросы:</b> " + Object.values(g.questionQty).reduce((a, b) => a + b) + "<br/>" +
+            "<br/>" +
+            "<b>Даты:</b> " + start.toDateString() + " - " + end.toDateString() + "<br/>" +
+            "<b>Длительность:</b> " + days(g.start, g.end) + " д<br/>" +
+            "<b>До окончания:</b> " + days(NOW, g.end) + " д<br/>" +
+            "<br/>" +
+            (g.mainPayment == null ? "" : "<b>Стоимость:</b> "
+                + g.mainPayment + " " + currency(g.currency) + "<br/>") +
+            (g.discountedPayment == null ? "" : "<b>Скидка:</b> "
+                + g.discountedPayment + " " + currency(g.currency)
+                + " - " + g.discountedPaymentReason + "<br/>") +
+            "</div>";
+    }
+
+    function drawGraph(data) {
+        TimelinesChart()(document.getElementById("graph"))
+            .maxHeight(2400)
+            .maxLineHeight(24)
+            .dateMarker(new Date())
+            .zScaleLabel('Сложность')
+            .zQualitative(true)
+            .enableOverview(true)
+            .rightMargin(300)
+            .onSegmentClick(this.segmentClick)
+            .segmentTooltipContent(this.segmentTooltip)
+            .data(data);
+    }
+
+    loadData().then(r => {
+        const data = this.prepareData(r);
+        this.displayDataInfoBullet()
+        this.drawGraph(data);
+    });
+
+    function displayDataInfoBullet() {
+        document.getElementById("period").innerText
+            = "Запрошены игры, которые начались не раньше " + START_AFTER
+            + " (4 месяца назад) и закончились в промежутке с " + END_AFTER
+            + " (7 дней назад) до " + END_BEFORE + " (через 4 месяца). "
+            + "Найдено игр: " + GAME_COUNT;
+    }
+
+</script>
+</body>
+</html>
