@@ -47,7 +47,7 @@
 
 <script src='//unpkg.com/timelines-chart'></script>
 <script>
-    const SCREEN_WIDTH = window.screen.availWidth;
+    const INNER_WIDTH = window.innerWidth;
     const NOW = Date.now();
     const START_AFTER = new Date(NOW - 4 * 30 * 24 * 60 * 60 * 1000)
         .toISOString().slice(0, 10); // NOW-4months
@@ -170,12 +170,13 @@
     }
 
     function drawGraph(data) {
+        console.log(INNER_WIDTH);
         TimelinesChart()(document.getElementById("graph"))
-            .width(SCREEN_WIDTH > 600 ? SCREEN_WIDTH - 40 : 600)
+            .width(INNER_WIDTH > 600 ? INNER_WIDTH - 40 : 600)
             .maxHeight(2400)
             .maxLineHeight(24)
-            .leftMargin(SCREEN_WIDTH > 800 ? 100 : 0)
-            .rightMargin(SCREEN_WIDTH > 800 ? 300 : 200)
+            .leftMargin(INNER_WIDTH > 800 ? 100 : 0)
+            .rightMargin(INNER_WIDTH > 800 ? 300 : 200)
             .dateMarker(new Date())
             .zScaleLabel('Сложность')
             .zQualitative(true)
