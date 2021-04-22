@@ -15,36 +15,103 @@
           квиз, квизы, викторина, викторины, поломать мозг, поиграть и подумать, разгадывать загадки, угадывать ответы,
           угадывать кадры из фильмов, угадывать песни, пабквиз онлайн, пабквизы онлайн, агрегатор квизов, агрегатор
     пабквизов, агрегатор викторин, играть квиз онлайн бесплатно, играть викторину онлайн бесплатно"/>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet"
+          integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css">
+    <!--    <style>-->
+    <!--        [v-cloak] {-->
+    <!--            display: none;-->
+    <!--        }-->
+    <!--    </style>-->
 </head>
 <body>
-<div style="text-align: right;">
-    <a href="..">Вернуться в агрегатор QUIZA</a>
-</div>
-<div style="font-size: 12px;">
-    <ul>
-        <li>Все данные приходят с <a href="https://rating.chgk.info/synch.php">сайта рейтинга</a> при открытии этой
-            странички.
-        </li>
-        <li>Блоки поделены по типу турниров (надпись слева), а справа названия турниров для быстрого поиска.</li>
-        <li>При наведении на полоску вы увидите больше данных о турнире, а при нажатии на неё откроется соответствующая
-            страница рейтинга.
-        </li>
-        <li>Вы можете выделять область графика, зажав курсор, и приближать её таким образом. Сброс сверху справа: "Reset
-            Zoom".
-        </li>
-        <li>К сожалению, сложности игры нет в данных. Если бы они приходили, можно было бы окрасить полоски в разные
-            цвета по сложности.
-        </li>
-        <li id="period"></li>
-    </ul>
-</div>
-<div id="graph" style="padding: 0; margin: 0;"></div>
+<div id="app" class="container-fluid mb-5" v-cloak>
+    <div class="row pt-2 pb-2">
+        <div class="col">
+            <h2>Планировщик ЧГК игр</h2>
+        </div>
+        <div class="col">
+            <a class="text-decoration-none float-end" href="/">Перейти на QUIZA</a>
+        </div>
+    </div>
 
-<div>
-    <script type="text/javascript" id="clustrmaps"
-            src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=m&d=x_2GErbTXEgfa6-bcya7Z-oBpzPyxVgorr11_xyHpPs&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353"></script>
+    <div class="row">
+        <div class="col">
+            <div class="float-end">
+                <a class="text-decoration-none pe-3" data-bs-toggle="collapse" href="#filter"
+                   aria-expanded="false" aria-controls="help">
+                    <i class="bi bi-filter-circle-fill"></i> Фильтры
+                </a>
+                <a class="text-decoration-none" data-bs-toggle="collapse" href="#help"
+                   aria-expanded="false" aria-controls="help">
+                    <i class="bi bi-info-circle-fill"></i> Подсказки
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="row small collapse" data-bs-target id="help">
+        <div class="col">
+            <div class="card">
+                <div class="card-body">
+                    <p class="card-text">
+                    <ul>
+                        <li>Все данные приходят с <a href="https://rating.chgk.info/synch.php">сайта рейтинга</a>
+                            при
+                            открытии этой
+                            странички.
+                        </li>
+                        <li>Блоки поделены по типу турниров (надпись слева), а справа названия турниров для быстрого
+                            поиска.
+                        </li>
+                        <li>При наведении на полоску вы увидите больше данных о турнире, а при нажатии на неё
+                            откроется
+                            соответствующая
+                            страница рейтинга.
+                        </li>
+                        <li>Вы можете выделять область графика, зажав курсор, и приближать её таким образом. Сброс
+                            сверху справа:
+                            "Reset
+                            Zoom".
+                        </li>
+                        <li>К сожалению, сложности игры нет в данных. Если бы они приходили, можно было бы окрасить
+                            полоски в разные
+                            цвета по сложности.
+                        </li>
+                        <li id="period"></li>
+                    </ul>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row small collapse" data-bs-target id="filter">
+        <div class="col">
+            В будущем здесь будут фильтры.
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+            <div id="graph" style="padding: 0; margin: 0;"></div>
+        </div>
+    </div>
 </div>
 
+<div class="container mb-5">
+    <div class="row">
+        <div class="col">
+            <div class="float-right">
+                <script type="text/javascript" id="clustrmaps"
+                        src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=m&d=x_2GErbTXEgfa6-bcya7Z-oBpzPyxVgorr11_xyHpPs&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353"></script>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.11"></script>
 <script src='//unpkg.com/timelines-chart'></script>
 <script>
     const INNER_WIDTH = window.innerWidth;
@@ -76,6 +143,13 @@
         return Promise.all(promises).then(r => r.flat(2));
     }
 
+    // function loadPlayerData() {
+    //     return Promise.all([fetch("https://quiza.stalnuhhin.ee/chgkplan/player.php?playerid=30337").then(r => r.json())])
+    //         .then(r => console.log(r));
+    // }
+    //
+    // loadPlayerData();
+
     function prepareData(data) {
         GAME_COUNT = data.length;
         const result = [];
@@ -83,7 +157,8 @@
             g.start = Date.parse(g.dateStart);
             g.end = Date.parse(g.dateEnd);
         });
-        const groups = this._groupBy(data, (i) => i.type.id + " " + i.type.name);
+        const groups = {"": data.filter(i => i.type.id != 2)}
+            // FIXME group by type = this._groupBy(data, (i) => i.type.id + " " + i.type.name);
         Object.entries(groups).map(g => {
             result.push(this.prepareGroup(g[0], g[1]));
         });
@@ -128,7 +203,7 @@
             "data": [{
                 "game": game,
                 "timeRange": [game.dateStart, game.dateEnd],
-                "val": 1
+                "val": game.type.name
             }]
         }
     }
@@ -170,12 +245,12 @@
     }
 
     function drawGraph(data) {
-        console.log(INNER_WIDTH);
         TimelinesChart()(document.getElementById("graph"))
             .width(INNER_WIDTH > 600 ? INNER_WIDTH - 40 : 600)
             .maxHeight(2400)
             .maxLineHeight(24)
-            .leftMargin(INNER_WIDTH > 800 ? 100 : 0)
+            //.leftMargin(INNER_WIDTH > 800 ? 100 : 0)
+            .leftMargin(0)
             .rightMargin(INNER_WIDTH > 800 ? 300 : 200)
             .dateMarker(new Date())
             .zScaleLabel('Сложность')
