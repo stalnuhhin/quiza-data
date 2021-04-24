@@ -2,7 +2,7 @@
   {
     "id": "f88f473d-922e-4a86-a0b0-693a5d754a61",
     "org": "TLTQUIZ",
-    "latestCheck": "2021-04-22T12:00:00+03:00",
+    "latestCheck": "2021-04-24T12:00:00+03:00",
     "type": ["events"],
     "image": "tltquiz.png",
     "duration": 1,
@@ -11,6 +11,8 @@
       { "time": "2021-04-02T17:00:00Z", "name": "ТаБуретКа online #41", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11867" ], "qpid": "11867", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
       { "time": "2021-04-12T17:00:00Z", "name": "ТаБуретКа online #44", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12034" ], "qpid": "12034", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
       { "time": "2021-04-12T18:00:00Z", "name": "Годовщина TLTQUIZ! Эфир №2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12033" ], "qpid": "12033", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
+      { "time": "2021-04-24T17:00:00Z", "name": "ТаБуретКа Online #49", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12190" ], "qpid": "12190", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
+      { "time": "2021-04-24T18:00:00Z", "name": "TLTQUIZ online #52", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12192" ], "qpid": "12192", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" },
       { "time": "2021-04-26T17:00:00Z", "name": "#45 ТаБуретКа", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12147" ], "qpid": "12147", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" }
     ]
   }
