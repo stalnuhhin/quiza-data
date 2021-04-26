@@ -2,7 +2,7 @@
   {
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
-    "latestCheck": "2021-04-22T12:00:00+03:00",
+    "latestCheck": "2021-04-26T12:00:00+03:00",
     "type": ["events"],
     "image": "beeclever.png",
     "duration": 2,
@@ -35,6 +35,13 @@
         "chgk": true,
         "price": ["13 USD/ком"],
         "url": ["http://beeclever.space/regform.php?turnir=63"]
+      },
+      {
+        "time": "2021-04-27T20:00:00+03:00",
+        "name": "Турнирум. Синхронная лига Bee Clever",
+        "chgk": true,
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=64"]
       }
     ]
   }

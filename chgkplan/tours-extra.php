@@ -1,10 +1,10 @@
 <?php
-include 'http-utils.php';
-include 'file-utils.php';
-include 'rating-tour-utils.php';
+include 'utils/http-utils.php';
+include 'utils/file-utils.php';
+include 'utils/rating-tour-utils.php';
 
-$FILE = "rating-tour.json";
-$CACHE_LIFE = 600; //caching time, in seconds
+$FILE = "tours-extra.json";
+$CACHE_LIFE = 600; //caching time, in seconds, 10 minutes
 
 $json = read_file($FILE, $CACHE_LIFE);
 $source_type = $json != null ? "from_file" : "from_site";

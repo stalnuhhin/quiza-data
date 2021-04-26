@@ -2,7 +2,7 @@
   {
     "id": "9645838f-9182-4221-842c-730ddaf75f98",
     "org": "PubQuiz",
-    "latestCheck": "2021-04-22T12:00:00+03:00",
+    "latestCheck": "2021-04-26T12:00:00+03:00",
     "type": ["events"],
     "image": "pubquiz.png",
     "duration": 3,
@@ -12,7 +12,9 @@
     "games": [
       {"time": "2021-04-01T20:00:00+03:00", "name": "PubQuiz Online", "url": ["https://www.facebook.com/events/187048873024903"]},
       {"time": "2021-04-08T20:00:00+03:00", "name": "Movie Quiz. Восьмая игра", "url": ["https://www.facebook.com/events/168952755047616"]},
-      {"time": "2021-04-20T20:00:00+03:00", "name": "PubQuiz Online", "url": ["https://www.facebook.com/events/1096713084161282"]}
+      {"time": "2021-04-20T20:00:00+03:00", "name": "PubQuiz Online", "url": ["https://www.facebook.com/events/1096713084161282"]},
+      {"time": "2021-04-27T20:00:00+03:00", "name": "PubQuiz Online", "url": ["https://www.facebook.com/events/283313133508821"]},
+      {"time": "2021-04-29T20:00:00+03:00", "name": "X-Track. Covers edition", "url": ["https://www.facebook.com/events/3926241230792648"]}
     ]
   }
 ]
