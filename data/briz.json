@@ -2,7 +2,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2021-04-26T12:00:00+03:00",
+    "latestCheck": "2021-04-28T12:00:00+03:00",
     "type": ["events"],
     "image": "briz.png",
     "duration": 2,
@@ -138,9 +138,19 @@
       { "time": "2021-04-26T20:00:00Z", "name": "НОЧНОЙ турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/12218" ], "qpid": "12218", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-04-27T13:00:00Z", "name": "GEO и ZOO - логика! ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12153" ], "qpid": "12153", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-04-27T20:00:00Z", "name": "НОЧНОЙ турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/12219" ], "qpid": "12219", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-04-28T11:00:00Z", "name": "НАША ИГРА: Без словаря!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12049" ], "qpid": "12049", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-28T11:00:00Z", "name": "Рог изобилия.", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12241" ], "qpid": "12241", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-28T12:30:00Z", "name": "НАША ИГРА: Без словаря!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12049" ], "qpid": "12049", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-28T14:00:00Z", "name": "GEO и ZOO - логика! ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12153" ], "qpid": "12153", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-28T16:00:00.708Z", "name": "Рог изобилия.", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12242" ], "qpid": "12242", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-28T17:30:00.211Z", "name": "Безумство умных!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12243" ], "qpid": "12243", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-28T19:00:00Z", "name": "Гео и Зоо - с логикой по жизни", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12227" ], "qpid": "12227", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-04-28T20:00:00Z", "name": "НОЧНОЙ турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/12220" ], "qpid": "12220", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-04-29T20:00:00Z", "name": "НОЧНОЙ турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/12081" ], "qpid": "12081", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
+      { "time": "2021-04-29T16:00:00Z", "name": "Безумство умных!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12060" ], "qpid": "12060", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-29T20:00:00Z", "name": "НОЧНОЙ турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/12081" ], "qpid": "12081", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-04-30T18:00:00Z", "name": "Зачётка - ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12228" ], "qpid": "12228", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-01T11:00:00Z", "name": "Зачётка - ПРЕМЬЕРА для Сибири и ДФО!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12229" ], "qpid": "12229", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-01T15:00:00Z", "name": "Зачётка - новый экзамен!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12230" ], "qpid": "12230", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-01T18:00:00Z", "name": "Зачётка - новый экзамен!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12231" ], "qpid": "12231", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
   }
 ]
