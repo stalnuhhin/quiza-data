@@ -2,7 +2,7 @@
   {
     "id": "5434288a-6ee6-43e9-95a0-d14b065041b4",
     "org": "Большая игра",
-    "latestCheck": "2021-04-22T12:00:00+03:00",
+    "latestCheck": "2021-05-01T12:00:00+03:00",
     "type": ["events"],
     "image": "bolshayaigra.png",
     "chgk": true,
@@ -59,7 +59,25 @@
       {"time": "2021-04-26T20:00:00+03:00", "name": "М-Лига 13.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/732"]},
       {"time": "2021-04-27T20:00:00+03:00", "name": "Декамерон", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/750"]},
       {"time": "2021-04-27T22:00:00+03:00", "name": "М-Лига 13.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/732"]},
-      {"time": "2021-04-28T20:00:00+03:00", "name": "Пальмовое первенство", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/754"]}
+      {"time": "2021-04-28T20:00:00+03:00", "name": "Пальмовое первенство", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/754"]},
+      {"time": "2021-05-01T11:00:00+03:00", "name": "Лига вузов. Финал сезона 2020/2021", "price": ["1800 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/761"]},
+      {"time": "2021-05-01T15:00:00+03:00", "name": "Лига старта 26", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/762"]},
+      {"time": "2021-05-01T22:00:00+03:00", "name": "Лига старта 26", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/762"]},
+      {"time": "2021-05-02T13:00:00+03:00", "name": "М-Лига 14.1", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/755"]},
+      {"time": "2021-05-02T16:00:00+03:00", "name": "Скрулл Кап - 1", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/760"]},
+      {"time": "2021-05-02T22:00:00+03:00", "name": "М-Лига 14.1", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/755"]},
+      {"time": "2021-05-03T20:00:00+03:00", "name": "М-Лига 14.1", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/755"]},
+      {"time": "2021-05-05T20:00:00+03:00", "name": "Лига старта 26", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/762"]},
+      {"time": "2021-05-08T13:00:00+03:00", "name": "Куб-6", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/763"]},
+      {"time": "2021-05-09T13:00:00+03:00", "name": "М-Лига 14.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/756"]},
+      {"time": "2021-05-09T22:00:00+03:00", "name": "М-Лига 14.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/756"]},
+      {"time": "2021-05-10T20:00:00+03:00", "name": "М-Лига 14.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/756"]},
+      {"time": "2021-05-16T13:00:00+03:00", "name": "М-Лига 14.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/757"]},
+      {"time": "2021-05-16T22:00:00+03:00", "name": "М-Лига 14.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/757"]},
+      {"time": "2021-05-17T20:00:00+03:00", "name": "М-Лига 14.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/757"]},
+      {"time": "2021-05-23T13:00:00+03:00", "name": "М-Лига 14.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/758"]},
+      {"time": "2021-05-23T22:00:00+03:00", "name": "М-Лига 14.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/758"]},
+      {"time": "2021-05-24T20:00:00+03:00", "name": "М-Лига 14.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/758"]}
     ]
   }
 ]

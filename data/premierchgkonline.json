@@ -1,8 +1,9 @@
 [
   {
     "id": "2d438bfd-ce5c-4784-a24b-1deb744aa0af",
+    "noOnline": true,
     "org": "Premier Chgk Online",
-    "latestCheck": "2021-04-22T12:00:00+03:00",
+    "latestCheck": "2021-05-01T12:00:00+03:00",
     "type": ["events"],
     "image": "premierchgkonline.png",
     "duration": 2.5,
