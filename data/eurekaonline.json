@@ -9,12 +9,6 @@
     "price": ["20 EUR/ком", "4 EUR/чел"],
     "url": ["https://www.facebook.com/eurekaintellectualgames/posts"],
     "games": [
-      {
-        "time": "2021-03-10T19:00:00+03:00",
-        "name": "Eureka #10 (162): Обмани меня",
-        "price": ["5 EUR/чел"],
-        "url": ["https://www.facebook.com/events/513713459797232/"]
-      }
     ]
   }
 ]

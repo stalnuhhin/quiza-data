@@ -9,8 +9,6 @@
     "duration": 1.5,
     "url": ["https://vk.com/vertigoquiz"],
     "games": [
-      { "time": "2021-01-07T18:00:00+03:00", "name": "ВертиGO ONLINE", "price": ["500 RUB/ком"], "url": ["https://vk.com/wall-144404394_18281"] },
-      { "time": "2021-02-22T16:00:00Z", "name": "ВертиGO Футбол #2", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11329" ], "qpid": "11329", "qpuid": "2783", "qpuname": "ВертиGO", "cat": "sports" }
     ]
   }
 ]

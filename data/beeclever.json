@@ -9,41 +9,6 @@
     "url": ["https://www.facebook.com/BEEEECLEVER/events", "http://beeclever.space/"],
     "games": [
       {
-        "time": "2021-04-06T20:00:00+03:00",
-        "name": "Кубок Эмили Плятер. Синхронная лига Bee Clever",
-        "chgk": true,
-        "price": ["13 USD/ком"],
-        "url": ["https://www.facebook.com/events/838307950092854/"]
-      },
-      {
-        "time": "2021-04-10T20:00:00+03:00",
-        "name": "Город грехов - 2021: Долго и счастливо. Повтор",
-        "chgk": true,
-        "price": ["13 USD/ком"],
-        "url": ["https://www.facebook.com/events/1156277968151330/"]
-      },
-      {
-        "time": "2021-04-13T20:00:00+03:00",
-        "name": "Кубок Луна-парка. Синхронная лига Bee Clever",
-        "chgk": true,
-        "price": ["13 USD/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=61"]
-      },
-      {
-        "time": "2021-04-20T20:00:00+03:00",
-        "name": "Пальмовое первенство. Синхронная лига Bee Clever",
-        "chgk": true,
-        "price": ["13 USD/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=63"]
-      },
-      {
-        "time": "2021-04-27T20:00:00+03:00",
-        "name": "Турнирум. Синхронная лига Bee Clever",
-        "chgk": true,
-        "price": ["13 USD/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=64"]
-      },
-      {
         "time": "2021-05-04T20:00:00+03:00",
         "name": "Пальмовое первенство. Синхронная лига Bee Clever",
         "chgk": true,

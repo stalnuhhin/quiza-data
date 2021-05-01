@@ -9,10 +9,6 @@
     "price": ["1000 RUB/ком"],
     "url": ["https://online.albertparty.ru/#schedule", "https://www.instagram.com/einsteinparty"],
     "games": [
-      {"time": "2021-04-02T20:00:00+03:00", "name": "ONLINE #256"},
-      {"time": "2021-04-10T18:00:00+03:00", "price": ["1500 RUB/ком"], "name": "ONLINE #9. УБОЙНЫЙ ПОЕДИНОК"},
-      {"time": "2021-04-16T20:00:00+03:00", "name": "ONLINE FUN #100"},
-      {"time": "2021-04-24T18:00:00+03:00", "price": ["1500 RUB/ком"], "name": "ONLINE#10. СВИДАНИЕ ПО РАСЧЕТУ"},
       {"time": "2021-05-01T20:00:00+03:00", "name": "ONLINE #260"}
     ]
   }

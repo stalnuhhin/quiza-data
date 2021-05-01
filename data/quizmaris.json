@@ -9,7 +9,6 @@
     "duration": 1,
     "url": ["https://vk.com/quizmaris", "https://quizmaris.ru"],
     "games": [
-      { "time": "2021-03-06T19:00:00Z", "name": "Квиз Марис [ПРЕМЬЕРА]", "price": [ "500 RUB/ком" ], "url": [ "https://quizy.pro/streams/11550" ], "qpid": "11550", "qpuid": "5199", "qpuname": "Квиз Марис ", "cat": "common_knowledge" }
     ]
   }
 ]

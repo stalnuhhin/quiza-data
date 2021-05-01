@@ -10,9 +10,6 @@
     "price": ["200 RUB/чел"],
     "url": ["https://vk.com/ligaindigo_solo", "http://ligaindigo.ru"],
     "games": [
-      {"time": "2021-04-06T14:00:00+03:00", "name": "Индиго Соло"},
-      {"time": "2021-04-06T19:30:00+03:00", "name": "Индиго Соло"},
-      {"time": "2021-04-13T12:00:00+03:00", "name": "Индиго Соло", "duration": 8}
     ]
   }
 ]

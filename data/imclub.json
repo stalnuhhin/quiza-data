@@ -11,36 +11,6 @@
     "info": ["Cтрим в YouTube", "Ответы вбиваются в их систему."],
     "games": [
       {
-        "time": "2021-04-06T19:00:00+02:00",
-        "name": "60 секунд LITE",
-        "price": ["5 eur/чел"],
-        "url": ["https://imclub.eu/lite/"]
-      },
-      {
-        "time": "2021-04-13T19:00:00+02:00",
-        "name": "60 Секунд Таллинн Сезон 2020/2021",
-        "price": ["5 eur/чел"],
-        "url": ["https://www.facebook.com/events/778515609443226","https://imclub.eu/60sec/"]
-      },
-      {
-        "time": "2021-04-15T19:00:00+02:00",
-        "name": "Дело №11 Приквел - Последние минуты | St.Twins Detective Tallinn",
-        "price": ["12 eur/чел"],
-        "url": ["https://www.facebook.com/events/143179027738751"]
-      },
-      {
-        "time": "2021-04-20T19:00:00+02:00",
-        "name": "60 секунд LITE",
-        "price": ["5 eur/чел"],
-        "url": ["https://imclub.eu/lite/"]
-      },
-      {
-        "time": "2021-04-27T19:00:00+02:00",
-        "name": "60 Секунд Таллинн Сезон 2020/2021",
-        "price": ["5 eur/чел"],
-        "url": ["https://imclub.eu/60sec/"]
-      },
-      {
         "time": "2021-05-04T19:00:00+02:00",
         "name": "60 секунд LITE",
         "price": ["5 eur/чел"],
