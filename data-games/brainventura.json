@@ -3,12 +3,12 @@
     "id": "96573ec2-f376-41c2-8303-6b3072432f69",
     "noOnline": true,
     "org": "BRAINVENTURA",
-    "latestCheck": "2021-03-01T12:00:00+03:00",
+    "latestCheck": "2021-05-05T12:00:00+03:00",
     "type": ["events"],
     "image": "brainventura.png",
     "duration": 2,
     "free": true,
-    "url": ["http://brainventura.ru", "https://vk.com/brainventura", "https://www.instagram.com/brainventura", "https://www.twitch.tv/brainventura"],
+    "url": ["https://vk.com/brainventura", "https://www.instagram.com/brainventura", "https://www.twitch.tv/brainventura"],
     "games": [
     ]
   }
