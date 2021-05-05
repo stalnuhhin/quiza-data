@@ -2,7 +2,7 @@
   {
     "id": "901232e6-ef9f-47c7-b9f1-752c67c8eec6",
     "org": "Сахар",
-    "latestCheck": "2021-05-01T12:00:00+03:00",
+    "latestCheck": "2021-05-05T12:00:00+03:00",
     "type": ["events"],
     "chgk": true,
     "duration": 2.5,
@@ -11,6 +11,8 @@
     "games": [
       {"time": "2021-05-02T20:00:00+03:00", "name": "Куб-6", "price": ["900 RUB/ком"], "url": ["https://vk.com/topic-38771951_47667726"]},
       {"time": "2021-05-03T20:00:00+03:00", "name": "Части Вселенной 60–99", "price": ["900 RUB/ком"], "url": ["https://vk.com/topic-38771951_47651609"]},
+      {"time": "2021-05-04T20:00:00+03:00", "name": "Элементарно!", "price": ["1000 RUB/ком"], "url": ["https://www.facebook.com/groups/chgk.global/permalink/1837839839712636"]},
+      {"time": "2021-05-05T20:30:00+03:00", "name": "Декамерон", "price": ["1000 RUB/ком"], "url": ["https://www.facebook.com/groups/chgk.global/permalink/1837839839712636"]},
       {"time": "2021-05-06T20:00:00+03:00", "name": "Части Вселенной 60–99", "price": ["900 RUB/ком"], "url": ["https://vk.com/topic-38771951_47651609"]},
       {"time": "2021-05-09T20:00:00+03:00", "name": "Части Вселенной 60–99", "price": ["900 RUB/ком"], "url": ["https://vk.com/topic-38771951_47651609"]},
       {"time": "2021-05-11T20:00:00+03:00", "name": "Куб-6", "price": ["900 RUB/ком"], "url": ["https://vk.com/topic-38771951_47667726"]}

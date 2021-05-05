@@ -16,7 +16,6 @@ window.DATAFILES = [
     "briz.json",
     "bquizonline.json",
     "chgkfily.json",
-    "chgkrating.json",
     "chesamyjumnyj.json",
     "cityquizkiev.json",
     "cityquizger.json",
