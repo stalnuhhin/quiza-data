@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Шоу",
+    "desc": "Видео-контент игр и их разбора.",
+    "items": [
+      {
+        "name": "«Своя игра» на Youtube",
+        "url": "https://www.youtube.com/channel/UCvYkzPH2Dj9BJDL05LgBCsw/videos"
+      },
+      {
+        "name": "«Разборка Павла Ершова» на Youtube",
+        "url": "https://www.youtube.com/c/razborka-online/videos"
+      },
+      {
+        "name": "«Что? Где? Когда?» на Youtube",
+        "url": "https://www.youtube.com/playlist?list=PL39l9SxO4ZYtouUlzx_MokUds7LtArzTq"
+      }
+    ]
+  },
+  {
+    "name": "Игры",
+    "desc": "То, что можно поиграть в любой момент.",
+    "items": [
+      {
+        "name": "Свояк в Telegram",
+        "url": "https://t.me/ktoto_zanyal_svoyak",
+        "extra": [
+          {
+            "name": "FAQ",
+            "url": "https://telegra.ph/FAQ-po-Svoej-Igre-02-06"
+          }
+        ]
+      },
+      {
+        "name": "Игры webquiz.net",
+        "url": "https://webquiz.net"
+      },
+      {
+        "name": "Игры sporcle.com (англ.)",
+        "url": "https://www.sporcle.com/quizzes"
+      },
+      {
+        "name": "Игры interoves.ml",
+        "url": "https://interoves.ml"
+      },
+      {
+        "name": "Киноигры клуба Янча",
+        "url": "https://quiz.rusdivx.net",
+        "tags": ["inactive"]
+      },
+      {
+        "name": "Время подумать на Youtube",
+        "url": "https://www.youtube.com/channel/UC8PsskD8G2fAMKoTNmjr3tA/videos",
+        "tags": ["inactive"]
+      }
+    ]
+  },
+  {
+    "name": "МАИИ",
+    "desc": "Международная ассоциация интеллектуальных игр.",
+    "items": [
+      {
+        "name": "Сайт",
+        "url": "https://znatoki.site"
+      },
+      {
+        "name": "Форум",
+        "url": "https://forum.znatoki.site"
+      },
+      {
+        "name": "Интеллектуальные игры онлайн в facebook",
+        "url": "https://www.facebook.com/groups/229434871583483"
+      }
+    ]
+  },
+  {
+    "name": "МАК",
+    "desc": "Международная ассоциация клубов «Что? Где? Когда?»",
+    "items": [
+      {
+        "name": "Сайт",
+        "url": "https://mak-chgk.ru"
+      },
+      {
+        "name": "Спортивное ЧГК в facebook",
+        "url": "https://www.facebook.com/groups/chgk.global"
+      },
+      {
+        "name": "Комиссия МАК по рейтингу в facebook",
+        "url": "https://www.facebook.com/groups/221412008203179"
+      }
+    ]
+  },
+  {
+    "name": "Агрегаторы",
+    "desc": "Платформы, на которых собраны различные игры.",
+    "items": [
+      {
+        "name": "Find Quiz",
+        "url": "https://online.findquiz.ru"
+      },
+      {
+        "name": "Quantum",
+        "url": "https://qgame.online/tournaments"
+      },
+      {
+        "name": "Quizy.pro",
+        "url": "https://quizy.pro"
+      },
+      {
+        "name": "Рейтинг ЧГК",
+        "url": "https://rating.chgk.info"
+      }
+    ]
+  }
+]

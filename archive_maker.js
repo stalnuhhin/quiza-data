@@ -1,8 +1,5 @@
 const MONTH = 5; // month number starts from 1, not 0.
-const DATAFILES = [
-]
-
-const app = new Vue({
+new Vue({
     el: '#app',
     created() {
         this.load();
@@ -19,8 +16,8 @@ const app = new Vue({
             const dates = [];
             const data = {};
 
-            const promises = DATAFILES.map(file =>
-                fetch("data/" + file)
+            const promises = window.DATAFILES.map(file =>
+                fetch("data-games/" + file)
                     .then(r => r.json()));
             Promise.all(promises).then(r => {
                 const db = r.flat(2);
