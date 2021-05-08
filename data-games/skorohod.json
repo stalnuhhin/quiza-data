@@ -2,14 +2,15 @@
   {
     "id": "eef21320-ac8d-4899-9be8-7d8a34c9936c",
     "org": "Квизы Скороход",
-    "latestCheck": "2021-05-05T12:00:00+03:00",
+    "latestCheck": "2021-05-08T12:00:00+03:00",
     "type": ["events"],
     "image": "skorohod.png",
     "duration": 1,
     "price": ["200 RUB/ком"],
     "url": ["https://vk.com/skorohod_quiz"],
     "games": [
-      { "time": "2021-05-03T13:00:00Z", "name": "Фильмоскоп № 55", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12274" ], "qpid": "12274", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" }
+      { "time": "2021-05-03T13:00:00Z", "name": "Фильмоскоп № 55", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12274" ], "qpid": "12274", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" },
+      { "time": "2021-05-09T13:00:00Z", "name": "Фильмоскоп № 56", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12375" ], "qpid": "12375", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" }
     ]
   }
 ]

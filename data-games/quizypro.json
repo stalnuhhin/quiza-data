@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2021-05-07T12:00:00+03:00",
+    "latestCheck": "2021-05-08T12:00:00+03:00",
     "type": ["aggr", "events"],
     "image": "quizypro.png",
     "duration": 1,
@@ -59,17 +59,21 @@
       { "time": "2021-05-07T17:30:00Z", "name": "КУЛЬТУРА #8", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12343" ], "qpid": "12343", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "art_and_literature", "org": "Искусство ухода" },
       { "time": "2021-05-07T18:40:00Z", "name": "КИНОКВИЗ. EPISODE 16", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12344" ], "qpid": "12344", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-05-07T19:50:00Z", "name": "ALPHABET MUSIC QUIZ #90", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12345" ], "qpid": "12345", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-05-08T13:00:00Z", "name": "РЭП-МУЗЫКА", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12341" ], "qpid": "12341", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-05-08T14:00:00Z", "name": "QUIZ-CLUB #78", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/12302" ], "qpid": "12302", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
       { "time": "2021-05-08T14:30:00Z", "name": "СВОЯ ИГРА #46", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12337" ], "qpid": "12337", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "common_knowledge", "org": "СВОЯ ИГРА ONLINE" },
       { "time": "2021-05-08T16:00:00Z", "name": "КИНО И МУЗЫКА #25", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12349" ], "qpid": "12349", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-05-08T17:30:00Z", "name": "МУЗЫКАЛОЧКА #8", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12350" ], "qpid": "12350", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-05-08T19:00:00Z", "name": "МУЛЬТФИЛЬМЫ #6", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12352" ], "qpid": "12352", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-05-08T20:20:00Z", "name": "ALPHABET MUSIC QUIZ #89", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12351" ], "qpid": "12351", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
+      { "time": "2021-05-09T13:00:00Z", "name": "КИНО И МУЗЫКА #6", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12340" ], "qpid": "12340", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-05-09T14:00:00Z", "name": "Музыкальная классика #9", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/12363" ], "qpid": "12363", "qpuid": "6719", "qpuname": "Pianoforte ", "cat": "cinema_and_music", "org": "Pianoforte " },
       { "time": "2021-05-09T15:00:00Z", "name": "КУЛЬТУРА #8", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12347" ], "qpid": "12347", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "art_and_literature", "org": "Искусство ухода" },
       { "time": "2021-05-09T16:00:00Z", "name": "МУЗЫКАЛОЧКА #9", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12348" ], "qpid": "12348", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" },
       { "time": "2021-05-09T17:30:00Z", "name": "СВОЯ ИГРА #25", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12338" ], "qpid": "12338", "qpuid": "10430", "qpuname": "СВОЯ ИГРА ONLINE", "cat": "common_knowledge", "org": "СВОЯ ИГРА ONLINE" },
-      { "time": "2021-05-09T18:00:00Z", "name": "Классическая музыка #9", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/12364" ], "qpid": "12364", "qpuid": "6719", "qpuname": "Pianoforte ", "cat": "cinema_and_music", "org": "Pianoforte " }
+      { "time": "2021-05-09T18:00:00Z", "name": "Классическая музыка #9", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/12364" ], "qpid": "12364", "qpuid": "6719", "qpuname": "Pianoforte ", "cat": "cinema_and_music", "org": "Pianoforte " },
+      { "time": "2021-05-10T13:30:00Z", "name": "QUIZ-CLUB #79 \"Вспомнить всё!\" Квиз про СССР", "price": [ "399 RUB/ком" ], "url": [ "https://quizy.pro/streams/12379" ], "qpid": "12379", "qpuid": "2247", "qpuname": "QUIZ-CLUB", "cat": "common_knowledge", "org": "QUIZ-CLUB" },
+      { "time": "2021-05-10T17:30:00Z", "name": "КИНОКВИЗ. EPISODE 16", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12344" ], "qpid": "12344", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" }
     ]
   }
 ]
