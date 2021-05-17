@@ -72,8 +72,7 @@
       { "time": "2021-05-13T20:40:00Z", "name": "Ночной турнир на ВЫБОР!", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/12416" ], "qpid": "12416", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-05-14T11:00:00Z", "name": "КОСМОПОЛИТ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11776" ], "qpid": "11776", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-05-14T15:30:00Z", "name": "Вывих мозга", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11912" ], "qpid": "11912", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-05-14T17:30:00Z", "name": "90е Наизнанку. КВИЗ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12430" ], "qpid": "12430", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
-      { "time": "2021-05-18T14:30:00Z", "name": "КНИГИ vs ФИЛЬМЫ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11185" ], "qpid": "11185", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
+      { "time": "2021-05-14T17:30:00Z", "name": "90е Наизнанку. КВИЗ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12430" ], "qpid": "12430", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
     ]
   }
 ]
