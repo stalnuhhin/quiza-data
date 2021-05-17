@@ -1,13 +1,8 @@
 [
   {
-    "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
-    "org": "Quizy",
-    "image": "quizypro.png",
-    "url": ["https://quizy.pro"],
-    "int": {"quizypro_id": "QUIZY"},
-    "latestCheck": "2021-05-12T12:00:00+03:00",
-    "duration": 1,
-    "registration": true,
+    "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b", "int": {"quizypro_id": "QUIZY"},
+    "org": "Quizy", "image": "quizypro.png", "url": ["https://quizy.pro"],
+    "latestCheck": "2021-05-18T12:00:00+03:00", "duration": 1,
     "games": [
       { "time": "2021-05-01T10:00:00Z", "name": "МузОбозКино №7", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12290" ], "qpid": "12290", "qpuid": "8179", "qpuname": "Зиппо, триппер, пистолет", "cat": "cinema_and_music", "org": "Зиппо, триппер, пистолет" },
       { "time": "2021-05-01T11:00:00Z", "name": "КИНО И МУЗЫКА #23", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12216" ], "qpid": "12216", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
@@ -93,5 +88,128 @@
       { "time": "2021-05-15T15:00:00Z", "name": "Музыкальная классика #9", "price": [ "350 RUB/ком" ], "url": [ "https://quizy.pro/streams/12424" ], "qpid": "12424", "qpuid": "6719", "qpuname": "Pianoforte ", "cat": "cinema_and_music", "org": "Pianoforte " },
       { "time": "2021-05-15T17:30:00Z", "name": "МУЗЫКАЛЬНЫЙ КВИЗ КО ДНЮ РАДИО", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12406" ], "qpid": "12406", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "cinema_and_music", "org": "Искусство ухода" }
     ]
+  },
+  {
+    "id": "e8078e4f-3283-4fa2-95db-c3762c317594", "int": {"quizypro_id": "5537"},
+    "org": "БРИЗ", "image": "briz.png", "url": ["https://www.facebook.com/pg/chtogdekogda.briz", "https://vk.com/public197092284", "https://quizy.pro/clubs/5537"],
+    "latestCheck": "2021-05-18T12:00:00+03:00", "duration": 2,
+    "games": [
+      { "time": "2021-05-01T11:00:00Z", "name": "Зачётка - ПРЕМЬЕРА для Сибири и ДФО!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12229" ], "qpid": "12229", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-01T12:20:00Z", "name": "Рог изобилия.", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12273" ], "qpid": "12273", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-01T13:40:00Z", "name": "GEO-ZOO-ЛОГИКА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12292" ], "qpid": "12292", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-01T15:00:00Z", "name": "Зачётка - новый экзамен!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12230" ], "qpid": "12230", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-01T18:00:00Z", "name": "Зачётка - новый экзамен!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12231" ], "qpid": "12231", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-01T19:30:00Z", "name": "НОЧНОЙ турнир на ВЫБОР!", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/12293" ], "qpid": "12293", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-02T13:30:00Z", "name": "Радости жизни! ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12055" ], "qpid": "12055", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-02T15:00:00Z", "name": "Время подумать", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11936" ], "qpid": "11936", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-02T15:00:00Z", "name": "Рог изобилия.", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12241" ], "qpid": "12241", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-02T15:00:00Z", "name": "Безумство умных!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12243" ], "qpid": "12243", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-03T12:30:00Z", "name": "Иностранные странности", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11317" ], "qpid": "11317", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-03T15:30:00Z", "name": "НАША ИГРА: Без словаря!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11978" ], "qpid": "11978", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-03T19:00:00Z", "name": "ЖАРА. 16+", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11874" ], "qpid": "11874", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-04T10:30:00Z", "name": "GEO-ZOO-ЛОГИКА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12297" ], "qpid": "12297", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-04T12:00:00Z", "name": "ЗАЧЁТКА", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12300" ], "qpid": "12300", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-04T13:10:00Z", "name": "КОСМОПОЛИТ. ПОВТОР", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11802" ], "qpid": "11802", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-04T14:20:00Z", "name": "Безумство умных!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12243" ], "qpid": "12243", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-04T18:00:00.924Z", "name": "Пришел! Ответил! Победил! ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12318" ], "qpid": "12318", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-04T18:30:00Z", "name": "ЗАЧЁТКА", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12301" ], "qpid": "12301", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-04T20:00:00Z", "name": "НОЧНОЙ турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/12313" ], "qpid": "12313", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-05T10:00:00Z", "name": "НАША ИГРА: Без словаря!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12044" ], "qpid": "12044", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-05T14:30:00Z", "name": "Фантастический коктейль. Повтор", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11469" ], "qpid": "11469", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-05T15:40:00Z", "name": "ЗАЧЁТКА", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12301" ], "qpid": "12301", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-05T17:00:00Z", "name": "РОГ ИЗОБИЛИЯ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12312" ], "qpid": "12312", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-05T18:30:00Z", "name": "Пришел! Ответил! Победил! ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12318" ], "qpid": "12318", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-05T20:00:00.202Z", "name": "Ночной турнир на ВЫБОР!", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/12332" ], "qpid": "12332", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-06T11:00:00Z", "name": "Пришел! Ответил! Победил! ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12319" ], "qpid": "12319", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-06T15:00:00Z", "name": "Пришел! Ответил! Победил!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12356" ], "qpid": "12356", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-06T16:30:00Z", "name": "GEO-ZOO-ЛОГИКА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12297" ], "qpid": "12297", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-06T18:00:00Z", "name": "Пришел! Ответил! Победил! ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12320" ], "qpid": "12320", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-06T19:10:00Z", "name": "РОГ ИЗОБИЛИЯ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12312" ], "qpid": "12312", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-06T20:20:00Z", "name": "НОЧНОЙ турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/12358" ], "qpid": "12358", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-07T15:30:00Z", "name": "Вывих мозга", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11912" ], "qpid": "11912", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-08T10:00:00Z", "name": "НАША ИГРА: Без словаря!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12045" ], "qpid": "12045", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-08T11:20:00Z", "name": "GEO-ZOO-ЛОГИКА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12382" ], "qpid": "12382", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-08T12:30:00Z", "name": "ПРИШЕЛ! ОТВЕТИЛ! ПОБЕДИЛ!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12380" ], "qpid": "12380", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-08T14:00:00Z", "name": "Зачётка - новый экзамен!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12230" ], "qpid": "12230", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-08T15:30:00Z", "name": "Безумство умных!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12060" ], "qpid": "12060", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-08T17:00:00Z", "name": "РОГ ИЗОБИЛИЯ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12312" ], "qpid": "12312", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-08T18:30:00Z", "name": "ПРИШЕЛ! ОТВЕТИЛ! ПОБЕДИЛ! ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12381" ], "qpid": "12381", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-08T20:00:00Z", "name": "НОЧНОЙ турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/12358" ], "qpid": "12358", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-10T09:30:00.145Z", "name": "ПРИШЕЛ! ОТВЕТИЛ! ПОБЕДИЛ!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12410" ], "qpid": "12410", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-10T13:30:00Z", "name": "ПРИШЕЛ! ОТВЕТИЛ! ПОБЕДИЛ!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12394" ], "qpid": "12394", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-10T18:00:00Z", "name": "БАТАРЕЙКУМ. ПРЕМЬЕРА!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12361" ], "qpid": "12361", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-10T20:00:00.292Z", "name": "Ночной турнир на ВЫБОР!", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/12416" ], "qpid": "12416", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-11T11:00:00Z", "name": "КОСМОПОЛИТ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11776" ], "qpid": "11776", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-11T12:00:00Z", "name": "БАТАРЕЙКУМ. ПРЕМЬЕРА для ДФО и Сибири!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12413" ], "qpid": "12413", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-11T12:20:00Z", "name": "НАША ИГРА: Без словаря!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11978" ], "qpid": "11978", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-11T16:30:00Z", "name": "НАША ИГРА: Без словаря!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12054" ], "qpid": "12054", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-11T16:30:00Z", "name": "ПРИШЕЛ! ОТВЕТИЛ! ПОБЕДИЛ!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12409" ], "qpid": "12409", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-11T18:30:00Z", "name": "БАТАРЕЙКУМ!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12414" ], "qpid": "12414", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-12T10:00:00Z", "name": "КОСМОПОЛИТ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11833" ], "qpid": "11833", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-12T12:00:00Z", "name": "БАТАРЕЙКУМ! НОВЫЙ ТУРНИР", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12415" ], "qpid": "12415", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-12T13:30:00Z", "name": "НАША ИГРА: Без словаря!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11978" ], "qpid": "11978", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-12T15:00:00Z", "name": "ЗАЧЁТКА", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12301" ], "qpid": "12301", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-12T16:30:00Z", "name": "ПРИШЕЛ! ОТВЕТИЛ! ПОБЕДИЛ!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12411" ], "qpid": "12411", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-12T18:00:00Z", "name": "БАТАРЕЙКУМ! ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12429" ], "qpid": "12429", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-12T20:20:00Z", "name": "НОЧНОЙ турнир на ВЫБОР", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/12308" ], "qpid": "12308", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-13T12:00:00Z", "name": "ПРИШЕЛ! ОТВЕТИЛ! ПОБЕДИЛ!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12412" ], "qpid": "12412", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-13T12:20:00Z", "name": "Отпускное настроение.", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12057" ], "qpid": "12057", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-13T16:30:00Z", "name": "НАША ИГРА: Без словаря!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12054" ], "qpid": "12054", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-13T20:40:00Z", "name": "Ночной турнир на ВЫБОР!", "price": [ "499 RUB/ком" ], "url": [ "https://quizy.pro/streams/12416" ], "qpid": "12416", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-14T11:00:00Z", "name": "КОСМОПОЛИТ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11776" ], "qpid": "11776", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-14T15:30:00Z", "name": "Вывих мозга", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/11912" ], "qpid": "11912", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
+      { "time": "2021-05-14T17:30:00Z", "name": "90е Наизнанку. КВИЗ", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12430" ], "qpid": "12430", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" }
+    ]
+  },
+  {
+    "id": "ab4a284a-ea0e-4c31-9935-981d29dbdf68", "int": {"quizypro_id": "2070"},
+    "org": "СибКвиз", "image": "sibkviz.png", "url": ["https://vk.com/sibquiz", "https://quizy.pro/clubs/2070"],
+    "latestCheck": "2021-05-18T12:00:00+03:00", "duration": 2, "price": ["300 RUB/ком"],
+    "games": [
+      { "time": "2021-05-02T13:00:00Z", "name": "СибКвиз Онлайн#92", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12202" ], "qpid": "12202", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2021-05-04T13:00:00Z", "name": "СибКвиз Онлайн#93", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12278" ], "qpid": "12278", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2021-05-04T16:00:00Z", "name": "СибКвиз Онлайн#93", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12279" ], "qpid": "12279", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2021-05-07T13:00:00Z", "name": "СибКвиз Онлайн#94", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12281" ], "qpid": "12281", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2021-05-07T16:00:00Z", "name": "СибКвиз Онлайн#94", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12282" ], "qpid": "12282", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2021-05-09T13:00:00Z", "name": "СибКвиз Онлайн#94", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12283" ], "qpid": "12283", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2021-05-09T14:30:00Z", "name": "СибКвиз Онлайн#93", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12280" ], "qpid": "12280", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2021-05-14T13:00:00Z", "name": "СибКвиз Онлайн#95", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12396" ], "qpid": "12396", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2021-05-14T16:00:00Z", "name": "СибКвиз Онлайн#95", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12397" ], "qpid": "12397", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
+      { "time": "2021-05-16T13:00:00Z", "name": "СибКвиз Онлайн#95", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12398" ], "qpid": "12398", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" }
+    ]
+  },
+  {
+    "id": "f88f473d-922e-4a86-a0b0-693a5d754a61", "int": {"quizypro_id": "2161"},
+    "org": "TLTQUIZ", "image": "tltquiz.png", "url": ["https://vk.com/tltquiz", "https://quizy.pro/clubs/2161"],
+    "latestCheck": "2021-05-18T12:00:00+03:00", "duration": 1,
+    "games": [
+      { "time": "2021-05-01T18:00:00Z", "name": "ТаБуретКа online #53", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12275" ], "qpid": "12275", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
+      { "time": "2021-05-01T19:00:00Z", "name": "TLTQUIZ online #58", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12276" ], "qpid": "12276", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" }
+    ]
+  },
+  {
+    "id": "eb061557-1787-48a3-a456-a98384b340e0", "int": {"quizypro_id": "6719"},
+    "org": "Pianoforte", "image": "pianoforte.png", "url": ["https://vk.com/pianofortequiz", "https://quizy.pro/clubs/6719"],
+    "latestCheck": "2021-05-18T12:00:00+03:00", "games": []
+  },
+  {
+    "id": "15b108ae-b70f-4854-8b91-2fddd7cac6ce", "int": {"quizypro_id": "4515"},
+    "org": "Искусство ухода", "image": "quizypro.png", "url": ["https://quizy.pro/clubs/4515"],
+    "latestCheck": "2021-05-18T12:00:00+03:00", "games": []
+  },
+  {
+    "id": "82f8bc4c-f123-4c39-bd0a-52ab3825fe0d", "int": {"quizypro_id": "10430"},
+    "org": "СВОЯ ИГРА ONLINE", "image": "svojaigraonline.png", "url": ["https://quizy.pro/clubs/10430"],
+    "latestCheck": "2021-05-18T12:00:00+03:00", "games": []
+  },
+  {
+    "id": "d439d1f8-2036-421f-9091-d7aaad2c3f93", "int": {"quizypro_id": "265"},
+    "org": "Феникс", "image": "feniks.png", "url": ["https://quizy.pro/clubs/265"],
+    "latestCheck": "2021-05-18T12:00:00+03:00", "games": []
+  },
+  {
+    "id": "4c9c9aa0-c79e-4229-921c-a26cca1ed453", "int": {"quizypro_id": "1621"},
+    "org": "Человек и кошочка", "image": "chelovekikoshechka.png", "url": ["https://quizy.pro/clubs/1621"],
+    "latestCheck": "2021-05-18T12:00:00+03:00", "games": []
   }
 ]
