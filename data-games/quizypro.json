@@ -4,7 +4,7 @@
     "org": "Quizy",
     "image": "quizypro.png",
     "url": ["https://quizy.pro"],
-    "int": {"quizypro_id": "0"},
+    "int": {"quizypro_id": "QUIZY"},
     "latestCheck": "2021-05-12T12:00:00+03:00",
     "duration": 1,
     "registration": true,
