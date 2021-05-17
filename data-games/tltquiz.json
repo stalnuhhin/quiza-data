@@ -2,11 +2,11 @@
   {
     "id": "f88f473d-922e-4a86-a0b0-693a5d754a61",
     "org": "TLTQUIZ",
-    "latestCheck": "2021-05-05T12:00:00+03:00",
-    "type": ["events"],
     "image": "tltquiz.png",
-    "duration": 1,
     "url": ["https://vk.com/tltquiz"],
+    "int": {"quizypro_id": "2161"},
+    "latestCheck": "2021-05-05T12:00:00+03:00",
+    "duration": 1,
     "games": [
       { "time": "2021-05-01T18:00:00Z", "name": "ТаБуретКа online #53", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12275" ], "qpid": "12275", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
       { "time": "2021-05-01T19:00:00Z", "name": "TLTQUIZ online #58", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12276" ], "qpid": "12276", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" }

@@ -4,7 +4,6 @@
     "noOnline": true,
     "org": "BRAINVENTURA",
     "latestCheck": "2021-05-05T12:00:00+03:00",
-    "type": ["events"],
     "image": "brainventura.png",
     "duration": 2,
     "free": true,

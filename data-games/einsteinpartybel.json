@@ -1,15 +1,14 @@
 [
   {
     "id": "2357d128-bd13-4770-ac73-b62fb95cd55a",
-    "noOnline": true,
     "org": "Эйнштейн Party (Беларусь)",
-    "name": "Эйнштейн Party онлайн игра",
-    "latestCheck": "2021-05-05T12:00:00+03:00",
-    "type": ["events"],
     "image": "einsteinparty.png",
+    "url": ["https://vk.com/einstein_glb"],
+    "latestCheck": "2021-05-05T12:00:00+03:00",
+    "noOnline": true,
+    "name": "Эйнштейн Party онлайн игра",
     "duration": 2.5,
     "price": ["7 BYN/чел"],
-    "url": ["https://vk.com/einstein_glb"],
     "games": [
     ]
   }

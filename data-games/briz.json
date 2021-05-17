@@ -2,11 +2,11 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594",
     "org": "БРИЗ",
-    "latestCheck": "2021-05-12T12:00:00+03:00",
-    "type": ["events"],
     "image": "briz.png",
-    "duration": 2,
     "url": ["https://www.facebook.com/pg/chtogdekogda.briz", "https://vk.com/public197092284"],
+    "int": {"quizypro_id": "5537"},
+    "latestCheck": "2021-05-12T12:00:00+03:00",
+    "duration": 2,
     "games": [
       { "time": "2021-05-01T11:00:00Z", "name": "Зачётка - ПРЕМЬЕРА для Сибири и ДФО!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12229" ], "qpid": "12229", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-05-01T12:20:00Z", "name": "Рог изобилия.", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12273" ], "qpid": "12273", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },

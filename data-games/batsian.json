@@ -1,17 +1,13 @@
 [
   {
     "id": "ae88d4e7-73ee-488e-9a3a-2059383cf03a",
-    "noOnline": true,
     "org": "Артём Батян",
-    "latestCheck": "2021-05-01T12:00:00+03:00",
-    "type": ["events"],
     "image": "small_lm.png",
+    "url": ["https://bit.ly/lm-reg"],
+    "latestCheck": "2021-05-01T12:00:00+03:00",
+    "noOnline": true,
     "chgk": true,
     "duration": 2,
-    "url": ["https://bit.ly/lm-reg"],
-    "templates": {
-      "850": {"price": ["850 RUB/ком", "320 UAH/ком", "12 USD/ком", "30 BYN/ком"]}
-    },
     "games": [
     ]
   }

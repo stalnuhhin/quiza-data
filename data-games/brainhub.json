@@ -3,7 +3,6 @@
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
     "latestCheck": "2021-05-12T12:00:00+03:00",
-    "type": ["events"],
     "image": "brainhub.png",
     "duration": 2,
     "chgk": true,

@@ -5,7 +5,6 @@
     "org": "Brain Battle",
     "name": "Brain Battle",
     "latestCheck": "2021-05-05T12:00:00+03:00",
-    "type": ["events"],
     "image": "brainbattle.png",
     "duration": 2,
     "free": true,

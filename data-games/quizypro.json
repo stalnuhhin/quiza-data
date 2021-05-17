@@ -2,13 +2,12 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b",
     "org": "Quizy",
-    "latestCheck": "2021-05-12T12:00:00+03:00",
-    "type": ["aggr", "events"],
     "image": "quizypro.png",
+    "url": ["https://quizy.pro"],
+    "int": {"quizypro_id": "0"},
+    "latestCheck": "2021-05-12T12:00:00+03:00",
     "duration": 1,
     "registration": true,
-    "desc": "Платформа для онлайн игр.",
-    "url": ["https://quizy.pro"],
     "games": [
       { "time": "2021-05-01T10:00:00Z", "name": "МузОбозКино №7", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12290" ], "qpid": "12290", "qpuid": "8179", "qpuname": "Зиппо, триппер, пистолет", "cat": "cinema_and_music", "org": "Зиппо, триппер, пистолет" },
       { "time": "2021-05-01T11:00:00Z", "name": "КИНО И МУЗЫКА #23", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12216" ], "qpid": "12216", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
