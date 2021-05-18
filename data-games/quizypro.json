@@ -2,7 +2,7 @@
   {
     "id": "4b45cc7a-7d3d-4833-a147-9a09b70e5a4b", "int": {"quizypro_id": "QUIZY"},
     "org": "Quizy", "image": "quizypro.png", "url": ["https://quizy.pro"],
-    "latestCheck": "2021-05-18T12:00:00+03:00", "duration": 1,
+    "latestCheck": "2021-05-19T12:00:00+03:00", "duration": 1,
     "games": [
       { "time": "2021-05-01T10:00:00Z", "name": "МузОбозКино №7", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12290" ], "qpid": "12290", "qpuid": "8179", "qpuname": "Зиппо, триппер, пистолет", "cat": "cinema_and_music", "org": "Зиппо, триппер, пистолет" },
       { "time": "2021-05-01T11:00:00Z", "name": "КИНО И МУЗЫКА #23", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12216" ], "qpid": "12216", "qpuid": "4515", "qpuname": "Искусство ухода", "cat": "common_knowledge", "org": "Искусство ухода" },
@@ -92,7 +92,7 @@
   {
     "id": "e8078e4f-3283-4fa2-95db-c3762c317594", "int": {"quizypro_id": "5537"},
     "org": "БРИЗ", "image": "briz.png", "url": ["https://www.facebook.com/pg/chtogdekogda.briz", "https://vk.com/public197092284", "https://quizy.pro/clubs/5537"],
-    "latestCheck": "2021-05-18T12:00:00+03:00", "duration": 2,
+    "latestCheck": "2021-05-19T12:00:00+03:00", "duration": 2,
     "games": [
       { "time": "2021-05-01T11:00:00Z", "name": "Зачётка - ПРЕМЬЕРА для Сибири и ДФО!", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12229" ], "qpid": "12229", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
       { "time": "2021-05-01T12:20:00Z", "name": "Рог изобилия.", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12273" ], "qpid": "12273", "qpuid": "5537", "qpuname": "БРИЗ", "cat": "common_knowledge" },
@@ -164,7 +164,7 @@
   {
     "id": "ab4a284a-ea0e-4c31-9935-981d29dbdf68", "int": {"quizypro_id": "2070"},
     "org": "СибКвиз", "image": "sibkviz.png", "url": ["https://vk.com/sibquiz", "https://quizy.pro/clubs/2070"],
-    "latestCheck": "2021-05-18T12:00:00+03:00", "duration": 2, "price": ["300 RUB/ком"],
+    "latestCheck": "2021-05-19T12:00:00+03:00", "duration": 2, "price": ["300 RUB/ком"],
     "games": [
       { "time": "2021-05-02T13:00:00Z", "name": "СибКвиз Онлайн#92", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12202" ], "qpid": "12202", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
       { "time": "2021-05-04T13:00:00Z", "name": "СибКвиз Онлайн#93", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12278" ], "qpid": "12278", "qpuid": "2070", "qpuname": "СибКвиз", "cat": "common_knowledge" },
@@ -181,7 +181,7 @@
   {
     "id": "f88f473d-922e-4a86-a0b0-693a5d754a61", "int": {"quizypro_id": "2161"},
     "org": "TLTQUIZ", "image": "tltquiz.png", "url": ["https://vk.com/tltquiz", "https://quizy.pro/clubs/2161"],
-    "latestCheck": "2021-05-18T12:00:00+03:00", "duration": 1,
+    "latestCheck": "2021-05-19T12:00:00+03:00", "duration": 1,
     "games": [
       { "time": "2021-05-01T18:00:00Z", "name": "ТаБуретКа online #53", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12275" ], "qpid": "12275", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "chgk" },
       { "time": "2021-05-01T19:00:00Z", "name": "TLTQUIZ online #58", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12276" ], "qpid": "12276", "qpuid": "2161", "qpuname": "Tltquiz & ТаБуретКа", "cat": "common_knowledge" }
@@ -190,71 +190,80 @@
   {
     "id": "eb061557-1787-48a3-a456-a98384b340e0", "int": {"quizypro_id": "6719"},
     "org": "Pianoforte", "image": "pianoforte.png", "url": ["https://vk.com/pianofortequiz", "https://quizy.pro/clubs/6719"],
-    "latestCheck": "2021-05-18T12:00:00+03:00", "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "games": []
   },
   {
     "id": "15b108ae-b70f-4854-8b91-2fddd7cac6ce", "int": {"quizypro_id": "4515"},
     "org": "Искусство ухода", "image": "iskusstvouhoda.png", "url": ["https://vk.com/degenerarts", "https://quizy.pro/clubs/4515"],
-    "latestCheck": "2021-05-18T12:00:00+03:00", "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "games": []
   },
   {
     "id": "82f8bc4c-f123-4c39-bd0a-52ab3825fe0d", "int": {"quizypro_id": "10430"},
     "org": "СВОЯ ИГРА ONLINE", "image": "svojaigraonline.png", "url": ["https://quizy.pro/clubs/10430"],
-    "latestCheck": "2021-05-18T12:00:00+03:00", "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "games": []
   },
   {
     "id": "d439d1f8-2036-421f-9091-d7aaad2c3f93", "int": {"quizypro_id": "265"},
     "org": "Феникс", "image": "feniks.png", "url": ["https://quizy.pro/clubs/265"],
-    "latestCheck": "2021-05-18T12:00:00+03:00", "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "games": []
   },
   {
     "id": "4c9c9aa0-c79e-4229-921c-a26cca1ed453", "int": {"quizypro_id": "1621"},
     "org": "Человек и кошочка", "image": "chelovekikoshechka.png", "url": ["https://quizy.pro/clubs/1621"],
-    "latestCheck": "2021-05-18T12:00:00+03:00", "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "games": []
   },
   {
     "id": "bf5df1c1-bd66-4952-a470-16a093212d61", "int": {"quizypro_name": "Online Quiz 64"},
     "org": "Online Quiz 64", "image": "onlinequiz64.png", "url": ["https://vk.com/onlinequiz64"],
-    "latestCheck": "2021-05-01T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
   },
   {
     "id": "1cad8418-40ff-4a31-9cf4-97d8ba60c3ba", "int": {"quizypro_name": "ИнQUIZиция"},
     "org": "ИнQUIZиция", "image": "inquizicia.png", "url": ["https://vk.com/quiztag"],
-    "latestCheck": "2021-05-05T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
   },
   {
     "id": "c2f7f49d-b9b0-452e-b946-053e805c2677", "int": {"quizypro_name": "QLEVER - Включай мозги!"},
     "org": "Qlever", "image": "qlever.png", "url": ["http://vk.com/qlever_quiz"],
-    "latestCheck": "2021-05-05T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
   },
   {
     "id": "538ff061-5d18-4bf8-9b89-b927ab947b09", "int": {"quizypro_name": "ElevenQuiz"},
     "org": "Eleve11 Quiz", "image": "elevenquiz.png", "url": ["https://vk.com/eleven_quiz_online"],
-    "latestCheck": "2021-05-05T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
   },
   {
     "id": "9eb0228f-fc4d-4e11-a294-87455f004ad9", "int": {"quizypro_name": "Квиз Марис "},
     "org": "Quiz Maris", "image": "quizmaris.png", "url": ["https://vk.com/quizmaris", "https://quizmaris.ru"],
-    "latestCheck": "2021-05-05T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
   },
   {
     "id": "6e5cb6b5-e314-4d4b-8d07-d70de495380d", "int": {"quizypro_name": "Клуб Онлайн Вопросов"},
     "org": "Клуб Онлайн Вопросов", "image": "klubonlinevoprosov.png", "url": ["https://www.facebook.com/groups/klub.online.voprosov/events"],
-    "latestCheck": "2021-05-05T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
   },
   {
     "id": "0e0e73db-a3c8-4ec0-b6c0-b9072745e17f", "int": {"quizypro_name": "NeoQuiz"},
     "org": "NeoQuiz", "image": "neoquiz.png", "url": ["https://vk.com/neoquiz", "http://neoquiz.ru/", "https://quizy.pro/"],
-    "latestCheck": "2021-05-05T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
   },
   {
     "id": "b70540a7-55f6-4a26-a163-7599028dc399", "int": {"quizypro_name": "ИZВИЛИУМ"},
     "org": "ИZВИЛИУМ", "image": "izvilium.png", "url": ["https://izvilium.com/raspisanie-igr", "https://vk.com/izvilium_sar"],
-    "latestCheck": "2021-05-05T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
   },
   {
     "id": "6491cce6-ce64-4973-bd04-e8e2c3cdc230", "int": {"quizypro_name": "Стоп!Снято!"},
     "org": "Киноквиз \"Стоп!Снято!\"", "image": "stopsnyatotlt.png", "url": ["https://vk.com/stopsnyatotlt"],
-    "latestCheck": "2021-05-01T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
+  },
+  {
+    "id": "eef21320-ac8d-4899-9be8-7d8a34c9936c", "int": {"quizypro_name": "Квизы Скороход"},
+    "org": "Квизы Скороход", "image": "skorohod.png", "url": ["https://vk.com/skorohod_quiz"],
+    "latestCheck": "2021-05-19T12:00:00+03:00",
+    "games": [
+      { "time": "2021-05-03T13:00:00Z", "name": "Фильмоскоп № 55", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12274" ], "qpid": "12274", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" },
+      { "time": "2021-05-09T13:00:00Z", "name": "Фильмоскоп № 56", "price": [ "400 RUB/ком" ], "url": [ "https://quizy.pro/streams/12375" ], "qpid": "12375", "qpuid": "1786", "qpuname": "Квизы Скороход", "cat": "cinema_and_music" }
+    ]
   }
 ]
