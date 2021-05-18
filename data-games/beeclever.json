@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["http://beeclever.space/", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2021-05-12T12:00:00+03:00",
+    "latestCheck": "2021-05-19T12:00:00+03:00",
     "duration": 2,
     "games": [
       {
@@ -27,6 +27,13 @@
         "chgk": true,
         "price": ["13 USD/ком"],
         "url": ["http://beeclever.space/regform.php?turnir=67"]
+      },
+      {
+        "time": "2021-05-21T20:00:00+03:00",
+        "name": "Город грехов - 2021: Долго и счастливо. Last call",
+        "chgk": true,
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=69"]
       }
     ]
   }
