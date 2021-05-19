@@ -14,6 +14,16 @@
       {
         "name": "«Что? Где? Когда?» на Youtube",
         "url": "https://www.youtube.com/playlist?list=PL39l9SxO4ZYtouUlzx_MokUds7LtArzTq"
+      },
+      {
+        "name": "«Игроки»",
+        "url": "https://igroki.tv",
+        "extra": [
+          {
+            "name": "Youtube",
+            "url": "https://www.youtube.com/channel/UCI1mXvlrs4VzEgXdSsVpfMg/videos"
+          }
+        ]
       }
     ]
   },
