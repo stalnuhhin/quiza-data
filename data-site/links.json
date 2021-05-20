@@ -89,7 +89,8 @@
     "items": [
       {
         "name": "Сайт",
-        "url": "http://mak-chgk.ru"
+        "url": "http://mak-chgk.ru",
+        "tags": ["inactive"]
       },
       {
         "name": "Спортивное ЧГК в facebook",
