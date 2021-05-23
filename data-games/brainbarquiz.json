@@ -1,15 +1,11 @@
 [
   {
     "id": "2668f220-4f29-43bf-a9af-590cbee446ba",
-    "noOnline": true,
     "org": "BrainBarQuiz",
-    "name": "BBQuizHome",
-    "latestCheck": "2021-05-05T12:00:00+03:00",
     "image": "brainbarquiz.png",
-    "duration": 2,
-    "price": ["990 RUB/ком"],
     "url": ["https://vk.com/bbquizmoscow", "https://www.brainbarquiz.ru"],
-    "games": [
-    ]
+    "latestCheck": "2021-05-05T12:00:00+03:00",
+    "priority": 1000,
+    "name": "BBQuizHome"
   }
 ]

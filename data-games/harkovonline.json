@@ -2,16 +2,15 @@
   {
     "id": "0e148b15-ca59-4c1a-a504-2c013de597ac",
     "org": "Харьков ONLINE",
-    "latestCheck": "2021-05-23T12:00:00+03:00",
-    "type": ["events"],
     "image": "harkovonline.png",
-    "chgk": true,
-    "duration": 2,
     "url": [
       "https://t.me/khvip_calendar",
       "https://docs.google.com/forms/d/e/1FAIpQLSfOgoaM_1fOULyAKd9pyjzl3dgtSVrNjr20n70MPadnU9SRzg/viewform",
       "https://www.facebook.com/groups/khvip.online/announcements"
     ],
+    "latestCheck": "2021-05-23T12:00:00+03:00",
+    "priority": 30,
+    "chgk": true,
     "templates": {
       "free": {"free": true, "donation": true},
       "100": {"price": ["300 RUB/ком", "100 UAH/ком", "4 USD/ком"]},

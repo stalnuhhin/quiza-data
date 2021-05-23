@@ -1,20 +1,16 @@
 [
   {
     "id": "2d438bfd-ce5c-4784-a24b-1deb744aa0af",
-    "noOnline": true,
     "org": "Premier Chgk Online",
-    "latestCheck": "2021-05-01T12:00:00+03:00",
-    "type": ["events"],
     "image": "premierchgkonline.png",
-    "duration": 2.5,
-    "chgk": true,
     "url": ["https://ttttt.me/premierchgk"],
+    "latestCheck": "2021-05-01T12:00:00+03:00",
+    "priority": 900,
+    "chgk": true,
     "templates": {
       "800": {"price": ["800 RUB/ком"]},
       "900": {"price": ["900 RUB/ком"]},
       "1000": {"price": ["1000 RUB/ком"]}
-    },
-    "games": [
-    ]
+    }
   }
 ]

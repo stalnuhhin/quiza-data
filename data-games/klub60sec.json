@@ -2,13 +2,10 @@
   {
     "id": "09f87754-e779-4f89-a657-92b763c48e86",
     "org": "Клуб 60 секунд",
-    "latestCheck": "2021-05-23T12:00:00+03:00",
-    "type": ["events"],
     "image": "klub60sec.png",
-    "duration": 2,
     "url": ["https://club60sec.ru/city/moskva?events", "https://www.facebook.com/pg/60secs/posts"],
-    "desc": "Игры Клуба '60 секунд'.",
-    "payment": ["Оплата на регистрации на сайте."],
+    "latestCheck": "2021-05-23T12:00:00+03:00",
+    "priority": 100,
     "games": [
       {"time": "2021-05-01T19:00:00+03:00", "name": "Открытая лига выходного дня", "price": ["1200 RUB/ком"]},
       {"time": "2021-05-03T19:00:00+03:00", "name": "Кое-что Кое-где Кое-как", "price": ["1600 RUB/ком"]},

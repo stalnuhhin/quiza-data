@@ -1,14 +1,11 @@
 [
   {
     "id": "bb5ce446-8b42-4ff7-adf3-3045c30913a0",
-    "noOnline": true,
     "org": "BRAINDO",
-    "latestCheck": "2021-03-01T12:00:00+03:00",
-    "duration": 2,
-    "price": ["2400 RUB/ком"],
     "image": "braindo.png",
     "url": ["https://www.facebook.com/pg/Braindoclub/events/"],
-    "games": [
-    ]
+    "latestCheck": "2021-03-01T12:00:00+03:00",
+    "priority": 1000,
+    "price": ["2400 RUB/ком"]
   }
 ]

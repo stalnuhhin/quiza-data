@@ -2,11 +2,11 @@
   {
     "id": "5434288a-6ee6-43e9-95a0-d14b065041b4",
     "org": "Большая игра",
-    "latestCheck": "2021-05-23T12:00:00+03:00",
     "image": "bolshayaigra.png",
-    "chgk": true,
-    "duration": 2,
     "url": ["https://chgk-world.ru/tournaments"],
+    "latestCheck": "2021-05-23T12:00:00+03:00",
+    "priority": 40,
+    "chgk": true,
     "games": [
       {"time": "2021-05-01T11:00:00+03:00", "name": "Лига вузов. Финал сезона 2020/2021", "price": ["1800 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/761"]},
       {"time": "2021-05-01T15:00:00+03:00", "name": "Лига старта 26", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/762"]},

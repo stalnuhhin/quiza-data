@@ -1,18 +1,14 @@
 [
   {
     "id": "61f66a97-a27d-435d-a8f1-e7af4e4d8b81",
-    "noOnline": true,
     "org": "Мозгомания",
-    "latestCheck": "2021-05-05T12:00:00+03:00",
-    "type": ["events"],
     "image": "mozgomania.png",
-    "duration": 2,
     "url": [
       "https://vk.com/online_mzg",
       "https://mozgomania.ru/events",
       "https://www.facebook.com/pg/mozgomania.ru/posts"
     ],
-    "games": [
-    ]
+    "latestCheck": "2021-05-05T12:00:00+03:00",
+    "priority": 900
   }
 ]

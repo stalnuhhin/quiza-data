@@ -1,16 +1,10 @@
 [
   {
     "id": "7bc5e168-637e-4c0f-935c-399e898bb692",
-    "noOnline": true,
     "org": "Evening Quiz",
-    "latestCheck": "2021-05-05T12:00:00+03:00",
-    "type": ["events"],
-    "duration": 2,
     "image": "eveningquiz.png",
-    "free": true,
-    "donation": true,
     "url": ["https://www.facebook.com/pg/EveningQuiz/events"],
-    "games": [
-    ]
+    "latestCheck": "2021-05-05T12:00:00+03:00",
+    "priority": 1000
   }
 ]

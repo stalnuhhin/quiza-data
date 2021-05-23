@@ -1,15 +1,11 @@
 [
   {
     "id": "378ab705-64d8-4b18-bd14-d755432dc652",
-    "noOnline": true,
     "org": "Клеверия",
-    "name": "Клеверия",
-    "latestCheck": "2021-05-05T12:00:00+03:00",
-    "type": ["events"],
     "image": "kleveria.png",
-    "duration": 2,
     "url": ["https://kleveria.ru"],
-    "games": [
-    ]
+    "latestCheck": "2021-05-05T12:00:00+03:00",
+    "priority": 1000,
+    "name": "Клеверия"
   }
 ]

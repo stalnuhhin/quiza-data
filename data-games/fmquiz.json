@@ -1,15 +1,11 @@
 [
   {
     "id": "185c70d6-759d-4e11-8198-b59b929f67e5",
-    "noOnline": true,
     "org": "FM QUIZ",
-    "latestCheck": "2021-05-05T12:00:00+03:00",
-    "type": ["events"],
     "image": "fmquiz.png",
-    "duration": 2,
-    "price": ["20 BYN/ком"],
     "url": ["https://vk.com/fmquiz"],
-    "games": [
-    ]
+    "latestCheck": "2021-05-05T12:00:00+03:00",
+    "priority": 1000,
+    "price": ["20 BYN/ком"]
   }
 ]

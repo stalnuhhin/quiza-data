@@ -5,9 +5,6 @@
     "image": "diezquiz.png",
     "url": ["https://www.facebook.com/pg/diezquiz/events"],
     "latestCheck": "2021-05-05T12:00:00+03:00",
-    "noOnline": true,
-    "duration": 2,
-    "games": [
-    ]
+    "priority": 1000
   }
 ]

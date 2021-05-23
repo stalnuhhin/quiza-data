@@ -227,47 +227,47 @@
   {
     "id": "bf5df1c1-bd66-4952-a470-16a093212d61", "int": {"quizypro_name": "Online Quiz 64"}, "priority": 500,
     "org": "Online Quiz 64", "image": "onlinequiz64.png", "url": ["https://vk.com/onlinequiz64"],
-    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "games": []
   },
   {
     "id": "1cad8418-40ff-4a31-9cf4-97d8ba60c3ba", "int": {"quizypro_name": "ИнQUIZиция"}, "priority": 500,
     "org": "ИнQUIZиция", "image": "inquizicia.png", "url": ["https://vk.com/quiztag"],
-    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "games": []
   },
   {
     "id": "c2f7f49d-b9b0-452e-b946-053e805c2677", "int": {"quizypro_name": "QLEVER - Включай мозги!"}, "priority": 500,
     "org": "Qlever", "image": "qlever.png", "url": ["http://vk.com/qlever_quiz"],
-    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "games": []
   },
   {
     "id": "538ff061-5d18-4bf8-9b89-b927ab947b09", "int": {"quizypro_name": "ElevenQuiz"}, "priority": 500,
     "org": "Eleve11 Quiz", "image": "elevenquiz.png", "url": ["https://vk.com/eleven_quiz_online"],
-    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "games": []
   },
   {
     "id": "9eb0228f-fc4d-4e11-a294-87455f004ad9", "int": {"quizypro_name": "Квиз Марис "}, "priority": 500,
     "org": "Quiz Maris", "image": "quizmaris.png", "url": ["https://vk.com/quizmaris", "https://quizmaris.ru"],
-    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "games": []
   },
   {
     "id": "6e5cb6b5-e314-4d4b-8d07-d70de495380d", "int": {"quizypro_name": "Клуб Онлайн Вопросов"}, "priority": 500,
     "org": "Клуб Онлайн Вопросов", "image": "klubonlinevoprosov.png", "url": ["https://www.facebook.com/groups/klub.online.voprosov/events"],
-    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "games": []
   },
   {
     "id": "0e0e73db-a3c8-4ec0-b6c0-b9072745e17f", "int": {"quizypro_name": "NeoQuiz"}, "priority": 500,
     "org": "NeoQuiz", "image": "neoquiz.png", "url": ["https://vk.com/neoquiz", "http://neoquiz.ru/", "https://quizy.pro/"],
-    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "games": []
   },
   {
     "id": "b70540a7-55f6-4a26-a163-7599028dc399", "int": {"quizypro_name": "ИZВИЛИУМ"}, "priority": 500,
     "org": "ИZВИЛИУМ", "image": "izvilium.png", "url": ["https://izvilium.com/raspisanie-igr", "https://vk.com/izvilium_sar"],
-    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "games": []
   },
   {
     "id": "6491cce6-ce64-4973-bd04-e8e2c3cdc230", "int": {"quizypro_name": "Стоп!Снято!"}, "priority": 500,
     "org": "Киноквиз \"Стоп!Снято!\"", "image": "stopsnyatotlt.png", "url": ["https://vk.com/stopsnyatotlt"],
-    "latestCheck": "2021-05-19T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-19T12:00:00+03:00", "games": []
   },
   {
     "id": "eef21320-ac8d-4899-9be8-7d8a34c9936c", "int": {"quizypro_name": "Квизы Скороход"}, "priority": 500,
@@ -281,6 +281,6 @@
   {
     "id": "46821d5b-1897-405b-abf4-895896fea2d5", "int": {"quizypro_id": "8179"}, "priority": 500,
     "org": "Зиппо, триппер, пистолет", "image": "zippotripperpistolet.png", "url": ["https://vk.com/nvkb_quiz_online", "https://quizy.pro/clubs/8179"],
-    "latestCheck": "2021-05-23T12:00:00+03:00", "noOnline": true, "games": []
+    "latestCheck": "2021-05-23T12:00:00+03:00", "games": []
   }
 ]

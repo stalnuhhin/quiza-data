@@ -1,20 +1,14 @@
 [
   {
     "id": "3c2423bb-7daf-4b0d-b3f0-f08e00224a93",
-    "noOnline": true,
     "org": "Quiz 77",
-    "latestCheck": "2021-03-01T12:00:00+03:00",
-    "type": ["events"],
     "image": "quiz77.png",
-    "duration": 1,
-    "free": true,
-    "donate": true,
     "url": [
       "https://www.facebook.com/pg/quiz77tashkent/posts/",
       "https://t.me/quiz77tashkent",
       "https://www.instagram.com/p/B_wR_cnDNHz/?igshid=d0ue6g6h2awp"
     ],
-    "games": [
-    ]
+    "latestCheck": "2021-03-01T12:00:00+03:00",
+    "priority": 900
   }
 ]

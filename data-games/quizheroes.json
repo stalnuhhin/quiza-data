@@ -2,11 +2,10 @@
   {
     "id": "2e565545-8c59-43e0-b8ae-942260c27521",
     "org": "Quiz Heroes",
-    "latestCheck": "2021-05-23T12:00:00+03:00",
-    "type": ["events"],
-    "duration": 2,
     "image": "quizheroes.png",
     "url": ["https://quizheroes.ru","https://ttttt.me/PlagueQuiz","https://www.instagram.com/quizheroes/","https://vk.com/public194290286"],
+    "latestCheck": "2021-05-23T12:00:00+03:00",
+    "priority": 100,
     "info": ["Сюжетный квиз про борьбу с чумой. Ссылки выдаются перед игрой, ответы вводятся в Telegram бота."],
     "desc": "Вы чумной доктор. От ваших решений зависит спасение Земли. Ответьте на вопросы квиза, опередите другие команды и найдите способ спасти человечество.",
     "games": [

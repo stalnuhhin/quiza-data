@@ -2,11 +2,11 @@
   {
     "id": "a2443631-e323-4fe0-8c05-d32578855c48",
     "org": "BrainHub",
-    "latestCheck": "2021-05-23T12:00:00+03:00",
     "image": "brainhub.png",
-    "duration": 2,
-    "chgk": true,
     "url": ["https://www.facebook.com/BrainHubKiev/events", "https://www.facebook.com/pg/brainhubkharkiv/events/", "https://www.twitch.tv/brainhubua"],
+    "latestCheck": "2021-05-23T12:00:00+03:00",
+    "priority": 200,
+    "chgk": true,
     "games": [
       {"time": "2021-05-05T20:00:00+03:00", "name": "Скрулл Кап: Первый этап", "price": ["360 UAH/ком"], "url": ["https://www.facebook.com/events/2680160398947712"]}
     ]

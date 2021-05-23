@@ -1,16 +1,11 @@
 [
   {
     "id": "0bf84dbe-b4f0-4c05-a89d-9a38cabd0307",
-    "noOnline": true,
     "org": "Brain Battle",
-    "name": "Brain Battle",
-    "latestCheck": "2021-05-05T12:00:00+03:00",
     "image": "brainbattle.png",
-    "duration": 2,
-    "free": true,
-    "donate": true,
     "url": ["https://vk.com/brainbattleram", "https://www.youtube.com/channel/UCMI1dDIte1anWLheRN5m3wg/videos"],
-    "games": [
-    ]
+    "latestCheck": "2021-05-05T12:00:00+03:00",
+    "priority": 1000,
+    "name": "Brain Battle"
   }
 ]

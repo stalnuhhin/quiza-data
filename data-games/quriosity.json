@@ -1,15 +1,11 @@
 [
   {
     "id": "64698db6-1f11-49ca-9b9d-c81ef239a849",
-    "noOnline": true,
     "org": "Quriosity (Telegram)",
-    "name": "Quriosity (Telegram)",
-    "latestCheck": "2021-05-01T12:00:00+03:00",
-    "type": ["events"],
-    "duration": 1,
     "image": "quriosity.png",
     "url": ["https://ttttt.me/quriosity_quiz", "https://www.facebook.com/quriosity.quiz"],
-    "games": [
-    ]
+    "latestCheck": "2021-05-01T12:00:00+03:00",
+    "name": "Quriosity (Telegram)",
+    "priority": 1000
   }
 ]

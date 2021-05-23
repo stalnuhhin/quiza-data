@@ -1,15 +1,10 @@
 [
   {
     "id": "27d03be4-3833-40b3-a8f5-81c4f7186298",
-    "noOnline": true,
     "org": "Шейкер квиз",
-    "latestCheck": "2021-05-05T12:00:00+03:00",
-    "type": ["events"],
     "image": "sheikerquiz.png",
-    "duration": 2,
-    "price": ["890 RUB/ком"],
     "url": ["https://vk.com/shakerpiter"],
-    "games": [
-    ]
+    "latestCheck": "2021-05-05T12:00:00+03:00",
+    "priority": 1000
   }
 ]
