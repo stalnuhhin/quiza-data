@@ -8,7 +8,7 @@
       "https://docs.google.com/forms/d/e/1FAIpQLSfOgoaM_1fOULyAKd9pyjzl3dgtSVrNjr20n70MPadnU9SRzg/viewform",
       "https://www.facebook.com/groups/khvip.online/announcements"
     ],
-    "latestCheck": "2021-05-23T12:00:00+03:00",
+    "latestCheck": "2021-05-24T12:00:00+03:00",
     "priority": 30,
     "chgk": true,
     "templates": {
@@ -212,7 +212,7 @@
       {"time": "2021-05-25T19:30:00+03:00", "template": "200", "name": "Скважина знаний-2021 (соло, пары/команды)"},
       {"time": "2021-05-25T20:00:00+03:00", "template": "400", "name": "Дверь в лето-2021"},
       {"time": "2021-05-25T20:30:00+03:00", "template": "270", "name": "Кубок кабачков: домашние закрутки (последний отыгрыш)"},
-      {"time": "2021-05-25T21:00:00+03:00", "template": "400", "name": "Гран-при Славянки. 2 этап"},
+      {"time": "2021-05-25T21:00:00+03:00", "template": "270", "name": "Зеркало Финала Лиги Вузов-2021. Второй день"},
       {"time": "2021-05-25T21:30:00+03:00", "template": "360", "name": "Топ-1000"},
       {"time": "2021-05-25T22:00:00+03:00", "template": "360", "name": "Дом с одной стеной"}
     ]
