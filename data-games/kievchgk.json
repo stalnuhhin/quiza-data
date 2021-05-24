@@ -5,7 +5,7 @@
     "image": "kievchgk.png",
     "url": ["https://www.facebook.com/chgk.kiev.ua/events/"],
     "latestCheck": "2021-05-24T12:00:00+03:00",
-    "priority": 100,
+    "priority": 400,
     "chgk": true,
     "games": [
       {"time": "2021-05-12T20:00:00+03:00", "name": "Онлайн ЧГК. s05e01 // #kievchgk", "price": ["360 UAH/ком"], "url": ["https://www.facebook.com/events/517489065949691"]}
