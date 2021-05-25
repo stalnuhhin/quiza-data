@@ -32,6 +32,10 @@
     "desc": "То, что можно поиграть в любой момент.",
     "items": [
       {
+        "name": "Игры спортивного ЧГК в записи",
+        "url": "https://www.youtube.com/channel/UCupJydpDJ4fjgVDCi7_8-7A/videos"
+      },
+      {
         "name": "Свояк в Telegram",
         "url": "https://t.me/ktoto_zanyal_svoyak",
         "extra": [
