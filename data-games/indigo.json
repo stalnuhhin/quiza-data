@@ -4,8 +4,8 @@
     "org": "Лига Индиго",
     "image": "indigo.png",
     "url": ["https://vk.com/li_online_li", "http://ligaindigo.ru/rating-online"],
-    "latestCheck": "2021-05-23T12:00:00+03:00",
-    "priority": 400,
+    "latestCheck": "2021-05-26T12:00:00+03:00",
+    "priority": 900,
     "price": ["500 RUB/ком"],
     "games": [
       {"time": "2021-05-01T14:00:00+03:00", "price": ["600 RUB/ком"], "name": "Командная разносторонняя"},

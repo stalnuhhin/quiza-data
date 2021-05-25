@@ -4,9 +4,9 @@
     "org": "Лига Индиго Соло",
     "image": "indigosolo.png",
     "url": ["https://vk.com/ligaindigo_solo", "http://ligaindigo.ru"],
-    "latestCheck": "2021-05-23T12:00:00+03:00",
+    "latestCheck": "2021-05-26T12:00:00+03:00",
     "name": "Лига Индиго Соло",
-    "priority": 400,
+    "priority": 900,
     "price": ["200 RUB/чел"]
   }
 ]

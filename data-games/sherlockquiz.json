@@ -3,8 +3,12 @@
     "id": "9b59f86c-307f-41c2-a672-a7dedd5da824",
     "org": "Sherlock Quiz",
     "image": "sherlockquiz.png",
-    "url": ["https://vk.com/club156622966", "http://sherlockquiz.com/ru"],
-    "latestCheck": "2021-05-01T12:00:00+03:00",
-    "priority": 400
+    "url": ["http://sherlockquiz.com/ru", "https://vk.com/club156622966"],
+    "latestCheck": "2021-05-26T12:00:00+03:00",
+    "priority": 900,
+    "games": [
+      {"time": "2021-05-26T18:45:00-07:00", "name": "Игра №16 (онлайн)", "price": ["80 USD/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2899?city_id=38"]},
+      {"time": "2021-06-02T18:45:00-07:00", "name": "Игра №17 (онлайн)", "price": ["80 USD/ком"], "url": ["https://sherlockquiz.com/ru/game/view/2907?city_id=38"]}
+    ]
   }
 ]
