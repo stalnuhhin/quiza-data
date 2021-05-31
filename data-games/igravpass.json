@@ -4,7 +4,7 @@
     "org": "Игра В. Пас",
     "image": "igravpass.png",
     "url": ["https://www.facebook.com/QuizVPas/events/"],
-    "latestCheck": "2021-05-26T12:00:00+03:00",
+    "latestCheck": "2021-06-01T12:00:00+03:00",
     "priority": 400,
     "price": ["4 USD/чел"],
     "templates": {
@@ -22,6 +22,11 @@
         "name": "Футбольная «Своя игра» Игровая неделя №58",
         "duration": 1,
         "url": ["https://www.facebook.com/events/774505343427627"]
+      },
+      "si59": {
+        "name": "Футбольная «Своя игра» Игровая неделя №59",
+        "duration": 1,
+        "url": ["https://www.facebook.com/events/1130917970708476"]
       }
     },
     "games": [
@@ -40,7 +45,13 @@
       {"time": "2021-05-26T20:30:00+03:00", "template": "si58"},
       {"time": "2021-05-27T15:10:00+03:00", "template": "si58"},
       {"time": "2021-05-28T22:00:00+03:00", "template": "si58"},
-      {"time": "2021-05-30T20:00:00+03:00", "name": "Футбольный квиз online #3", "price": ["100 UAH/чел", "3.6 USD/чел"], "url": ["https://www.facebook.com/events/473567963939452"]}
+      {"time": "2021-05-30T20:00:00+03:00", "name": "Футбольный квиз online #3", "price": ["100 UAH/чел", "3.6 USD/чел"], "url": ["https://www.facebook.com/events/473567963939452"]},
+      {"time": "2021-06-01T23:10:00+03:00", "template": "si59"},
+      {"time": "2021-06-02T20:30:00+03:00", "template": "si59"},
+      {"time": "2021-06-03T19:00:00+03:00", "template": "si59"},
+      {"time": "2021-06-04T17:00:00+03:00", "template": "si59"},
+      {"time": "2021-06-05T14:00:00+03:00", "template": "si59"},
+      {"time": "2021-06-05T20:00:00+03:00", "name": "ЧГК о футболе online", "chgk": true, "price": ["100 UAH/чел", "3.6 USD/чел"], "url": ["https://www.facebook.com/events/1157470504754859"]}
     ]
   }
 ]
