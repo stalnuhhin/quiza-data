@@ -4,7 +4,7 @@
     "org": "Большая игра",
     "image": "bolshayaigra.png",
     "url": ["https://chgk-world.ru/tournaments"],
-    "latestCheck": "2021-06-01T12:00:00+03:00",
+    "latestCheck": "2021-06-05T12:00:00+03:00",
     "priority": 40,
     "chgk": true,
     "games": [
@@ -49,9 +49,21 @@
       {"time": "2021-06-02T20:00:00+03:00", "name": "Синхрон-lite XLV", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/810"]},
       {"time": "2021-06-05T13:00:00+03:00", "name": "Лига старта - 27", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/812"]},
       {"time": "2021-06-05T22:00:00+03:00", "name": "Лига старта - 27", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/812"]},
+      {"time": "2021-06-06T13:00:00+03:00", "name": "М-Лига 15.1", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/813"]},
       {"time": "2021-06-06T15:00:00+03:00", "name": "Линч - 2", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/811"]},
+      {"time": "2021-06-06T22:00:00+03:00", "name": "М-Лига 15.1", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/813"]},
+      {"time": "2021-06-07T20:00:00+03:00", "name": "М-Лига 15.1", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/813"]},
       {"time": "2021-06-08T20:00:00+03:00", "name": "Линч - 2", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/811"]},
-      {"time": "2021-06-09T20:00:00+03:00", "name": "Лига старта - 27", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/812"]}
+      {"time": "2021-06-09T20:00:00+03:00", "name": "Лига старта - 27", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/812"]},
+      {"time": "2021-06-13T13:00:00+03:00", "name": "М-Лига 15.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/814"]},
+      {"time": "2021-06-13T22:00:00+03:00", "name": "М-Лига 15.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/814"]},
+      {"time": "2021-06-14T20:00:00+03:00", "name": "М-Лига 15.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/814"]},
+      {"time": "2021-06-20T13:00:00+03:00", "name": "М-Лига 15.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/815"]},
+      {"time": "2021-06-20T22:00:00+03:00", "name": "М-Лига 15.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/815"]},
+      {"time": "2021-06-21T20:00:00+03:00", "name": "М-Лига 15.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/815"]},
+      {"time": "2021-06-27T13:00:00+03:00", "name": "М-Лига 15.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/816"]},
+      {"time": "2021-06-27T22:00:00+03:00", "name": "М-Лига 15.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/816"]},
+      {"time": "2021-06-28T20:00:00+03:00", "name": "М-Лига 15.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/816"]}
     ]
   }
 ]
