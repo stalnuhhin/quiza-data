@@ -4,7 +4,7 @@
     "org": "Игра В. Пас",
     "image": "igravpass.png",
     "url": ["https://www.facebook.com/QuizVPas/events/"],
-    "latestCheck": "2021-06-01T12:00:00+03:00",
+    "latestCheck": "2021-06-07T12:00:00+03:00",
     "priority": 400,
     "price": ["4 USD/чел"],
     "templates": {
@@ -50,8 +50,7 @@
       {"time": "2021-06-02T20:30:00+03:00", "template": "si59"},
       {"time": "2021-06-03T19:00:00+03:00", "template": "si59"},
       {"time": "2021-06-04T17:00:00+03:00", "template": "si59"},
-      {"time": "2021-06-05T14:00:00+03:00", "template": "si59"},
-      {"time": "2021-06-05T20:00:00+03:00", "name": "ЧГК о футболе online", "chgk": true, "price": ["100 UAH/чел", "3.6 USD/чел"], "url": ["https://www.facebook.com/events/1157470504754859"]}
+      {"time": "2021-06-05T14:00:00+03:00", "template": "si59"}
     ]
   }
 ]
