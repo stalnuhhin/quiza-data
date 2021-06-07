@@ -5,7 +5,7 @@
     "image": "cityquiz.png",
     "url": ["https://www.facebook.com/cityquizshow/events", "https://cityquiz.club/kiev"],
     "latestCheck": "2021-06-07T12:00:00+03:00",
-    "priority": 700,
+    "priority": 300,
     "name": "City Quiz Online (Киев)",
     "price": ["300 UAH/ком"],
     "games": [
