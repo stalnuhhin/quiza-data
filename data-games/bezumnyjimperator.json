@@ -4,7 +4,7 @@
     "org": "Безумный император",
     "image": "bezumnyjimperator.png",
     "url": ["https://www.facebook.com/groups/137021291483392"],
-    "latestCheck": "2021-06-03T12:00:00+03:00",
+    "latestCheck": "2021-06-07T12:00:00+03:00",
     "priority": 50,
     "chgk": true,
     "games": [
@@ -73,6 +73,12 @@
         "name": "Дорога ярости-3: свистать всех наверх! (парный)",
         "price": ["3.5 USD/чел"],
         "url": ["https://www.facebook.com/groups/137021291483392/permalink/203352674850253"]
+      },
+      {
+        "time": "2021-06-08T20:00:00+03:00",
+        "name": "Пляжный турнир «ТРИАС»",
+        "price": ["5 USD/чел"],
+        "url": ["https://www.facebook.com/groups/137021291483392/permalink/205449164640604"]
       }
     ]
   }
