@@ -4,7 +4,7 @@
     "org": "City Quiz (Киев)",
     "image": "cityquiz.png",
     "url": ["https://www.facebook.com/cityquizshow/events", "https://cityquiz.club/kiev"],
-    "latestCheck": "2021-05-26T12:00:00+03:00",
+    "latestCheck": "2021-06-07T12:00:00+03:00",
     "priority": 700,
     "name": "City Quiz Online (Киев)",
     "price": ["300 UAH/ком"],
@@ -18,6 +18,11 @@
         "time": "2021-05-19T20:00:00+03:00",
         "price": ["400 UAH/ком"],
         "url": ["https://www.facebook.com/events/455399392224474"]
+      },
+      {
+        "time": "2021-06-02T20:00:00+03:00",
+        "price": ["400 UAH/ком"],
+        "url": ["https://www.facebook.com/events/275322894294300"]
       }
     ]
   }
