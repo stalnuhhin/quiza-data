@@ -8,7 +8,7 @@
       "https://docs.google.com/forms/d/e/1FAIpQLSfOgoaM_1fOULyAKd9pyjzl3dgtSVrNjr20n70MPadnU9SRzg/viewform",
       "https://www.facebook.com/groups/khvip.online/announcements"
     ],
-    "latestCheck": "2021-06-07T12:00:00+03:00",
+    "latestCheck": "2021-06-08T12:00:00+03:00",
     "priority": 30,
     "chgk": true,
     "templates": {
@@ -318,7 +318,12 @@
       {"time": "2021-06-07T20:00:00+03:00", "template": "400", "name": "Знание - сила VII"},
       {"time": "2021-06-07T21:30:00+03:00", "template": "400", "name": "Линч-2021"},
       {"time": "2021-06-07T22:00:00+03:00", "template": "360", "name": "Молодёжный чемпионат Приволжья-2021. Первый этап"},
-      {"time": "2021-06-07T22:00:00+03:00", "template": "300", "name": "36 оттенков чёрного. Лето"}
+      {"time": "2021-06-07T22:00:00+03:00", "template": "300", "name": "36 оттенков чёрного. Лето"},
+      {"time": "2021-06-08T19:30:00+03:00", "template": "400", "name": "Знание - сила VII"},
+      {"time": "2021-06-08T20:00:00+03:00", "template": "300", "name": "ЧГК по сериалам. Episode 4"},
+      {"time": "2021-06-08T21:00:00+03:00", "template": "360", "name": "Триптих. Лето"},
+      {"time": "2021-06-08T21:30:00+03:00", "template": "270", "name": "Лига Старта. Эпизод XXVII. Июнь"},
+      {"time": "2021-06-08T22:00:00+03:00", "template": "240", "name": "Молодёжный чемпионат Приволжья-2021. Первый этап"}
     ]
   }
 ]
