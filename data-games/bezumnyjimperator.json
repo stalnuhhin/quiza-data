@@ -4,7 +4,7 @@
     "org": "Безумный император",
     "image": "bezumnyjimperator.png",
     "url": ["https://www.facebook.com/groups/137021291483392"],
-    "latestCheck": "2021-06-12T12:00:00+03:00",
+    "latestCheck": "2021-06-13T12:00:00+03:00",
     "priority": 50,
     "chgk": true,
     "games": [
@@ -79,6 +79,18 @@
         "name": "Пляжный турнир «ТРИАС»",
         "price": ["5 USD/ком"],
         "url": ["https://www.facebook.com/groups/137021291483392/permalink/205449164640604"]
+      },
+      {
+        "time": "2021-06-15T20:00:00+03:00",
+        "name": "ЧГК по сериалам. Episode 4",
+        "price": ["9 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/permalink/208261881025999"]
+      },
+      {
+        "time": "2021-06-16T20:00:00+03:00",
+        "name": "Лига старта. Эпизод XХVII",
+        "price": ["9 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/permalink/208248144360706"]
       }
     ]
   }
