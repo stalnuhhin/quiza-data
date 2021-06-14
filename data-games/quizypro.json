@@ -282,5 +282,10 @@
     "id": "46821d5b-1897-405b-abf4-895896fea2d5", "int": {"quizypro_id": "8179"}, "priority": 500,
     "org": "Зиппо, триппер, пистолет", "image": "zippotripperpistolet.png", "url": ["https://vk.com/nvkb_quiz_online", "https://quizy.pro/clubs/8179"],
     "latestCheck": "2021-05-23T12:00:00+03:00", "games": []
+  },
+  {
+    "id": "29618853-036d-4c03-af1e-e6fd10103780", "int": {"quizypro_id": "2247"}, "priority": 500,
+    "org": "QUIZ-CLUB", "image": "quizclub.png", "url": ["https://quizy.pro/clubs/2247"],
+    "latestCheck": "2021-06-15T12:00:00+03:00", "games": []
   }
 ]
