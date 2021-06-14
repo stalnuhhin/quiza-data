@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["http://beeclever.space/", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2021-06-12T12:00:00+03:00",
+    "latestCheck": "2021-06-14T12:00:00+03:00",
     "priority": 50,
     "games": [
       {
@@ -69,6 +69,13 @@
         "chgk": true,
         "price": ["11 USD/ком"],
         "url": ["http://beeclever.space/regform.php?turnir=74"]
+      },
+      {
+        "time": "2021-06-15T20:00:00+03:00",
+        "name": "Бесконечные земли - XIV. Синхронная лига Bee Clever",
+        "chgk": true,
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=75"]
       }
     ]
   }
