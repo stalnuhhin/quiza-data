@@ -4,7 +4,7 @@
     "org": "Денис Гончар",
     "image": "gonchar2.png",
     "url": ["https://docs.google.com/forms/d/e/1FAIpQLSdZPv5gb1sUW0is24EA1nOrbYfD9P_Vy6nnyWNYC-4rRol0mw/viewform"],
-    "latestCheck": "2021-06-16T12:00:00+03:00",
+    "latestCheck": "2021-06-19T12:00:00+03:00",
     "priority": 30,
     "chgk": true,
     "templates": {
@@ -213,7 +213,7 @@
       {"time": "2021-06-18T22:00:00+03:00", "template": "360", "name": "Delivery Cup №13 Июнь (NEW!)"},
       {"time": "2021-06-19T02:00:00+03:00", "template": "360", "name": "Delivery Cup №13 Июнь (NEW!)"},
       {"time": "2021-06-19T04:00:00+03:00", "template": "360", "name": "Бесконечные земли - 14"},
-      {"time": "2021-06-19T13:00:00+03:00", "template": "330", "name": "Наше всё"},
+      {"time": "2021-06-19T13:00:00+03:00", "template": "360", "name": "Скрулл Кап 2"},
       {"time": "2021-06-19T16:00:00+03:00", "template": "360", "name": "Delivery Cup №13 Июнь (NEW!)"},
       {"time": "2021-06-19T18:00:00+03:00", "template": "360", "name": "Зеркало Битвы казахстанских городов (NEW!)"},
       {"time": "2021-06-19T20:00:00+03:00", "template": "360", "name": "Delivery Cup №13 Июнь (NEW!)"},
