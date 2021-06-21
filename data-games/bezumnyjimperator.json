@@ -4,7 +4,7 @@
     "org": "Безумный император",
     "image": "bezumnyjimperator.png",
     "url": ["https://www.facebook.com/groups/137021291483392"],
-    "latestCheck": "2021-06-14T12:00:00+03:00",
+    "latestCheck": "2021-06-21T12:00:00+03:00",
     "priority": 50,
     "chgk": true,
     "games": [
@@ -91,6 +91,18 @@
         "name": "Лига старта. Эпизод XХVII",
         "price": ["9 USD/ком"],
         "url": ["https://www.facebook.com/groups/137021291483392/permalink/208248144360706"]
+      },
+      {
+        "time": "2021-06-24T20:00:00+03:00",
+        "name": "Tet-a-tet V",
+        "price": ["7 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/permalink/211704270681760"]
+      },
+      {
+        "time": "2021-07-07T20:00:00+03:00",
+        "name": "ОДИН-2",
+        "price": ["13 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/permalink/211749087343945"]
       }
     ]
   }
