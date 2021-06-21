@@ -4,7 +4,7 @@
     "org": "The Quiz (Одесса)",
     "image": "thequizodessa.png",
     "url": ["https://thequiz.com.ua/calendar_odessa", "https://www.facebook.com/thequiz.odessa"],
-    "latestCheck": "2021-06-16T12:00:00+03:00",
+    "latestCheck": "2021-06-21T12:00:00+03:00",
     "priority": 300,
     "price": ["100 UAH/чел", "max 500 UAH/ком"],
     "games": [
@@ -21,7 +21,6 @@
       {"time": "2021-06-11T20:00:00+03:00", "name": "КиноКвиз"},
       {"time": "2021-06-14T20:00:00+03:00", "name": "Тематический квиз в стиле 90-х"},
       {"time": "2021-06-18T20:00:00+03:00", "name": "The Quiz, открытие XVI сезона"},
-      {"time": "2021-06-21T20:00:00+03:00", "name": "The Quiz Lite (\"игра для новичков\"), открытие сезона"},
       {"time": "2021-06-22T20:00:00+03:00", "name": "Футбольный квиз"},
       {"time": "2021-06-25T20:00:00+03:00", "name": "Мультимедиа-квиз"},
       {"time": "2021-06-28T20:00:00+03:00", "name": "The Quiz Hard, премьера игры"}
