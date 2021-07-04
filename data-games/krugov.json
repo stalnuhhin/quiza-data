@@ -5,6 +5,7 @@
     "image": "krugov.png",
     "url": ["https://www.facebook.com/groups/528679377769191", "https://www.facebook.com/groups/2723678231229645"],
     "latestCheck": "2021-07-05T12:00:00+03:00",
+    "chgk": true,
     "priority": 700,
     "templates": {
       "odin2": {
