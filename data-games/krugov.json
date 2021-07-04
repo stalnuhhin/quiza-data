@@ -6,13 +6,20 @@
     "url": ["https://www.facebook.com/groups/528679377769191", "https://www.facebook.com/groups/2723678231229645"],
     "latestCheck": "2021-07-05T12:00:00+03:00",
     "priority": 700,
+    "templates": {
+      "odin2": {
+        "price": ["1000 RUB/ком", "600 RUB/2чел", "300 RUB/чел"],
+        "name": "ОДИН-2",
+        "url": ["https://docs.google.com/forms/d/e/1FAIpQLSf37WzK4jynHFNg8_NVf18gY9QR91gukyQs3brWDXOQZpuzBw/viewform"]
+      }
+    },
     "games": [
-      {"time": "2021-07-04T18:00:00+03:00", "price": ["1000 RUB/ком", "600 RUB/2чел", "300 RUB/чел"], "name": "ОДИН-2"},
-      {"time": "2021-07-05T00:00:00+03:00", "price": ["1000 RUB/ком", "600 RUB/2чел", "300 RUB/чел"], "name": "ОДИН-2"},
-      {"time": "2021-07-05T19:30:00+03:00", "price": ["1000 RUB/ком", "600 RUB/2чел", "300 RUB/чел"], "name": "ОДИН-2"},
-      {"time": "2021-07-06T19:30:00+03:00", "price": ["1000 RUB/ком", "600 RUB/2чел", "300 RUB/чел"], "name": "ОДИН-2"},
-      {"time": "2021-07-07T15:00:00+03:00", "price": ["1000 RUB/ком", "600 RUB/2чел", "300 RUB/чел"], "name": "ОДИН-2"},
-      {"time": "2021-07-08T22:00:00+03:00", "price": ["1000 RUB/ком", "600 RUB/2чел", "300 RUB/чел"], "name": "ОДИН-2"}
+      {"time": "2021-07-04T18:00:00+03:00", "template": "odin2"},
+      {"time": "2021-07-05T00:00:00+03:00", "template": "odin2"},
+      {"time": "2021-07-05T19:30:00+03:00", "template": "odin2"},
+      {"time": "2021-07-06T19:30:00+03:00", "template": "odin2"},
+      {"time": "2021-07-07T15:00:00+03:00", "template": "odin2"},
+      {"time": "2021-07-08T22:00:00+03:00", "template": "odin2"}
     ]
   }
 ]
