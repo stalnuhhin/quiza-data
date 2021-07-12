@@ -4,7 +4,7 @@
     "org": "Безумный император",
     "image": "bezumnyjimperator.png",
     "url": ["https://www.facebook.com/groups/137021291483392"],
-    "latestCheck": "2021-07-09T12:00:00+03:00",
+    "latestCheck": "2021-07-12T12:00:00+03:00",
     "priority": 50,
     "chgk": true,
     "games": [
@@ -103,6 +103,12 @@
         "name": "ОДИН-2",
         "price": ["13 USD/ком"],
         "url": ["https://www.facebook.com/groups/137021291483392/permalink/211749087343945"]
+      },
+      {
+        "time": "2021-07-16T20:00:00+03:00",
+        "name": "Лига старта. Эпизод XХVIIІ",
+        "price": ["9 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/posts/223401202845400"]
       }
     ]
   }
