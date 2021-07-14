@@ -4,13 +4,14 @@
     "org": "ЧГК в Киеве",
     "image": "kievchgk.png",
     "url": ["https://www.facebook.com/chgk.kiev.ua/events/"],
-    "latestCheck": "2021-07-12T12:00:00+03:00",
+    "latestCheck": "2021-07-15T12:00:00+03:00",
     "priority": 400,
     "chgk": true,
     "games": [
       {"time": "2021-05-12T20:00:00+03:00", "name": "Онлайн ЧГК. s05e01 // #kievchgk", "price": ["360 UAH/ком"], "url": ["https://www.facebook.com/events/517489065949691"]},
       {"time": "2021-06-05T19:30:00+03:00", "name": "Онлайн ЧГК. s05e02 // #kievchgk", "price": ["360 UAH/ком"], "url": ["https://www.facebook.com/events/3946569035411236"]},
-      {"time": "2021-07-07T20:00:00+03:00", "name": "Онлайн ЧГК. s05e03 // #kievchgk", "price": ["360 UAH/ком"], "url": ["https://www.facebook.com/events/541088643737549"]}
+      {"time": "2021-07-07T20:00:00+03:00", "name": "Онлайн ЧГК. s05e03 // #kievchgk", "price": ["360 UAH/ком"], "url": ["https://www.facebook.com/events/541088643737549"]},
+      {"time": "2021-07-21T20:00:00+03:00", "name": "Онлайн ЧГК. s05e04 // #kievchgk", "price": ["360 UAH/ком"], "url": ["https://www.facebook.com/events/802977760387183"]}
     ]
   }
 ]
