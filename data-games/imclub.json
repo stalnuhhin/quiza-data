@@ -4,7 +4,7 @@
     "org": "IMClub",
     "image": "imclub.png",
     "url": ["https://imclub.eu/divan", "https://www.facebook.com/Imclub.tallinn/events"],
-    "latestCheck": "2021-07-09T12:00:00+03:00",
+    "latestCheck": "2021-07-18T12:00:00+03:00",
     "priority": 300,
     "desc": "Игры Таллинского клуба IMClub: есть разные типы игр.",
     "info": ["Cтрим в YouTube", "Ответы вбиваются в их систему."],
@@ -65,6 +65,12 @@
       },
       {
         "time": "2021-07-20T19:00:00+02:00",
+        "name": "60 Секунд Таллинн Сезон 2020/2021",
+        "price": ["5 eur/чел"],
+        "url": ["https://imclub.eu/60sec/"]
+      },
+      {
+        "time": "2021-08-03T19:00:00+02:00",
         "name": "60 Секунд Таллинн Сезон 2020/2021",
         "price": ["5 eur/чел"],
         "url": ["https://imclub.eu/60sec/"]

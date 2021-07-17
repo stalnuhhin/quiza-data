@@ -4,7 +4,7 @@
     "org": "Большая игра",
     "image": "bolshayaigra.png",
     "url": ["https://chgk-world.ru/tournaments"],
-    "latestCheck": "2021-07-15T12:00:00+03:00",
+    "latestCheck": "2021-07-18T12:00:00+03:00",
     "priority": 40,
     "chgk": true,
     "games": [
