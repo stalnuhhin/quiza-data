@@ -4,7 +4,7 @@
     "org": "Игра В. Пас",
     "image": "igravpass.png",
     "url": ["https://www.facebook.com/QuizVPas/events/"],
-    "latestCheck": "2021-07-18T12:00:00+03:00",
+    "latestCheck": "2021-07-24T12:00:00+03:00",
     "priority": 300,
     "price": ["4 USD/чел"],
     "templates": {
@@ -52,6 +52,21 @@
         "name": "Футбольная «Своя игра» Игровая неделя №64",
         "duration": 1,
         "url": ["https://www.facebook.com/events/522707008972068"]
+      },
+      "si65": {
+        "name": "Футбольная «Своя игра» Игровая неделя №65",
+        "duration": 1,
+        "url": ["https://www.facebook.com/events/962283584605900"]
+      },
+      "si66": {
+        "name": "Футбольная «Своя игра» Игровая неделя №66",
+        "duration": 1,
+        "url": ["https://www.facebook.com/events/846469549329267"]
+      },
+      "si67": {
+        "name": "Футбольная «Своя игра» Игровая неделя №67",
+        "duration": 1,
+        "url": ["https://www.facebook.com/events/3049754891974748"]
       }
     },
     "games": [
@@ -101,6 +116,15 @@
       {"time": "2021-07-07T20:30:00+03:00", "template": "si64"},
       {"time": "2021-07-08T22:00:00+03:00", "template": "si64"},
       {"time": "2021-07-09T14:00:00+03:00", "template": "si64"},
+      {"time": "2021-07-13T20:00:00+03:00", "template": "si65"},
+      {"time": "2021-07-14T22:00:00+03:00", "template": "si65"},
+      {"time": "2021-07-15T23:30:00+03:00", "template": "si65"},
+      {"time": "2021-07-16T14:00:00+03:00", "template": "si65"},
+      {"time": "2021-07-21T19:00:00+03:00", "template": "si66"},
+      {"time": "2021-07-21T22:00:00+03:00", "template": "si66"},
+      {"time": "2021-07-22T14:00:00+03:00", "template": "si66"},
+      {"time": "2021-07-22T23:30:00+03:00", "template": "si66"},
+      {"time": "2021-07-24T20:00:00+03:00", "name": "Футбольный квиз online", "price": ["100 UAH/чел"], "url": ["https://www.facebook.com/events/465821764587302"]},
       {"time": "2021-09-06T20:00:00+03:00", "name": "Спортивный квиз", "price": ["150 UAH/чел"], "url": ["https://www.facebook.com/events/963289507803665"]}
     ]
   }
