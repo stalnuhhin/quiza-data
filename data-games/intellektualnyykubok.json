@@ -4,7 +4,7 @@
     "org": "Интеллектуальный кубок",
     "image": "intellektualnyykubok.png",
     "url": ["https://intellektualnyy-kubok.timepad.ru/events/", "https://www.kubok24.ru/"],
-    "latestCheck": "2021-07-24T12:00:00+03:00",
+    "latestCheck": "2021-07-27T12:00:00+03:00",
     "name": "Интеллектуальная онлайн-игра \"Радость от ума\" с Дмитрием Авдеенко",
     "priority": 100,
     "price": ["2000 RUB/ком"],
@@ -16,7 +16,7 @@
       {"time": "2021-07-09T20:00:00+03:00", "url": ["https://intellektualnyy-kubok.timepad.ru/event/1393329/"]},
       {"time": "2021-07-16T20:00:00+03:00", "url": ["https://intellektualnyy-kubok.timepad.ru/event/1393329/"]},
       {"time": "2021-07-23T20:00:00+03:00", "url": ["https://intellektualnyy-kubok.timepad.ru/event/1393329/"]},
-      {"time": "2021-07-30T20:00:00+03:00", "url": ["https://intellektualnyy-kubok.timepad.ru/event/1393329/"]}
+      {"time": "2021-07-30T20:00:00+03:00", "name": "Интеллектуальная онлайн-игра \"Радость от ума\" с Борисом Белозеровым", "url": ["https://intellektualnyy-kubok.timepad.ru/event/1393329/"]}
     ]
   }
 ]

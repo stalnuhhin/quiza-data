@@ -4,7 +4,7 @@
     "org": "Сахар",
     "image": "sahar.png",
     "url": ["https://cubechgk.turbo.site", "https://www.facebook.com/sugarchgk/", "https://vk.com/sugarchgk"],
-    "latestCheck": "2021-07-24T12:00:00+03:00",
+    "latestCheck": "2021-07-27T12:00:00+03:00",
     "priority": 50,
     "chgk": true,
     "games": [
@@ -64,7 +64,8 @@
       {"time": "2021-07-24T20:00:00+03:00", "name": "Moon Pie", "price": ["900 RUB/ком"]},
       {"time": "2021-07-25T20:00:00+03:00", "name": "Летний салат", "price": ["1000 RUB/ком"]},
       {"time": "2021-07-27T20:00:00+03:00", "name": "Лига старта 28 (июль — август)", "price": ["1000 RUB/ком"]},
-      {"time": "2021-07-28T20:00:00+03:00", "name": "Moon Pie", "price": ["900 RUB/ком"]}
+      {"time": "2021-07-28T20:00:00+03:00", "name": "Moon Pie", "price": ["900 RUB/ком"]},
+      {"time": "2021-07-29T20:00:00+03:00", "name": "Летняя кинолига", "price": ["1000 RUB/ком"]}
     ]
   }
 ]
