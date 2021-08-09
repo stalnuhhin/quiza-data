@@ -4,7 +4,7 @@
     "org": "Игра В. Пас",
     "image": "igravpass.png",
     "url": ["https://www.facebook.com/QuizVPas/events/"],
-    "latestCheck": "2021-08-07T12:00:00+03:00",
+    "latestCheck": "2021-08-09T12:00:00+03:00",
     "priority": 300,
     "price": ["4 USD/чел"],
     "templates": {
@@ -140,6 +140,7 @@
       {"time": "2021-08-11T23:00:00+03:00", "template": "si69"},
       {"time": "2021-08-12T22:00:00+03:00", "template": "si69"},
       {"time": "2021-08-13T14:00:00+03:00", "template": "si69"},
+      {"time": "2021-08-13T20:00:00+03:00", "name": "Спортивный квиз", "price": ["100 UAH/чел"], "url": ["https://www.facebook.com/events/568705734157216"]},
       {"time": "2021-09-06T20:00:00+03:00", "name": "Спортивный квиз", "price": ["150 UAH/чел"], "url": ["https://www.facebook.com/events/963289507803665"]}
     ]
   }

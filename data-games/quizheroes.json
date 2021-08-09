@@ -4,7 +4,7 @@
     "org": "Quiz Heroes",
     "image": "quizheroes.png",
     "url": ["https://quizheroes.ru","https://ttttt.me/PlagueQuiz","https://www.instagram.com/quizheroes/","https://vk.com/public194290286"],
-    "latestCheck": "2021-08-07T12:00:00+03:00",
+    "latestCheck": "2021-08-09T12:00:00+03:00",
     "priority": 100,
     "info": ["Сюжетный квиз про борьбу с чумой. Ссылки выдаются перед игрой, ответы вводятся в Telegram бота."],
     "desc": "Вы чумной доктор. От ваших решений зависит спасение Земли. Ответьте на вопросы квиза, опередите другие команды и найдите способ спасти человечество.",
