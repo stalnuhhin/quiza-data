@@ -4,7 +4,7 @@
     "org": "Большая игра",
     "image": "bolshayaigra.png",
     "url": ["https://chgk-world.ru/tournaments"],
-    "latestCheck": "2021-08-07T12:00:00+03:00",
+    "latestCheck": "2021-08-09T12:00:00+03:00",
     "priority": 40,
     "chgk": true,
     "games": [
@@ -125,6 +125,7 @@
       {"time": "2021-08-08T22:00:00+03:00", "name": "М-Лига 17.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/864"]},
       {"time": "2021-08-09T20:00:00+03:00", "name": "М-Лига 17.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/864"]},
       {"time": "2021-08-10T20:00:00+03:00", "name": "Бесконечные земли - 16", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/871"]},
+      {"time": "2021-08-14T20:00:00+03:00", "name": "Лига старта 28", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/856"]},
       {"time": "2021-08-15T13:00:00+03:00", "name": "М-Лига 17.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/865"]},
       {"time": "2021-08-15T15:00:00+03:00", "name": "Е-бинго", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/870"]},
       {"time": "2021-08-15T22:00:00+03:00", "name": "М-Лига 17.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/865"]},
