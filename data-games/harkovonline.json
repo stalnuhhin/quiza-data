@@ -8,7 +8,7 @@
       "https://docs.google.com/forms/d/e/1FAIpQLSfOgoaM_1fOULyAKd9pyjzl3dgtSVrNjr20n70MPadnU9SRzg/viewform",
       "https://www.facebook.com/groups/khvip.online/announcements"
     ],
-    "latestCheck": "2021-08-10T12:00:00+03:00",
+    "latestCheck": "2021-08-11T12:00:00+03:00",
     "priority": 30,
     "chgk": true,
     "templates": {
@@ -695,7 +695,17 @@
       {"time": "2021-08-10T20:00:00+03:00", "template": "360", "name": "Ревельская Сова 2021. Избранное. Часть II"},
       {"time": "2021-08-10T21:00:00+03:00", "template": "360", "name": "Moon Pie II"},
       {"time": "2021-08-10T21:30:00+03:00", "template": "360", "name": "Бесконечные Земли. Том XVI"},
-      {"time": "2021-08-10T22:00:00+03:00", "template": "400", "name": "Дровушки"}
+      {"time": "2021-08-10T22:00:00+03:00", "template": "400", "name": "Дровушки"},
+      {"time": "2021-08-11T19:30:00+03:00", "template": "360", "name": "Летние зори"},
+      {"time": "2021-08-11T20:00:00+03:00", "template": "360", "name": "Бесконечные Земли. Том XVI"},
+      {"time": "2021-08-11T21:00:00+03:00", "template": "450", "name": "PostModern Talking, Vol. 4"},
+      {"time": "2021-08-11T21:30:00+03:00", "template": "360", "name": "Ревельская Сова 2021. Избранное. Часть II"},
+      {"time": "2021-08-11T22:00:00+03:00", "template": "400", "name": "А-ля Рус (последний отыгрыш)"},
+      {"time": "2021-08-12T19:30:00+03:00", "template": "360", "name": "Карпатская рысь-2021"},
+      {"time": "2021-08-12T19:45:00+03:00", "template": "400", "name": "Дровушки"},
+      {"time": "2021-08-12T21:00:00+03:00", "template": "400", "name": "Турнир вопросов о спорте"},
+      {"time": "2021-08-12T21:30:00+03:00", "template": "360", "name": "Белые ночи-2021. Best-36 (последний отыгрыш)"},
+      {"time": "2021-08-12T22:00:00+03:00", "template": "330", "name": "Unreal Politik"}
     ]
   }
 ]
