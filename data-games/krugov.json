@@ -5,6 +5,7 @@
     "image": "krugov.png",
     "url": ["https://www.facebook.com/groups/528679377769191", "https://www.facebook.com/groups/2723678231229645"],
     "latestCheck": "2021-07-05T12:00:00+03:00",
+    "latestGame": "2021-07-08T22:00:00+03:00",
     "chgk": true,
     "priority": 700,
     "templates": {
@@ -15,12 +16,6 @@
       }
     },
     "games": [
-      {"time": "2021-07-04T18:00:00+03:00", "template": "odin2"},
-      {"time": "2021-07-05T00:00:00+03:00", "template": "odin2"},
-      {"time": "2021-07-05T19:30:00+03:00", "template": "odin2"},
-      {"time": "2021-07-06T19:30:00+03:00", "template": "odin2"},
-      {"time": "2021-07-07T15:00:00+03:00", "template": "odin2"},
-      {"time": "2021-07-08T22:00:00+03:00", "template": "odin2"}
     ]
   }
 ]
