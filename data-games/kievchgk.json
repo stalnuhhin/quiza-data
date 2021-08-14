@@ -4,11 +4,12 @@
     "org": "ЧГК в Киеве",
     "image": "kievchgk.png",
     "url": ["https://www.facebook.com/chgk.kiev.ua/events/"],
-    "latestCheck": "2021-08-09T12:00:00+03:00",
+    "latestCheck": "2021-08-14T12:00:00+03:00",
     "priority": 400,
     "chgk": true,
     "games": [
-      {"time": "2021-08-07T20:00:00+03:00", "name": "Онлайн ЧГК. s05e05 // #kievchgk", "price": ["360 UAH/ком"], "url": ["https://www.facebook.com/events/369691548101641"]}
+      {"time": "2021-08-07T20:00:00+03:00", "name": "Онлайн ЧГК. s05e05 // #kievchgk", "price": ["360 UAH/ком"], "url": ["https://www.facebook.com/events/369691548101641"]},
+      {"time": "2021-08-18T20:00:00+03:00", "name": "ЧГК по фантастике «Кубок слегка неСредиземья-2021»", "price": ["360 UAH/ком"], "url": ["https://www.facebook.com/events/155504120040396"]}
     ]
   }
 ]
