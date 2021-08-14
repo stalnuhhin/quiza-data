@@ -127,5 +127,27 @@
         "url": "https://rating.chgk.info"
       }
     ]
+  },
+  {
+    "name": "ЧГК",
+    "desc": "Интересные сайты для игроков ЧГК.",
+    "items": [
+      {
+        "name": "База вопросов (ЧГК, ССИ и прочее)",
+        "url": "https://db.chgk.info"
+      },
+      {
+        "name": "Сайт рейтинга",
+        "url": "https://rating.chgk.info"
+      },
+      {
+        "name": "Статистика (на основе рейтинга)",
+        "url": "http://chgkstat.org"
+      },
+      {
+        "name": "С кем/сколько вы играли (на основе рейтинга)",
+        "url": "http://chgk.bodrovis.tech/player_infos"
+      }
+    ]
   }
 ]
