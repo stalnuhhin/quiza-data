@@ -4,7 +4,7 @@
     "org": "Безумный император",
     "image": "bezumnyjimperator.png",
     "url": ["https://www.facebook.com/groups/137021291483392"],
-    "latestCheck": "2021-08-14T12:00:00+03:00",
+    "latestCheck": "2021-08-17T12:00:00+03:00",
     "priority": 50,
     "chgk": true,
     "games": [
@@ -25,6 +25,18 @@
         "name": "Простое украшение",
         "price": ["12 USD/ком"],
         "url": ["https://www.facebook.com/groups/137021291483392/posts/238493931336127"]
+      },
+      {
+        "time": "2021-08-17T20:00:00+03:00",
+        "name": "Карпатская рысь-2021",
+        "price": ["10 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/permalink/242405374278316"]
+      },
+      {
+        "time": "2021-08-18T20:00:00+03:00",
+        "name": "ЗЕФИР",
+        "price": ["12 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/permalink/242486734270180"]
       }
     ]
   }
