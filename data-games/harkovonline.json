@@ -8,7 +8,7 @@
       "https://docs.google.com/forms/d/e/1FAIpQLSfOgoaM_1fOULyAKd9pyjzl3dgtSVrNjr20n70MPadnU9SRzg/viewform",
       "https://www.facebook.com/groups/khvip.online/announcements"
     ],
-    "latestCheck": "2021-08-17T12:00:00+03:00",
+    "latestCheck": "2021-08-18T12:00:00+03:00",
     "priority": 30,
     "chgk": true,
     "templates": {
@@ -141,7 +141,17 @@
       {"time": "2021-08-17T19:30:00+03:00", "template": "360", "name": "Экватор"},
       {"time": "2021-08-17T20:00:00+03:00", "template": "360", "name": "Зефир IV"},
       {"time": "2021-08-17T21:30:00+03:00", "template": "400", "name": "Memel Spiegel. Teil 1"},
-      {"time": "2021-08-17T22:00:00+03:00", "template": "360", "name": "Зефир IV"}
+      {"time": "2021-08-17T22:00:00+03:00", "template": "360", "name": "Зефир IV"},
+      {"time": "2021-08-18T19:30:00+03:00", "template": "360", "name": "Римские вопросы II"},
+      {"time": "2021-08-18T20:00:00+03:00", "template": "360", "name": "Зефир IV"},
+      {"time": "2021-08-18T21:30:00+03:00", "template": "330", "name": "Unreal Politik"},
+      {"time": "2021-08-18T22:00:00+03:00", "template": "360", "name": "Белые ночи-2021. Best-37 (последний отыгрыш)"},
+      {"time": "2021-08-18T22:10:00+03:00", "template": "360", "name": "Потёмкинская лестница: спуск"},
+      {"time": "2021-08-19T19:30:00+03:00", "template": "360", "name": "Потёмкинская лестница: спуск"},
+      {"time": "2021-08-19T19:45:00+03:00", "template": "400", "name": "Дровушки"},
+      {"time": "2021-08-19T21:00:00+03:00", "template": "360", "name": "Зефир IV"},
+      {"time": "2021-08-19T21:30:00+03:00", "template": "360", "name": "Ревельская Сова 2021. Избранное. Часть II"},
+      {"time": "2021-08-19T22:00:00+03:00", "template": "400", "name": "Непростое украшенье"}
     ]
   }
 ]
