@@ -3,7 +3,7 @@
     "id": "964fc8f7-e483-46df-a645-f94174128ae5",
     "org": "Ума Палата Online",
     "image": "umkaonline.png",
-    "latestCheck": "2021-08-18T12:00:00+03:00",
+    "latestCheck": "2021-08-20T12:00:00+03:00",
     "priority": 100,
     "hasContent": true,
     "noregistration": true,
@@ -21,7 +21,6 @@
     ],
     "games": [
       {"time": "2021-08-12T20:00:00+03:00", "name": "Умка #вечерняяумка"},
-      {"time": "2021-08-18T20:00:00+03:00", "name": "Умка #melomania"},
       {"time": "2021-08-20T20:00:00+03:00", "name": "Умка #cinemania"}
     ]
   }
