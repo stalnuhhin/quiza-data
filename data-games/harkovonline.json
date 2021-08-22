@@ -8,7 +8,7 @@
       "https://docs.google.com/forms/d/e/1FAIpQLSfOgoaM_1fOULyAKd9pyjzl3dgtSVrNjr20n70MPadnU9SRzg/viewform",
       "https://www.facebook.com/groups/khvip.online/announcements"
     ],
-    "latestCheck": "2021-08-20T12:00:00+03:00",
+    "latestCheck": "2021-08-23T12:00:00+03:00",
     "priority": 30,
     "chgk": true,
     "templates": {
@@ -175,7 +175,15 @@
       {"time": "2021-08-22T20:30:00+03:00", "template": "400", "name": "Непростое украшенье"},
       {"time": "2021-08-22T21:00:00+03:00", "template": "400", "name": "Третий звонок-2021"},
       {"time": "2021-08-22T21:30:00+03:00", "template": "360", "name": "Скрулл Кап: Финал"},
-      {"time": "2021-08-22T22:00:00+03:00", "template": "400", "name": "The Chosen"}
+      {"time": "2021-08-22T22:00:00+03:00", "template": "360", "name": "Скрулл кап. Финал (NEW!)"},
+      {"time": "2021-08-23T02:00:00+03:00", "template": "360", "name": "Скрулл кап. Финал (NEW!)"},
+      {"time": "2021-08-23T04:00:00+03:00", "template": "400", "name": "Третий звонок - 2021"},
+      {"time": "2021-08-23T19:30:00+03:00", "template": "360", "name": "Memel Spiegel - 2"},
+      {"time": "2021-08-23T21:30:00+03:00", "template": "360", "name": "Скрулл кап. Финал (NEW!)"},
+      {"time": "2021-08-24T20:00:00+03:00", "template": "400", "name": "Третий звонок - 2021"},
+      {"time": "2021-08-24T22:00:00+03:00", "template": "360", "name": "Пущинские Дали (NEW!)"},
+      {"time": "2021-08-25T20:00:00+03:00", "template": "360", "name": "ЧГК"},
+      {"time": "2021-08-25T22:00:00+03:00", "template": "360", "name": "Скрулл кап. Финал"}
     ]
   }
 ]
