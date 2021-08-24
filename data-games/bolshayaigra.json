@@ -4,7 +4,7 @@
     "org": "Большая игра",
     "image": "bolshayaigra.png",
     "url": ["https://chgk-world.ru/tournaments"],
-    "latestCheck": "2021-08-23T12:00:00+03:00",
+    "latestCheck": "2021-08-25T12:00:00+03:00",
     "priority": 40,
     "chgk": true,
     "games": [
@@ -30,7 +30,10 @@
       {"time": "2021-08-22T16:00:00+03:00", "name": "Скрулл Кап. Финал", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/890"]},
       {"time": "2021-08-22T22:00:00+03:00", "name": "М-Лига 17.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/866"]},
       {"time": "2021-08-23T20:00:00+03:00", "name": "М-Лига 17.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/866"]},
-      {"time": "2021-08-24T20:00:00+03:00", "name": "Скрулл Кап. Финал", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/890"]}
+      {"time": "2021-08-24T20:00:00+03:00", "name": "Скрулл Кап. Финал", "price": ["1100 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/890"]},
+      {"time": "2021-08-29T13:00:00+03:00", "name": "Большая гонка - 2", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/892"]},
+      {"time": "2021-08-29T22:00:00+03:00", "name": "Большая гонка - 2", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/892"]},
+      {"time": "2021-08-30T20:00:00+03:00", "name": "Большая гонка - 2", "price": ["1000 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/892"]}
     ]
   }
 ]
