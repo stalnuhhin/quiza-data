@@ -8,14 +8,6 @@
     "latestGame": "2021-07-08T22:00:00+03:00",
     "chgk": true,
     "priority": 700,
-    "templates": {
-      "odin2": {
-        "price": ["1000 RUB/ком", "600 RUB/2чел", "300 RUB/чел"],
-        "name": "ОДИН-2",
-        "url": ["https://docs.google.com/forms/d/e/1FAIpQLSf37WzK4jynHFNg8_NVf18gY9QR91gukyQs3brWDXOQZpuzBw/viewform"]
-      }
-    },
-    "games": [
-    ]
+    "games": []
   }
 ]

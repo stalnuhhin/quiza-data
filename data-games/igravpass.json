@@ -4,33 +4,21 @@
     "org": "Игра В. Пас",
     "image": "igravpass.png",
     "url": ["https://www.facebook.com/QuizVPas/events/"],
-    "latestCheck": "2021-08-30T12:00:00+03:00",
+    "latestCheck": "2021-09-03T12:00:00+03:00",
     "priority": 300,
     "price": ["4 USD/чел"],
     "templates": {
-      "si68": {
-        "name": "Футбольная «Своя игра» Игровая неделя №68",
+      "si71": {
+        "name": "Футбольная «Своя игра» Игровая неделя №71",
         "duration": 1,
-        "url": ["https://www.facebook.com/events/4310409615687286"]
-      },
-      "si69": {
-        "name": "Футбольная «Своя игра» Игровая неделя №69",
-        "duration": 1,
-        "url": ["https://www.facebook.com/events/295517598998146"]
+        "url": ["https://www.facebook.com/events/1466231673732987"]
       }
     },
     "games": [
-      {"time": "2021-08-04T20:00:00+03:00", "template": "si68"},
-      {"time": "2021-08-05T20:30:00+03:00", "template": "si68"},
-      {"time": "2021-08-05T23:30:00+03:00", "template": "si68"},
-      {"time": "2021-08-06T14:00:00+03:00", "template": "si68"},
-      {"time": "2021-08-09T23:30:00+03:00", "template": "si69"},
-      {"time": "2021-08-10T20:30:00+03:00", "template": "si69"},
-      {"time": "2021-08-11T23:00:00+03:00", "template": "si69"},
-      {"time": "2021-08-12T22:00:00+03:00", "template": "si69"},
-      {"time": "2021-08-13T14:00:00+03:00", "template": "si69"},
-      {"time": "2021-08-13T20:00:00+03:00", "name": "Спортивный квиз", "price": ["100 UAH/чел"], "url": ["https://www.facebook.com/events/568705734157216"]},
-      {"time": "2021-08-27T20:00:00+03:00", "name": "Футбольный квиз online", "price": ["100 UAH/чел"], "url": ["https://www.facebook.com/events/2849229871994970"]},
+      {"time": "2021-09-01T23:00:00+03:00", "template": "si71"},
+      {"time": "2021-09-02T23:30:00+03:00", "template": "si71"},
+      {"time": "2021-09-03T14:00:00+03:00", "template": "si71"},
+      {"time": "2021-09-03T15:00:00+03:00", "template": "si71"},
       {"time": "2021-09-06T20:00:00+03:00", "name": "Спортивный квиз", "price": ["150 UAH/чел"], "url": ["https://www.facebook.com/events/963289507803665"]}
     ]
   }
