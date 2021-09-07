@@ -3,12 +3,14 @@
     "id": "e493f95d-bd47-4b34-ab63-4e8c1316cfee",
     "org": "Интеллектуальный кубок",
     "image": "intellektualnyykubok.png",
-    "url": ["https://intellektualnyy-kubok.timepad.ru/events/", "https://www.kubok24.ru/"],
-    "latestCheck": "2021-09-05T12:00:00+03:00",
+    "url": ["https://www.kubok24.ru/"],
+    "latestCheck": "2021-09-07T12:00:00+03:00",
     "latestGame": "2021-08-06T20:00:00+03:00",
     "name": "Интеллектуальная онлайн-игра \"Радость от ума\" с Денисом Галиакберовым",
     "priority": 100,
     "price": ["2000 RUB/ком"],
-    "games": []
+    "games": [
+      { "time": "2021-09-17T20:00:00+03:00" }
+    ]
   }
 ]
