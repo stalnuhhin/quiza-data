@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["http://beeclever.space/", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2021-09-09T12:00:00+03:00",
+    "latestCheck": "2021-09-14T12:00:00+03:00",
     "latestGame": "2021-07-27T20:00:00+03:00",
     "chgk": true,
     "priority": 50,
@@ -20,6 +20,12 @@
         "name": "Янтарный лингам - 2021",
         "price": ["13 USD/ком"],
         "url": ["http://beeclever.space/regform.php?turnir=86"]
+      },
+      {
+        "time": "2021-09-14T20:00:00+03:00",
+        "name": "Бесконечные земли - XVII. Синхронная лига Bee Clever",
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=87"]
       }
     ]
   }
