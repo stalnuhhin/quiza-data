@@ -4,7 +4,7 @@
     "org": "Игра В. Пас",
     "image": "igravpass.png",
     "url": ["https://www.facebook.com/QuizVPas/events/"],
-    "latestCheck": "2021-09-14T12:00:00+03:00",
+    "latestCheck": "2021-09-17T12:00:00+03:00",
     "priority": 300,
     "price": ["4 USD/чел"],
     "templates": {
@@ -38,7 +38,8 @@
       {"time": "2021-09-15T21:30:00+03:00", "template": "si73"},
       {"time": "2021-09-16T22:00:00+03:00", "template": "si73"},
       {"time": "2021-09-16T23:30:00+03:00", "template": "si73"},
-      {"time": "2021-09-17T14:00:00+03:00", "template": "si73"}
+      {"time": "2021-09-17T14:00:00+03:00", "template": "si73"},
+      {"time": "2021-09-17T23:00:00+03:00", "name": "Спортивный квиз \"Знаешь ли ты\"", "price": ["100 UAH/чел"], "url": ["https://www.facebook.com/events/405225957807065"]}
     ]
   }
 ]
