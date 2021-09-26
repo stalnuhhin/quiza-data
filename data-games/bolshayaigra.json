@@ -4,7 +4,7 @@
     "org": "Большая игра",
     "image": "bolshayaigra.png",
     "url": ["https://chgk-world.ru/tournaments"],
-    "latestCheck": "2021-09-17T12:00:00+03:00",
+    "latestCheck": "2021-09-27T12:00:00+03:00",
     "priority": 40,
     "chgk": true,
     "games": [
@@ -36,9 +36,15 @@
       {"time": "2021-09-20T20:00:00+03:00", "name": "М-Лига 18.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/929"]},
       {"time": "2021-09-21T20:00:00+03:00", "name": "Delivery Cup. Сентябрь", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/938"]},
       {"time": "2021-09-22T20:00:00+03:00", "name": "Синхрон Моносова", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/935"]},
+      {"time": "2021-09-24T20:00:00+03:00", "name": "Янтарный лингам", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/954"]},
+      {"time": "2021-09-25T20:00:00+03:00", "name": "Молодежный кубок Европы - 2021. Второй этап", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/955"]},
       {"time": "2021-09-26T13:00:00+03:00", "name": "М-Лига 18.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/930"]},
+      {"time": "2021-09-26T16:00:00+03:00", "name": "Кубок Бесконечности. I этап", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/953"]},
+      {"time": "2021-09-26T20:00:00+03:00", "name": "Янтарный лингам", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/954"]},
       {"time": "2021-09-26T22:00:00+03:00", "name": "М-Лига 18.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/930"]},
-      {"time": "2021-09-27T20:00:00+03:00", "name": "М-Лига 18.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/930"]}
+      {"time": "2021-09-27T20:00:00+03:00", "name": "М-Лига 18.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/930"]},
+      {"time": "2021-09-28T20:00:00+03:00", "name": "Кубок Бесконечности. I этап", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/953"]},
+      {"time": "2021-09-29T20:00:00+03:00", "name": "Молодежный кубок Европы - 2021. Второй этап", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/955"]}
     ]
   }
 ]
