@@ -3,8 +3,8 @@
     "id": "901232e6-ef9f-47c7-b9f1-752c67c8eec6",
     "org": "Куб",
     "image": "sahar.png",
-    "url": ["https://cubechgk.turbo.site", "https://www.facebook.com/sugarchgk/", "https://vk.com/cubechgk"],
-    "latestCheck": "2021-09-27T12:00:00+03:00",
+    "url": ["https://cubegame.turbo.site", "https://www.facebook.com/sugarchgk/", "https://vk.com/cubechgk"],
+    "latestCheck": "2021-09-28T12:00:00+03:00",
     "latestGame": "2021-08-28T20:00:00+03:00",
     "priority": 50,
     "chgk": true,
@@ -13,7 +13,9 @@
       { "time": "2021-09-09T20:00:00+03:00", "name": "Куб-1", "price": [ "900 RUB/ком" ] },
       { "time": "2021-09-11T20:00:00+03:00", "name": "Элементарно!", "price": [ "1000 RUB/ком" ] },
       { "time": "2021-09-14T20:00:00+03:00", "name": "Куб-1", "price": [ "900 RUB/ком" ] },
-      { "time": "2021-09-18T20:00:00+03:00", "name": "Куб-1", "price": [ "900 RUB/ком" ] }
+      { "time": "2021-09-18T20:00:00+03:00", "name": "Куб-1", "price": [ "900 RUB/ком" ] },
+      { "time": "2021-09-29T20:30:00+03:00", "name": "Открытый всероссийский синхронный чемпионат (ОВСЧ), этап 1", "price": [ "800 RUB/ком" ] },
+      { "time": "2021-10-02T20:00:00+03:00", "name": "Синхрон Моносова", "price": [ "1100 RUB/ком" ] }
     ]
   }
 ]
