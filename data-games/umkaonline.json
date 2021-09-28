@@ -3,7 +3,7 @@
     "id": "964fc8f7-e483-46df-a645-f94174128ae5",
     "org": "Ума Палата Online",
     "image": "umkaonline.png",
-    "latestCheck": "2021-09-27T12:00:00+03:00",
+    "latestCheck": "2021-09-29T12:00:00+03:00",
     "priority": 100,
     "hasContent": true,
     "noregistration": true,
@@ -20,6 +20,7 @@
       "3. PaySera: LT653500010003462442", "4. Яндекс.Кошелёк: 4100110202439390"
     ],
     "games": [
+      {"time": "2020-09-30T21:00:00+03:00", "name": "Умка #вечерняяумка"}
     ]
   }
 ]
