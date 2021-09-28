@@ -4,7 +4,7 @@
     "org": "Большая игра",
     "image": "bolshayaigra.png",
     "url": ["https://chgk-world.ru/tournaments"],
-    "latestCheck": "2021-09-27T12:00:00+03:00",
+    "latestCheck": "2021-09-29T12:00:00+03:00",
     "priority": 40,
     "chgk": true,
     "games": [
@@ -44,7 +44,25 @@
       {"time": "2021-09-26T22:00:00+03:00", "name": "М-Лига 18.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/930"]},
       {"time": "2021-09-27T20:00:00+03:00", "name": "М-Лига 18.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/930"]},
       {"time": "2021-09-28T20:00:00+03:00", "name": "Кубок Бесконечности. I этап", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/953"]},
-      {"time": "2021-09-29T20:00:00+03:00", "name": "Молодежный кубок Европы - 2021. Второй этап", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/955"]}
+      {"time": "2021-09-29T20:00:00+03:00", "name": "Молодежный кубок Европы - 2021. Второй этап", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/955"]},
+      {"time": "2021-10-01T20:00:00+03:00", "name": "XIX Открытый всероссийский синхронный чемпионат 2021. 1 этап. ОВСЧ-1", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/958"]},
+      {"time": "2021-10-02T13:00:00+03:00", "name": "XIX Открытый всероссийский синхронный чемпионат 2021. 1 этап. ОВСЧ-1", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/958"]},
+      {"time": "2021-10-02T20:00:00+03:00", "name": "Осеннее Черное ЧГК", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/965"]},
+      {"time": "2021-10-02T22:00:00+03:00", "name": "XIX Открытый всероссийский синхронный чемпионат 2021. 1 этап. ОВСЧ-1", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/958"]},
+      {"time": "2021-10-03T13:00:00+03:00", "name": "Международная лига 19.1", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/961"]},
+      {"time": "2021-10-03T15:00:00+03:00", "name": "Лига вузов Европы. 1 этап", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/959"]},
+      {"time": "2021-10-03T22:00:00+03:00", "name": "Международная лига 19.1", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/961"]},
+      {"time": "2021-10-04T20:00:00+03:00", "name": "Международная лига 19.1", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/961"]},
+      {"time": "2021-10-05T20:00:00+03:00", "name": "Лига вузов Европы. 1 этап", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/959"]},
+      {"time": "2021-10-10T13:00:00+03:00", "name": "Международная лига 19.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/962"]},
+      {"time": "2021-10-10T22:00:00+03:00", "name": "Международная лига 19.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/962"]},
+      {"time": "2021-10-11T20:00:00+03:00", "name": "Международная лига 19.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/962"]},
+      {"time": "2021-10-17T13:00:00+03:00", "name": "Международная лига 19.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/963"]},
+      {"time": "2021-10-17T22:00:00+03:00", "name": "Международная лига 19.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/963"]},
+      {"time": "2021-10-18T20:00:00+03:00", "name": "Международная лига 19.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/963"]},
+      {"time": "2021-10-24T13:00:00+03:00", "name": "Международная лига 19.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/964"]},
+      {"time": "2021-10-24T22:00:00+03:00", "name": "Международная лига 19.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/964"]},
+      {"time": "2021-10-25T20:00:00+03:00", "name": "Международная лига 19.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/964"]}
     ]
   }
 ]
