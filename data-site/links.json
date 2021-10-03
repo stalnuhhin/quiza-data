@@ -32,6 +32,10 @@
     "desc": "То, что можно поиграть в любой момент.",
     "items": [
       {
+        "name": "Игры спортивного ЧГК в записи (команда Инк)",
+        "url": "https://www.youtube.com/channel/UC88fK7eoFljNPu5epyFZD6A/videos"
+      },
+      {
         "name": "Игры спортивного ЧГК в записи (Северная сова)",
         "url": "https://www.youtube.com/channel/UCupJydpDJ4fjgVDCi7_8-7A/videos"
       },
@@ -80,6 +84,10 @@
       {
         "name": "Форум",
         "url": "https://forum.znatoki.site"
+      },
+      {
+        "name": "Рейтинг МАИИ",
+        "url": "https://rating.maii.li"
       },
       {
         "name": "Интеллектуальные игры онлайн в facebook",
@@ -143,6 +151,10 @@
       {
         "name": "Сайт рейтинга",
         "url": "https://rating.chgk.info"
+      },
+      {
+        "name": "Есть вопросы? (система внесения данных)",
+        "url": "https://game.gotquestions.online"
       },
       {
         "name": "Статистика (на основе рейтинга)",
