@@ -4,11 +4,16 @@
     "org": "Квиз №8",
     "image": "kviz8.png",
     "url": ["https://www.facebook.com/QuizN8/events"],
-    "latestCheck": "2021-08-30T12:00:00+03:00",
+    "latestCheck": "2021-10-12T12:00:00+03:00",
     "latestGame": "2021-06-03T20:00:00+03:00",
     "priority": 600,
     "name": "Онлайн Квиз №8",
     "price": ["400 UAH/ком"],
-    "games": []
+    "games": [
+      {
+        "time": "2021-10-12T20:00:00+03:00",
+        "url": ["https://www.facebook.com/events/589811315600305"]
+      }
+    ]
   }
 ]

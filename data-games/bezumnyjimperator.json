@@ -4,7 +4,7 @@
     "org": "Безумный император",
     "image": "bezumnyjimperator.png",
     "url": ["https://www.facebook.com/groups/137021291483392"],
-    "latestCheck": "2021-10-06T12:00:00+03:00",
+    "latestCheck": "2021-10-12T12:00:00+03:00",
     "priority": 50,
     "chgk": true,
     "games": [
@@ -37,6 +37,12 @@
         "name": "Лига Сибири. І тур",
         "price": ["10 USD/ком"],
         "url": ["https://www.facebook.com/groups/137021291483392/posts/265573911961462"]
+      },
+      {
+        "time": "2021-10-13T15:00:00+03:00",
+        "name": "Лига Сибири. 1 тур",
+        "price": ["10 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/posts/272537681265085"]
       }
     ]
   }
