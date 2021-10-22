@@ -4,7 +4,7 @@
     "org": "Большая игра",
     "image": "bolshayaigra.png",
     "url": ["https://chgk-world.ru/tournaments"],
-    "latestCheck": "2021-10-19T12:00:00+03:00",
+    "latestCheck": "2021-10-23T12:00:00+03:00",
     "priority": 40,
     "chgk": true,
     "games": [
@@ -72,9 +72,13 @@
       {"time": "2021-10-18T20:00:00+03:00", "name": "Международная лига 19.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/963"]},
       {"time": "2021-10-19T20:00:00+03:00", "name": "Delivery Cup. Октябрь", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/981"]},
       {"time": "2021-10-20T20:00:00+03:00", "name": "Синхрон-lite XLVII", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/976"]},
+      {"time": "2021-10-22T20:00:00+03:00", "name": "ОВСЧ-2 - XIX Открытый всероссийский синхронный чемпионат 2021. 2 этап", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/984"]},
+      {"time": "2021-10-23T20:00:00+03:00", "name": "Осеннее ЧГК по сериалам", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/968"]},
       {"time": "2021-10-24T13:00:00+03:00", "name": "Международная лига 19.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/964"]},
+      {"time": "2021-10-24T16:00:00+03:00", "name": "Кубок Бесконечности. II этап", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/983"]},
       {"time": "2021-10-24T22:00:00+03:00", "name": "Международная лига 19.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/964"]},
-      {"time": "2021-10-25T20:00:00+03:00", "name": "Международная лига 19.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/964"]}
+      {"time": "2021-10-25T20:00:00+03:00", "name": "Международная лига 19.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/964"]},
+      {"time": "2021-10-26T20:00:00+03:00", "name": "Кубок Бесконечности. II этап", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/983"]}
     ]
   }
 ]
