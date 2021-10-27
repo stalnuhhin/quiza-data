@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["http://beeclever.space/", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2021-10-23T12:00:00+03:00",
+    "latestCheck": "2021-10-28T12:00:00+03:00",
     "latestGame": "2021-07-27T20:00:00+03:00",
     "chgk": true,
     "priority": 50,
@@ -50,6 +50,18 @@
         "name": "Бесконечные земли. Том XVIII",
         "price": ["13 USD/ком"],
         "url": ["http://beeclever.space/regform.php?turnir=91"]
+      },
+      {
+        "time": "2021-10-26T20:00:00+03:00",
+        "name": "Кубок Бесконечности: Камень Силы",
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=93"]
+      },
+      {
+        "time": "2021-10-30T20:00:00+03:00",
+        "name": "ФранкенШТО: Новая Надежда. Премьера!",
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=92"]
       }
     ]
   }

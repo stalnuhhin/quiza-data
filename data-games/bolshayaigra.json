@@ -4,7 +4,7 @@
     "org": "Большая игра",
     "image": "bolshayaigra.png",
     "url": ["https://chgk-world.ru/tournaments"],
-    "latestCheck": "2021-10-23T12:00:00+03:00",
+    "latestCheck": "2021-10-28T12:00:00+03:00",
     "priority": 40,
     "chgk": true,
     "games": [
@@ -78,7 +78,8 @@
       {"time": "2021-10-24T16:00:00+03:00", "name": "Кубок Бесконечности. II этап", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/983"]},
       {"time": "2021-10-24T22:00:00+03:00", "name": "Международная лига 19.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/964"]},
       {"time": "2021-10-25T20:00:00+03:00", "name": "Международная лига 19.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/964"]},
-      {"time": "2021-10-26T20:00:00+03:00", "name": "Кубок Бесконечности. II этап", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/983"]}
+      {"time": "2021-10-26T20:00:00+03:00", "name": "Кубок Бесконечности. II этап", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/983"]},
+      {"time": "2021-10-30T20:00:00+03:00", "name": "Осеннее Черное ЧГК (36 оттенков черного)", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/965"]}
     ]
   }
 ]
