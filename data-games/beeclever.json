@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["http://beeclever.space/", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2021-10-28T12:00:00+03:00",
+    "latestCheck": "2021-11-03T12:00:00+03:00",
     "latestGame": "2021-07-27T20:00:00+03:00",
     "chgk": true,
     "priority": 50,
@@ -62,6 +62,12 @@
         "name": "ФранкенШТО: Новая Надежда. Премьера!",
         "price": ["13 USD/ком"],
         "url": ["http://beeclever.space/regform.php?turnir=92"]
+      },
+      {
+        "time": "2021-11-02T20:00:00+02:00",
+        "name": "Зеркало MGIMO Cybernational 2021",
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=95"]
       }
     ]
   }
