@@ -4,12 +4,14 @@
     "org": "ЧГК в Киеве",
     "image": "kievchgk.png",
     "url": ["https://www.facebook.com/chgk.kiev.ua/events/"],
-    "latestCheck": "2021-11-03T12:00:00+03:00",
+    "latestCheck": "2021-11-04T12:00:00+03:00",
     "latestGame": "2021-08-18T20:00:00+03:00",
     "priority": 400,
     "chgk": true,
     "games": [
-      {"time": "2021-10-02T20:00:00+03:00", "name": "Гарри Поттер и ЧГК в Киеве", "url": ["https://www.facebook.com/events/180160894147597"]}
+      {"time": "2021-10-02T20:00:00+03:00", "name": "Гарри Поттер и ЧГК в Киеве", "url": ["https://www.facebook.com/events/180160894147597"]},
+      {"time": "2021-10-16T20:00:00+03:00", "name": "Онлайн ЩДК. s06e01 // #kievchgk", "url": ["https://www.facebook.com/events/2732442893718168"]},
+      {"time": "2021-11-06T19:00:00+02:00", "name": "Онлайн ЩДК. s06e02 // #kievchgk", "url": ["https://www.facebook.com/events/248118217294956"]}
     ]
   }
 ]
