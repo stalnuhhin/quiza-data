@@ -4,7 +4,7 @@
     "org": "Безумный император",
     "image": "bezumnyjimperator.png",
     "url": ["https://www.facebook.com/groups/137021291483392"],
-    "latestCheck": "2021-11-03T12:00:00+03:00",
+    "latestCheck": "2021-11-07T12:00:00+03:00",
     "priority": 50,
     "chgk": true,
     "games": [
@@ -55,6 +55,12 @@
         "name": "Морошка",
         "price": ["10 USD/ком"],
         "url": ["https://www.facebook.com/groups/137021291483392/posts/281461127039407"]
+      },
+      {
+        "time": "2021-11-06T15:00:00+02:00",
+        "name": "Асинхрон Зеркала Открытого Чемпионата Эстонии. Часть 1. Lihtne.",
+        "price": ["10 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/posts/289177592934427"]
       }
     ]
   }
