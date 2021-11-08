@@ -4,7 +4,7 @@
     "org": "Безумный император",
     "image": "bezumnyjimperator.png",
     "url": ["https://www.facebook.com/groups/137021291483392"],
-    "latestCheck": "2021-11-07T12:00:00+03:00",
+    "latestCheck": "2021-11-09T12:00:00+03:00",
     "priority": 50,
     "chgk": true,
     "games": [
@@ -61,6 +61,18 @@
         "name": "Асинхрон Зеркала Открытого Чемпионата Эстонии. Часть 1. Lihtne.",
         "price": ["10 USD/ком"],
         "url": ["https://www.facebook.com/groups/137021291483392/posts/289177592934427"]
+      },
+      {
+        "time": "2021-11-13T15:00:00+02:00",
+        "name": "ОВСЧ. 3 этап",
+        "price": ["10 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/posts/289722156213304"]
+      },
+      {
+        "time": "2021-11-14T15:00:00+02:00",
+        "name": "Кубок Хэллоуина - 2021",
+        "price": ["14 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/posts/290213209497532"]
       }
     ]
   }

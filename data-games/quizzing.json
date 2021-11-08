@@ -4,7 +4,7 @@
     "org": "Мировые квизы по-русски",
     "image": "quizzing.jpg",
     "url": ["https://vk.com/quizzing"],
-    "latestCheck": "2021-11-03T12:00:00+03:00",
+    "latestCheck": "2021-11-09T12:00:00+03:00",
     "priority": 100,
     "price": ["1 USD/чел"],
     "games": [
@@ -17,7 +17,20 @@
       {"time": "2021-09-09T00:00:00+03:00", "duration": 24, "name": "Школа-2021", "url": ["https://vk.com/wall-68578986_1160"]},
       {"time": "2021-09-10T00:00:00+03:00", "duration": 24, "name": "Школа-2021", "url": ["https://vk.com/wall-68578986_1160"]},
       {"time": "2021-09-11T00:00:00+03:00", "duration": 24, "name": "Школа-2021", "url": ["https://vk.com/wall-68578986_1160"]},
-      {"time": "2021-09-12T00:00:00+03:00", "duration": 24, "name": "Школа-2021", "url": ["https://vk.com/wall-68578986_1160"]}
+      {"time": "2021-09-12T00:00:00+03:00", "duration": 24, "name": "Школа-2021", "url": ["https://vk.com/wall-68578986_1160"]},
+      {"time": "2021-11-09T00:00:00+03:00", "duration": 24, "name": "Футбол-4", "url": ["https://vk.com/wall-68578986_1162"]},
+      {"time": "2021-11-10T00:00:00+03:00", "duration": 24, "name": "Футбол-4", "url": ["https://vk.com/wall-68578986_1162"]},
+      {"time": "2021-11-11T00:00:00+03:00", "duration": 24, "name": "Футбол-4", "url": ["https://vk.com/wall-68578986_1162"]},
+      {"time": "2021-11-12T00:00:00+03:00", "duration": 24, "name": "Футбол-4", "url": ["https://vk.com/wall-68578986_1162"]},
+      {"time": "2021-11-13T00:00:00+03:00", "duration": 24, "name": "Футбол-4", "url": ["https://vk.com/wall-68578986_1162"]},
+      {"time": "2021-11-14T00:00:00+03:00", "duration": 24, "name": "Футбол-4", "url": ["https://vk.com/wall-68578986_1162"]},
+      {"time": "2021-11-15T00:00:00+03:00", "duration": 24, "name": "Футбол-4", "url": ["https://vk.com/wall-68578986_1162"]},
+      {"time": "2021-11-16T00:00:00+03:00", "duration": 24, "name": "Футбол-4", "url": ["https://vk.com/wall-68578986_1162"]},
+      {"time": "2021-11-17T00:00:00+03:00", "duration": 24, "name": "Футбол-4", "url": ["https://vk.com/wall-68578986_1162"]},
+      {"time": "2021-11-18T00:00:00+03:00", "duration": 24, "name": "Футбол-4", "url": ["https://vk.com/wall-68578986_1162"]},
+      {"time": "2021-11-19T00:00:00+03:00", "duration": 24, "name": "Футбол-4", "url": ["https://vk.com/wall-68578986_1162"]},
+      {"time": "2021-11-20T00:00:00+03:00", "duration": 24, "name": "Футбол-4", "url": ["https://vk.com/wall-68578986_1162"]},
+      {"time": "2021-11-21T00:00:00+03:00", "duration": 24, "name": "Футбол-4", "url": ["https://vk.com/wall-68578986_1162"]}
     ]
   }
 ]
