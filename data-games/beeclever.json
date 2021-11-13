@@ -3,8 +3,8 @@
     "id": "60d415b6-a12b-46ca-a576-95cea64c7648",
     "org": "Bee Clever",
     "image": "beeclever.png",
-    "url": ["http://beeclever.space/", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2021-11-09T12:00:00+03:00",
+    "url": ["https://t.me/Bee_clever", "https://beeclever.space/fasad.php", "https://www.facebook.com/BEEEECLEVER/events"],
+    "latestCheck": "2021-11-14T12:00:00+03:00",
     "latestGame": "2021-07-27T20:00:00+03:00",
     "chgk": true,
     "priority": 50,
@@ -74,6 +74,42 @@
         "name": "ФранкенШТО: Новая Надежда. Повторная игра",
         "price": ["13 USD/ком"],
         "url": ["http://beeclever.space/regform.php?turnir=97"]
+      },
+      {
+        "time": "2021-11-16T20:00:00+02:00",
+        "name": "Кубок Хэллоуина - 21. Синхронная лига Bee Clever",
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=99"]
+      },
+      {
+        "time": "2021-11-20T15:00:00+02:00",
+        "name": "Українська ліга. Сезон 2021-2022. Етап 1",
+        "price": ["13 USD/ком"]
+      },
+      {
+        "time": "2021-11-25T20:00:00+02:00",
+        "name": "Камень Пространства: III этап Кубка бесконечности. Синхронная лига Bee Clever",
+        "price": ["13 USD/ком"]
+      },
+      {
+        "time": "2021-11-30T20:00:00+02:00",
+        "name": "Кубок Гармонии: Элемент Первый (Щедрость). Синхронная лига Bee Clever",
+        "price": ["13 USD/ком"]
+      },
+      {
+        "time": "2021-12-04T15:00:00+02:00",
+        "name": "Кубок Джерри Мок - 2021",
+        "price": ["13 USD/ком"]
+      },
+      {
+        "time": "2021-12-07T20:00:00+02:00",
+        "name": "Кубок Джерри Мок - 2021",
+        "price": ["13 USD/ком"]
+      },
+      {
+        "time": "2021-12-11T15:00:00+02:00",
+        "name": "Українська ліга. Сезон 2021-2022. Етап 2",
+        "price": ["13 USD/ком"]
       }
     ]
   }
