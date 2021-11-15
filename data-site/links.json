@@ -16,6 +16,14 @@
         "url": "https://www.youtube.com/playlist?list=PL39l9SxO4ZYtouUlzx_MokUds7LtArzTq"
       },
       {
+        "name": "Игры спортивного ЧГК в записи (команда Инк)",
+        "url": "https://www.youtube.com/channel/UC88fK7eoFljNPu5epyFZD6A/videos"
+      },
+      {
+        "name": "Игры спортивного ЧГК в записи (Северная сова)",
+        "url": "https://www.youtube.com/channel/UCupJydpDJ4fjgVDCi7_8-7A/videos"
+      },
+      {
         "name": "«Игроки»",
         "url": "https://igroki.tv",
         "extra": [
@@ -24,6 +32,19 @@
             "url": "https://www.youtube.com/channel/UCI1mXvlrs4VzEgXdSsVpfMg/videos"
           }
         ]
+      },
+      {
+        "name": "Своя игра кино",
+        "url": "https://www.youtube.com/c/KinoSecret_quiz/videos"
+      },
+      {
+        "name": "Что? Где? Говно! - некоторые части Ошуительного Хоу с чёрным ЧГК",
+        "url": "https://www.youtube.com/channel/UCSoYSTOt1g_Vdo8xCJeQpHw/videos"
+      },
+      {
+        "name": "Время подумать на Youtube",
+        "url": "https://www.youtube.com/channel/UC8PsskD8G2fAMKoTNmjr3tA/videos",
+        "tags": ["inactive"]
       }
     ]
   },
@@ -31,14 +52,6 @@
     "name": "Игры",
     "desc": "То, что можно поиграть в любой момент.",
     "items": [
-      {
-        "name": "Игры спортивного ЧГК в записи (команда Инк)",
-        "url": "https://www.youtube.com/channel/UC88fK7eoFljNPu5epyFZD6A/videos"
-      },
-      {
-        "name": "Игры спортивного ЧГК в записи (Северная сова)",
-        "url": "https://www.youtube.com/channel/UCupJydpDJ4fjgVDCi7_8-7A/videos"
-      },
       {
         "name": "Свояк в Telegram",
         "url": "https://t.me/ktoto_zanyal_svoyak",
@@ -64,11 +77,6 @@
       {
         "name": "Киноигры клуба Янча",
         "url": "https://quiz.rusdivx.net",
-        "tags": ["inactive"]
-      },
-      {
-        "name": "Время подумать на Youtube",
-        "url": "https://www.youtube.com/channel/UC8PsskD8G2fAMKoTNmjr3tA/videos",
         "tags": ["inactive"]
       }
     ]
