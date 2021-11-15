@@ -4,7 +4,7 @@
     "org": "Большая игра",
     "image": "bolshayaigra.png",
     "url": ["https://chgk-world.ru/tournaments"],
-    "latestCheck": "2021-11-14T12:00:00+03:00",
+    "latestCheck": "2021-11-16T12:00:00+03:00",
     "priority": 40,
     "chgk": true,
     "games": [
@@ -107,6 +107,7 @@
       {"time": "2021-11-14T22:00:00+03:00", "name": "М-лига 20.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/999"]},
       {"time": "2021-11-15T20:00:00+03:00", "name": "М-лига 20.2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/999"]},
       {"time": "2021-11-17T20:00:00+03:00", "name": "Кубок Хэллоуина", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1008"]},
+      {"time": "2021-11-20T13:00:00+03:00", "name": "Delivery Cup. Ноябрь", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1013"]},
       {"time": "2021-11-21T13:00:00+03:00", "name": "М-лига 20.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1000"]},
       {"time": "2021-11-21T22:00:00+03:00", "name": "М-лига 20.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1000"]},
       {"time": "2021-11-22T20:00:00+03:00", "name": "М-лига 20.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1000"]},
