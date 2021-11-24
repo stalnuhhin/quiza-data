@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://t.me/Bee_clever", "https://beeclever.space/fasad.php", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2021-11-20T12:00:00+03:00",
+    "latestCheck": "2021-11-25T12:00:00+03:00",
     "latestGame": "2021-07-27T20:00:00+03:00",
     "chgk": true,
     "priority": 50,
@@ -84,12 +84,14 @@
       {
         "time": "2021-11-20T15:00:00+02:00",
         "name": "Українська ліга. Сезон 2021-2022. Етап 1",
-        "price": ["13 USD/ком"]
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=100"]
       },
       {
         "time": "2021-11-25T20:00:00+02:00",
         "name": "Камень Пространства: III этап Кубка бесконечности. Синхронная лига Bee Clever",
-        "price": ["13 USD/ком"]
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=101"]
       },
       {
         "time": "2021-11-30T20:00:00+02:00",
