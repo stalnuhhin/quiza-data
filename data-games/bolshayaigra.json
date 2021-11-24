@@ -4,7 +4,7 @@
     "org": "Большая игра",
     "image": "bolshayaigra.png",
     "url": ["https://chgk-world.ru/tournaments"],
-    "latestCheck": "2021-11-25T12:00:00+03:00",
+    "latestCheck": "2021-11-30T12:00:00+03:00",
     "priority": 40,
     "chgk": true,
     "games": [
@@ -115,9 +115,17 @@
       {"time": "2021-11-22T20:00:00+03:00", "name": "М-лига 20.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1000"]},
       {"time": "2021-11-23T20:00:00+03:00", "name": "Кубок Бесконечности. III этап", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1017"]},
       {"time": "2021-11-24T20:00:00+03:00", "name": "Delivery Cup. Ноябрь", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1013"]},
+      {"time": "2021-11-27T13:00:00+03:00", "name": "Синхрон-lite XLVIII", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1025"]},
+      {"time": "2021-11-27T15:00:00+03:00", "name": "Лига вузов Европы. III этап", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1026"]},
+      {"time": "2021-11-27T20:00:00+03:00", "name": "Топ-1000", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1027"]},
+      {"time": "2021-11-27T22:00:00+03:00", "name": "Синхрон-lite XLVIII", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1025"]},
       {"time": "2021-11-28T13:00:00+03:00", "name": "М-лига 20.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1001"]},
+      {"time": "2021-11-28T15:00:00+03:00", "name": "Топ-1000", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1027"]},
+      {"time": "2021-11-28T20:00:00+03:00", "name": "Лига вузов Европы. III этап", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1026"]},
       {"time": "2021-11-28T22:00:00+03:00", "name": "М-лига 20.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1001"]},
-      {"time": "2021-11-29T20:00:00+03:00", "name": "М-лига 20.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1001"]}
+      {"time": "2021-11-29T20:00:00+03:00", "name": "М-лига 20.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1001"]},
+      {"time": "2021-11-30T20:00:00+03:00", "name": "Топ-1000", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1027"]},
+      {"time": "2021-12-01T20:00:00+03:00", "name": "Синхрон-lite XLVIII", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1025"]}
     ]
   }
 ]
