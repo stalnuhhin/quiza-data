@@ -3,7 +3,7 @@
     "id": "964fc8f7-e483-46df-a645-f94174128ae5",
     "org": "Ума Палата Online",
     "image": "umkaonline.png",
-    "latestCheck": "2021-11-25T12:00:00+03:00",
+    "latestCheck": "2021-11-27T12:00:00+03:00",
     "priority": 100,
     "hasContent": true,
     "noregistration": true,
@@ -23,7 +23,8 @@
       {"time": "2021-09-30T21:00:00+03:00", "name": "Умка #вечерняяумка"},
       {"time": "2021-11-03T21:00:00+03:00", "name": "Умка #вечерняяумка"},
       {"time": "2021-11-05T21:00:00+03:00", "name": "Умка #cinemania"},
-      {"time": "2021-11-23T21:00:00+03:00", "name": "Умка #cinemania"}
+      {"time": "2021-11-23T21:00:00+03:00", "name": "Умка #cinemania"},
+      {"time": "2021-11-26T22:00:00+03:00", "name": "Умка #melomania"}
     ]
   }
 ]
