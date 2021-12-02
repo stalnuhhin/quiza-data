@@ -7,7 +7,7 @@
       "https://genium-event.timepad.ru/events/",
       "https://www.genium-quiz.com/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%BD%D0%B0-%D0%B8%D0%B3%D1%80%D1%83"
     ],
-    "latestCheck": "2021-11-25T12:00:00+03:00",
+    "latestCheck": "2021-12-03T12:00:00+03:00",
     "latestGame": "2021-08-28T21:00:00+03:00",
     "priority": 200,
     "price": ["250 RUB/1-2чел", "600 RUB/ком"],
@@ -15,52 +15,10 @@
     "info": ["Cтрим в Zoom.", "Ответы вбиваются в их личную систему."],
     "games": [
       {
-        "time": "2021-10-09T21:00:00+03:00",
+        "time": "2021-12-04T21:00:00+03:00",
         "name": "Genium Sprint Online",
         "price": ["600 RUB/ком"],
-        "url": ["https://genium-event.timepad.ru/event/1792755"]
-      },
-      {
-        "time": "2021-10-16T21:00:00+03:00",
-        "name": "Genium Sprint Online",
-        "price": ["600 RUB/ком"],
-        "url": ["https://genium-event.timepad.ru/event/1809480"]
-      },
-      {
-        "time": "2021-10-23T21:00:00+03:00",
-        "name": "Genium Challenge Online",
-        "price": ["600 RUB/ком"],
-        "url": ["https://genium-event.timepad.ru/event/1818943"]
-      },
-      {
-        "time": "2021-10-20T21:00:00+03:00",
-        "name": "Литературный Genium Sprint Online",
-        "price": ["600 RUB/ком"],
-        "url": ["https://genium-event.timepad.ru/event/1823854"]
-      },
-      {
-        "time": "2021-11-06T21:00:00+03:00",
-        "name": "Genium Sprint Online",
-        "price": ["600 RUB/ком"],
-        "url": ["https://genium-event.timepad.ru/event/1830076"]
-      },
-      {
-        "time": "2021-11-13T21:00:00+03:00",
-        "name": "Genium Challenge Online",
-        "price": ["600 RUB/ком"],
-        "url": ["https://genium-event.timepad.ru/event/1834072"]
-      },
-      {
-        "time": "2021-11-20T21:00:00+03:00",
-        "name": "Genium Sprint Online",
-        "price": ["600 RUB/ком"],
-        "url": ["https://genium-event.timepad.ru/event/1842385"]
-      },
-      {
-        "time": "2021-11-27T21:00:00+03:00",
-        "name": "Genium Challenge Online",
-        "price": ["600 RUB/ком"],
-        "url": ["https://genium-event.timepad.ru/event/1851502"]
+        "url": ["https://genium-event.timepad.ru/event/1853977"]
       }
     ]
   }

@@ -4,109 +4,22 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://t.me/Bee_clever", "https://beeclever.space/fasad.php", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2021-11-25T12:00:00+03:00",
-    "latestGame": "2021-07-27T20:00:00+03:00",
+    "latestCheck": "2021-12-03T12:00:00+03:00",
+    "latestGame": "2021-12-11T15:00:00+02:00",
     "chgk": true,
     "priority": 50,
     "games": [
       {
-        "time": "2021-09-01T20:00:00+03:00",
-        "name": "Осенняя кинолига",
-        "price": ["13 USD/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=84"]
-      },
-      {
-        "time": "2021-09-07T20:00:00+03:00",
-        "name": "Янтарный лингам - 2021",
-        "price": ["13 USD/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=86"]
-      },
-      {
-        "time": "2021-09-14T20:00:00+03:00",
-        "name": "Бесконечные земли - XVII. Синхронная лига Bee Clever",
-        "price": ["13 USD/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=87"]
-      },
-      {
-        "time": "2021-10-05T20:00:00+03:00",
-        "name": "Невермор: правое крыло",
-        "price": ["13 USD/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=88"]
-      },
-      {
-        "time": "2021-10-12T20:00:00+03:00",
-        "name": "Славянка без раздаток. Синхронная лига Bee Clever",
-        "price": ["13 USD/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=89"]
-      },
-      {
-        "time": "2021-10-15T20:00:00+03:00",
-        "name": "Мемориал Андрея Алиева",
-        "price": ["300 UAH/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=90"]
-      },
-      {
-        "time": "2021-10-19T20:00:00+03:00",
-        "name": "Бесконечные земли. Том XVIII",
-        "price": ["13 USD/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=91"]
-      },
-      {
-        "time": "2021-10-26T20:00:00+03:00",
-        "name": "Кубок Бесконечности: Камень Силы",
-        "price": ["13 USD/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=93"]
-      },
-      {
-        "time": "2021-10-30T20:00:00+03:00",
-        "name": "ФранкенШТО: Новая Надежда. Премьера!",
-        "price": ["13 USD/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=92"]
-      },
-      {
-        "time": "2021-11-02T20:00:00+02:00",
-        "name": "Зеркало MGIMO Cybernational 2021",
-        "price": ["13 USD/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=95"]
-      },
-      {
-        "time": "2021-11-12T20:00:00+02:00",
-        "name": "ФранкенШТО: Новая Надежда. Повторная игра",
-        "price": ["13 USD/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=97"]
-      },
-      {
-        "time": "2021-11-16T20:00:00+02:00",
-        "name": "Кубок Хэллоуина - 21. Синхронная лига Bee Clever",
-        "price": ["13 USD/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=99"]
-      },
-      {
-        "time": "2021-11-20T15:00:00+02:00",
-        "name": "Українська ліга. Сезон 2021-2022. Етап 1",
-        "price": ["13 USD/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=100"]
-      },
-      {
-        "time": "2021-11-25T20:00:00+02:00",
-        "name": "Камень Пространства: III этап Кубка бесконечности. Синхронная лига Bee Clever",
-        "price": ["13 USD/ком"],
-        "url": ["http://beeclever.space/regform.php?turnir=101"]
-      },
-      {
-        "time": "2021-11-30T20:00:00+02:00",
-        "name": "Кубок Гармонии: Элемент Первый (Щедрость). Синхронная лига Bee Clever",
-        "price": ["13 USD/ком"]
-      },
-      {
         "time": "2021-12-04T15:00:00+02:00",
         "name": "Кубок Джерри Мок - 2021",
-        "price": ["13 USD/ком"]
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=103"]
       },
       {
         "time": "2021-12-07T20:00:00+02:00",
         "name": "Кубок Джерри Мок - 2021",
-        "price": ["13 USD/ком"]
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=104"]
       },
       {
         "time": "2021-12-11T15:00:00+02:00",

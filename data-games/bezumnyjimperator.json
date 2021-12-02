@@ -4,100 +4,11 @@
     "org": "Безумный император",
     "image": "bezumnyjimperator.png",
     "url": ["https://www.facebook.com/groups/137021291483392"],
-    "latestCheck": "2021-11-28T12:00:00+03:00",
+    "latestCheck": "2021-12-03T12:00:00+03:00",
+    "latestGame": "2021-11-30T20:30:00+02:00",
     "priority": 50,
     "chgk": true,
     "games": [
-      {
-        "time": "2021-09-03T20:00:00+03:00",
-        "name": "Лига старта. Эпизод XХIХ",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/250301503488703"]
-      },
-      {
-        "time": "2021-09-18T20:00:00+03:00",
-        "name": "Синхрон-lite. Выпуск XLVI",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/261081792410674"]
-      },
-      {
-        "time": "2021-10-01T20:00:00+03:00",
-        "name": "Лига старта. Эпизод ХХХ",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/265573911961462"]
-      },
-      {
-        "time": "2021-10-03T20:00:00+03:00",
-        "name": "ОВСЧ. 1 этап",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/265573911961462"]
-      },
-      {
-        "time": "2021-10-06T20:00:00+03:00",
-        "name": "Лига Сибири. І тур",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/265573911961462"]
-      },
-      {
-        "time": "2021-10-13T15:00:00+03:00",
-        "name": "Лига Сибири. 1 тур",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/272537681265085"]
-      },
-      {
-        "time": "2021-10-16T16:00:00+03:00",
-        "name": "Лига старта. Эпизод ХХХ",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/permalink/277519254100261"]
-      },
-      {
-        "time": "2021-10-23T16:00:00+03:00",
-        "name": "Морошка",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/281461127039407"]
-      },
-      {
-        "time": "2021-11-06T15:00:00+02:00",
-        "name": "Асинхрон Зеркала Открытого Чемпионата Эстонии. Часть 1. Lihtne.",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/289177592934427"]
-      },
-      {
-        "time": "2021-11-13T15:00:00+02:00",
-        "name": "ОВСЧ. 3 этап",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/289722156213304"]
-      },
-      {
-        "time": "2021-11-14T15:00:00+02:00",
-        "name": "Кубок Хэллоуина - 2021",
-        "price": ["14 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/290213209497532"]
-      },
-      {
-        "time": "2021-11-18T20:30:00+02:00",
-        "name": "ЧЁРНОЕ ОЗЕРО",
-        "price": ["11 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/293891545796365"]
-      },
-      {
-        "time": "2021-11-20T15:00:00+02:00",
-        "name": "ЧЁРНОЕ ОЗЕРО",
-        "price": ["11 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/296338195551700"]
-      },
-      {
-        "time": "2021-11-28T15:30:00+02:00",
-        "name": "Асинхрон \"Нестерки-2021\". Лёгкие вопросы",
-        "price": ["14 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/permalink/300770371775149"]
-      },
-      {
-        "time": "2021-11-30T20:30:00+02:00",
-        "name": "Синхрон-lite. Выпуск 48",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/permalink/300777625107757"]
-      }
     ]
   }
 ]
