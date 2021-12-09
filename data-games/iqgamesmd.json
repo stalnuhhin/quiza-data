@@ -4,11 +4,12 @@
     "org": "iQ",
     "image": "iqgamesmd.png",
     "url": ["https://www.facebook.com/iqgames.md/events/"],
-    "latestCheck": "2021-12-03T12:00:00+03:00",
+    "latestCheck": "2021-12-10T12:00:00+03:00",
     "latestGame": "2021-11-24T19:00:00+02:00",
     "priority": 300,
     "price": ["50 MDL/чем"],
     "games": [
+      {"time": "2021-12-10T19:00:00+02:00", "name": "«Логика» по-домашнему. Вторая игра зимнего онлайн-сезона", "url": ["https://www.facebook.com/events/626139765466400"]}
     ]
   }
 ]
