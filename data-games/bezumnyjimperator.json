@@ -9,6 +9,12 @@
     "priority": 50,
     "chgk": true,
     "games": [
+      {
+        "time": "2021-12-11T13:00:00+02:00",
+        "name": "Зимняя кинолига",
+        "price": ["10 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/posts/308200487698804/"]
+      }
     ]
   }
 ]
