@@ -4,7 +4,7 @@
     "org": "Безумный император",
     "image": "bezumnyjimperator.png",
     "url": ["https://www.facebook.com/groups/137021291483392"],
-    "latestCheck": "2021-12-10T12:00:00+03:00",
+    "latestCheck": "2021-12-15T12:00:00+03:00",
     "latestGame": "2021-11-30T20:30:00+02:00",
     "priority": 50,
     "chgk": true,
@@ -14,6 +14,12 @@
         "name": "Зимняя кинолига",
         "price": ["10 USD/ком"],
         "url": ["https://www.facebook.com/groups/137021291483392/posts/308200487698804/"]
+      },
+      {
+        "time": "2021-12-15T20:30:00+02:00",
+        "name": "Лига вузов Европы. Тур 4",
+        "price": ["10 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/posts/309307854254734/"]
       }
     ]
   }
