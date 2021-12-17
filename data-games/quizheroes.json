@@ -4,7 +4,7 @@
     "org": "Quiz Heroes",
     "image": "quizheroes.png",
     "url": ["https://quizheroes.ru","https://ttttt.me/PlagueQuiz","https://www.instagram.com/quizheroes/","https://vk.com/public194290286"],
-    "latestCheck": "2021-12-10T12:00:00+03:00",
+    "latestCheck": "2021-12-18T12:00:00+03:00",
     "latestGame": "2022-01-14T20:00:00+03:00",
     "priority": 100,
     "info": ["Сюжетный квиз про борьбу с чумой. Ссылки выдаются перед игрой, ответы вводятся в Telegram бота."],
@@ -12,7 +12,8 @@
     "games": [
       {"time": "2021-12-10T20:00:00+03:00", "name": "Зима близко", "price": ["1000 RUB/ком"]},
       {"time": "2021-12-25T20:00:00+03:00", "name": "Оливье-квиз", "price": ["1000 RUB/ком"]},
-      {"time": "2022-01-14T20:00:00+03:00", "name": "Заливная рыба", "price": ["1000 RUB/ком"]}
+      {"time": "2022-01-14T20:00:00+03:00", "name": "Заливная рыба", "price": ["1000 RUB/ком"]},
+      {"time": "2022-01-14T20:00:00+03:00", "name": "Волшебная лампа", "price": ["1000 RUB/ком"]}
     ]
   }
 ]
