@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://t.me/Bee_clever", "https://beeclever.space/fasad.php", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2021-12-18T12:00:00+03:00",
+    "latestCheck": "2021-12-24T12:00:00+03:00",
     "latestGame": "2021-12-11T15:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -32,6 +32,30 @@
         "name": "Українська ліга. Сезон 2021-2022. Етап 2",
         "price": ["13 USD/ком"],
         "url": ["http://beeclever.space/regform.php?turnir=108"]
+      },
+      {
+        "time": "2021-12-21T20:00:00+02:00",
+        "name": "Кубок Бесконечности: Камень Времени",
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=109"]
+      },
+      {
+        "time": "2021-12-25T15:00:00+02:00",
+        "name": "Кубок Джерри Мок - 2021 (Last)",
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=112"]
+      },
+      {
+        "time": "2021-12-28T20:00:00+02:00",
+        "name": "Взгляд отца - 2021. Премьера",
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=110"]
+      },
+      {
+        "time": "2022-01-02T15:00:00+02:00",
+        "name": "Взгляд отца - 2021. Синхронная лига Bee Clever",
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=111"]
       }
     ]
   }

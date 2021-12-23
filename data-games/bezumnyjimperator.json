@@ -4,7 +4,7 @@
     "org": "Безумный император",
     "image": "bezumnyjimperator.png",
     "url": ["https://www.facebook.com/groups/137021291483392"],
-    "latestCheck": "2021-12-18T12:00:00+03:00",
+    "latestCheck": "2021-12-24T12:00:00+03:00",
     "latestGame": "2021-11-30T20:30:00+02:00",
     "priority": 50,
     "chgk": true,
@@ -26,6 +26,12 @@
         "name": "Черепаха на склоне",
         "price": ["10 USD/ком"],
         "url": ["https://www.facebook.com/groups/137021291483392/posts/311413830710803/"]
+      },
+      {
+        "time": "2021-12-24T20:30:00+02:00",
+        "name": "Хайфайв-5",
+        "price": ["10 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/posts/313013500550836/"]
       }
     ]
   }
