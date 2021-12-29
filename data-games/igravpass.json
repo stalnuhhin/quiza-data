@@ -4,7 +4,7 @@
     "org": "Игра В. Пас",
     "image": "igravpass.png",
     "url": ["https://www.facebook.com/QuizVPas/events/"],
-    "latestCheck": "2021-12-24T12:00:00+03:00",
+    "latestCheck": "2021-12-30T12:00:00+03:00",
     "priority": 300,
     "price": ["4 USD/чел"],
     "templates": {
@@ -27,6 +27,11 @@
         "name": "Футбольная «Своя игра» Игровая неделя №86",
         "duration": 1,
         "url": ["https://www.facebook.com/events/450760489887427"]
+      },
+      "si87": {
+        "name": "Футбольная «Своя игра» Игровая неделя №87",
+        "duration": 1,
+        "url": ["https://www.facebook.com/events/985613695637232"]
       }
     },
     "games": [
@@ -48,12 +53,16 @@
       {"time": "2021-12-23T21:30:00+02:00", "template": "si86"},
       {"time": "2021-12-23T23:00:00+02:00", "template": "si86"},
       {"time": "2021-12-24T22:30:00+02:00", "template": "si86"},
+      {"time": "2021-12-27T23:10:00+02:00", "template": "si87"},
       {
         "time": "2021-12-27T20:00:00+02:00",
         "name": "Турнир по вселенной Ведьмака",
         "price": ["600 UAH/ком"],
         "url": ["https://www.facebook.com/events/960139884594129"]
-      }
+      },
+      {"time": "2021-12-29T16:00:00+02:00", "template": "si87"},
+      {"time": "2021-12-29T22:00:00+02:00", "template": "si87"},
+      {"time": "2021-12-30T23:00:00+02:00", "template": "si87"}
     ]
   }
 ]

@@ -4,7 +4,7 @@
     "org": "Безумный император",
     "image": "bezumnyjimperator.png",
     "url": ["https://www.facebook.com/groups/137021291483392"],
-    "latestCheck": "2021-12-24T12:00:00+03:00",
+    "latestCheck": "2021-12-30T12:00:00+03:00",
     "latestGame": "2021-11-30T20:30:00+02:00",
     "priority": 50,
     "chgk": true,
@@ -38,6 +38,12 @@
         "name": "Синхрон-lite. Выпуск 49",
         "price": ["10 USD/ком"],
         "url": ["https://www.facebook.com/groups/137021291483392/permalink/315321990319987/"]
+      },
+      {
+        "time": "2022-01-01T01:00:00+02:00",
+        "name": "Кубок Оливье - 2022",
+        "price": ["10 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/posts/316058433579676"]
       }
     ]
   }
