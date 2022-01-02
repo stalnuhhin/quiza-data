@@ -4,7 +4,7 @@
     "org": "Безумный император",
     "image": "bezumnyjimperator.png",
     "url": ["https://www.facebook.com/groups/137021291483392"],
-    "latestCheck": "2021-12-30T12:00:00+03:00",
+    "latestCheck": "2022-01-03T12:00:00+03:00",
     "latestGame": "2021-11-30T20:30:00+02:00",
     "priority": 50,
     "chgk": true,
@@ -44,6 +44,24 @@
         "name": "Кубок Оливье - 2022",
         "price": ["10 USD/ком"],
         "url": ["https://www.facebook.com/groups/137021291483392/posts/316058433579676"]
+      },
+      {
+        "time": "2022-01-03T20:30:00+02:00",
+        "name": "Стол",
+        "price": ["10 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/posts/320413293144190"]
+      },
+      {
+        "time": "2022-01-04T20:30:00+02:00",
+        "name": "Лига старта. Эпизод ХХХІІІ",
+        "price": ["10 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/posts/320413293144190"]
+      },
+      {
+        "time": "2022-01-05T15:00:00+02:00",
+        "name": "Черное озеро",
+        "price": ["10 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/posts/320413293144190"]
       }
     ]
   }
