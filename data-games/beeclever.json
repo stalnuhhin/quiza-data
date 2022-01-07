@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://t.me/Bee_clever", "https://beeclever.space/fasad.php", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2021-12-30T12:00:00+03:00",
+    "latestCheck": "2022-01-08T12:00:00+03:00",
     "latestGame": "2021-12-11T15:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -56,6 +56,50 @@
         "name": "Взгляд отца - 2021. Синхронная лига Bee Clever",
         "price": ["13 USD/ком"],
         "url": ["http://beeclever.space/regform.php?turnir=111"]
+      },
+      {
+        "time": "2022-01-08T15:00:00+02:00",
+        "name": "Українська ліга. Сезон 2021-2022. Етап 2",
+        "price": ["360 UAH/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=114"]
+      },
+      {
+        "time": "2022-01-11T20:00:00+02:00",
+        "name": "Бесконечные земли. Том XХI",
+        "price": ["13 USD/ком"],
+        "url": ["http://beeclever.space/regform.php?turnir=115"]
+      },
+      {
+        "time": "2022-01-18T20:00:00+02:00",
+        "name": "Лига Плюща 1: Гарвард"
+      },
+      {
+        "time": "2022-01-25T20:00:00+02:00",
+        "name": "Синхронная лига"
+      },
+      {
+        "time": "2022-01-29T15:00:00+02:00",
+        "name": "Українська ліга. Сезон 2021-2022. Етап 3"
+      },
+      {
+        "time": "2022-02-01T20:00:00+02:00",
+        "name": "Синхронная лига"
+      },
+      {
+        "time": "2022-02-03T20:00:00+02:00",
+        "name": "Winter Sports Quiz"
+      },
+      {
+        "time": "2022-02-08T20:00:00+02:00",
+        "name": "Синхронная лига"
+      },
+      {
+        "time": "2022-02-12T15:00:00+02:00",
+        "name": "Українська ліга. Сезон 2021-2022. Етап 4"
+      },
+      {
+        "time": "2022-02-15T20:00:00+02:00",
+        "name": "Синхронная лига"
       }
     ]
   }
