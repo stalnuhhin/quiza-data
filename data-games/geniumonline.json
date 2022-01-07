@@ -15,18 +15,6 @@
     "info": ["Cтрим в Zoom.", "Ответы вбиваются в их личную систему."],
     "games": [
       {
-        "time": "2021-12-04T21:00:00+03:00",
-        "name": "Genium Sprint Online",
-        "price": ["600 RUB/ком"],
-        "url": ["https://genium-event.timepad.ru/event/1853977"]
-      },
-      {
-        "time": "2021-12-18T21:00:00+03:00",
-        "name": "Genium Sprint Online",
-        "price": ["600 RUB/ком"],
-        "url": ["https://genium-event.timepad.ru/event/1876301"]
-      },
-      {
         "time": "2022-01-08T21:00:00+03:00",
         "name": "Genium Online",
         "price": ["600 RUB/ком"],
