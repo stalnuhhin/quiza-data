@@ -4,11 +4,16 @@
     "org": "The Quiz (Одесса)",
     "image": "thequizodessa.png",
     "url": ["https://thequiz.com.ua/calendar_odessa", "https://www.facebook.com/thequiz.odessa"],
-    "latestCheck": "2022-01-08T12:00:00+03:00",
+    "latestCheck": "2022-01-15T12:00:00+03:00",
     "latestGame": "2021-10-29T20:00:00+03:00",
     "priority": 300,
     "price": ["100 UAH/чел", "max 500 UAH/ком"],
     "games": [
+      {"time": "2022-01-14T20:00:00+02:00", "name": "Юмористическая игра \"Квиздец\" (\"чернуха\")"},
+      {"time": "2022-01-17T20:00:00+02:00", "name": "The Quiz Lite (\"игра для новичков\")"},
+      {"time": "2022-01-21T20:00:00+02:00", "name": "The Quiz, открытие XVIII сезона"},
+      {"time": "2022-01-24T20:00:00+02:00", "name": "Музыкальный квиз. Rock edition"},
+      {"time": "2022-01-31T20:00:00+02:00", "name": "The Quiz Lite (\"игра для новичков\")"}
     ]
   }
 ]

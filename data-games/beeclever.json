@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://t.me/Bee_clever", "https://beeclever.space/fasad.php", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2022-01-08T12:00:00+03:00",
+    "latestCheck": "2022-01-15T12:00:00+03:00",
     "latestGame": "2021-12-11T15:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -28,8 +28,16 @@
         "url": ["http://beeclever.space/regform.php?turnir=115"]
       },
       {
+        "time": "2022-01-12T20:00:00+02:00",
+        "name": "Українська ліга. Сезон 2021-2022. Етап 2. Додаткова гра",
+        "price": ["360 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=116"]
+      },
+      {
         "time": "2022-01-18T20:00:00+02:00",
-        "name": "Лига Плюща 1: Гарвард"
+        "name": "Лига Плюща 1: Гарвард",
+        "price": ["15 USD/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=117"]
       },
       {
         "time": "2022-01-25T20:00:00+02:00",
