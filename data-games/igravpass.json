@@ -4,21 +4,42 @@
     "org": "Игра В. Пас",
     "image": "igravpass.png",
     "url": ["https://www.facebook.com/QuizVPas/events/"],
-    "latestCheck": "2022-01-15T12:00:00+03:00",
+    "latestCheck": "2022-01-22T12:00:00+03:00",
     "priority": 300,
     "price": ["4 USD/чел"],
     "templates": {
-      "si87": {
+      "si88": {
         "name": "Футбольная «Своя игра» Игровая неделя №88",
         "duration": 1,
         "url": ["https://www.facebook.com/events/945967923004895"]
+      },
+      "si90": {
+        "name": "Футбольная «Своя игра» Игровая неделя №90",
+        "duration": 1,
+        "url": ["https://www.facebook.com/events/285489743646103"]
+      },
+      "si91": {
+        "name": "Футбольная «Своя игра» Игровая неделя №91",
+        "duration": 1,
+        "url": ["https://www.facebook.com/events/1106191866859546"]
       }
     },
     "games": [
       {"time": "2022-01-04T23:10:00+02:00", "template": "si88"},
       {"time": "2022-01-05T21:30:00+02:00", "template": "si88"},
       {"time": "2022-01-06T20:30:00+02:00", "template": "si88"},
-      {"time": "2022-01-07T14:00:00+02:00", "template": "si88"}
+      {"time": "2022-01-07T14:00:00+02:00", "template": "si88"},
+      {"time": "2022-01-18T20:30:00+02:00", "template": "si90"},
+      {"time": "2022-01-19T20:30:00+02:00", "template": "si90"},
+      {"time": "2022-01-20T21:45:00+02:00", "template": "si90"},
+      {"time": "2022-01-20T23:00:00+02:00", "template": "si90"},
+      {"time": "2022-01-21T16:00:00+02:00", "template": "si90"},
+      {"time": "2022-01-24T23:59:00+02:00", "template": "si91"},
+      {"time": "2022-01-25T14:00:00+02:00", "template": "si91"},
+      {"time": "2022-01-26T20:30:00+02:00", "template": "si91"},
+      {"time": "2022-01-27T21:45:00+02:00", "template": "si91"},
+      {"time": "2022-01-27T23:00:00+02:00", "template": "si91"},
+      {"time": "2022-01-28T16:00:00+02:00", "template": "si91"}
     ]
   }
 ]

@@ -4,7 +4,7 @@
     "org": "inter oves locum praesta",
     "image": "interoves.png",
     "url": ["https://interoves.ml"],
-    "latestCheck": "2022-01-15T12:00:00+03:00",
+    "latestCheck": "2022-01-22T12:00:00+03:00",
     "latestGame": "2021-11-28T18:00:00+03:00",
     "priority": 100,
     "hasContent": true,
@@ -12,7 +12,8 @@
     "price": ["500 RUB/ком"],
     "games": [
       {"time": "2022-01-09T18:00:00+03:00", "name": "Десяточка 77"},
-      {"time": "2022-01-16T18:00:00+03:00", "name": "Десяточка 78"}
+      {"time": "2022-01-16T18:00:00+03:00", "name": "Десяточка 78"},
+      {"time": "2022-01-23T18:00:00+03:00", "name": "Десяточка 79"}
     ]
   }
 ]

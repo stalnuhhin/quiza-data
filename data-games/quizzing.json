@@ -4,13 +4,24 @@
     "org": "Мировые квизы по-русски",
     "image": "quizzing.jpg",
     "url": ["https://vk.com/quizzing"],
-    "latestCheck": "2022-01-15T12:00:00+03:00",
+    "latestCheck": "2022-01-22T12:00:00+03:00",
     "latestGame": "2021-12-05T03:00:00+03:00",
     "priority": 100,
     "price": ["1 USD/чел"],
     "games": [
       {"time": "2022-01-01T03:00:00+03:00", "duration": 20, "name": "Итоги 2021 года", "url": ["https://vk.com/wall-68578986_1166"]},
-      {"time": "2022-01-02T03:00:00+03:00", "duration": 20, "name": "Итоги 2021 года", "url": ["https://vk.com/wall-68578986_1166"]}
+      {"time": "2022-01-02T03:00:00+03:00", "duration": 20, "name": "Итоги 2021 года", "url": ["https://vk.com/wall-68578986_1166"]},
+      {"time": "2022-01-13T03:00:00+03:00", "duration": 20, "name": "Lifestyle100", "url": ["https://vk.com/wall-68578986_1168"]},
+      {"time": "2022-01-14T03:00:00+03:00", "duration": 20, "name": "Lifestyle100", "url": ["https://vk.com/wall-68578986_1168"]},
+      {"time": "2022-01-15T03:00:00+03:00", "duration": 20, "name": "Lifestyle100", "url": ["https://vk.com/wall-68578986_1168"]},
+      {"time": "2022-01-16T03:00:00+03:00", "duration": 20, "name": "Lifestyle100", "url": ["https://vk.com/wall-68578986_1168"]},
+      {"time": "2022-01-17T03:00:00+03:00", "duration": 20, "name": "Lifestyle100", "url": ["https://vk.com/wall-68578986_1168"]},
+      {"time": "2022-01-18T03:00:00+03:00", "duration": 20, "name": "Lifestyle100", "url": ["https://vk.com/wall-68578986_1168"]},
+      {"time": "2022-01-19T03:00:00+03:00", "duration": 20, "name": "Lifestyle100", "url": ["https://vk.com/wall-68578986_1168"]},
+      {"time": "2022-01-20T03:00:00+03:00", "duration": 20, "name": "Lifestyle100", "url": ["https://vk.com/wall-68578986_1168"]},
+      {"time": "2022-01-21T03:00:00+03:00", "duration": 20, "name": "Lifestyle100", "url": ["https://vk.com/wall-68578986_1168"]},
+      {"time": "2022-01-22T03:00:00+03:00", "duration": 20, "name": "Lifestyle100", "url": ["https://vk.com/wall-68578986_1168"]},
+      {"time": "2022-01-23T03:00:00+03:00", "duration": 20, "name": "Lifestyle100", "url": ["https://vk.com/wall-68578986_1168"]}
     ]
   }
 ]
