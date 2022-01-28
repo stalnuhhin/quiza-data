@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://t.me/Bee_clever", "https://beeclever.space/fasad.php", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2022-01-22T12:00:00+03:00",
+    "latestCheck": "2022-01-29T12:00:00+03:00",
     "latestGame": "2021-12-11T15:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -41,11 +41,15 @@
       },
       {
         "time": "2022-01-25T20:00:00+02:00",
-        "name": "Синхронная лига"
+        "name": "Кубок Бесконечности: Камень Разума. Синхронная лига Bee Clever",
+        "price": ["15 USD/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=118"]
       },
       {
         "time": "2022-01-29T15:00:00+02:00",
-        "name": "Українська ліга. Сезон 2021-2022. Етап 3"
+        "name": "Українська ліга. Сезон 2021-2022. Етап 3",
+        "price": ["420 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=119"]
       },
       {
         "time": "2022-02-01T20:00:00+02:00",

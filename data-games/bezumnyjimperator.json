@@ -4,7 +4,7 @@
     "org": "Безумный император",
     "image": "bezumnyjimperator.png",
     "url": ["https://www.facebook.com/groups/137021291483392"],
-    "latestCheck": "2022-01-22T12:00:00+03:00",
+    "latestCheck": "2022-01-29T12:00:00+03:00",
     "latestGame": "2021-11-30T20:30:00+02:00",
     "priority": 50,
     "chgk": true,
@@ -50,6 +50,18 @@
         "name": "Синхрон-lite. Выпуск 50",
         "price": ["10 USD/ком"],
         "url": ["https://www.facebook.com/groups/137021291483392/posts/329923038859882"]
+      },
+      {
+        "time": "2022-01-28T20:30:00+02:00",
+        "name": "Californication 3.0",
+        "price": ["7 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/permalink/331405845378268"]
+      },
+      {
+        "time": "2022-02-01T20:30:00+02:00",
+        "name": "ЛОВЕЦ СНОВ",
+        "price": ["13 USD/ком"],
+        "url": ["https://www.facebook.com/groups/137021291483392/permalink/331958045323048"]
       }
     ]
   }
