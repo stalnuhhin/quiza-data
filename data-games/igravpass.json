@@ -4,7 +4,7 @@
     "org": "Игра В. Пас",
     "image": "igravpass.png",
     "url": ["https://www.facebook.com/QuizVPas/events/"],
-    "latestCheck": "2022-01-29T12:00:00+03:00",
+    "latestCheck": "2022-02-05T12:00:00+03:00",
     "priority": 300,
     "price": ["4 USD/чел"],
     "templates": {
@@ -22,6 +22,11 @@
         "name": "Футбольная «Своя игра» Игровая неделя №91",
         "duration": 1,
         "url": ["https://www.facebook.com/events/1106191866859546"]
+      },
+      "si92": {
+        "name": "Футбольная «Своя игра» Игровая неделя №92",
+        "duration": 1,
+        "url": ["https://www.facebook.com/events/900290677212283"]
       }
     },
     "games": [
@@ -42,7 +47,12 @@
       {"time": "2022-01-28T16:00:00+02:00", "template": "si91"},
       {"time": "2022-01-28T22:00:00+02:00", "name": "Californication 3.0", "price": ["100 UAH/чел"], "url": ["https://www.facebook.com/events/324796256189074"]},
       {"time": "2022-01-29T09:00:00+02:00", "name": "Californication 3.0", "price": ["100 UAH/чел"], "url": ["https://www.facebook.com/events/324796256189074"]},
-      {"time": "2022-01-29T22:00:00+02:00", "name": "Californication 3.0", "price": ["100 UAH/чел"], "url": ["https://www.facebook.com/events/324796256189074"]}
+      {"time": "2022-01-29T22:00:00+02:00", "name": "Californication 3.0", "price": ["100 UAH/чел"], "url": ["https://www.facebook.com/events/324796256189074"]},
+      {"time": "2022-01-31T22:00:00+02:00", "template": "si92"},
+      {"time": "2022-02-01T14:00:00+02:00", "template": "si92"},
+      {"time": "2022-02-02T21:30:00+02:00", "template": "si92"},
+      {"time": "2022-02-03T22:00:00+02:00", "template": "si92"},
+      {"time": "2022-02-04T16:00:00+02:00", "template": "si92"}
     ]
   }
 ]

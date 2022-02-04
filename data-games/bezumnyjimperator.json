@@ -4,7 +4,7 @@
     "org": "Безумный император",
     "image": "bezumnyjimperator.png",
     "url": ["https://www.facebook.com/groups/137021291483392"],
-    "latestCheck": "2022-01-30T12:00:00+03:00",
+    "latestCheck": "2022-02-05T12:00:00+03:00",
     "latestGame": "2021-11-30T20:30:00+02:00",
     "priority": 50,
     "chgk": true,
@@ -68,6 +68,13 @@
         "name": "ЛОВЕЦ СНОВ",
         "price": ["13 USD/ком"],
         "url": ["https://www.facebook.com/groups/137021291483392/permalink/331958045323048"]
+      },
+      {
+        "time": "2022-02-04T20:30:00+02:00",
+        "name": "ЛОВЕЦ СНОВ",
+        "lang": "По-украински",
+        "price": ["13 USD/ком"],
+        "url": ["https://docs.google.com/forms/d/1JnMu-Qr0Tl3t1bR1uBFSkxy1mditfWiTHIeVUMoPmyg/edit"]
       }
     ]
   }

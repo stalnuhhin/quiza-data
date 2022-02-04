@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://t.me/Bee_clever", "https://beeclever.space/fasad.php", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2022-01-29T12:00:00+03:00",
+    "latestCheck": "2022-02-05T12:00:00+03:00",
     "latestGame": "2021-12-11T15:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -53,11 +53,9 @@
       },
       {
         "time": "2022-02-01T20:00:00+02:00",
-        "name": "Синхронная лига"
-      },
-      {
-        "time": "2022-02-03T20:00:00+02:00",
-        "name": "Winter Sports Quiz"
+        "name": "Тритих: Зима. Синхронная лига Bee Clever",
+        "price": ["15 USD/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=120"]
       },
       {
         "time": "2022-02-08T20:00:00+02:00",
