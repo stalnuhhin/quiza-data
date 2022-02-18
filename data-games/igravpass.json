@@ -5,7 +5,7 @@
     "image": "igravpass.png",
     "url": ["https://www.facebook.com/QuizVPas/events/"],
     "latestCheck": "2022-02-13T12:00:00+03:00",
-    "priority": 300,
+    "priority": 600,
     "price": ["4 USD/чел"],
     "templates": {
       "si88": {
