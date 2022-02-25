@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://t.me/Bee_clever", "https://beeclever.space/fasad.php", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2022-02-19T12:00:00+03:00",
+    "latestCheck": "2022-02-26T12:00:00+03:00",
     "latestGame": "2021-12-11T15:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -74,6 +74,18 @@
         "name": "Кубок Бесконечности: Камень Души. Синхронная лига Bee Clever",
         "price": ["15 USD/ком"],
         "url": ["https://beeclever.space/regform.php?turnir=123"]
+      },
+      {
+        "time": "2022-02-22T20:00:00+02:00",
+        "name": "Кубок Хайфы. Синхронная лига Bee Clever",
+        "price": ["15 USD/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=124"]
+      },
+      {
+        "time": "2022-02-24T20:00:00+02:00",
+        "name": "Українська ліга. Етап 3. Додаткова гра",
+        "price": ["420 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=125"]
       }
     ]
   }
