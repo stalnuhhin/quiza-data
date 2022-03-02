@@ -4,7 +4,7 @@
     "org": "Большая игра",
     "image": "bolshayaigra.png",
     "url": ["https://chgk-world.ru/tournaments"],
-    "latestCheck": "2022-02-26T12:00:00+03:00",
+    "latestCheck": "2022-03-02T12:00:00+03:00",
     "latestGame": "2021-12-11T15:00:00+02:00",
     "priority": 40,
     "chgk": true,
@@ -60,16 +60,7 @@
       {"time": "2022-02-20T15:00:00+03:00", "name": "Лига вузов Европы. V этап", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1090"]},
       {"time": "2022-02-20T22:00:00+03:00", "name": "М-лига 23.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1082"]},
       {"time": "2022-02-21T20:00:00+03:00", "name": "М-лига 23.3", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1082"]},
-      {"time": "2022-02-22T20:00:00+03:00", "name": "Лига вузов Европы. V этап", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1090"]},
-      {"time": "2022-02-26T13:00:00+03:00", "name": "Лига Сибири. IV тур", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1091"]},
-      {"time": "2022-02-26T20:00:00+03:00", "name": "Бесконечные земли - 23", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1092"]},
-      {"time": "2022-02-26T22:00:00+03:00", "name": "Лига Сибири. IV тур", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1091"]},
-      {"time": "2022-02-27T13:00:00+03:00", "name": "М-лига 23.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1083"]},
-      {"time": "2022-02-27T16:00:00+03:00", "name": "Бесконечные земли - 23", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1092"]},
-      {"time": "2022-02-27T22:00:00+03:00", "name": "М-лига 23.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1083"]},
-      {"time": "2022-02-28T20:00:00+03:00", "name": "М-лига 23.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1083"]},
-      {"time": "2022-03-01T20:00:00+03:00", "name": "Бесконечные земли - 23", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1092"]},
-      {"time": "2022-03-02T20:00:00+03:00", "name": "Лига Сибири. IV тур", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1091"]}
+      {"time": "2022-02-22T20:00:00+03:00", "name": "Лига вузов Европы. V этап", "price": ["750 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1090"]}
     ]
   }
 ]
