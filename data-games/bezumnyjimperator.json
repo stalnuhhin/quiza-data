@@ -10,66 +10,6 @@
     "chgk": true,
     "games": [
       {
-        "time": "2022-01-01T01:00:00+02:00",
-        "name": "Кубок Оливье - 2022",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/316058433579676"]
-      },
-      {
-        "time": "2022-01-03T20:30:00+02:00",
-        "name": "Стол",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/320413293144190"]
-      },
-      {
-        "time": "2022-01-04T20:30:00+02:00",
-        "name": "Лига старта. Эпизод ХХХІІІ",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/320413293144190"]
-      },
-      {
-        "time": "2022-01-05T15:00:00+02:00",
-        "name": "Черное озеро",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/320413293144190"]
-      },
-      {
-        "time": "2022-01-08T15:00:00+02:00",
-        "name": "Лига старта. Эпизод ХХХІІІ",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/322305702954949"]
-      },
-      {
-        "time": "2022-01-12T20:30:00+02:00",
-        "name": "Синхрон северных стран",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/322305702954949"]
-      },
-      {
-        "time": "2022-01-22T15:00:00+02:00",
-        "name": "Синхрон-lite. Выпуск 50",
-        "price": ["10 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/posts/329923038859882"]
-      },
-      {
-        "time": "2022-01-28T20:30:00+02:00",
-        "name": "Californication 3.0",
-        "price": ["7 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/permalink/331405845378268"]
-      },
-      {
-        "time": "2022-01-30T15:00:00+02:00",
-        "name": "Сугробушки. День 1",
-        "price": ["12 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/permalink/334245161761003"]
-      },
-      {
-        "time": "2022-02-01T20:30:00+02:00",
-        "name": "ЛОВЕЦ СНОВ",
-        "price": ["13 USD/ком"],
-        "url": ["https://www.facebook.com/groups/137021291483392/permalink/331958045323048"]
-      },
-      {
         "time": "2022-02-04T20:30:00+02:00",
         "name": "ЛОВЕЦ СНОВ",
         "lang": "По-украински",

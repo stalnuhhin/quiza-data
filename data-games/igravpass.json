@@ -7,52 +7,7 @@
     "latestCheck": "2022-02-13T12:00:00+03:00",
     "priority": 600,
     "price": ["4 USD/чел"],
-    "templates": {
-      "si88": {
-        "name": "Футбольная «Своя игра» Игровая неделя №88",
-        "duration": 1,
-        "url": ["https://www.facebook.com/events/945967923004895"]
-      },
-      "si90": {
-        "name": "Футбольная «Своя игра» Игровая неделя №90",
-        "duration": 1,
-        "url": ["https://www.facebook.com/events/285489743646103"]
-      },
-      "si91": {
-        "name": "Футбольная «Своя игра» Игровая неделя №91",
-        "duration": 1,
-        "url": ["https://www.facebook.com/events/1106191866859546"]
-      },
-      "si92": {
-        "name": "Футбольная «Своя игра» Игровая неделя №92",
-        "duration": 1,
-        "url": ["https://www.facebook.com/events/900290677212283"]
-      }
-    },
-    "games": [
-      {"time": "2022-01-04T23:10:00+02:00", "template": "si88"},
-      {"time": "2022-01-05T21:30:00+02:00", "template": "si88"},
-      {"time": "2022-01-06T20:30:00+02:00", "template": "si88"},
-      {"time": "2022-01-07T14:00:00+02:00", "template": "si88"},
-      {"time": "2022-01-18T20:30:00+02:00", "template": "si90"},
-      {"time": "2022-01-19T20:30:00+02:00", "template": "si90"},
-      {"time": "2022-01-20T21:45:00+02:00", "template": "si90"},
-      {"time": "2022-01-20T23:00:00+02:00", "template": "si90"},
-      {"time": "2022-01-21T16:00:00+02:00", "template": "si90"},
-      {"time": "2022-01-24T23:59:00+02:00", "template": "si91"},
-      {"time": "2022-01-25T14:00:00+02:00", "template": "si91"},
-      {"time": "2022-01-26T20:30:00+02:00", "template": "si91"},
-      {"time": "2022-01-27T21:45:00+02:00", "template": "si91"},
-      {"time": "2022-01-27T23:00:00+02:00", "template": "si91"},
-      {"time": "2022-01-28T16:00:00+02:00", "template": "si91"},
-      {"time": "2022-01-28T22:00:00+02:00", "name": "Californication 3.0", "price": ["100 UAH/чел"], "url": ["https://www.facebook.com/events/324796256189074"]},
-      {"time": "2022-01-29T09:00:00+02:00", "name": "Californication 3.0", "price": ["100 UAH/чел"], "url": ["https://www.facebook.com/events/324796256189074"]},
-      {"time": "2022-01-29T22:00:00+02:00", "name": "Californication 3.0", "price": ["100 UAH/чел"], "url": ["https://www.facebook.com/events/324796256189074"]},
-      {"time": "2022-01-31T22:00:00+02:00", "template": "si92"},
-      {"time": "2022-02-01T14:00:00+02:00", "template": "si92"},
-      {"time": "2022-02-02T21:30:00+02:00", "template": "si92"},
-      {"time": "2022-02-03T22:00:00+02:00", "template": "si92"},
-      {"time": "2022-02-04T16:00:00+02:00", "template": "si92"}
-    ]
+    "templates": {},
+    "games": []
   }
 ]

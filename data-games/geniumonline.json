@@ -15,36 +15,6 @@
     "info": ["Cтрим в Zoom.", "Ответы вбиваются в их личную систему."],
     "games": [
       {
-        "time": "2022-01-08T21:00:00+03:00",
-        "name": "Genium Online",
-        "price": ["600 RUB/ком"],
-        "url": ["https://genium-event.timepad.ru/event/1892696"]
-      },
-      {
-        "time": "2022-01-15T21:00:00+03:00",
-        "name": "Genium Challenge Online",
-        "price": ["600 RUB/ком"],
-        "url": ["https://genium-event.timepad.ru/event/1896726"]
-      },
-      {
-        "time": "2022-01-29T21:00:00+03:00",
-        "name": "Genium Challenge Online",
-        "price": ["600 RUB/ком"],
-        "url": ["https://genium-event.timepad.ru/event/1909478"]
-      },
-      {
-        "time": "2022-02-05T21:00:00+03:00",
-        "name": "Литературный Genium Sprint Online",
-        "price": ["600 RUB/ком"],
-        "url": ["https://genium-event.timepad.ru/event/1901947"]
-      },
-      {
-        "time": "2022-02-19T21:00:00+03:00",
-        "name": "Genium Challenge Online",
-        "price": ["950 RUB/ком"],
-        "url": ["https://genium-event.timepad.ru/event/1918185"]
-      },
-      {
         "time": "2022-02-26T21:00:00+03:00",
         "name": "Genium Sprint Online",
         "price": ["950 RUB/ком"],

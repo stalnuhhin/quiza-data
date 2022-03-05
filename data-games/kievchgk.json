@@ -8,9 +8,6 @@
     "latestGame": "2021-08-18T20:00:00+03:00",
     "priority": 400,
     "chgk": true,
-    "games": [
-      {"time": "2022-01-29T20:00:00+02:00", "name": "Онлайн ЩДК. s07e01 // #kievchgk", "url": ["https://www.facebook.com/events/255696096688393"]},
-      {"time": "2022-02-19T20:00:00+02:00", "name": "Онлайн ЩДК. s07e02 // #kievchgk", "url": ["https://www.facebook.com/events/1015361555990647"]}
-    ]
+    "games": []
   }
 ]
