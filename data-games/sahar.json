@@ -4,13 +4,14 @@
     "org": "Куб",
     "image": "sahar.png",
     "url": ["https://cubegame.turbo.site", "https://www.facebook.com/sugarchgk/", "https://vk.com/cubechgk"],
-    "latestCheck": "2022-03-05T12:00:00+03:00",
+    "latestCheck": "2022-03-11T12:00:00+03:00",
     "latestGame": "2021-12-04T20:00:00+03:00",
     "priority": 50,
     "chgk": true,
     "games": [
       { "time": "2022-03-04T22:00:00+03:00", "name": "Коробка шоколадных конфет", "price": [ "900 RUB/ком" ] },
-      { "time": "2022-03-05T20:00:00+03:00", "name": "Коробка шоколадных конфет", "price": [ "900 RUB/ком" ] }
+      { "time": "2022-03-05T20:00:00+03:00", "name": "Коробка шоколадных конфет", "price": [ "900 RUB/ком" ] },
+      { "time": "2022-03-11T20:00:00+03:00", "name": "Коробка шоколадных конфет", "price": [ "900 RUB/ком" ] }
     ]
   }
 ]

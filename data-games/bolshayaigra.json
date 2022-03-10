@@ -4,14 +4,17 @@
     "org": "Большая игра",
     "image": "bolshayaigra.png",
     "url": ["https://chgk-world.ru/tournaments"],
-    "latestCheck": "2022-03-05T12:00:00+03:00",
+    "latestCheck": "2022-03-11T12:00:00+03:00",
     "latestGame": "2021-12-11T15:00:00+02:00",
     "priority": 40,
     "chgk": true,
     "games": [
       {"time": "2022-03-06T13:00:00+03:00", "name": "Мартовская лига №1", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1104"]},
       {"time": "2022-03-06T22:00:00+03:00", "name": "Мартовская лига №1", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1104"]},
-      {"time": "2022-03-07T20:00:00+03:00", "name": "Мартовская лига №1", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1104"]}
+      {"time": "2022-03-07T20:00:00+03:00", "name": "Мартовская лига №1", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1104"]},
+      {"time": "2022-03-13T13:00:00+03:00", "name": "Мартовская лига №2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1105"]},
+      {"time": "2022-03-13T22:00:00+03:00", "name": "Мартовская лига №2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1105"]},
+      {"time": "2022-03-14T20:00:00+03:00", "name": "Мартовская лига №2", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1105"]}
     ]
   }
 ]

@@ -4,12 +4,13 @@
     "org": "iQ",
     "image": "iqgamesmd.png",
     "url": ["https://www.facebook.com/iqgames.md/events/"],
-    "latestCheck": "2022-03-05T12:00:00+03:00",
+    "latestCheck": "2022-03-11T12:00:00+03:00",
     "latestGame": "2021-11-24T19:00:00+02:00",
     "priority": 300,
     "price": ["50 MDL/чем"],
     "games": [
-      {"time": "2022-03-03T23:00:00+02:00", "name": "«Логика» по-домашнему. # 1 игра весеннего онлайн-сезона", "url": ["https://www.facebook.com/events/4648212438640158"]}
+      {"time": "2022-03-03T23:00:00+02:00", "name": "«Логика» по-домашнему. # 1 игра весеннего онлайн-сезона", "url": ["https://www.facebook.com/events/4648212438640158"]},
+      {"time": "2022-03-10T23:00:00+02:00", "name": "«Логика» по-домашнему. # 2 игра весеннего онлайн-сезона", "url": ["https://www.facebook.com/events/4648212428640159"]}
     ]
   }
 ]
