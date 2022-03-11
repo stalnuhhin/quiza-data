@@ -14,6 +14,12 @@
         "name": "Українська ліга. Етап 3. Додаткова гра",
         "price": ["420 UAH/ком"],
         "url": ["https://beeclever.space/regform.php?turnir=125"]
+      },
+      {
+        "time": "2022-03-12T20:00:00+02:00",
+        "name": "Українська ліга. Етап 3. Додаткова гра - 2",
+        "price": ["600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=127"]
       }
     ]
   }
