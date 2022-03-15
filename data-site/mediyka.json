@@ -1,5 +1,10 @@
 [
   {
+    "date_start": "2022-03-18T19:00:00+02:00",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/715333713237404",
+    "authors": ["Стальнухин Дмитрий"]
+  },
+  {
     "date_start": "2022-03-11T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/712121700225272",
     "authors": ["Риисма Ирина", "Колесникова Анастасия", "Илона Давидович", "Аксёнова Анна"]
@@ -227,7 +232,10 @@
     "date_start": "2021-06-04T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/524670755637035",
     "event_url": "https://www.facebook.com/events/325290812377009/?active_tab=discussion",
-    "authors": ["Стальнухин Антон"]
+    "authors": ["Стальнухин Антон"],
+    "quantity": 305,
+    "size_mb": 100,
+    "description": "В пакете 305 вопросов на разные темы (книги, музыка, география, изо, история, кино, люди, слова). Музыкальных вопросов ~40."
   },
   {
     "date_start": "2021-05-28T19:00:00+03:00",
@@ -255,7 +263,10 @@
     "date_start": "2021-02-05T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/events/400291567935230/?active_tab=discussion",
     "authors": ["Стальнухин Антон"],
-    "name": "Музыкальный версус: Пеетер Ёёкасс vs Антон Стальнухин"
+    "name": "Музыкальный версус: Пеетер Ёёкасс vs Антон Стальнухин",
+    "quantity": 265,
+    "size_mb": 298,
+    "description": "В пакете 265 музыкальных вопроса. В большинстве случаев надо назвать исполнителя. Игра не требует вывода экрана, только звуковые вопросы."
   },
   {
     "date_start": "2020-12-25T19:00:00+02:00",
