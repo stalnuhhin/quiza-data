@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2022-03-12T12:00:00+03:00",
+    "latestCheck": "2022-03-21T12:00:00+03:00",
     "latestGame": "2021-12-11T15:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -20,6 +20,18 @@
         "name": "Українська ліга. Етап 3. Додаткова гра - 2",
         "price": ["600 UAH/ком"],
         "url": ["https://beeclever.space/regform.php?turnir=127"]
+      },
+      {
+        "time": "2022-03-15T20:00:00+02:00",
+        "name": "Экспансия: Облако Оорта. Синхронная лига Bee Clever",
+        "price": ["600 UAH/ком", "20 USD/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=128"]
+      },
+      {
+        "time": "2022-03-22T20:00:00+02:00",
+        "name": "Украинский Байрактар",
+        "price": ["600 UAH/ком", "20 USD/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=129"]
       }
     ]
   }
