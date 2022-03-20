@@ -2,374 +2,713 @@
   {
     "date_start": "2022-03-18T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/715333713237404",
-    "authors": ["Стальнухин Дмитрий"]
+    "blocks": [
+      {
+        "authors": ["Стальнухин Дмитрий"]
+      }
+    ]
   },
   {
     "date_start": "2022-03-11T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/712121700225272",
-    "authors": ["Риисма Ирина", "Колесникова Анастасия", "Илона Давидович", "Аксёнова Анна"]
+    "blocks": [
+      {
+        "authors": ["Илона Давидович"]
+      },
+      {
+        "authors": ["Аксёнова Анна"]
+      },
+      {
+        "authors": ["Колесникова Анастасия"]
+      },
+      {
+        "authors": ["Риисма Ирина"]
+      }
+    ]
   },
   {
     "date_start": "2022-03-04T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/706366944134081",
-    "authors": ["Хаманов Антон", "Стальнухин Антон"],
-    "name": "Благотворительная"
+    "name": "Благотворительная",
+    "blocks": [
+      {
+        "authors": ["Хаманов Антон"]
+      },
+      {
+        "authors": ["Стальнухин Антон"],
+        "description": "В блоке 10 тем (50 вопросов), из них 4 темы (20 вопросов) - музыкальные. Вопросы посвящены Украине.",
+        "quantity": 50,
+        "size_mb": 21
+      }
+    ]
   },
   {
     "date_start": "2022-02-25T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/701728154597960",
-    "authors": ["Макагонова София", "Макагонов Алексей"]
+    "blocks": [
+      {
+        "authors": ["Макагонова София"]
+      },
+      {
+        "authors": ["Макагонов Алексей"]
+      }
+    ]
   },
   {
     "date_start": "2022-02-18T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/697244195046356",
-    "authors": ["Крехов Арсений"]
+    "blocks": [
+      {
+        "authors": ["Крехов Арсений"]
+      }
+    ]
   },
   {
     "date_start": "2022-02-11T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/692470962190346",
-    "authors": ["Ведехин Александр"]
+    "blocks": [
+      {
+        "authors": ["Ведехин Александр"]
+      }
+    ]
   },
   {
     "date_start": "2022-02-04T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/688178922619550",
-    "authors": ["Хаманов Антон", "Крехов Арсений"],
-    "name": "Праздничная от Совы"
+    "name": "Праздничная от Совы",
+    "blocks": [
+      {
+        "authors": ["Хаманов Антон"]
+      },
+      {
+        "authors": ["Крехов Арсений"]
+      },
+      {
+        "authors": ["Стальнухин Антон"],
+        "description": "В блоке 10 тем (50 вопросов).",
+        "quantity": 50,
+        "size_mb": 10
+      }
+    ]
   },
   {
     "date_start": "2022-01-28T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/683680326402743",
-    "authors": ["Хаманов Антон"]
+    "blocks": [
+      {
+        "authors": ["Хаманов Антон"]
+      }
+    ]
   },
   {
     "date_start": "2022-01-21T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/678641393573303",
-    "authors": ["Хьюстон", "Родионова Ольга", "Печёнкин Дмитрий"]
+    "blocks": [
+      {
+        "authors": ["Родионова Ольга", "Печёнкин Дмитрий", "Хьюстон"]
+      }
+    ]
   },
   {
     "date_start": "2022-01-14T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/675991923838250",
-    "authors": ["Гойдов Михаил", "Хаманов Антон"]
+    "blocks": [
+      {
+        "authors": ["Гойдов Михаил"]
+      },
+      {
+        "authors": ["Хаманов Антон"]
+      }
+    ]
   },
   {
     "date_start": "2022-01-07T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/671392904298152",
     "photo_url": "https://www.facebook.com/groups/PohjaOokull/posts/673028164134626",
     "questions_url": "https://www.facebook.com/groups/PohjaOokull/posts/673032020800907",
-    "authors": ["Крехов Арсений", "Стальнухин Дмитрий"],
-    "name": "Медийка перед кубком Северной совы"
+    "name": "Медийка перед кубком Северной совы",
+    "blocks": [
+      {
+        "authors": ["Крехов Арсений"]
+      },
+      {
+        "authors": ["Стальнухин Дмитрий"]
+      }
+    ]
   },
   {
     "date_start": "2021-12-24T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/660975348673241",
     "event_url": "https://www.facebook.com/events/3067053353552206/?active_tab=discussion",
     "photo_url": "https://www.facebook.com/groups/PohjaOokull/posts/663928995044543",
-    "authors": ["Стальнухин Антон"],
     "name": "Медийка 600.0 - первая в Старом городе",
-    "date_added": "2022-03-14T18:00:00+02:00",
-    "quantity": 615,
-    "description": "В пакете бла бла В пакете бла бла В пакете бла бла В пакете бла бла В пакете бла бла В пакете бла бла В пакете бла бла В пакете бла бла В пакете бла бла В пакете бла бла В пакете бла бла В пакете бла бла В пакете бла бла В пакете бла бла В пакете бла бла",
-    "file_url": "bla"
+    "description": "В игре 120 тем (601 вопрос), из них 37 тем (185 вопросов) музыкальные. Есть один финальный вопрос со ставкой. В игре много вопросов по шуткам, есть 45 звуковых вопросов по мемам, 10 звуковых - по рекламе.",
+    "blocks": [
+      {
+        "authors": ["Стальнухин Антон"],
+        "quantity": 615,
+        "size_mb": 225,
+        "date_added": "2022-03-14T18:00:00+02:00",
+        "file_url": "bla"
+      }
+    ]
   },
   {
     "date_start": "2021-12-17T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/656332185804224",
-    "authors": ["Гойдов Михаил", "Крехов Арсений"],
-    "name": "Последняя медийка в Копли"
+    "name": "Последняя медийка в Копли",
+    "blocks": [
+      {
+        "authors": ["Гойдов Михаил"]
+      },
+      {
+        "authors": ["Крехов Арсений"]
+      }
+    ]
   },
   {
     "date_start": "2021-12-10T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/653208076116635",
-    "authors": ["Вайнонен Катарина", "Архипова Екатерина"]
+    "blocks": [
+      {
+        "authors": ["Вайнонен Катарина"]
+      },
+      {
+        "authors": ["Архипова Екатерина"]
+      }
+    ]
   },
   {
     "date_start": "2021-12-03T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/648607593243350",
-    "authors": ["Линник Ольга", "Ворошнин Дмитрий"]
+    "blocks": [
+      {
+        "authors": ["Линник Ольга"]
+      },
+      {
+        "authors": ["Ворошнин Дмитрий"]
+      }
+    ]
   },
   {
     "date_start": "2021-11-26T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/638529964251113",
     "event_url": "https://www.facebook.com/events/682362692764586/?active_tab=discussion",
-    "authors": ["Талисайнен Георгий"]
+    "blocks": [
+      {
+        "authors": ["Талисайнен Георгий"]
+      }
+    ]
   },
   {
     "date_start": "2021-11-19T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/639064650864311",
-    "authors": ["Гойдов Михаил"]
+    "blocks": [
+      {
+        "authors": ["Гойдов Михаил"]
+      }
+    ]
   },
   {
     "date_start": "2021-11-12T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/633935311377245",
-    "authors": ["Стальнухин Дмитрий"]
+    "blocks": [
+      {
+        "authors": ["Стальнухин Дмитрий"]
+      }
+    ]
   },
   {
     "date_start": "2021-11-05T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/628943735209736",
-    "authors": ["Хаманов Антон"]
+    "blocks": [
+      {
+        "authors": ["Хаманов Антон"]
+      }
+    ]
   },
   {
     "date_start": "2021-10-29T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/624964805607629",
-    "authors": ["Макагонов Алексей", "Миротин Евгений"]
+    "blocks": [
+      {
+        "authors": ["Макагонов Алексей"]
+      },
+      {
+        "authors": ["Миротин Евгений"]
+      }
+    ]
   },
   {
     "date_start": "2021-10-22T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/621038442666932",
-    "authors": [""]
+    "blocks": []
   },
   {
     "date_start": "2021-10-15T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/615725289864914",
-    "authors": ["Крехов Арсений", "Талисайнен Георгий"]
+    "blocks": [
+      {
+        "authors": ["Крехов Арсений"]
+      },
+      {
+        "authors": ["Талисайнен Георгий"]
+      }
+    ]
   },
   {
     "date_start": "2021-10-08T19:00:00+03:00",
     "notice_url": "",
-    "authors": ["Риисма Ирина", "Онохов Михаил"],
-    "name": "Медийка перед ЧЭ"
+    "name": "Медийка перед ЧЭ",
+    "blocks": [
+      {
+        "authors": ["Риисма Ирина"]
+      },
+      {
+        "authors": ["Онохов Михаил"]
+      }
+    ]
   },
   {
     "date_start": "2021-10-01T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/606554630781980",
-    "authors": ["Гойдов Михаил"]
+    "blocks": [
+      {
+        "authors": ["Гойдов Михаил"]
+      }
+    ]
   },
   {
     "date_start": "2021-09-24T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/602563347847775",
-    "authors": ["Крехов Арсений"]
+    "blocks": [
+      {
+        "authors": ["Крехов Арсений"]
+      }
+    ]
   },
   {
     "date_start": "2021-09-17T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/597538761683567",
-    "authors": ["Хаманов Антон"],
-    "name": "Инкогнито из Петербурга"
+    "name": "Инкогнито из Петербурга",
+    "blocks": [
+      {
+        "authors": ["Хаманов Антон"]
+      }
+    ]
   },
   {
     "date_start": "2021-09-10T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/591788535591923",
-    "authors": [""]
+    "blocks": []
   },
   {
     "date_start": "2021-09-03T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/586209736149803",
     "event_url": "https://www.facebook.com/events/378141370524440/?active_tab=discussion",
-    "authors": ["Стальнухин Антон"],
-    "name": "Инициальная медийка в Сове"
+    "name": "Инициальная медийка в Сове",
+    "description": "В игре 13 раундов по 30 вопросов и один финальный вопрос со ставкой. 300 вопросов - инициальные. Музыкальных вопросов во всей игре где-то 200.",
+    "blocks": [
+      {
+        "authors": ["Стальнухин Антон"],
+        "quantity": 401,
+        "size_mb": 226
+      }
+    ]
   },
   {
     "date_start": "2021-08-27T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/582142713223172",
-    "authors": ["Хаманов Антон"],
-    "name": "Мне 40"
+    "name": "Мне 40",
+    "blocks": [
+      {
+        "authors": ["Хаманов Антон"]
+      }
+    ]
   },
   {
     "date_start": "2021-08-20T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/577659503671493",
-    "authors": [""],
-    "name": "Релакс-медийка"
+    "name": "Релакс-медийка",
+    "blocks": []
   },
   {
     "date_start": "2021-08-13T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/572476777523099",
-    "authors": ["Крехов Арсений", "Сагитов Тимур"],
-    "name": "Кунда vs. Челябинск"
+    "name": "Кунда vs. Челябинск",
+    "blocks": [
+      {
+        "authors": ["Крехов Арсений"]
+      },
+      {
+        "authors": ["Сагитов Тимур"]
+      }
+    ]
   },
   {
     "date_start": "2021-08-06T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/566286851475425",
-    "authors": ["Риисма Ирина", "Онохов Михаил"],
-    "name": "IT IS OUR MEDIYKA"
+    "name": "IT IS OUR MEDIYKA",
+    "blocks": [
+      {
+        "authors": ["Риисма Ирина"]
+      },
+      {
+        "authors": ["Онохов Михаил"]
+      }
+    ]
   },
   {
     "date_start": "2021-07-30T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/561398708630906",
-    "authors": ["Хаманов Антон"],
-    "name": "Я остаюсь!"
+    "name": "Я остаюсь!",
+    "blocks": [
+      {
+        "authors": ["Хаманов Антон"]
+      }
+    ]
   },
   {
     "date_start": "2021-07-23T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/558352475602196",
-    "authors": ["Крехов Арсений", "Талисайнен Георгий", "Хаманов Антон"],
-    "name": "Став vs. Млад"
+    "name": "Став vs. Млад",
+    "blocks": [
+      {
+        "authors": ["Крехов Арсений"]
+      },
+      {
+        "authors": ["Талисайнен Георгий"]
+      },
+      {
+        "authors": ["Хаманов Антон"]
+      }
+    ]
   },
   {
     "date_start": "2021-07-16T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/552788646158579",
     "event_url": "https://www.facebook.com/events/503132247425820/?active_tab=discussion",
-    "authors": ["Архипова Екатерина", "Вайнонен Катарина", "Линник Ольга"],
-    "name": "Финансы vs. Романсы. И немножко архитектуры."
+    "name": "Финансы vs. Романсы. И немножко архитектуры.",
+    "blocks": [
+      {
+        "authors": ["Архипова Екатерина"]
+      },
+      {
+        "authors": ["Вайнонен Катарина"]
+      },
+      {
+        "authors": ["Линник Ольга"]
+      }
+    ]
   },
   {
     "date_start": "2021-07-09T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/548523333251777",
-    "authors": [""],
-    "name": "Перед Нелиярве"
+    "name": "Перед Нелиярве",
+    "blocks": []
   },
   {
     "date_start": "2021-07-02T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/542711017166342",
-    "authors": [""],
-    "name": "Северной сове год!"
+    "name": "Северной сове год!",
+    "blocks": [
+      {
+        "authors": ["Стальнухин Антон"],
+        "quantity": 100,
+        "size_mb": 33,
+        "description": "20 тем (100 вопросов), из них 20 - музыкальные (One Hit Wonder)."
+      },
+      {
+        "authors": ["Крехов Арсений"]
+      },
+      {
+        "authors": ["Хаманов Антон"]
+      }
+    ]
   },
   {
     "date_start": "2021-06-25T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/538744494229661",
-    "authors": ["Крехов Арсений", "Хаманов Антон"]
+    "blocks": [
+      {
+        "authors": ["Крехов Арсений"]
+      },
+      {
+        "authors": ["Хаманов Антон"]
+      }
+    ]
   },
   {
     "date_start": "2021-06-18T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/533873284716782",
-    "authors": ["Корнышев Михаил", "Макагонов Алексей"],
-    "name": "Музыкальный баттл"
+    "name": "Музыкальный баттл",
+    "blocks": [
+      {
+        "authors": ["Корнышев Михаил"]
+      },
+      {
+        "authors": ["Макагонов Алексей"]
+      }
+    ]
   },
   {
     "date_start": "2021-06-11T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/529586331812144",
-    "authors": ["Гойдов Михаил"]
+    "blocks": [
+      {
+        "authors": ["Гойдов Михаил"]
+      }
+    ]
   },
   {
     "date_start": "2021-06-04T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/524670755637035",
     "event_url": "https://www.facebook.com/events/325290812377009/?active_tab=discussion",
-    "authors": ["Стальнухин Антон"],
-    "quantity": 305,
-    "size_mb": 100,
-    "description": "В пакете 305 вопросов на разные темы (книги, музыка, география, изо, история, кино, люди, слова). Музыкальных вопросов ~40."
+    "description": "В пакете 305 вопросов на разные темы (книги, музыка, география, изо, история, кино, люди, слова). Музыкальных вопросов ~40. Для игры обязателен вывод вопросов на экран.",
+    "blocks": [
+      {
+        "authors": ["Стальнухин Антон"],
+        "quantity": 305,
+        "size_mb": 95
+      }
+    ]
   },
   {
     "date_start": "2021-05-28T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/520657779371666",
-    "authors": ["Гойдов Михаил"]
+    "blocks": [
+      {
+        "authors": ["Гойдов Михаил"]
+      }
+    ]
   },
   {
     "date_start": "2021-02-26T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/456780362426075",
     "event_url": "https://www.facebook.com/events/204651754738236/?active_tab=discussion",
-    "authors": ["Бережинский Александр", "Крехов Арсений"],
-    "name": "Бисмарк против Котиков на синтезаторах в космосе"
+    "name": "Бисмарк против Котиков на синтезаторах в космосе",
+    "blocks": [
+      {
+        "authors": ["Бережинский Александр"]
+      },
+      {
+        "authors": ["Крехов Арсений"]
+      }
+    ]
   },
   {
     "date_start": "2021-02-19T18:18:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/453527656084679",
-    "authors": ["Талисайнен Георгий", "Киржнер Семён"]
+    "blocks": [
+      {
+        "authors": ["Талисайнен Георгий"]
+      },
+      {
+        "authors": ["Киржнер Семён"]
+      }
+    ]
   },
   {
     "date_start": "2021-02-12T18:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/448607619910016",
-    "authors": ["Гойдов Михаил"]
+    "blocks": [
+      {
+        "authors": ["Гойдов Михаил"]
+      }
+    ]
   },
   {
     "date_start": "2021-02-05T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/events/400291567935230/?active_tab=discussion",
-    "authors": ["Стальнухин Антон"],
     "name": "Музыкальный версус: Пеетер Ёёкасс vs Антон Стальнухин",
-    "quantity": 265,
-    "size_mb": 298,
-    "description": "В пакете 265 музыкальных вопроса. В большинстве случаев надо назвать исполнителя. Игра не требует вывода экрана, только звуковые вопросы."
+    "description": "В пакете 265 музыкальных вопроса. В большинстве случаев надо назвать исполнителя. Игра не требует вывода экрана, только звуковые вопросы.",
+    "blocks": [
+      {
+        "authors": ["Стальнухин Антон"],
+        "quantity": 265,
+        "size_mb": 284
+      }
+    ]
   },
   {
     "date_start": "2020-12-25T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/414910226613089",
-    "authors": ["Крехов Арсений"],
-    "name": "Последняя перед локдауном"
+    "name": "Последняя перед локдауном",
+    "blocks": [
+      {
+        "authors": ["Крехов Арсений"]
+      }
+    ]
   },
   {
     "date_start": "2020-12-18T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/408851367218975",
-    "authors": ["Гойдов Михаил"]
+    "blocks": [
+      {
+        "authors": ["Гойдов Михаил"]
+      }
+    ]
   },
   {
     "date_start": "2020-12-11T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/404017711035674",
-    "authors": ["Стальнухин Дмитрий"]
+    "blocks": [
+      {
+        "authors": ["Стальнухин Дмитрий"]
+      }
+    ]
   },
   {
     "date_start": "2020-12-04T20:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/398815048222607",
-    "authors": ["Линник Ольга", "Ворошнин Дмитрий"]
+    "blocks": [
+      {
+        "authors": ["Линник Ольга"]
+      },
+      {
+        "authors": ["Ворошнин Дмитрий"]
+      }
+    ]
   },
   {
     "date_start": "2020-11-27T20:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/393291322108313",
-    "authors": ["Талисайнен Георгий"]
+    "blocks": [
+      {
+        "authors": ["Талисайнен Георгий"]
+      }
+    ]
   },
   {
     "date_start": "2020-11-20T20:34:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/387487026022076",
-    "authors": ["Макагонов Алексей"],
-    "name": "Неожиданно 34"
+    "name": "Неожиданно 34",
+    "blocks": [
+      {
+        "authors": ["Макагонов Алексей"]
+      }
+    ]
   },
   {
     "date_start": "2020-11-13T20:30:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/381737656597013",
-    "authors": ["Гойдов Михаил"]
+    "blocks": [
+      {
+        "authors": ["Гойдов Михаил"]
+      }
+    ]
   },
   {
     "date_start": "2020-11-06T20:30:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/375796447191134",
-    "authors": ["Кламас Анастасия", "Ильвес Лидия"]
+    "blocks": [
+      {
+        "authors": ["Кламас Анастасия"]
+      },
+      {
+        "authors": ["Ильвес Лидия"]
+      }
+    ]
   },
   {
     "date_start": "2020-10-30T20:30:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/370028057767973",
-    "authors": ["Талисайнен Георгий"]
+    "blocks": [
+      {
+        "authors": ["Талисайнен Георгий"]
+      }
+    ]
   },
   {
     "date_start": "2020-10-23T20:30:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/363857395051706",
-    "authors": ["Ворошнин Дмитрий"]
+    "blocks": [
+      {
+        "authors": ["Ворошнин Дмитрий"]
+      }
+    ]
   },
   {
     "date_start": "2020-10-16T20:30:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/357841985653247",
-    "authors": ["Талисайнен Георгий"]
+    "blocks": [
+      {
+        "authors": ["Талисайнен Георгий"]
+      }
+    ]
   },
   {
     "date_start": "2020-10-09T20:30:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/352037006233745",
-    "authors": ["Хаманов Антон"]
+    "blocks": [
+      {
+        "authors": ["Хаманов Антон"]
+      }
+    ]
   },
   {
     "date_start": "2020-10-02T21:30:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/347299640040815",
-    "authors": ["Мююрсепп Валерия"]
+    "blocks": [
+      {
+        "authors": ["Мююрсепп Валерия"]
+      }
+    ]
   },
   {
     "date_start": "2020-09-25T20:30:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/340128457424600",
-    "authors": [""]
+    "blocks": []
   },
   {
     "date_start": "2020-09-18T20:30:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/335283397909106",
-    "authors": ["Крехов Арсений"]
+    "blocks": [
+      {
+        "authors": ["Крехов Арсений"]
+      }
+    ]
   },
   {
     "date_start": "2020-09-11T20:30:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/331165828320863",
-    "authors": ["Крехов Арсений"],
-    "name": "Киношная"
+    "name": "Киношная",
+    "blocks": [
+      {
+        "authors": ["Крехов Арсений"]
+      }
+    ]
   },
   {
     "date_start": "2020-09-04T20:30:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/323410239096422",
-    "authors": ["Крехов Арсений"]
+    "blocks": [
+      {
+        "authors": ["Крехов Арсений"]
+      }
+    ]
   },
   {
     "date_start": "2020-08-07T18:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/303177654453014",
-    "authors": [""]
+    "blocks": []
   },
   {
     "date_start": "2020-07-17T20:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/285115489592564",
-    "authors": ["Макагонов Алексей", "Крехов Арсений"],
-    "name": "Музыкальный Versus"
+    "name": "Музыкальный Versus",
+    "blocks": [
+      {
+        "authors": ["Макагонов Алексей"]
+      },
+      {
+        "authors": ["Крехов Арсений"]
+      }
+    ]
   },
   {
     "date_start": "2020-07-10T18:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/282335166537263",
-    "authors": [""]
+    "blocks": []
   }
 ]
