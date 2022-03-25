@@ -8,7 +8,7 @@
       "https://docs.google.com/forms/d/e/1FAIpQLSfOgoaM_1fOULyAKd9pyjzl3dgtSVrNjr20n70MPadnU9SRzg/viewform",
       "https://www.facebook.com/groups/khvip.online/announcements"
     ],
-    "latestCheck": "2022-03-25T12:00:00+03:00",
+    "latestCheck": "2022-03-26T12:00:00+03:00",
     "priority": 30,
     "chgk": true,
     "templates": {
@@ -44,7 +44,15 @@
       {"time": "2022-03-23T19:00:00+02:00", "name": "Хромоотвод-2", "price": ["330 UAH/ком", "1200 RUB/ком"]},
       {"time": "2022-03-23T20:00:00+02:00", "name": "Сложный асинхрон Студ. игр БГУ", "price": ["360 UAH/ком", "1300 RUB/ком"]},
       {"time": "2022-03-23T21:00:00+02:00", "name": "Украинский Байрактар", "price": ["500 UAH/ком", "1780 RUB/ком"]},
-      {"time": "2022-03-23T22:00:00+02:00", "name": "Серия Premier. Мартовские иды-2022", "price": ["360 UAH/ком", "1300 RUB/ком"]}
+      {"time": "2022-03-23T22:00:00+02:00", "name": "Серия Premier. Мартовские иды-2022", "price": ["360 UAH/ком", "1300 RUB/ком"]},
+      {"time": "2022-03-25T20:00:00+02:00", "name": "Синхрон-lite. Выпуск XLII", "url": ["https://www.facebook.com/groups/chgk.global/posts/2085631641600120"]},
+      {"time": "2022-03-25T22:00:00+02:00", "name": "ЧГК по сериалам. Эпизод 5", "url": ["https://www.facebook.com/groups/chgk.global/posts/2085631641600120"]},
+      {"time": "2022-03-26T14:00:00+02:00", "name": "Лига старта. Эпизод XXIII", "url": ["https://www.facebook.com/groups/chgk.global/posts/2085631641600120"]},
+      {"time": "2022-03-26T16:00:00+02:00", "name": "Синхрон-lite. Выпуск XLIV", "url": ["https://www.facebook.com/groups/chgk.global/posts/2085631641600120"]},
+      {"time": "2022-03-26T22:00:00+02:00", "name": "36 оттенков чёрного. Лето", "url": ["https://www.facebook.com/groups/chgk.global/posts/2085631641600120"]},
+      {"time": "2022-03-27T12:00:00+02:00", "name": "Лига старта. Эпизод XXVI", "url": ["https://www.facebook.com/groups/chgk.global/posts/2085631641600120"]},
+      {"time": "2022-03-27T15:00:00+02:00", "name": "ЧГК по сериалам. Эпизод 1", "url": ["https://www.facebook.com/groups/chgk.global/posts/2085631641600120"]},
+      {"time": "2022-03-27T19:00:00+02:00", "name": "Синхрон-lite. Выпуск LI", "url": ["https://www.facebook.com/groups/chgk.global/posts/2085631641600120"]}
     ]
   }
 ]
