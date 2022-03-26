@@ -139,13 +139,13 @@
   {
     "date_start": "2022-01-21T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/678641393573303",
-    "description": "....",
+    "description": "40 тем (200 вопросов, из них 35 - музыка) на разные темы, достаточно много текстовых вопросов, но есть и картинки, и музыка.",
     "label": { "variant": "danger", "text":  "Новый"},
     "blocks": [
       {
-        "authors": "Родионова Ольга, Печёнкин Дмитрий, Хьюстон",
+        "authors": "Печёнкин Дмитрий, Родионова Ольга, Хьюстон",
         "authors_info": "https://www.facebook.com/dima.petchonkin",
-        "quantity": 75,
+        "quantity": 200,
         "size_mb": 23,
         "date_added": "2022-04-01T12:00:00+03:00",
         "file_url": "bla"
