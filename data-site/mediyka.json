@@ -40,10 +40,22 @@
         "file_url": "bla"
       },
       {
-        "authors": "Илона Давидович"
+        "authors": "Давидович Илона",
+        "authors_info": "https://www.facebook.com/ilona.davidovits",
+        "quantity": 75,
+        "size_mb": 17,
+        "description": "75 вопросов на разные темы, из них 10 - музыкальные.",
+        "date_added": "2022-03-26T19:00:00+02:00",
+        "file_url": "bla"
       },
       {
-        "authors": "Риисма Ирина"
+        "authors": "Риисма Ирина",
+        "authors_info": "https://www.facebook.com/irina.riisma",
+        "quantity": 75,
+        "size_mb": 23,
+        "description": "75 вопросов на разные темы, из них 17 - музыкальные.",
+        "date_added": "2022-03-26T20:00:00+02:00",
+        "file_url": "bla"
       }
     ]
   },
