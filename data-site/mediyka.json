@@ -23,6 +23,7 @@
     "blocks": [
       {
         "authors": "Колесникова Анастасия",
+        "authors_info": "https://www.facebook.com/anastasia.malahanova",
         "quantity": 75,
         "size_mb": 13,
         "description": "75 вопросов на разные темы, из них 6 - музыкальные.",
@@ -30,7 +31,13 @@
         "file_url": "bla"
       },
       {
-        "authors": "Аксёнова Анна"
+        "authors": "Аксёнова Анна",
+        "authors_info": "https://www.facebook.com/axonova",
+        "quantity": 75,
+        "size_mb": 20,
+        "description": "75 вопросов на разные темы, из них 10 - музыкальные.",
+        "date_added": "2022-03-26T18:00:00+02:00",
+        "file_url": "bla"
       },
       {
         "authors": "Илона Давидович"
@@ -50,6 +57,7 @@
       },
       {
         "authors": "Стальнухин Антон",
+        "authors_info": "https://anton.stalnuhhin.ee",
         "description": "В блоке 10 тем (50 вопросов), из них 4 темы (20 вопросов) - музыкальные. Вопросы посвящены Украине.",
         "quantity": 50,
         "size_mb": 21
@@ -99,6 +107,7 @@
       },
       {
         "authors": "Стальнухин Антон",
+        "authors_info": "https://anton.stalnuhhin.ee",
         "description": "В блоке 10 тем (50 вопросов).",
         "quantity": 50,
         "size_mb": 10
@@ -160,6 +169,7 @@
     "blocks": [
       {
         "authors": "Стальнухин Антон",
+        "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 601,
         "size_mb": 225,
         "date_added": "2022-03-26T16:00:00+02:00",
@@ -325,6 +335,7 @@
     "blocks": [
       {
         "authors": "Стальнухин Антон",
+        "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 401,
         "size_mb": 226
       }
@@ -428,6 +439,7 @@
     "blocks": [
       {
         "authors": "Стальнухин Антон",
+        "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 100,
         "size_mb": 33,
         "description": "20 тем (100 вопросов), из них 20 - музыкальные (One Hit Wonder)."
@@ -482,6 +494,7 @@
     "blocks": [
       {
         "authors": "Стальнухин Антон",
+        "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 305,
         "size_mb": 95
       }
@@ -539,6 +552,7 @@
     "blocks": [
       {
         "authors": "Стальнухин Антон",
+        "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 265,
         "size_mb": 284
       }
