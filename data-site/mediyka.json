@@ -20,6 +20,7 @@
   {
     "date_start": "2022-03-11T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/712121700225272",
+    "label": { "variant": "danger", "text":  "Новый"},
     "blocks": [
       {
         "authors": "Колесникова Анастасия",
@@ -27,7 +28,7 @@
         "quantity": 75,
         "size_mb": 13,
         "description": "75 вопросов на разные темы, из них 6 - музыкальные.",
-        "date_added": "2022-03-26T17:00:00+02:00",
+        "date_added": "2022-04-01T12:00:00+03:00",
         "file_url": "bla"
       },
       {
@@ -36,7 +37,7 @@
         "quantity": 75,
         "size_mb": 20,
         "description": "75 вопросов на разные темы, из них 10 - музыкальные.",
-        "date_added": "2022-03-26T18:00:00+02:00",
+        "date_added": "2022-04-01T12:00:00+03:00",
         "file_url": "bla"
       },
       {
@@ -45,7 +46,7 @@
         "quantity": 75,
         "size_mb": 17,
         "description": "75 вопросов на разные темы, из них 10 - музыкальные.",
-        "date_added": "2022-03-26T19:00:00+02:00",
+        "date_added": "2022-04-01T12:00:00+03:00",
         "file_url": "bla"
       },
       {
@@ -54,7 +55,7 @@
         "quantity": 75,
         "size_mb": 23,
         "description": "75 вопросов на разные темы, из них 17 - музыкальные.",
-        "date_added": "2022-03-26T20:00:00+02:00",
+        "date_added": "2022-04-01T12:00:00+03:00",
         "file_url": "bla"
       }
     ]
@@ -138,9 +139,16 @@
   {
     "date_start": "2022-01-21T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/678641393573303",
+    "description": "....",
+    "label": { "variant": "danger", "text":  "Новый"},
     "blocks": [
       {
-        "authors": "Родионова Ольга, Печёнкин Дмитрий, Хьюстон"
+        "authors": "Родионова Ольга, Печёнкин Дмитрий, Хьюстон",
+        "authors_info": "https://www.facebook.com/dima.petchonkin",
+        "quantity": 75,
+        "size_mb": 23,
+        "date_added": "2022-04-01T12:00:00+03:00",
+        "file_url": "bla"
       }
     ]
   },
@@ -178,13 +186,14 @@
     "photo_url": "https://www.facebook.com/groups/PohjaOokull/posts/663928995044543",
     "name": "Медийка 600.0 - первая в Старом городе",
     "description": "В игре 120 тем (601 вопрос), из них 37 тем (185 вопросов) музыкальные. Есть один финальный вопрос со ставкой. В игре много вопросов по шуткам, есть 45 звуковых вопросов по мемам, 10 звуковых - по рекламе.",
+    "label": { "variant": "danger", "text":  "Новый"},
     "blocks": [
       {
         "authors": "Стальнухин Антон",
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 601,
         "size_mb": 225,
-        "date_added": "2022-03-26T16:00:00+02:00",
+        "date_added": "2022-04-01T12:00:00+03:00",
         "file_url": "bla"
       }
     ]
