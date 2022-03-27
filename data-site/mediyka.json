@@ -19,44 +19,48 @@
   },
   {
     "date_start": "2022-03-11T19:00:00+02:00",
+    "name": "Медиечка: Ира. Настя. Илона. Аня.",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/712121700225272",
-    "label": { "variant": "danger", "text":  "Новый"},
     "blocks": [
       {
         "authors": "Колесникова Анастасия",
         "authors_info": "https://www.facebook.com/anastasia.malahanova",
         "quantity": 75,
-        "size_mb": 13,
+        "size_mb": 15,
         "description": "75 вопросов на разные темы, из них 6 - музыкальные.",
         "date_added": "2022-04-01T12:00:00+03:00",
-        "file_url": "bla"
+        "file_url": "bla",
+        "label": { "variant": "danger", "text":  "Новый"}
       },
       {
         "authors": "Аксёнова Анна",
         "authors_info": "https://www.facebook.com/axonova",
         "quantity": 75,
-        "size_mb": 20,
+        "size_mb": 22,
         "description": "75 вопросов на разные темы, из них 10 - музыкальные.",
         "date_added": "2022-04-01T12:00:00+03:00",
-        "file_url": "bla"
+        "file_url": "bla",
+        "label": { "variant": "danger", "text":  "Новый"}
       },
       {
         "authors": "Давидович Илона",
         "authors_info": "https://www.facebook.com/ilona.davidovits",
         "quantity": 75,
-        "size_mb": 17,
+        "size_mb": 18,
         "description": "75 вопросов на разные темы, из них 10 - музыкальные.",
         "date_added": "2022-04-01T12:00:00+03:00",
-        "file_url": "bla"
+        "file_url": "bla",
+        "label": { "variant": "danger", "text":  "Новый"}
       },
       {
         "authors": "Риисма Ирина",
         "authors_info": "https://www.facebook.com/irina.riisma",
         "quantity": 75,
-        "size_mb": 23,
+        "size_mb": 25,
         "description": "75 вопросов на разные темы, из них 17 - музыкальные.",
         "date_added": "2022-04-01T12:00:00+03:00",
-        "file_url": "bla"
+        "file_url": "bla",
+        "label": { "variant": "danger", "text":  "Новый"}
       }
     ]
   },
@@ -73,7 +77,8 @@
         "authors_info": "https://anton.stalnuhhin.ee",
         "description": "В блоке 10 тем (50 вопросов), из них 4 темы (20 вопросов) - музыкальные. Вопросы посвящены Украине.",
         "quantity": 50,
-        "size_mb": 21
+        "size_mb": 21,
+        "label": { "variant": "info", "text":  "Готов"}
       }
     ]
   },
@@ -123,7 +128,8 @@
         "authors_info": "https://anton.stalnuhhin.ee",
         "description": "В блоке 10 тем (50 вопросов).",
         "quantity": 50,
-        "size_mb": 10
+        "size_mb": 10,
+        "label": { "variant": "info", "text":  "Готов"}
       }
     ]
   },
@@ -140,7 +146,6 @@
     "date_start": "2022-01-21T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/678641393573303",
     "description": "40 тем (200 вопросов, из них 35 - музыка) на разные темы, достаточно много текстовых вопросов, но есть и картинки, и музыка.",
-    "label": { "variant": "danger", "text":  "Новый"},
     "blocks": [
       {
         "authors": "Печёнкин Дмитрий, Родионова Ольга, Хьюстон",
@@ -148,7 +153,8 @@
         "quantity": 200,
         "size_mb": 23,
         "date_added": "2022-04-01T12:00:00+03:00",
-        "file_url": "bla"
+        "file_url": "bla",
+        "label": { "variant": "warning", "text":  "Упорядочивается"}
       }
     ]
   },
@@ -157,7 +163,9 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/675991923838250",
     "blocks": [
       {
-        "authors": "Гойдов Михаил"
+        "authors": "Гойдов Михаил",
+        "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "label": { "variant": "warning", "text":  "Упорядочивается"}
       },
       {
         "authors": "Хаманов Антон"
@@ -186,7 +194,6 @@
     "photo_url": "https://www.facebook.com/groups/PohjaOokull/posts/663928995044543",
     "name": "Медийка 600.0 - первая в Старом городе",
     "description": "В игре 120 тем (601 вопрос), из них 37 тем (185 вопросов) музыкальные. Есть один финальный вопрос со ставкой. В игре много вопросов по шуткам, есть 45 звуковых вопросов по мемам, 10 звуковых - по рекламе.",
-    "label": { "variant": "danger", "text":  "Новый"},
     "blocks": [
       {
         "authors": "Стальнухин Антон",
@@ -194,7 +201,8 @@
         "quantity": 601,
         "size_mb": 225,
         "date_added": "2022-04-01T12:00:00+03:00",
-        "file_url": "bla"
+        "file_url": "bla",
+        "label": { "variant": "danger", "text":  "Новый"}
       }
     ]
   },
@@ -204,7 +212,9 @@
     "name": "Последняя медийка в Копли",
     "blocks": [
       {
-        "authors": "Гойдов Михаил"
+        "authors": "Гойдов Михаил",
+        "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "label": { "variant": "warning", "text":  "Упорядочивается"}
       },
       {
         "authors": "Крехов Арсений"
@@ -250,7 +260,9 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/639064650864311",
     "blocks": [
       {
-        "authors": "Гойдов Михаил"
+        "authors": "Гойдов Михаил",
+        "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "label": { "variant": "warning", "text":  "Упорядочивается"}
       }
     ]
   },
@@ -319,7 +331,9 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/606554630781980",
     "blocks": [
       {
-        "authors": "Гойдов Михаил"
+        "authors": "Гойдов Михаил",
+        "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "label": { "variant": "warning", "text":  "Упорядочивается"}
       }
     ]
   },
@@ -358,7 +372,8 @@
         "authors": "Стальнухин Антон",
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 401,
-        "size_mb": 226
+        "size_mb": 226,
+        "label": { "variant": "info", "text":  "Готов"}
       }
     ]
   },
@@ -453,7 +468,9 @@
     "name": "Перед Нелиярве",
     "blocks": [
       {
-        "authors": "Гойдов Михаил"
+        "authors": "Гойдов Михаил",
+        "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "label": { "variant": "warning", "text":  "Упорядочивается"}
       }
     ]
   },
@@ -467,7 +484,8 @@
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 100,
         "size_mb": 33,
-        "description": "20 тем (100 вопросов), из них 20 - музыкальные (One Hit Wonder)."
+        "description": "20 тем (100 вопросов), из них 20 - музыкальные (One Hit Wonder).",
+        "label": { "variant": "info", "text":  "Готов"}
       },
       {
         "authors": "Крехов Арсений"
@@ -507,7 +525,9 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/529586331812144",
     "blocks": [
       {
-        "authors": "Гойдов Михаил"
+        "authors": "Гойдов Михаил",
+        "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "label": { "variant": "warning", "text":  "Упорядочивается"}
       }
     ]
   },
@@ -521,7 +541,8 @@
         "authors": "Стальнухин Антон",
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 305,
-        "size_mb": 95
+        "size_mb": 95,
+        "label": { "variant": "info", "text":  "Готов"}
       }
     ]
   },
@@ -530,7 +551,9 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/520657779371666",
     "blocks": [
       {
-        "authors": "Гойдов Михаил"
+        "authors": "Гойдов Михаил",
+        "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "label": { "variant": "warning", "text":  "Упорядочивается"}
       }
     ]
   },
@@ -565,7 +588,9 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/448607619910016",
     "blocks": [
       {
-        "authors": "Гойдов Михаил"
+        "authors": "Гойдов Михаил",
+        "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "label": { "variant": "warning", "text":  "Упорядочивается"}
       }
     ]
   },
@@ -579,7 +604,8 @@
         "authors": "Стальнухин Антон",
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 265,
-        "size_mb": 284
+        "size_mb": 284,
+        "label": { "variant": "info", "text":  "Готов"}
       }
     ]
   },
@@ -598,7 +624,9 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/408851367218975",
     "blocks": [
       {
-        "authors": "Гойдов Михаил"
+        "authors": "Гойдов Михаил",
+        "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "label": { "variant": "warning", "text":  "Упорядочивается"}
       }
     ]
   },
@@ -645,8 +673,7 @@
   {
     "date_start": "2020-11-13T20:30:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/381737656597013",
-    "description": "150 вопросов на разные темы (история, кино, комиксы, машины, музыка), из них 28 - музыкальные/видео.",
-    "label": { "variant": "danger", "text":  "Новый"},
+    "description": "150 вопросов на разные темы (история, кино, комиксы, машины, музыка), из них 28 - музыкальные/видео. Ответы сохранены в отдельном текстовом файле.",
     "blocks": [
       {
         "authors": "Гойдов Михаил",
@@ -654,7 +681,8 @@
         "quantity": 150,
         "size_mb": 69,
         "date_added": "2022-04-01T12:00:00+03:00",
-        "file_url": "bla"
+        "file_url": "bla",
+        "label": { "variant": "danger", "text":  "Новый"}
       }
     ]
   },
