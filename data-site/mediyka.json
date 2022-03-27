@@ -21,13 +21,14 @@
     "date_start": "2022-03-11T19:00:00+02:00",
     "name": "Медиечка: Ира. Настя. Илона. Аня.",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/712121700225272",
+    "description": "Девушки подготовили по 75 вопросов на разные темы. Всего 300 вопросов, 43 из которых музыкальные.",
     "blocks": [
       {
         "authors": "Колесникова Анастасия",
         "authors_info": "https://www.facebook.com/anastasia.malahanova",
         "quantity": 75,
         "size_mb": 15,
-        "description": "75 вопросов на разные темы, из них 6 - музыкальные.",
+        "desc": "75 вопросов на разные темы, из них 6 - музыкальные.",
         "date_added": "2022-04-01T00:00:00+03:00",
         "file_url": "bla",
         "label": { "variant": "danger", "text":  "Новый"}
@@ -37,7 +38,7 @@
         "authors_info": "https://www.facebook.com/axonova",
         "quantity": 75,
         "size_mb": 22,
-        "description": "75 вопросов на разные темы, из них 10 - музыкальные.",
+        "desc": "75 вопросов на разные темы, из них 10 - музыкальные.",
         "date_added": "2022-04-01T00:00:00+03:00",
         "file_url": "bla",
         "label": { "variant": "danger", "text":  "Новый"}
@@ -47,7 +48,7 @@
         "authors_info": "https://www.facebook.com/ilona.davidovits",
         "quantity": 75,
         "size_mb": 18,
-        "description": "75 вопросов на разные темы, из них 10 - музыкальные.",
+        "desc": "75 вопросов на разные темы, из них 10 - музыкальные.",
         "date_added": "2022-04-01T00:00:00+03:00",
         "file_url": "bla",
         "label": { "variant": "danger", "text":  "Новый"}
@@ -57,7 +58,7 @@
         "authors_info": "https://www.facebook.com/irina.riisma",
         "quantity": 75,
         "size_mb": 25,
-        "description": "75 вопросов на разные темы, из них 17 - музыкальные.",
+        "desc": "75 вопросов на разные темы, из них 17 - музыкальные.",
         "date_added": "2022-04-01T00:00:00+03:00",
         "file_url": "bla",
         "label": { "variant": "danger", "text":  "Новый"}
