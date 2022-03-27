@@ -28,7 +28,7 @@
         "quantity": 75,
         "size_mb": 15,
         "description": "75 вопросов на разные темы, из них 6 - музыкальные.",
-        "date_added": "2022-04-01T12:00:00+03:00",
+        "date_added": "2022-04-01T00:00:00+03:00",
         "file_url": "bla",
         "label": { "variant": "danger", "text":  "Новый"}
       },
@@ -38,7 +38,7 @@
         "quantity": 75,
         "size_mb": 22,
         "description": "75 вопросов на разные темы, из них 10 - музыкальные.",
-        "date_added": "2022-04-01T12:00:00+03:00",
+        "date_added": "2022-04-01T00:00:00+03:00",
         "file_url": "bla",
         "label": { "variant": "danger", "text":  "Новый"}
       },
@@ -48,7 +48,7 @@
         "quantity": 75,
         "size_mb": 18,
         "description": "75 вопросов на разные темы, из них 10 - музыкальные.",
-        "date_added": "2022-04-01T12:00:00+03:00",
+        "date_added": "2022-04-01T00:00:00+03:00",
         "file_url": "bla",
         "label": { "variant": "danger", "text":  "Новый"}
       },
@@ -58,7 +58,7 @@
         "quantity": 75,
         "size_mb": 25,
         "description": "75 вопросов на разные темы, из них 17 - музыкальные.",
-        "date_added": "2022-04-01T12:00:00+03:00",
+        "date_added": "2022-04-01T00:00:00+03:00",
         "file_url": "bla",
         "label": { "variant": "danger", "text":  "Новый"}
       }
@@ -78,7 +78,7 @@
         "description": "В блоке 10 тем (50 вопросов), из них 4 темы (20 вопросов) - музыкальные. Вопросы посвящены Украине.",
         "quantity": 50,
         "size_mb": 21,
-        "label": { "variant": "info", "text":  "Готов"}
+        "label": { "variant": "info", "text": "В базе"}
       }
     ]
   },
@@ -129,7 +129,7 @@
         "description": "В блоке 10 тем (50 вопросов).",
         "quantity": 50,
         "size_mb": 10,
-        "label": { "variant": "info", "text":  "Готов"}
+        "label": { "variant": "info", "text": "В базе"}
       }
     ]
   },
@@ -152,9 +152,9 @@
         "authors_info": "https://www.facebook.com/dima.petchonkin",
         "quantity": 200,
         "size_mb": 23,
-        "date_added": "2022-04-01T12:00:00+03:00",
+        "date_added": "2022-04-01T00:00:00+03:00",
         "file_url": "bla",
-        "label": { "variant": "warning", "text":  "Упорядочивается"}
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -165,7 +165,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Упорядочивается"}
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       },
       {
         "authors": "Хаманов Антон"
@@ -200,7 +200,7 @@
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 601,
         "size_mb": 225,
-        "date_added": "2022-04-01T12:00:00+03:00",
+        "date_added": "2022-04-01T00:00:00+03:00",
         "file_url": "bla",
         "label": { "variant": "danger", "text":  "Новый"}
       }
@@ -214,7 +214,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Упорядочивается"}
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       },
       {
         "authors": "Крехов Арсений"
@@ -262,7 +262,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Упорядочивается"}
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -333,7 +333,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Упорядочивается"}
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -373,7 +373,7 @@
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 401,
         "size_mb": 226,
-        "label": { "variant": "info", "text":  "Готов"}
+        "label": { "variant": "info", "text": "В базе"}
       }
     ]
   },
@@ -470,7 +470,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Упорядочивается"}
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -485,7 +485,7 @@
         "quantity": 100,
         "size_mb": 33,
         "description": "20 тем (100 вопросов), из них 20 - музыкальные (One Hit Wonder).",
-        "label": { "variant": "info", "text":  "Готов"}
+        "label": { "variant": "info", "text": "В базе"}
       },
       {
         "authors": "Крехов Арсений"
@@ -527,7 +527,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Упорядочивается"}
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -542,7 +542,7 @@
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 305,
         "size_mb": 95,
-        "label": { "variant": "info", "text":  "Готов"}
+        "label": { "variant": "info", "text": "В базе"}
       }
     ]
   },
@@ -553,7 +553,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Упорядочивается"}
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -590,7 +590,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Упорядочивается"}
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -605,7 +605,7 @@
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 265,
         "size_mb": 284,
-        "label": { "variant": "info", "text":  "Готов"}
+        "label": { "variant": "info", "text": "В базе"}
       }
     ]
   },
@@ -626,7 +626,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Упорядочивается"}
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -680,7 +680,7 @@
         "authors_info": "https://www.facebook.com/mihhail.goidov",
         "quantity": 150,
         "size_mb": 69,
-        "date_added": "2022-04-01T12:00:00+03:00",
+        "date_added": "2022-04-01T00:00:00+03:00",
         "file_url": "bla",
         "label": { "variant": "danger", "text":  "Новый"}
       }
