@@ -451,7 +451,11 @@
     "date_start": "2021-07-09T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/548523333251777",
     "name": "Перед Нелиярве",
-    "blocks": []
+    "blocks": [
+      {
+        "authors": "Гойдов Михаил"
+      }
+    ]
   },
   {
     "date_start": "2021-07-02T19:00:00+03:00",
@@ -643,7 +647,13 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/381737656597013",
     "blocks": [
       {
-        "authors": "Гойдов Михаил"
+        "authors": "Гойдов Михаил",
+        "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "quantity": 150,
+        "size_mb": 69,
+        "description": "150 вопросов, из них 28 - музыкальные/видео.",
+        "date_added": "2022-04-01T12:00:00+03:00",
+        "file_url": "bla"
       }
     ]
   },
