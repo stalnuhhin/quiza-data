@@ -30,7 +30,7 @@
         "size_mb": 15,
         "desc": "75 вопросов на разные темы, из них 6 - музыкальные.",
         "date_added": "2022-04-01T00:00:00+03:00",
-        "file_url": "bla",
+        "file_url": "https://drive.google.com/file/d/19FiYXFC-xzAVjEhxNV5Fwk5-_Wa8FNB6/view?usp=sharing",
         "label": { "variant": "danger", "text":  "Новый"}
       },
       {
@@ -40,7 +40,7 @@
         "size_mb": 22,
         "desc": "75 вопросов на разные темы, из них 10 - музыкальные.",
         "date_added": "2022-04-01T00:00:00+03:00",
-        "file_url": "bla",
+        "file_url": "https://drive.google.com/file/d/1GwCJwUHIs9osxcoplAQ5whTinnbbnKHk/view?usp=sharing",
         "label": { "variant": "danger", "text":  "Новый"}
       },
       {
@@ -50,7 +50,7 @@
         "size_mb": 18,
         "desc": "75 вопросов на разные темы, из них 10 - музыкальные.",
         "date_added": "2022-04-01T00:00:00+03:00",
-        "file_url": "bla",
+        "file_url": "https://drive.google.com/file/d/1i8hskoHVQsrvebKt3E_mooOYtw6UKsaJ/view?usp=sharing",
         "label": { "variant": "danger", "text":  "Новый"}
       },
       {
@@ -60,7 +60,7 @@
         "size_mb": 25,
         "desc": "75 вопросов на разные темы, из них 17 - музыкальные.",
         "date_added": "2022-04-01T00:00:00+03:00",
-        "file_url": "bla",
+        "file_url": "https://drive.google.com/file/d/10O31i8eOeyg9k_srCR92_WWbtvUIbSwH/view?usp=sharing",
         "label": { "variant": "danger", "text":  "Новый"}
       }
     ]
@@ -199,8 +199,8 @@
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 601,
         "size_mb": 225,
-        "date_added": "2022-04-01T00:00:00+03:00",
-        "file_url": "bla",
+        "date_added": "2022-03-28T11:30:00+03:00",
+        "file_url": "https://drive.google.com/file/d/1nTho0Ztb8QszsRjomuINxtCAiFgmwMtd/view?usp=sharing",
         "label": { "variant": "danger", "text":  "Новый"}
       }
     ]
@@ -679,8 +679,8 @@
         "authors_info": "https://www.facebook.com/mihhail.goidov",
         "quantity": 150,
         "size_mb": 69,
-        "date_added": "2022-04-01T00:00:00+03:00",
-        "file_url": "bla",
+        "date_added": "2022-03-28T11:30:00+03:00",
+        "file_url": "https://drive.google.com/file/d/1fHmC-ZyjNHBuPctmQOM3nOzpv63i1H75/view?usp=sharing",
         "label": { "variant": "danger", "text":  "Новый"}
       }
     ]
