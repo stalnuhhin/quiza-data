@@ -401,7 +401,12 @@
         "authors": "Крехов Арсений"
       },
       {
-        "authors": "Сагитов Тимур"
+        "authors": "Сагитов Тимур",
+        "authors_info": "https://www.facebook.com/Geodezer",
+        "quantity": 125,
+        "size_mb": 25,
+        "description": "В игре 25 тем - 125 вопросов, из них 5 - музыкальные. Есть несколько туров по эстонским реалиям.",
+        "label": { "variant": "info", "text": "В базе"}
       }
     ]
   },
