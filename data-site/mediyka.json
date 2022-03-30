@@ -1,5 +1,14 @@
 [
   {
+    "date_start": "2022-04-01T19:00:00+03:00",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/725537162217059",
+    "blocks": [
+      {
+        "authors": "Хаманов Антон"
+      }
+    ]
+  },
+  {
     "date_start": "2022-03-25T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/721455329291909",
     "blocks": [
@@ -146,14 +155,14 @@
   {
     "date_start": "2022-01-21T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/678641393573303",
-    "description": "40 тем (200 вопросов, из них 35 - музыка) на разные темы, достаточно много текстовых вопросов, но есть и картинки, и музыка.",
+    "description": "40 тем (200 вопросов, из них 35(40) - музыка) на разные темы, достаточно много текстовых вопросов, но есть и картинки, и музыка.",
     "blocks": [
       {
         "authors": "Печёнкин Дмитрий, Родионова Ольга, Хьюстон",
         "authors_info": "https://www.facebook.com/dima.petchonkin",
         "quantity": 200,
-        "size_mb": 23,
-        "label": { "variant": "warning", "text":  "Стандартизация"}
+        "size_mb": 42,
+        "label": { "variant": "info", "text": "В базе"}
       }
     ]
   },
@@ -291,7 +300,12 @@
         "authors": "Макагонов Алексей"
       },
       {
-        "authors": "Миротин Евгений"
+        "authors": "Миротин Евгений",
+        "authors_info": "https://www.facebook.com/guardante",
+        "description": "В игре 30 тем - 150 вопросов, из них 15(21) - музыкальные.",
+        "quantity": 150,
+        "size_mb": 43,
+        "label": { "variant": "info", "text": "В базе"}
       }
     ]
   },
