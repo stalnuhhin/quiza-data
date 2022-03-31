@@ -259,7 +259,9 @@
     "event_url": "https://www.facebook.com/events/682362692764586/?active_tab=discussion",
     "blocks": [
       {
-        "authors": "Талисайнен Георгий"
+        "authors": "Талисайнен Георгий",
+        "authors_info": "https://www.facebook.com/georgi.talisainen",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -322,7 +324,9 @@
         "authors": "Крехов Арсений"
       },
       {
-        "authors": "Талисайнен Георгий"
+        "authors": "Талисайнен Георгий",
+        "authors_info": "https://www.facebook.com/georgi.talisainen",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -456,7 +460,9 @@
         "authors": "Крехов Арсений"
       },
       {
-        "authors": "Талисайнен Георгий"
+        "authors": "Талисайнен Георгий",
+        "authors_info": "https://www.facebook.com/georgi.talisainen",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       },
       {
         "authors": "Хаманов Антон"
