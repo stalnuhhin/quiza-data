@@ -960,7 +960,8 @@
     "date_start": "2020-08-07T18:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/303177654453014",
     "description": "Не было медиек, играли свою игру из базы.",
-    "no_data": 1
+    "no_data": 1,
+    "blocks": []
   },
   {
     "date_start": "2020-07-17T20:00:00+03:00",
@@ -979,6 +980,7 @@
     "date_start": "2020-07-10T18:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/282335166537263",
     "description": "Не было медиек, играли свою игру из базы.",
-    "no_data": 1
+    "no_data": 1,
+    "blocks": []
   }
 ]
