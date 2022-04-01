@@ -866,10 +866,13 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/375796447191134",
     "blocks": [
       {
-        "authors": "Кламас Анастасия"
+        "authors": "Кламас Анастасия",
+        "status": 10
       },
       {
-        "authors": "Ильвес Лидия"
+        "authors": "Ильвес Лидия",
+        "authors_info": "https://www.facebook.com/lidia.ilves",
+        "status": 20
       }
     ]
   },
