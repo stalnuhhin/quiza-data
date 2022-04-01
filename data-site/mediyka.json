@@ -25,7 +25,8 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/715333713237404",
     "blocks": [
       {
-        "authors": "Стальнухин Дмитрий"
+        "authors": "Стальнухин Дмитрий",
+        "status": 10
       }
     ]
   },
@@ -98,7 +99,7 @@
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
         "label": { "variant": "warning", "text":  "Стандартизация"},
-        "status": 25
+        "status": 20
       },
       {
         "authors": "Стальнухин Антон",
@@ -116,10 +117,8 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/701728154597960",
     "blocks": [
       {
-        "authors": "Макагонова София"
-      },
-      {
-        "authors": "Макагонов Алексей"
+        "authors": "Макагонов Алексей, Макагонова София",
+        "status": 10
       }
     ]
   },
@@ -224,7 +223,8 @@
         "status": 25
       },
       {
-        "authors": "Стальнухин Дмитрий"
+        "authors": "Стальнухин Дмитрий",
+        "status": 10
       }
     ]
   },
@@ -279,10 +279,12 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/653208076116635",
     "blocks": [
       {
-        "authors": "Вайнонен Катарина"
+        "authors": "Вайнонен Катарина",
+        "status": 10
       },
       {
-        "authors": "Архипова Екатерина"
+        "authors": "Архипова Екатерина",
+        "status": 10
       }
     ]
   },
@@ -291,10 +293,12 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/648607593243350",
     "blocks": [
       {
-        "authors": "Линник Ольга"
+        "authors": "Линник Ольга",
+        "status": 10
       },
       {
-        "authors": "Ворошнин Дмитрий"
+        "authors": "Ворошнин Дмитрий",
+        "status": 10
       }
     ]
   },
@@ -328,7 +332,8 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/633935311377245",
     "blocks": [
       {
-        "authors": "Стальнухин Дмитрий"
+        "authors": "Стальнухин Дмитрий",
+        "status": 10
       }
     ]
   },
@@ -340,7 +345,7 @@
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
         "label": { "variant": "warning", "text":  "Стандартизация"},
-        "status": 25
+        "status": 20
       }
     ]
   },
@@ -349,7 +354,8 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/624964805607629",
     "blocks": [
       {
-        "authors": "Макагонов Алексей"
+        "authors": "Макагонов Алексей",
+        "status": 10
       },
       {
         "authors": "Миротин Евгений",
@@ -367,8 +373,8 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/621038442666932",
     "blocks": [
       {
-        "authors": "Хаманов Антон",
-        "authors_info": "https://www.facebook.com/akhamanov",
+        "authors": "Крехов Арсений",
+        "authors_info": "https://www.facebook.com/krekhov99",
         "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
@@ -398,10 +404,12 @@
     "name": "Медийка перед ЧЭ",
     "blocks": [
       {
-        "authors": "Риисма Ирина"
+        "authors": "Риисма Ирина",
+        "status": 10
       },
       {
-        "authors": "Онохов Михаил"
+        "authors": "Онохов Михаил",
+        "status": 10
       }
     ]
   },
@@ -438,7 +446,7 @@
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
         "label": { "variant": "warning", "text":  "Стандартизация"},
-        "status": 25
+        "status": 20
       }
     ]
   },
@@ -480,7 +488,7 @@
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
         "label": { "variant": "warning", "text":  "Стандартизация"},
-        "status": 25
+        "status": 20
       }
     ]
   },
@@ -499,7 +507,7 @@
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
         "label": { "variant": "warning", "text":  "Стандартизация"},
-        "status": 25
+        "status": 20
       }
     ]
   },
@@ -531,10 +539,12 @@
     "name": "IT IS OUR MEDIYKA",
     "blocks": [
       {
-        "authors": "Риисма Ирина"
+        "authors": "Риисма Ирина",
+        "status": 10
       },
       {
-        "authors": "Онохов Михаил"
+        "authors": "Онохов Михаил",
+        "status": 10
       }
     ]
   },
@@ -547,7 +557,7 @@
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
         "label": { "variant": "warning", "text":  "Стандартизация"},
-        "status": 25
+        "status": 20
       }
     ]
   },
@@ -572,7 +582,7 @@
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
         "label": { "variant": "warning", "text":  "Стандартизация"},
-        "status": 25
+        "status": 20
       }
     ]
   },
@@ -583,13 +593,16 @@
     "name": "Финансы vs. Романсы. И немножко архитектуры.",
     "blocks": [
       {
-        "authors": "Архипова Екатерина"
+        "authors": "Архипова Екатерина",
+        "status": 10
       },
       {
-        "authors": "Вайнонен Катарина"
+        "authors": "Вайнонен Катарина",
+        "status": 10
       },
       {
-        "authors": "Линник Ольга"
+        "authors": "Линник Ольга",
+        "status": 10
       }
     ]
   },
@@ -624,7 +637,7 @@
         "authors": "Мююрсепп Валерия",
         "authors_info": "https://www.facebook.com/valeria.muursepp",
         "label": { "variant": "warning", "text":  "Стандартизация"},
-        "status": 25
+        "status": 20
       },
       {
         "authors": "Стальнухин Дмитрий",
@@ -786,7 +799,8 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/404017711035674",
     "blocks": [
       {
-        "authors": "Стальнухин Дмитрий"
+        "authors": "Стальнухин Дмитрий",
+        "status": 10
       }
     ]
   },
@@ -795,10 +809,12 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/398815048222607",
     "blocks": [
       {
-        "authors": "Линник Ольга"
+        "authors": "Линник Ольга",
+        "status": 10
       },
       {
-        "authors": "Ворошнин Дмитрий"
+        "authors": "Ворошнин Дмитрий",
+        "status": 10
       }
     ]
   },
@@ -817,7 +833,8 @@
     "name": "Неожиданно 34",
     "blocks": [
       {
-        "authors": "Макагонов Алексей"
+        "authors": "Макагонов Алексей",
+        "status": 10
       }
     ]
   },
@@ -866,7 +883,8 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/363857395051706",
     "blocks": [
       {
-        "authors": "Ворошнин Дмитрий"
+        "authors": "Ворошнин Дмитрий",
+        "status": 10
       }
     ]
   },
