@@ -13,7 +13,9 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/721455329291909",
     "blocks": [
       {
-        "authors": "Крехов Арсений"
+        "authors": "Крехов Арсений",
+        "authors_info": "https://www.facebook.com/krekhov99",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -80,7 +82,9 @@
     "name": "Благотворительная",
     "blocks": [
       {
-        "authors": "Хаманов Антон"
+        "authors": "Хаманов Антон",
+        "authors_info": "https://www.facebook.com/akhamanov",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       },
       {
         "authors": "Стальнухин Антон",
@@ -109,7 +113,9 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/697244195046356",
     "blocks": [
       {
-        "authors": "Крехов Арсений"
+        "authors": "Крехов Арсений",
+        "authors_info": "https://www.facebook.com/krekhov99",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -118,7 +124,8 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/692470962190346",
     "blocks": [
       {
-        "authors": "Ведехин Александр"
+        "authors": "Ведехин Александр",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -131,7 +138,9 @@
         "authors": "Хаманов Антон"
       },
       {
-        "authors": "Крехов Арсений"
+        "authors": "Крехов Арсений",
+        "authors_info": "https://www.facebook.com/krekhov99",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       },
       {
         "authors": "Стальнухин Антон",
@@ -188,7 +197,9 @@
     "name": "Медийка перед кубком Северной совы",
     "blocks": [
       {
-        "authors": "Крехов Арсений"
+        "authors": "Крехов Арсений",
+        "authors_info": "https://www.facebook.com/krekhov99",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       },
       {
         "authors": "Стальнухин Дмитрий"
@@ -225,7 +236,13 @@
         "label": { "variant": "warning", "text":  "Стандартизация"}
       },
       {
-        "authors": "Крехов Арсений"
+        "authors": "Крехов Арсений",
+        "authors_info": "https://www.facebook.com/krekhov99",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
+      },
+      {
+        "authors": "Ведехин Александр",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -290,7 +307,9 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/628943735209736",
     "blocks": [
       {
-        "authors": "Хаманов Антон"
+        "authors": "Хаманов Антон",
+        "authors_info": "https://www.facebook.com/akhamanov",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -314,14 +333,22 @@
   {
     "date_start": "2021-10-22T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/621038442666932",
-    "blocks": []
+    "blocks": [
+      {
+        "authors": "Хаманов Антон",
+        "authors_info": "https://www.facebook.com/akhamanov",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
+      }
+    ]
   },
   {
     "date_start": "2021-10-15T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/615725289864914",
     "blocks": [
       {
-        "authors": "Крехов Арсений"
+        "authors": "Крехов Арсений",
+        "authors_info": "https://www.facebook.com/krekhov99",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       },
       {
         "authors": "Талисайнен Георгий",
@@ -359,7 +386,9 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/602563347847775",
     "blocks": [
       {
-        "authors": "Крехов Арсений"
+        "authors": "Крехов Арсений",
+        "authors_info": "https://www.facebook.com/krekhov99",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -369,14 +398,22 @@
     "name": "Инкогнито из Петербурга",
     "blocks": [
       {
-        "authors": "Хаманов Антон"
+        "authors": "Хаманов Антон",
+        "authors_info": "https://www.facebook.com/akhamanov",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
   {
     "date_start": "2021-09-10T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/591788535591923",
-    "blocks": []
+    "blocks": [
+      {
+        "authors": "Крехов Арсений",
+        "authors_info": "https://www.facebook.com/krekhov99",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
+      }
+    ]
   },
   {
     "date_start": "2021-09-03T19:00:00+03:00",
@@ -400,7 +437,9 @@
     "name": "Мне 40",
     "blocks": [
       {
-        "authors": "Хаманов Антон"
+        "authors": "Хаманов Антон",
+        "authors_info": "https://www.facebook.com/akhamanov",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -408,7 +447,18 @@
     "date_start": "2021-08-20T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/577659503671493",
     "name": "Релакс-медийка",
-    "blocks": []
+    "blocks": [
+      {
+        "authors": "Крехов Арсений",
+        "authors_info": "https://www.facebook.com/krekhov99",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
+      },
+      {
+        "authors": "Хаманов Антон",
+        "authors_info": "https://www.facebook.com/akhamanov",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
+      }
+    ]
   },
   {
     "date_start": "2021-08-13T19:00:00+03:00",
@@ -424,7 +474,9 @@
         "label": { "variant": "info", "text": "В базе"}
       },
       {
-        "authors": "Крехов Арсений"
+        "authors": "Крехов Арсений",
+        "authors_info": "https://www.facebook.com/krekhov99",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -447,7 +499,9 @@
     "name": "Я остаюсь!",
     "blocks": [
       {
-        "authors": "Хаманов Антон"
+        "authors": "Хаманов Антон",
+        "authors_info": "https://www.facebook.com/akhamanov",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -457,7 +511,9 @@
     "name": "Став vs. Млад",
     "blocks": [
       {
-        "authors": "Крехов Арсений"
+        "authors": "Крехов Арсений",
+        "authors_info": "https://www.facebook.com/krekhov99",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       },
       {
         "authors": "Талисайнен Георгий",
@@ -465,7 +521,9 @@
         "label": { "variant": "warning", "text":  "Стандартизация"}
       },
       {
-        "authors": "Хаманов Антон"
+        "authors": "Хаманов Антон",
+        "authors_info": "https://www.facebook.com/akhamanov",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       }
     ]
   },
@@ -510,6 +568,16 @@
         "size_mb": 33,
         "description": "20 тем (100 вопросов), из них 20 - музыкальные (One Hit Wonder).",
         "label": { "variant": "info", "text": "В базе"}
+      },
+      {
+        "authors": "Мююрсепп Валерия",
+        "authors_info": "https://www.facebook.com/valeria.muursepp",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
+      },
+      {
+        "authors": "Стальнухин Дмитрий",
+        "authors_info": "https://www.facebook.com/dmitris",
+        "label": { "variant": "warning", "text":  "Стандартизация"}
       },
       {
         "authors": "Крехов Арсений"
