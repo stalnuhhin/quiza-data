@@ -278,14 +278,12 @@
   {
     "date_start": "2021-12-10T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/653208076116635",
+    "name": "Тлен и рождественские огонечки",
     "blocks": [
       {
-        "authors": "Вайнонен Катарина",
-        "status": 10
-      },
-      {
-        "authors": "Архипова Екатерина",
-        "status": 10
+        "authors": "Вайнонен Катарина, Архипова Екатерина",
+        "authors_info": "https://www.facebook.com/katariina.vainonen, https://www.facebook.com/jekaterina.arhipova",
+        "status": 25
       }
     ]
   },
@@ -597,12 +595,9 @@
     "name": "Финансы vs. Романсы. И немножко архитектуры.",
     "blocks": [
       {
-        "authors": "Архипова Екатерина",
-        "status": 10
-      },
-      {
-        "authors": "Вайнонен Катарина",
-        "status": 10
+        "authors": "Вайнонен Катарина, Архипова Екатерина",
+        "authors_info": "https://www.facebook.com/katariina.vainonen, https://www.facebook.com/jekaterina.arhipova",
+        "status": 25
       },
       {
         "authors": "Линник Ольга",
