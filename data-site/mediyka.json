@@ -45,7 +45,8 @@
         "file_url": "https://bit.ly/20220311_065-1_anastasiakolesnikova",
         "label": { "variant": "danger", "text":  "Новый"},
         "date_pub": "2022-04-01T00:00:00+03:00",
-        "status": 40
+        "status": 40,
+        "new": 1
       },
       {
         "authors": "Аксёнова Анна",
@@ -57,7 +58,8 @@
         "file_url": "https://bit.ly/20220311_065-2_annaaksjonova",
         "label": { "variant": "danger", "text":  "Новый"},
         "date_pub": "2022-04-01T00:00:00+03:00",
-        "status": 40
+        "status": 40,
+        "new": 1
       },
       {
         "authors": "Давидович Илона",
@@ -69,7 +71,8 @@
         "file_url": "https://bit.ly/20220311_065-3_ilonadavidovich",
         "label": { "variant": "danger", "text":  "Новый"},
         "date_pub": "2022-04-01T00:00:00+03:00",
-        "status": 40
+        "status": 40,
+        "new": 1
       },
       {
         "authors": "Риисма Ирина",
@@ -81,7 +84,8 @@
         "file_url": "https://bit.ly/20220311_065-4_irinariisma",
         "label": { "variant": "danger", "text":  "Новый"},
         "date_pub": "2022-04-01T00:00:00+03:00",
-        "status": 40
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -241,7 +245,8 @@
         "file_url": "https://bit.ly/20211224_055_antonstalnuhhin",
         "label": { "variant": "danger", "text":  "Новый"},
         "date_pub": "2022-04-01T00:00:00+03:00",
-        "status": 40
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -830,7 +835,8 @@
         "file_url": "https://bit.ly/201113_014_mihhailgoidov",
         "label": { "variant": "danger", "text":  "Новый"},
         "date_pub": "2022-04-01T00:00:00+03:00",
-        "status": 40
+        "status": 40,
+        "new": 1
       }
     ]
   },
