@@ -15,7 +15,6 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
     ]
@@ -42,9 +41,7 @@
         "quantity": 75,
         "size_mb": 15,
         "desc": "75 вопросов на разные темы, из них 6 - музыкальные.",
-        "date_added": "2022-04-01T00:00:00+03:00",
         "file_url": "https://bit.ly/20220311_065-1_anastasiakolesnikova",
-        "label": { "variant": "danger", "text":  "Новый"},
         "date_pub": "2022-03-28T11:30:00+03:00",
         "status": 40,
         "new": 1
@@ -55,9 +52,7 @@
         "quantity": 75,
         "size_mb": 22,
         "desc": "75 вопросов на разные темы, из них 10 - музыкальные.",
-        "date_added": "2022-04-01T00:00:00+03:00",
         "file_url": "https://bit.ly/20220311_065-2_annaaksjonova",
-        "label": { "variant": "danger", "text":  "Новый"},
         "date_pub": "2022-03-28T11:30:00+03:00",
         "status": 40,
         "new": 1
@@ -68,9 +63,7 @@
         "quantity": 75,
         "size_mb": 18,
         "desc": "75 вопросов на разные темы, из них 10 - музыкальные.",
-        "date_added": "2022-04-01T00:00:00+03:00",
         "file_url": "https://bit.ly/20220311_065-3_ilonadavidovich",
-        "label": { "variant": "danger", "text":  "Новый"},
         "date_pub": "2022-03-28T11:30:00+03:00",
         "status": 40,
         "new": 1
@@ -81,9 +74,7 @@
         "quantity": 75,
         "size_mb": 25,
         "desc": "75 вопросов на разные темы, из них 17 - музыкальные.",
-        "date_added": "2022-04-01T00:00:00+03:00",
         "file_url": "https://bit.ly/20220311_065-4_irinariisma",
-        "label": { "variant": "danger", "text":  "Новый"},
         "date_pub": "2022-03-28T11:30:00+03:00",
         "status": 40,
         "new": 1
@@ -98,7 +89,6 @@
       {
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 20
       },
       {
@@ -107,7 +97,6 @@
         "description": "В блоке 10 тем (50 вопросов), из них 4 темы (20 вопросов) - музыкальные. Вопросы посвящены Украине.",
         "quantity": 50,
         "size_mb": 21,
-        "label": { "variant": "info", "text": "В базе"},
         "status": 30
       }
     ]
@@ -129,7 +118,6 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
     ]
@@ -141,7 +129,6 @@
       {
         "authors": "Ведехин Александр",
         "authors_info": "https://www.facebook.com/gennadi.kazadoev",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
     ]
@@ -157,7 +144,6 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       },
       {
@@ -166,7 +152,6 @@
         "description": "В блоке 10 тем (50 вопросов).",
         "quantity": 50,
         "size_mb": 10,
-        "label": { "variant": "info", "text": "В базе"},
         "status": 30
       }
     ]
@@ -190,7 +175,6 @@
         "authors_info": "https://www.facebook.com/dima.petchonkin, https://www.facebook.com/orodionova",
         "quantity": 200,
         "size_mb": 42,
-        "label": { "variant": "info", "text": "В базе"},
         "status": 30,
         "date_pub": "2022-04-11T11:30:00+03:00"
       }
@@ -203,7 +187,6 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       },
       {
@@ -221,7 +204,6 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       },
       {
@@ -243,9 +225,7 @@
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 601,
         "size_mb": 225,
-        "date_added": "2022-03-28T11:30:00+03:00",
         "file_url": "https://bit.ly/20211224_055_antonstalnuhhin",
-        "label": { "variant": "danger", "text":  "Новый"},
         "date_pub": "2022-03-28T11:30:00+03:00",
         "status": 40,
         "new": 1
@@ -260,19 +240,16 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       },
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       },
       {
         "authors": "Ведехин Александр",
         "authors_info": "https://www.facebook.com/gennadi.kazadoev",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
     ]
@@ -312,7 +289,6 @@
       {
         "authors": "Талисайнен Георгий",
         "authors_info": "https://www.facebook.com/georgi.talisainen",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
     ]
@@ -324,7 +300,6 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
     ]
@@ -346,7 +321,6 @@
       {
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 20
       }
     ]
@@ -365,7 +339,6 @@
         "description": "В игре 30 тем - 150 вопросов, из них 15(21) - музыкальные.",
         "quantity": 150,
         "size_mb": 43,
-        "label": { "variant": "info", "text": "В базе"},
         "status": 30
       }
     ]
@@ -377,7 +350,6 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
     ]
@@ -389,13 +361,11 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       },
       {
         "authors": "Талисайнен Георгий",
         "authors_info": "https://www.facebook.com/georgi.talisainen",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
     ]
@@ -422,7 +392,6 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
     ]
@@ -434,7 +403,6 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
     ]
@@ -447,7 +415,6 @@
       {
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 20
       }
     ]
@@ -459,7 +426,6 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
     ]
@@ -476,7 +442,6 @@
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 401,
         "size_mb": 226,
-        "label": { "variant": "info", "text": "В базе"},
         "status": 30,
         "date_pub": "2022-04-11T11:30:00+03:00"
       }
@@ -490,7 +455,6 @@
       {
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 20
       }
     ]
@@ -503,13 +467,11 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       },
       {
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 20
       }
     ]
@@ -525,14 +487,12 @@
         "quantity": 125,
         "size_mb": 25,
         "description": "В игре 25 тем - 125 вопросов, из них 5 - музыкальные. Есть несколько туров по эстонским реалиям.",
-        "label": { "variant": "info", "text": "В базе"},
         "status": 30,
         "date_pub": "2022-04-11T11:30:00+03:00"
       },
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25,
         "date_pub": "2022-04-11T11:30:00+03:00"
       }
@@ -561,7 +521,6 @@
       {
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 20
       }
     ]
@@ -574,19 +533,16 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       },
       {
         "authors": "Талисайнен Георгий",
         "authors_info": "https://www.facebook.com/georgi.talisainen",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       },
       {
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 20
       }
     ]
@@ -612,7 +568,6 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
     ]
@@ -628,19 +583,16 @@
         "quantity": 100,
         "size_mb": 33,
         "description": "20 тем (100 вопросов), из них 20 - музыкальные (One Hit Wonder).",
-        "label": { "variant": "info", "text": "В базе"},
         "status": 30
       },
       {
         "authors": "Мююрсепп Валерия",
         "authors_info": "https://www.facebook.com/valeria.muursepp",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 20
       },
       {
         "authors": "Стальнухин Дмитрий",
         "authors_info": "https://www.facebook.com/dmitris",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       },
       {
@@ -683,7 +635,6 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
     ]
@@ -699,7 +650,6 @@
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 305,
         "size_mb": 95,
-        "label": { "variant": "info", "text": "В базе"},
         "status": 30
       }
     ]
@@ -711,7 +661,6 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
     ]
@@ -749,7 +698,6 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
     ]
@@ -765,7 +713,6 @@
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 265,
         "size_mb": 284,
-        "label": { "variant": "info", "text": "В базе"},
         "status": 30
       }
     ]
@@ -787,7 +734,6 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "label": { "variant": "warning", "text":  "Стандартизация"},
         "status": 25
       }
     ]
@@ -847,9 +793,7 @@
         "authors_info": "https://www.facebook.com/mihhail.goidov",
         "quantity": 150,
         "size_mb": 69,
-        "date_added": "2022-03-28T11:30:00+03:00",
         "file_url": "https://bit.ly/201113_014_mihhailgoidov",
-        "label": { "variant": "danger", "text":  "Новый"},
         "date_pub": "2022-03-28T11:30:00+03:00",
         "status": 40,
         "new": 1
