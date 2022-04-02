@@ -293,7 +293,8 @@
     "blocks": [
       {
         "authors": "Линник Ольга",
-        "status": 10
+        "authors_info": "https://www.facebook.com/linniklinnik",
+        "status": 20
       },
       {
         "authors": "Ворошнин Дмитрий",
@@ -595,13 +596,9 @@
     "name": "Финансы vs. Романсы. И немножко архитектуры.",
     "blocks": [
       {
-        "authors": "Вайнонен Катарина, Архипова Екатерина",
-        "authors_info": "https://www.facebook.com/katariina.vainonen, https://www.facebook.com/jekaterina.arhipova",
+        "authors": "Вайнонен Катарина, Архипова Екатерина, Линник Ольга",
+        "authors_info": "https://www.facebook.com/katariina.vainonen, https://www.facebook.com/jekaterina.arhipova, https://www.facebook.com/linniklinnik",
         "status": 25
-      },
-      {
-        "authors": "Линник Ольга",
-        "status": 10
       }
     ]
   },
@@ -809,7 +806,8 @@
     "blocks": [
       {
         "authors": "Линник Ольга",
-        "status": 10
+        "authors_info": "https://www.facebook.com/linniklinnik",
+        "status": 25
       },
       {
         "authors": "Ворошнин Дмитрий",
