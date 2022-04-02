@@ -4,7 +4,7 @@
     "org": "Большая игра",
     "image": "bolshayaigra.png",
     "url": ["https://chgk-world.ru/tournaments"],
-    "latestCheck": "2022-03-25T12:00:00+03:00",
+    "latestCheck": "2022-04-03T12:00:00+03:00",
     "latestGame": "2021-12-11T15:00:00+02:00",
     "priority": 40,
     "chgk": true,
@@ -23,7 +23,10 @@
       {"time": "2022-03-27T13:00:00+03:00", "name": "Мартовская лига №4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1109"]},
       {"time": "2022-03-27T22:00:00+03:00", "name": "Мартовская лига №4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1109"]},
       {"time": "2022-03-28T20:00:00+03:00", "name": "Мартовская лига №4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1109"]},
-      {"time": "2022-03-29T20:00:00+03:00", "name": "М-лига 23.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1083"]}
+      {"time": "2022-03-29T20:00:00+03:00", "name": "М-лига 23.4", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1083"]},
+      {"time": "2022-04-03T13:00:00+03:00", "name": "Юбилейная М-лига", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1115"]},
+      {"time": "2022-04-03T22:00:00+03:00", "name": "Юбилейная М-лига", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1115"]},
+      {"time": "2022-04-04T20:00:00+03:00", "name": "Юбилейная М-лига", "price": ["600 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1115"]}
     ]
   }
 ]
