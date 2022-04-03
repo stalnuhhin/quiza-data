@@ -493,7 +493,10 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
-        "status": 25,
+        "quantity": 110,
+        "size_mb": 50,
+        "description": "В игре 22 темы - 110 вопросов, из них 54 - музыкальные.",
+        "status": 30,
         "date_pub": "2022-04-11T11:30:00+03:00"
       }
     ]
