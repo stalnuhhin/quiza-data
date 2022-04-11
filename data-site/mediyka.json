@@ -43,8 +43,7 @@
         "desc": "75 вопросов на разные темы, из них 6 - музыкальные.",
         "file_url": "https://bit.ly/20220311_065-1_anastasiakolesnikova",
         "date_pub": "2022-03-28T11:30:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       },
       {
         "authors": "Аксёнова Анна",
@@ -54,8 +53,7 @@
         "desc": "75 вопросов на разные темы, из них 10 - музыкальные.",
         "file_url": "https://bit.ly/20220311_065-2_annaaksjonova",
         "date_pub": "2022-03-28T11:30:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       },
       {
         "authors": "Давидович Илона",
@@ -65,8 +63,7 @@
         "desc": "75 вопросов на разные темы, из них 10 - музыкальные.",
         "file_url": "https://bit.ly/20220311_065-3_ilonadavidovich",
         "date_pub": "2022-03-28T11:30:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       },
       {
         "authors": "Риисма Ирина",
@@ -76,8 +73,7 @@
         "desc": "75 вопросов на разные темы, из них 17 - музыкальные.",
         "file_url": "https://bit.ly/20220311_065-4_irinariisma",
         "date_pub": "2022-03-28T11:30:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -175,8 +171,10 @@
         "authors_info": "https://www.facebook.com/dima.petchonkin, https://www.facebook.com/orodionova",
         "quantity": 200,
         "size_mb": 42,
-        "status": 30,
-        "date_pub": "2022-04-11T11:30:00+03:00"
+        "file_url": "https://bit.ly/20220121_058_dmitripechenkinolgarodionova",
+        "date_pub": "2022-04-11T17:10:00+03:00",
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -227,8 +225,7 @@
         "size_mb": 225,
         "file_url": "https://bit.ly/20211224_055_antonstalnuhhin",
         "date_pub": "2022-03-28T11:30:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -442,8 +439,10 @@
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 401,
         "size_mb": 226,
-        "status": 30,
-        "date_pub": "2022-04-11T11:30:00+03:00"
+        "file_url": "https://bit.ly/20210903_039_antonstalnuhhin",
+        "date_pub": "2022-04-11T17:10:00+03:00",
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -487,8 +486,10 @@
         "quantity": 125,
         "size_mb": 25,
         "description": "В игре 25 тем - 125 вопросов, из них 5 - музыкальные. Есть несколько туров по эстонским реалиям.",
-        "status": 30,
-        "date_pub": "2022-04-11T11:30:00+03:00"
+        "file_url": "https://bit.ly/20210813_036-1_timursagitov",
+        "date_pub": "2022-04-11T17:10:00+03:00",
+        "status": 40,
+        "new": 1
       },
       {
         "authors": "Крехов Арсений",
@@ -496,8 +497,10 @@
         "quantity": 110,
         "size_mb": 50,
         "description": "В игре 22 темы - 110 вопросов, из них 54 - музыкальные.",
-        "status": 30,
-        "date_pub": "2022-04-11T11:30:00+03:00"
+        "file_url": "https://bit.ly/20210813_036-2_arsenikrehov",
+        "date_pub": "2022-04-11T17:10:00+03:00",
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -798,8 +801,7 @@
         "size_mb": 69,
         "file_url": "https://bit.ly/201113_014_mihhailgoidov",
         "date_pub": "2022-03-28T11:30:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
