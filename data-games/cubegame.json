@@ -9,6 +9,7 @@
     "priority": 50,
     "chgk": true,
     "auto": {
+      "url": "https://cubegame.turbo.site",
       "rules": [
         {"code": "AFTER_FIRST", "params": ["id=\"e100b814-9f7b-467e-beeb-3c00e69f73c4\""]},
         {"code": "BEFORE_FIRST", "params": ["</section>"]},
