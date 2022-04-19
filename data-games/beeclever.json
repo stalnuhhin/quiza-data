@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2022-04-13T12:00:00+03:00",
+    "latestCheck": "2022-04-20T12:00:00+03:00",
     "latestGame": "2021-12-11T15:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -50,6 +50,12 @@
         "name": "Українська ліга. Сезон 2021-2022. Етап 4",
         "price": ["600 UAH/ком"],
         "url": ["https://beeclever.space/regform.php?turnir=134"]
+      },
+      {
+        "time": "2022-04-20T20:00:00+03:00",
+        "name": "Кубок Міжмор’я – 2021",
+        "price": ["600 UAH/ком", "20 USD/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=135"]
       }
     ]
   }
