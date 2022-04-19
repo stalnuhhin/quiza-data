@@ -2,12 +2,22 @@
   {
     "id": "901232e6-ef9f-47c7-b9f1-752c67c8eec6",
     "org": "Куб",
-    "image": "sahar.png",
+    "image": "cubegame.png",
     "url": ["https://cubegame.turbo.site", "https://www.facebook.com/sugarchgk/", "https://vk.com/cubechgk"],
     "latestCheck": "2022-04-20T12:00:00+03:00",
     "latestGame": "2021-12-04T20:00:00+03:00",
     "priority": 50,
     "chgk": true,
+    "auto": {
+      "rules": [
+        {"code": "AFTER_FIRST", "params": ["id=\"e100b814-9f7b-467e-beeb-3c00e69f73c4\""]},
+        {"code": "BEFORE_FIRST", "params": ["</section>"]},
+        {"code": "SPLIT", "params": ["<br"]},
+        {"code": "AFTER_FIRST", "params": ["<span>"]},
+        {"code": "BEFORE_FIRST", "params": ["</span>"]},
+        {"code": "ROW", "delimiter": "|||", "params": ["TIME", "NAME", "PRICE_RUB"]}
+      ]
+    },
     "games": [
       { "time": "2022-03-04T22:00:00+03:00", "name": "Коробка шоколадных конфет" },
       { "time": "2022-03-05T20:00:00+03:00", "name": "Коробка шоколадных конфет" },
@@ -35,7 +45,9 @@
       { "time": "2022-04-14T20:30:00+03:00", "name": "Куб-8. Апрель" },
       { "time": "2022-04-13T20:30:00+03:00", "name": "Кубок Ярослава Мудрого" },
       { "time": "2022-04-19T20:30:00+03:00", "name": "Лига Сибири – 5" },
-      { "time": "2022-04-20T20:30:00+03:00", "name": "Кубок Ярослава Мудрого" }
+      { "time": "2022-04-20T20:30:00+03:00", "name": "Кубок Ярослава Мудрого" },
+      { "time": "2022-04-21T20:30:00+03:00", "name": "TRIZ-2" },
+      { "time": "2022-04-22T20:00:00+03:00", "name": "Соло на ундервуде" }
     ]
   }
 ]
