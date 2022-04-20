@@ -13,10 +13,11 @@
       "rules": [
         {"code": "AFTER_FIRST", "params": ["id=\"e100b814-9f7b-467e-beeb-3c00e69f73c4\""]},
         {"code": "BEFORE_FIRST", "params": ["</section>"]},
-        {"code": "SPLIT", "params": ["<br"]},
-        {"code": "AFTER_FIRST", "params": ["<span>"]},
-        {"code": "BEFORE_FIRST", "params": ["</span>"]},
-        {"code": "ROW", "delimiter": "|||", "params": ["TIME", "NAME", "PRICE_RUB"]}
+        {"code": "SPLIT", "params": ["<br"], "rules": [
+          {"code": "AFTER_FIRST", "params": ["<span>"]},
+          {"code": "BEFORE_FIRST", "params": ["</span>"]},
+          {"code": "ROW", "delimiter": "|||", "params": ["TIME", "NAME", "PRICE_RUB"]}
+        ]}
       ]
     },
     "games": [
