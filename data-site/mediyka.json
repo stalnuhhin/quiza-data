@@ -1,5 +1,14 @@
 [
   {
+    "date_start": "2022-04-22T19:00:00+03:00",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/740157894088319",
+    "blocks": [
+      {
+        "authors": "Хаманов Антон"
+      }
+    ]
+  },
+  {
     "date_start": "2022-04-15T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/735595114544597",
     "blocks": [
@@ -784,7 +793,7 @@
       },
       {
         "authors": "Ворошнин Дмитрий",
-        "status": 10
+        "status": 30
       }
     ]
   },
@@ -855,7 +864,7 @@
     "blocks": [
       {
         "authors": "Ворошнин Дмитрий",
-        "status": 10
+        "status": 30
       }
     ]
   },
