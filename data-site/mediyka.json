@@ -287,6 +287,7 @@
       {
         "authors": "Вайнонен Катарина, Архипова Екатерина",
         "authors_info": "https://www.facebook.com/katariina.vainonen, https://www.facebook.com/jekaterina.arhipova",
+        "date_pub": "2022-04-25T10:00:00+03:00",
         "status": 25
       }
     ]
@@ -768,6 +769,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "date_pub": "2022-04-25T10:00:00+03:00",
         "status": 25
       }
     ]
@@ -789,10 +791,13 @@
       {
         "authors": "Линник Ольга",
         "authors_info": "https://www.facebook.com/linniklinnik",
+        "date_pub": "2022-04-25T10:00:00+03:00",
         "status": 25
       },
       {
         "authors": "Ворошнин Дмитрий",
+        "authors_info": "https://www.facebook.com/dmitri.vorosnin",
+        "date_pub": "2022-04-25T10:00:00+03:00",
         "status": 25
       }
     ]
@@ -864,6 +869,7 @@
     "blocks": [
       {
         "authors": "Ворошнин Дмитрий",
+        "authors_info": "https://www.facebook.com/dmitri.vorosnin",
         "status": 25
       }
     ]
