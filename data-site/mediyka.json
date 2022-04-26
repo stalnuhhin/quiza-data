@@ -205,8 +205,7 @@
         "size_mb": 42,
         "file_url": "https://bit.ly/20220121_058_dmitripechenkinolgarodionova",
         "date_pub": "2022-04-11T17:10:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -296,7 +295,6 @@
       {
         "authors": "Вайнонен Катарина, Архипова Екатерина",
         "authors_info": "https://www.facebook.com/katariina.vainonen, https://www.facebook.com/jekaterina.arhipova",
-        "date_pub": "2022-04-25T10:00:00+03:00",
         "status": 25
       }
     ]
@@ -349,6 +347,9 @@
         "authors_info": "https://twitter.com/timquo",
         "quantity": 492,
         "size_mb": 750,
+        "file_url": "https://bit.ly/20211112_049_dmitristalnuhhin",
+        "date_pub": "2022-04-26T14:20:00+03:00",
+        "new": 1,
         "status": 30
       }
     ]
@@ -378,6 +379,9 @@
         "description": "В игре 30 тем - 150 вопросов, из них 15(21) - музыкальные.",
         "quantity": 150,
         "size_mb": 43,
+        "file_url": "https://bit.ly/20211029_047-2_eugenemirotin",
+        "date_pub": "2022-04-26T14:20:00+03:00",
+        "new": 1,
         "status": 30
       }
     ]
@@ -483,8 +487,7 @@
         "size_mb": 226,
         "file_url": "https://bit.ly/20210903_039_antonstalnuhhin",
         "date_pub": "2022-04-11T17:10:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -530,8 +533,7 @@
         "description": "В игре 25 тем - 125 вопросов, из них 5 - музыкальные. Есть несколько туров по эстонским реалиям.",
         "file_url": "https://bit.ly/20210813_036-1_timursagitov",
         "date_pub": "2022-04-11T17:10:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       },
       {
         "authors": "Крехов Арсений",
@@ -541,8 +543,7 @@
         "description": "В игре 22 темы - 110 вопросов, из них 54 - музыкальные.",
         "file_url": "https://bit.ly/20210813_036-2_arsenikrehov",
         "date_pub": "2022-04-11T17:10:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -698,6 +699,9 @@
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 305,
         "size_mb": 95,
+        "file_url": "https://bit.ly/20210604_026_antonstalnuhhin",
+        "date_pub": "2022-04-26T14:20:00+03:00",
+        "new": 1,
         "status": 30
       }
     ]
@@ -782,7 +786,6 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
-        "date_pub": "2022-04-25T10:00:00+03:00",
         "status": 25
       }
     ]
@@ -808,13 +811,11 @@
       {
         "authors": "Линник Ольга",
         "authors_info": "https://www.facebook.com/linniklinnik",
-        "date_pub": "2022-04-25T10:00:00+03:00",
         "status": 25
       },
       {
         "authors": "Ворошнин Дмитрий",
         "authors_info": "https://www.facebook.com/dmitri.vorosnin",
-        "date_pub": "2022-04-25T10:00:00+03:00",
         "status": 25
       }
     ]
