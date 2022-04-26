@@ -50,10 +50,14 @@
   {
     "date_start": "2022-03-18T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/715333713237404",
+    "description": "В игре 223 текстовых вопроса (6 раундов по 5 тем) + 61 музыкальный. Все текстовые темы игры представляют собой \"Матричный свояк\" по правилам которого все верные ответы должны \"попадать\" в заявленную матрицу.",
     "blocks": [
       {
         "authors": "Стальнухин Дмитрий",
-        "status": 10
+        "authors_info": "https://twitter.com/timquo",
+        "quantity": 223,
+        "size_mb": 208,
+        "status": 30
       }
     ]
   },
@@ -226,6 +230,7 @@
     "photo_url": "https://www.facebook.com/groups/PohjaOokull/posts/673028164134626",
     "questions_url": "https://www.facebook.com/groups/PohjaOokull/posts/673032020800907",
     "name": "Медийка перед кубком Северной совы",
+    "description": "Дмитрий Стальнухин: В игре 158 вопросов (6 раундов по 5 тем). Все темы игры представляют собой \"Матричный свояк\" по правилам которого все верные ответы должны \"попадать\" в заявленную матрицу.",
     "blocks": [
       {
         "authors": "Крехов Арсений",
@@ -234,7 +239,11 @@
       },
       {
         "authors": "Стальнухин Дмитрий",
-        "status": 10
+        "authors_info": "https://twitter.com/timquo",
+        "desc": "В игре 158 вопросов (6 раундов по 5 тем). Все темы игры представляют собой \"Матричный свояк\" по правилам которого все верные ответы должны \"попадать\" в заявленную матрицу.",
+        "quantity": 158,
+        "size_mb": 125,
+        "status": 30
       }
     ]
   },
@@ -333,10 +342,14 @@
   {
     "date_start": "2021-11-12T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/633935311377245",
+    "description": "В игре 84 темы и 492 вопроса, из которых 57 это музыкальные аудио-вопросы и еще 105 — видео-вопросы по сериалам (первые и последние 10 секунд всего сериала).",
     "blocks": [
       {
         "authors": "Стальнухин Дмитрий",
-        "status": 10
+        "authors_info": "https://twitter.com/timquo",
+        "quantity": 492,
+        "size_mb": 750,
+        "status": 30
       }
     ]
   },
@@ -777,10 +790,14 @@
   {
     "date_start": "2020-12-11T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/404017711035674",
+    "description": "В игре 225 вопросов (9 раундов по 5 тем).",
     "blocks": [
       {
         "authors": "Стальнухин Дмитрий",
-        "status": 10
+        "authors_info": "https://twitter.com/timquo",
+        "quantity": 225,
+        "size_mb": 63,
+        "status": 30
       }
     ]
   },
