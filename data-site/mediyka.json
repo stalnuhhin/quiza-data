@@ -181,6 +181,14 @@
         "quantity": 50,
         "size_mb": 10,
         "status": 30
+      },
+      {
+        "authors": "Стальнухин Дмитрий",
+        "authors_info": "https://twitter.com/timquo",
+        "description": "В игре 125 вопросов (5 раундов по 5 тем). Все темы игры представляют собой \"Матричный свояк\" по правилам которого все верные ответы должны \"попадать\" в заявленную матрицу.",
+        "quantity": 125,
+        "size_mb": 74,
+        "status": 30
       }
     ]
   },
@@ -284,6 +292,14 @@
         "authors": "Ведехин Александр",
         "authors_info": "https://www.facebook.com/gennadi.kazadoev",
         "status": 25
+      },
+      {
+        "authors": "Стальнухин Дмитрий",
+        "authors_info": "https://twitter.com/timquo",
+        "desc": "В игре 50 вопросов (2 раунда по 5 тем). Все темы игры представляют собой \"Матричный свояк\" по правилам которого все верные ответы должны \"попадать\" в заявленную матрицу.",
+        "quantity": 50,
+        "size_mb": 25,
+        "status": 30
       }
     ]
   },
@@ -638,11 +654,6 @@
         "authors": "Мююрсепп Валерия",
         "authors_info": "https://www.facebook.com/valeria.muursepp",
         "status": 20
-      },
-      {
-        "authors": "Стальнухин Дмитрий",
-        "authors_info": "https://www.facebook.com/dmitris",
-        "status": 25
       },
       {
         "authors": "Крехов Арсений"
