@@ -837,7 +837,10 @@
       {
         "authors": "Ворошнин Дмитрий",
         "authors_info": "https://www.facebook.com/dmitri.vorosnin",
-        "status": 25
+        "description": "В игре 14 тем - 70 вопросов, из них музыкальных - 17 вопросов.",
+        "quantity": 70,
+        "size_mb": 21,
+        "status": 30
       }
     ]
   },
