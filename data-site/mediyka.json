@@ -846,6 +846,14 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/393291322108313",
     "blocks": [
       {
+        "authors": "Стальнухин Дмитрий",
+        "authors_info": "https://twitter.com/timquo",
+        "description": "В игре 215 вопросов (43 темы по 5 вопросов). Первые 16 тем общей тематики, остальные 27 — преимущественно про кино.",
+        "quantity": 215,
+        "size_mb": 40,
+        "status": 30
+      },
+      {
         "authors": "Талисайнен Георгий"
       }
     ]
@@ -884,11 +892,13 @@
       {
         "authors": "Кламас Анастасия",
         "authors_info": "https://www.facebook.com/anastasia.malakhova.71",
+        "quantity": 150,
         "status": 20
       },
       {
         "authors": "Ильвес Лидия",
         "authors_info": "https://www.facebook.com/lidia.ilves",
+        "quantity": 30,
         "status": 20
       }
     ]
@@ -909,7 +919,9 @@
       {
         "authors": "Ворошнин Дмитрий",
         "authors_info": "https://www.facebook.com/dmitri.vorosnin",
-        "status": 25
+        "quantity": 150,
+        "size_mb": 12,
+        "status": 30
       }
     ]
   },
