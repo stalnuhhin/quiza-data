@@ -4,64 +4,22 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2022-04-27T12:00:00+03:00",
+    "latestCheck": "2022-05-04T12:00:00+03:00",
     "latestGame": "2021-12-11T15:00:00+02:00",
     "chgk": true,
     "priority": 50,
     "games": [
       {
-        "time": "2022-03-06T20:00:00+02:00",
-        "name": "Українська ліга. Етап 3. Додаткова гра",
-        "price": ["420 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=125"]
-      },
-      {
-        "time": "2022-03-12T20:00:00+02:00",
-        "name": "Українська ліга. Етап 3. Додаткова гра - 2",
-        "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=127"]
-      },
-      {
-        "time": "2022-03-15T20:00:00+02:00",
-        "name": "Экспансия: Облако Оорта. Синхронная лига Bee Clever",
+        "time": "2022-05-03T20:00:00+03:00",
+        "name": "Экспансия: Пояс Койпера",
         "price": ["600 UAH/ком", "20 USD/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=128"]
+        "url": ["https://beeclever.space/regform.php?turnir=138"]
       },
       {
-        "time": "2022-03-22T20:00:00+02:00",
-        "name": "Украинский Байрактар",
-        "price": ["600 UAH/ком", "20 USD/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=129"]
-      },
-      {
-        "time": "2022-04-07T20:00:00+03:00",
-        "name": "Українська ліга. Сезон 2021-2022. Етап 3. Last call!",
+        "time": "2022-05-10T20:00:00+03:00",
+        "name": "Експансія: Пояс Койпера",
         "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=133"]
-      },
-      {
-        "time": "2022-04-09T20:00:00+03:00",
-        "name": "Українська ліга. Сезон 2021-2022. Етап 4. Прем'єра!",
-        "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=132"]
-      },
-      {
-        "time": "2022-04-12T20:00:00+03:00",
-        "name": "Українська ліга. Сезон 2021-2022. Етап 4",
-        "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=134"]
-      },
-      {
-        "time": "2022-04-20T20:00:00+03:00",
-        "name": "Кубок Міжмор’я – 2021",
-        "price": ["600 UAH/ком", "20 USD/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=135"]
-      },
-      {
-        "time": "2022-04-26T20:00:00+03:00",
-        "name": "Conan Cup",
-        "price": ["600 UAH/ком", "20 USD/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=136"]
+        "url": ["https://beeclever.space/regform.php?turnir=139"]
       }
     ]
   }
