@@ -618,7 +618,10 @@
       {
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
-        "status": 20
+        "quantity": 50,
+        "size_mb": 9,
+        "description": "10 тем (50 вопросов), музыкальных нету.",
+        "status": 30
       }
     ]
   },
