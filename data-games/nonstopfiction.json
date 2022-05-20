@@ -4,7 +4,7 @@
     "org": "Non-Stop Fiction",
     "image": "nonstopfiction.jpeg",
     "url": ["https://t.me/nonstopfiction"],
-    "latestCheck": "2022-05-12T12:00:00+03:00",
+    "latestCheck": "2022-05-21T12:00:00+03:00",
     "latestGame": "2021-12-11T15:00:00+02:00",
     "priority": 200,
     "price": ["350 RUB/ком", "4 USD/ком"],
@@ -19,7 +19,16 @@
       { "time": "2022-05-15T20:00:00+03:00", "name": "NSQ Weekly#12" },
       { "time": "2022-05-21T20:00:00+03:00", "name": "NSQ Weekly#13" },
       { "time": "2022-05-22T12:00:00+03:00", "name": "NSQ Weekly#13" },
-      { "time": "2022-05-22T20:00:00+03:00", "name": "NSQ Weekly#13" }
+      { "time": "2022-05-22T20:00:00+03:00", "name": "NSQ Weekly#13" },
+      { "time": "2022-05-28T20:00:00+03:00", "name": "NSQ Weekly#14" },
+      { "time": "2022-05-29T12:00:00+03:00", "name": "NSQ Weekly#14" },
+      { "time": "2022-05-29T20:00:00+03:00", "name": "NSQ Weekly#14" },
+      { "time": "2022-06-04T20:00:00+03:00", "name": "NSQ Weekly#15" },
+      { "time": "2022-06-05T12:00:00+03:00", "name": "NSQ Weekly#15" },
+      { "time": "2022-06-05T20:00:00+03:00", "name": "NSQ Weekly#15" },
+      { "time": "2022-06-11T20:00:00+03:00", "name": "NSQ Weekly#16" },
+      { "time": "2022-06-12T12:00:00+03:00", "name": "NSQ Weekly#16" },
+      { "time": "2022-06-12T20:00:00+03:00", "name": "NSQ Weekly#16" }
     ]
   }
 ]

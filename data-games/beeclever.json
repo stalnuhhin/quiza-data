@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2022-05-12T12:00:00+03:00",
+    "latestCheck": "2022-05-21T12:00:00+03:00",
     "latestGame": "2021-12-11T15:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -20,6 +20,12 @@
         "name": "Експансія: Пояс Койпера",
         "price": ["600 UAH/ком"],
         "url": ["https://beeclever.space/regform.php?turnir=139"]
+      },
+      {
+        "time": "2022-05-17T20:00:00+03:00",
+        "name": "Експансія: Пояс Койпера. Додаткова гра",
+        "price": ["600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=140"]
       }
     ]
   }
