@@ -4,7 +4,8 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/758929512211157",
     "blocks": [
       {
-        "authors": "Мююрсепп Валерия"
+        "authors": "Мююрсепп Валерия",
+        "quantity": 150
       }
     ]
   },
@@ -94,7 +95,10 @@
         "authors_info": "https://twitter.com/timquo",
         "quantity": 223,
         "size_mb": 208,
-        "status": 30
+        "file_url": "https://bit.ly/20220318_066_dmitristalnuhhin",
+        "date_pub": "2022-05-24T15:50:00+03:00",
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -150,19 +154,29 @@
     "date_start": "2022-03-04T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/706366944134081",
     "name": "Благотворительная",
+    "description": "Это был благотворительный вечер по сбору денег для пострадавших от войны. Антон Хаманов приготовил 40 тем (200 вопросов) без музыки, Антон Стальнухин дополнил ещё 10 темами (50 вопросов), из которых 4 темы - музыкальные.",
     "blocks": [
       {
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
-        "status": 20
+        "desc": "В блоке 40 тем (200 вопросов), без музыкальных.",
+        "quantity": 200,
+        "size_mb": 23,
+        "file_url": "https://bit.ly/20220304_064-1_antonhamanov",
+        "date_pub": "2022-05-24T15:50:00+03:00",
+        "status": 40,
+        "new": 1
       },
       {
         "authors": "Стальнухин Антон",
         "authors_info": "https://anton.stalnuhhin.ee",
-        "description": "В блоке 10 тем (50 вопросов), из них 4 темы (20 вопросов) - музыкальные. Вопросы посвящены Украине.",
+        "desc": "В блоке 10 тем (50 вопросов), из них 4 темы (20 вопросов) - музыкальные. Вопросы посвящены Украине.",
         "quantity": 50,
         "size_mb": 21,
-        "status": 30
+        "file_url": "https://bit.ly/20220304_064-2_antonstalnuhhin",
+        "date_pub": "2022-05-24T15:50:00+03:00",
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -403,7 +417,6 @@
         "size_mb": 750,
         "file_url": "https://bit.ly/20211112_049_dmitristalnuhhin",
         "date_pub": "2022-04-26T14:20:00+03:00",
-        "new": 1,
         "status": 40
       }
     ]
@@ -435,7 +448,6 @@
         "size_mb": 43,
         "file_url": "https://bit.ly/20211029_047-2_eugenemirotin",
         "date_pub": "2022-04-26T14:20:00+03:00",
-        "new": 1,
         "status": 40
       }
     ]
@@ -753,7 +765,6 @@
         "size_mb": 95,
         "file_url": "https://bit.ly/20210604_026_antonstalnuhhin",
         "date_pub": "2022-04-26T14:20:00+03:00",
-        "new": 1,
         "status": 40
       }
     ]
@@ -950,13 +961,17 @@
   {
     "date_start": "2020-10-23T20:30:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/363857395051706",
+    "description": "В блоке 30 тем (150 вопросов), без музыкальных.",
     "blocks": [
       {
         "authors": "Ворошнин Дмитрий",
         "authors_info": "https://www.facebook.com/dmitri.vorosnin",
         "quantity": 150,
         "size_mb": 12,
-        "status": 30
+        "file_url": "https://bit.ly/20201023_011_dmitrivoroshnin",
+        "date_pub": "2022-05-24T15:50:00+03:00",
+        "status": 40,
+        "new": 1
       }
     ]
   },
