@@ -1,5 +1,15 @@
 [
   {
+    "date_start": "2022-06-03T20:00:00+03:00",
+    "name": "Первый летний",
+    "notice_url": "https://www.facebook.com/groups/271779974259449",
+    "blocks": [
+      {
+        "authors": "Ралдугин Александр"
+      }
+    ]
+  },
+  {
     "date_start": "2022-05-27T20:00:00+03:00",
     "name": "Фестивальный. Пярну.",
     "notice_url": "https://www.facebook.com/groups/revsova2022/posts/957044038295249",
