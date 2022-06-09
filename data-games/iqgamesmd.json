@@ -6,7 +6,7 @@
     "url": ["https://www.facebook.com/iqgames.md/events/"],
     "latestCheck": "2022-06-01T12:00:00+03:00",
     "latestGame": "2021-11-24T19:00:00+02:00",
-    "priority": 300,
+    "priority": 600,
     "price": ["50 MDL/чем"],
     "games": [
       {"time": "2022-05-05T19:00:00+03:00", "name": "«Логика» по-домашнему. # 10 игра весеннего онлайн-сезона", "url": ["https://www.facebook.com/events/872081514186782/872081524186781"]},
