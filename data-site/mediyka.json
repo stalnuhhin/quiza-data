@@ -17,7 +17,9 @@
       {
         "authors": "Ралдугин Александр",
         "authors_info": "https://www.facebook.com/profile.php?id=100008047814772",
-        "quantity": 155
+        "quantity": 155,
+        "date_pub": "2022-06-22T09:00:00+03:00",
+        "status": 40
       }
     ]
   },
@@ -690,27 +692,30 @@
   {
     "date_start": "2021-07-23T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/558352475602196",
-    "name": "Став vs. Млад",
+    "name": "Стар vs. Млад",
     "blocks": [
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
         "quantity": 125,
-        "status": 25
+        "date_pub": "2022-06-22T09:00:00+03:00",
+        "status": 40
       },
       {
         "authors": "Талисайнен Георгий",
         "authors_info": "https://www.facebook.com/georgi.talisainen",
         "quantity": 80,
-        "status": 25
+        "date_pub": "2022-06-22T09:00:00+03:00",
+        "status": 40
       },
       {
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
+        "desc": "10 тем (50 вопросов), музыкальных нету.",
         "quantity": 50,
         "size_mb": 9,
-        "description": "10 тем (50 вопросов), музыкальных нету.",
-        "status": 30
+        "date_pub": "2022-06-22T09:00:00+03:00",
+        "status": 40
       }
     ]
   },
@@ -903,7 +908,8 @@
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
         "quantity": 275,
-        "status": 25
+        "date_pub": "2022-06-22T09:00:00+03:00",
+        "status": 40
       }
     ]
   },
@@ -994,13 +1000,15 @@
         "authors": "Кламас Анастасия",
         "authors_info": "https://www.facebook.com/anastasia.malakhova.71",
         "quantity": 150,
-        "status": 20
+        "date_pub": "2022-06-22T09:00:00+03:00",
+        "status": 40
       },
       {
         "authors": "Ильвес Лидия",
         "authors_info": "https://www.facebook.com/lidia.ilves",
         "quantity": 30,
-        "status": 20
+        "date_pub": "2022-06-22T09:00:00+03:00",
+        "status": 40
       }
     ]
   },
