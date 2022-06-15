@@ -15,7 +15,9 @@
     "notice_url": "https://www.facebook.com/groups/271779974259449",
     "blocks": [
       {
-        "authors": "Ралдугин Александр"
+        "authors": "Ралдугин Александр",
+        "authors_info": "https://www.facebook.com/profile.php?id=100008047814772",
+        "quantity": 155
       }
     ]
   },
@@ -253,7 +255,8 @@
     "name": "Праздничная от Совы",
     "blocks": [
       {
-        "authors": "Хаманов Антон"
+        "authors": "Хаманов Антон",
+        "no_data": "Игра утеряна."
       },
       {
         "authors": "Крехов Арсений",
@@ -284,7 +287,8 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/683680326402743",
     "blocks": [
       {
-        "authors": "Хаманов Антон"
+        "authors": "Хаманов Антон",
+        "no_data": "Игра утеряна."
       }
     ]
   },
@@ -315,7 +319,8 @@
         "status": 25
       },
       {
-        "authors": "Хаманов Антон"
+        "authors": "Хаманов Антон",
+        "no_data": "Игра утеряна."
       }
     ]
   },
@@ -531,16 +536,9 @@
     "date_start": "2021-10-08T19:00:00+03:00",
     "notice_url": "",
     "name": "Медийка перед ЧЭ",
-    "blocks": [
-      {
-        "authors": "Риисма Ирина",
-        "status": 10
-      },
-      {
-        "authors": "Онохов Михаил",
-        "status": 10
-      }
-    ]
+    "description": "Отказались делиться игрой.",
+    "no_data": 1,
+    "blocks": [{"authors": "Онохов Михаил, Риисма Ирина"}]
   },
   {
     "date_start": "2021-10-01T19:00:00+03:00",
@@ -672,16 +670,9 @@
     "date_start": "2021-08-06T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/566286851475425",
     "name": "IT IS OUR MEDIYKA",
-    "blocks": [
-      {
-        "authors": "Риисма Ирина",
-        "status": 10
-      },
-      {
-        "authors": "Онохов Михаил",
-        "status": 10
-      }
-    ]
+    "description": "Отказались делиться игрой.",
+    "no_data": 1,
+    "blocks": [{"authors": "Онохов Михаил, Риисма Ирина"}]
   },
   {
     "date_start": "2021-07-30T19:00:00+03:00",
@@ -770,10 +761,12 @@
         "status": 20
       },
       {
-        "authors": "Крехов Арсений"
+        "authors": "Крехов Арсений",
+        "no_data": "Игра утеряна."
       },
       {
-        "authors": "Хаманов Антон"
+        "authors": "Хаманов Антон",
+        "no_data": "Игра утеряна."
       }
     ]
   },
@@ -782,10 +775,12 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/538744494229661",
     "blocks": [
       {
-        "authors": "Крехов Арсений"
+        "authors": "Крехов Арсений",
+        "no_data": "Игра утеряна."
       },
       {
-        "authors": "Хаманов Антон"
+        "authors": "Хаманов Антон",
+        "no_data": "Игра утеряна."
       }
     ]
   },
@@ -793,14 +788,9 @@
     "date_start": "2021-06-18T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/533873284716782",
     "name": "Музыкальный баттл",
-    "blocks": [
-      {
-        "authors": "Корнышев Михаил"
-      },
-      {
-        "authors": "Макагонов Алексей"
-      }
-    ]
+    "description": "Игра утеряна. Музыка не нарезалась, игралась напрямую из источников.",
+    "no_data": 1,
+    "blocks": [{"authors": "Корнышев Михаил"}, {"authors": "Макагонов Алексей"}]
   },
   {
     "date_start": "2021-06-11T19:00:00+03:00",
@@ -862,7 +852,8 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/453527656084679",
     "blocks": [
       {
-        "authors": "Талисайнен Георгий"
+        "authors": "Талисайнен Георгий",
+        "no_data": "Игра утеряна."
       },
       {
         "authors": "Киржнер Семён"
@@ -900,11 +891,9 @@
     "date_start": "2020-12-25T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/414910226613089",
     "name": "Последняя перед локдауном",
-    "blocks": [
-      {
-        "authors": "Крехов Арсений"
-      }
-    ]
+    "description": "Игра утеряна.",
+    "no_data": 1,
+    "blocks": [{"authors": "Крехов Арсений"}]
   },
   {
     "date_start": "2020-12-18T19:00:00+02:00",
@@ -965,7 +954,8 @@
         "status": 30
       },
       {
-        "authors": "Талисайнен Георгий"
+        "authors": "Талисайнен Георгий",
+        "no_data": "Утеряна."
       }
     ]
   },
@@ -1017,11 +1007,9 @@
   {
     "date_start": "2020-10-30T20:30:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/370028057767973",
-    "blocks": [
-      {
-        "authors": "Талисайнен Георгий"
-      }
-    ]
+    "description": "Игра утеряна.",
+    "no_data": 1,
+    "blocks": [{"authors": "Талисайнен Георгий"}]
   },
   {
     "date_start": "2020-10-23T20:30:00+03:00",
@@ -1043,20 +1031,16 @@
   {
     "date_start": "2020-10-16T20:30:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/357841985653247",
-    "blocks": [
-      {
-        "authors": "Талисайнен Георгий"
-      }
-    ]
+    "description": "Игра утеряна.",
+    "no_data": 1,
+    "blocks": [{"authors": "Талисайнен Георгий"}]
   },
   {
     "date_start": "2020-10-09T20:30:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/352037006233745",
-    "blocks": [
-      {
-        "authors": "Хаманов Антон"
-      }
-    ]
+    "description": "Игра утеряна.",
+    "no_data": 1,
+    "blocks": [{"authors": "Хаманов Антон"}]
   },
   {
     "date_start": "2020-10-02T21:30:00+03:00",
@@ -1077,30 +1061,24 @@
   {
     "date_start": "2020-09-18T20:30:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/335283397909106",
-    "blocks": [
-      {
-        "authors": "Крехов Арсений"
-      }
-    ]
+    "description": "Игра утеряна.",
+    "no_data": 1,
+    "blocks": [{"authors": "Крехов Арсений"}]
   },
   {
     "date_start": "2020-09-11T20:30:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/331165828320863",
     "name": "Киношная",
-    "blocks": [
-      {
-        "authors": "Крехов Арсений"
-      }
-    ]
+    "description": "Игра утеряна.",
+    "no_data": 1,
+    "blocks": [{"authors": "Крехов Арсений"}]
   },
   {
     "date_start": "2020-09-04T20:30:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/323410239096422",
-    "blocks": [
-      {
-        "authors": "Крехов Арсений"
-      }
-    ]
+    "description": "Игра утеряна.",
+    "no_data": 1,
+    "blocks": [{"authors": "Крехов Арсений"}]
   },
   {
     "date_start": "2020-08-07T18:00:00+03:00",
@@ -1113,14 +1091,9 @@
     "date_start": "2020-07-17T20:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/285115489592564",
     "name": "Музыкальный Versus",
-    "blocks": [
-      {
-        "authors": "Макагонов Алексей"
-      },
-      {
-        "authors": "Крехов Арсений"
-      }
-    ]
+    "description": "Игра утеряна. Музыка не нарезалась, игралась напрямую из источников.",
+    "no_data": 1,
+    "blocks": [{"authors": "Макагонов Алексей"}, {"authors": "Крехов Арсений"}]
   },
   {
     "date_start": "2020-07-10T18:00:00+03:00",
