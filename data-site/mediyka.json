@@ -111,6 +111,7 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
+        "quantity": 200,
         "status": 25
       }
     ]
@@ -217,6 +218,7 @@
       {
         "authors": "Макагонов Алексей, Макагонова София",
         "authors_info": "https://www.facebook.com/makagonovaleksei",
+        "quantity": 150,
         "status": 25
       }
     ]
@@ -228,6 +230,7 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
+        "quantity": 240,
         "status": 25
       }
     ]
@@ -239,6 +242,7 @@
       {
         "authors": "Ведехин Александр",
         "authors_info": "https://www.facebook.com/gennadi.kazadoev",
+        "quantity": 150,
         "status": 25
       }
     ]
@@ -254,6 +258,7 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
+        "quantity": 60,
         "status": 25
       },
       {
@@ -306,6 +311,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "quantity": 200,
         "status": 25
       },
       {
@@ -324,6 +330,7 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
+        "quantity": 100,
         "status": 25
       },
       {
@@ -363,16 +370,19 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "quantity": 175,
         "status": 25
       },
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
+        "quantity": 15,
         "status": 25
       },
       {
         "authors": "Ведехин Александр",
         "authors_info": "https://www.facebook.com/gennadi.kazadoev",
+        "quantity": 75,
         "status": 25
       },
       {
@@ -393,6 +403,7 @@
       {
         "authors": "Вайнонен Катарина, Архипова Екатерина",
         "authors_info": "https://www.facebook.com/katariina.vainonen, https://www.facebook.com/jekaterina.arhipova",
+        "quantity": 150,
         "status": 25
       }
     ]
@@ -404,6 +415,7 @@
       {
         "authors": "Линник Ольга",
         "authors_info": "https://www.facebook.com/linniklinnik",
+        "quantity": 145,
         "status": 20
       },
       {
@@ -420,6 +432,7 @@
       {
         "authors": "Талисайнен Георгий",
         "authors_info": "https://www.facebook.com/georgi.talisainen",
+        "quantity": 125,
         "status": 25
       }
     ]
@@ -431,6 +444,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "quantity": 250,
         "status": 25
       }
     ]
@@ -458,6 +472,7 @@
       {
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
+        "quantity": 200,
         "status": 20
       }
     ]
@@ -489,6 +504,7 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
+        "quantity": 120,
         "status": 25
       }
     ]
@@ -500,11 +516,13 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
+        "quantity": 70,
         "status": 25
       },
       {
         "authors": "Талисайнен Георгий",
         "authors_info": "https://www.facebook.com/georgi.talisainen",
+        "quantity": 150,
         "status": 25
       }
     ]
@@ -531,6 +549,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "quantity": 250,
         "status": 25
       }
     ]
@@ -542,6 +561,7 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
+        "quantity": 210,
         "status": 25
       }
     ]
@@ -554,6 +574,7 @@
       {
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
+        "quantity": 190,
         "status": 20
       }
     ]
@@ -565,6 +586,7 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
+        "quantity": 135,
         "status": 25
       }
     ]
@@ -595,6 +617,7 @@
       {
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
+        "quantity": 400,
         "status": 20
       }
     ]
@@ -607,11 +630,13 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
+        "quantity": 85,
         "status": 25
       },
       {
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
+        "quantity": 175,
         "status": 20
       }
     ]
@@ -666,6 +691,7 @@
       {
         "authors": "Хаманов Антон",
         "authors_info": "https://www.facebook.com/akhamanov",
+        "quantity": 200,
         "status": 20
       }
     ]
@@ -678,11 +704,13 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
+        "quantity": 125,
         "status": 25
       },
       {
         "authors": "Талисайнен Георгий",
         "authors_info": "https://www.facebook.com/georgi.talisainen",
+        "quantity": 80,
         "status": 25
       },
       {
@@ -704,6 +732,7 @@
       {
         "authors": "Вайнонен Катарина, Архипова Екатерина, Линник Ольга",
         "authors_info": "https://www.facebook.com/katariina.vainonen, https://www.facebook.com/jekaterina.arhipova, https://www.facebook.com/linniklinnik",
+        "quantity": 175,
         "status": 25
       }
     ]
@@ -716,6 +745,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "quantity": 300,
         "status": 25
       }
     ]
@@ -736,6 +766,7 @@
       {
         "authors": "Мююрсепп Валерия",
         "authors_info": "https://www.facebook.com/valeria.muursepp",
+        "quantity": 50,
         "status": 20
       },
       {
@@ -778,6 +809,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "quantity": 225,
         "status": 25
       }
     ]
@@ -806,6 +838,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "quantity": 250,
         "status": 25
       }
     ]
@@ -843,6 +876,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "quantity": 250,
         "status": 25
       }
     ]
@@ -879,6 +913,7 @@
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "quantity": 275,
         "status": 25
       }
     ]
