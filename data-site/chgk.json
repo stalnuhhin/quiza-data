@@ -1,0 +1,24 @@
+[
+  {
+    "name": "36 цветов: балтийский пурпур",
+    "image": "20220624_36cvetov_01.png",
+    "questionCount": 36,
+    "editors": [
+      {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"}
+    ],
+    "synch": {
+      "url": "https://rating.chgk.info/tournament/8115",
+      "registerUrl": "https://rating.chgk.info/tournament/8115/requests",
+      "start": "24.06.2022",
+      "end": "30.06.2022",
+      "price": "Благотворительный взнос"
+    },
+    "asynch": {
+      "url": "https://rating.chgk.info/tournament/8116",
+      "registerUrl": "https://rating.chgk.info/tournament/8116/requests",
+      "start": "01.07.2022",
+      "end": "21.07.2022",
+      "price": "Благотворительный взнос"
+    }
+  }
+]
