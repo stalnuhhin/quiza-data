@@ -4,7 +4,8 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/777743400329768",
     "blocks": [
       {
-        "authors": "Хаманов Антон"
+        "authors": "Хаманов Антон",
+        "quantity": 180
       }
     ]
   },
@@ -26,7 +27,7 @@
       {
         "authors": "Ралдугин Александр",
         "authors_info": "https://www.facebook.com/profile.php?id=100008047814772",
-        "quantity": 155,
+        "quantity": 159,
         "date_pub": "2022-06-22T09:00:00+03:00",
         "status": 40
       }
@@ -231,7 +232,7 @@
       {
         "authors": "Макагонов Алексей, Макагонова София",
         "authors_info": "https://www.facebook.com/makagonovaleksei",
-        "quantity": 150,
+        "quantity": 159,
         "date_pub": "2022-06-22T09:00:00+03:00",
         "status": 40
       }
@@ -707,7 +708,7 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
-        "quantity": 125,
+        "quantity": 145,
         "date_pub": "2022-06-22T09:00:00+03:00",
         "status": 40
       },
