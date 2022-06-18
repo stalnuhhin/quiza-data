@@ -854,14 +854,9 @@
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/456780362426075",
     "event_url": "https://www.facebook.com/events/204651754738236/?active_tab=discussion",
     "name": "Бисмарк против Котиков на синтезаторах в космосе",
-    "blocks": [
-      {
-        "authors": "Бережинский Александр"
-      },
-      {
-        "authors": "Крехов Арсений"
-      }
-    ]
+    "description": "Игра утеряна. Музыка не нарезалась, игралась напрямую из источников.",
+    "no_data": 1,
+    "blocks": [{"authors": "Бережинский Александр"}, {"authors": "Крехов Арсений"}]
   },
   {
     "date_start": "2021-02-19T18:18:00+02:00",
