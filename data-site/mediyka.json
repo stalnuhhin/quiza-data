@@ -36,6 +36,8 @@
     "blocks": [
       {
         "authors": "Гойдов Михаил",
+        "authors_info": "https://www.facebook.com/mihhail.goidov",
+        "quantity": 125,
         "status": 25
       }
     ]
@@ -87,7 +89,9 @@
     "blocks": [
       {
         "authors": "Ворошнин Дмитрий",
-        "status": 10
+        "authors_info": "https://www.facebook.com/dmitri.vorosnin",
+        "quantity": 125,
+        "status": 25
       }
     ]
   },
@@ -1014,15 +1018,13 @@
         "authors": "Кламас Анастасия",
         "authors_info": "https://www.facebook.com/anastasia.malakhova.71",
         "quantity": 150,
-        "date_pub": "2022-06-22T09:00:00+03:00",
-        "status": 40
+        "status": 20
       },
       {
         "authors": "Ильвес Лидия",
         "authors_info": "https://www.facebook.com/lidia.ilves",
         "quantity": 30,
-        "date_pub": "2022-06-22T09:00:00+03:00",
-        "status": 40
+        "status": 20
       }
     ]
   },
