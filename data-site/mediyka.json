@@ -27,7 +27,8 @@
         "size_mb": 45,
         "file_url": "https://bit.ly/20220603_077_aleksandrraldugin",
         "date_pub": "2022-06-21T04:00:00+03:00",
-        "status": 40
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -139,8 +140,7 @@
         "size_mb": 208,
         "file_url": "https://bit.ly/20220318_066_dmitristalnuhhin",
         "date_pub": "2022-05-24T15:50:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -208,8 +208,7 @@
         "size_mb": 23,
         "file_url": "https://bit.ly/20220304_064-1_antonhamanov",
         "date_pub": "2022-05-24T15:50:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       },
       {
         "authors": "Стальнухин Антон",
@@ -219,8 +218,7 @@
         "size_mb": 21,
         "file_url": "https://bit.ly/20220304_064-2_antonstalnuhhin",
         "date_pub": "2022-05-24T15:50:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -237,7 +235,8 @@
         "size_mb": 193,
         "file_url": "https://bit.ly/20220225_063_makagonovs",
         "date_pub": "2022-06-21T04:00:00+03:00",
-        "status": 40
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -733,7 +732,8 @@
         "size_mb": 73,
         "file_url": "https://bit.ly/20210723_033-1_arsenikrehov",
         "date_pub": "2022-06-21T04:00:00+03:00",
-        "status": 40
+        "status": 40,
+        "new": 1
       },
       {
         "authors": "Талисайнен Георгий",
@@ -742,7 +742,8 @@
         "size_mb": 11,
         "file_url": "https://bit.ly/20210723_033-2_georgitalisainen",
         "date_pub": "2022-06-21T04:00:00+03:00",
-        "status": 40
+        "status": 40,
+        "new": 1
       },
       {
         "authors": "Хаманов Антон",
@@ -752,7 +753,8 @@
         "size_mb": 9,
         "file_url": "https://bit.ly/20210723_033-3_antonhamanov",
         "date_pub": "2022-06-21T04:00:00+03:00",
-        "status": 40
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -939,7 +941,8 @@
         "size_mb": 262,
         "file_url": "https://bit.ly/20201218_019_mihhailgoidov",
         "date_pub": "2022-06-21T04:00:00+03:00",
-        "status": 40
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -1063,8 +1066,7 @@
         "size_mb": 12,
         "file_url": "https://bit.ly/20201023_011_dmitrivoroshnin",
         "date_pub": "2022-05-24T15:50:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
