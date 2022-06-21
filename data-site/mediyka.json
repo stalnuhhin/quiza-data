@@ -16,13 +16,15 @@
   {
     "num": 76,
     "date_start": "2022-06-03T20:00:00+03:00",
-    "name": "Первый летний",
     "notice_url": "https://www.facebook.com/groups/271779974259449",
+    "name": "Первый летний",
+    "description": "Саша подготовил 159 вопросов (из которых 26 - музыкальные) на разные темы. Есть непростые вопросы на логику.",
     "blocks": [
       {
         "authors": "Ралдугин Александр",
         "authors_info": "https://www.facebook.com/profile.php?id=100008047814772",
         "quantity": 159,
+        "size_mb": 45,
         "date_pub": "2022-06-22T09:00:00+03:00",
         "status": 40
       }
@@ -225,11 +227,13 @@
     "num": 63,
     "date_start": "2022-02-25T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/701728154597960",
+    "description": "159 вопросов от семейства Макагоновых. Около 30 музыкальных вопросов.",
     "blocks": [
       {
         "authors": "Макагонов Алексей, Макагонова София",
         "authors_info": "https://www.facebook.com/makagonovaleksei",
         "quantity": 159,
+        "size_mb": 193,
         "date_pub": "2022-06-22T09:00:00+03:00",
         "status": 40
       }
@@ -717,12 +721,14 @@
     "num": 33,
     "date_start": "2021-07-23T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/558352475602196",
+    "description": "275 вопросов. Арсений, как всегда, порадует кино и музыкой. Георгий - комиксами и мемами. Антон - советскими реалиями и более классическим свояком.",
     "name": "Стар vs. Млад",
     "blocks": [
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
         "quantity": 145,
+        "size_mb": 73,
         "date_pub": "2022-06-22T09:00:00+03:00",
         "status": 40
       },
@@ -730,6 +736,7 @@
         "authors": "Талисайнен Георгий",
         "authors_info": "https://www.facebook.com/georgi.talisainen",
         "quantity": 80,
+        "size_mb": 11,
         "date_pub": "2022-06-22T09:00:00+03:00",
         "status": 40
       },
@@ -918,11 +925,13 @@
     "num": 19,
     "date_start": "2020-12-18T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/408851367218975",
+    "description": "В пакете 280 вопросов, среди которых 70 - музыкальные или видео. Нет Марвела или DC, зато несколько сложных тем по Эстонии.",
     "blocks": [
       {
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
         "quantity": 280,
+        "size_mb": 262,
         "date_pub": "2022-06-22T09:00:00+03:00",
         "status": 40
       }
@@ -1082,7 +1091,7 @@
     "num": 7,
     "date_start": "2020-09-25T20:30:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/340128457424600",
-    "description": "Не было медиек, играли свою игру из базы.",
+    "status": 0,
     "closed": 1,
     "blocks": []
   },
@@ -1112,7 +1121,7 @@
     "num": 3,
     "date_start": "2020-08-07T18:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/303177654453014",
-    "description": "Не было медиек, играли свою игру из базы.",
+    "status": 0,
     "closed": 1,
     "blocks": []
   },
@@ -1128,7 +1137,7 @@
     "num": 1,
     "date_start": "2020-07-10T18:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/282335166537263",
-    "description": "Не было медиек, играли свою игру из базы.",
+    "status": 0,
     "closed": 1,
     "blocks": []
   }
