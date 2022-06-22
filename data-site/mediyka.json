@@ -93,9 +93,7 @@
     "blocks": [
       {
         "authors": "Ворошнин Дмитрий",
-        "authors_info": "https://www.facebook.com/dmitri.vorosnin",
-        "quantity": 125,
-        "status": 25
+        "status": 10
       }
     ]
   },
@@ -441,7 +439,9 @@
       },
       {
         "authors": "Ворошнин Дмитрий",
-        "status": 10
+        "authors_info": "https://www.facebook.com/dmitri.vorosnin",
+        "quantity": 125,
+        "status": 25
       }
     ]
   },
