@@ -1,5 +1,28 @@
 [
   {
+    "num": 81,
+    "date_start": "2022-07-08T19:00:00+03:00",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/793032655467509",
+    "closed": 1,
+    "blocks": [{"authors": "Крехов Арсений", "quantity": 150, "status": 1}]
+  },
+  {
+    "num": 80,
+    "date_start": "2022-07-01T19:00:00+03:00",
+    "name": "Второй день рождения Совы",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/787763762661065",
+    "blocks": [
+      {
+        "authors": "Гойдов Михаил",
+        "quantity": 150
+      },
+      {
+        "authors": "Линник Ольга",
+        "quantity": 60
+      }
+    ]
+  },
+  {
     "num": 79,
     "date_start": "2022-06-24T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/783452546425520",
