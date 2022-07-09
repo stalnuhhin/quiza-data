@@ -1,29 +1,5 @@
 [
   {
-    "name": "36 цветов: балтийский пурпур",
-    "image": "20220624_36cvetov_01.png",
-    "questionCount": 36,
-    "levelPrediction": "{4.2}",
-    "level": "{6.5}",
-    "editors": [
-      {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"}
-    ],
-    "synch": {
-      "url": "https://rating.chgk.info/tournament/8115",
-      "registerUrl": "https://rating.chgk.info/tournament/8115/requests",
-      "start": "24.06.2022",
-      "end": "30.06.2022",
-      "price": "Благотворительный взнос"
-    },
-    "asynch": {
-      "url": "https://rating.chgk.info/tournament/8116",
-      "registerUrl": "https://rating.chgk.info/tournament/8116/requests",
-      "start": "01.07.2022",
-      "end": "21.07.2022",
-      "price": "Благотворительный взнос"
-    }
-  },
-  {
     "name": "Элементально: Веспен",
     "image": "20220725_elementalno_01.jpg",
     "questionCount": 36,
@@ -44,6 +20,30 @@
       "registerUrl": "https://rating.chgk.info/tournament/8207/requests",
       "start": "01.08.2022",
       "end": "21.08.2022",
+      "price": "Благотворительный взнос"
+    }
+  },
+  {
+    "name": "36 цветов: балтийский пурпур",
+    "image": "20220624_36cvetov_01.png",
+    "questionCount": 36,
+    "levelPrediction": "{4.2}",
+    "level": "{6.5}",
+    "editors": [
+      {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"}
+    ],
+    "synch": {
+      "url": "https://rating.chgk.info/tournament/8115",
+      "registerUrl": "https://rating.chgk.info/tournament/8115/requests",
+      "start": "24.06.2022",
+      "end": "30.06.2022",
+      "price": "Благотворительный взнос"
+    },
+    "asynch": {
+      "url": "https://rating.chgk.info/tournament/8116",
+      "registerUrl": "https://rating.chgk.info/tournament/8116/requests",
+      "start": "01.07.2022",
+      "end": "21.07.2022",
       "price": "Благотворительный взнос"
     }
   }
