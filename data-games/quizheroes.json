@@ -4,7 +4,7 @@
     "org": "Quiz Heroes",
     "image": "quizheroes.png",
     "url": ["https://quizheroes.ru","https://ttttt.me/PlagueQuiz","https://www.instagram.com/quizheroes/","https://vk.com/public194290286"],
-    "latestCheck": "2022-07-01T12:00:00+03:00",
+    "latestCheck": "2022-07-10T12:00:00+03:00",
     "latestGame": "2022-01-14T20:00:00+03:00",
     "priority": 400,
     "games": [
@@ -12,7 +12,8 @@
       {"time": "2022-06-28T20:00:00+03:00", "name": "КОРОЛИ, РЫЦАРИ И ДРАКОНЫ", "price": ["1500 RUB/ком"]},
       {"time": "2022-07-08T20:00:00+03:00", "name": "ЭТО НЕ ШУТКИ!", "price": ["1500 RUB/ком"]},
       {"time": "2022-07-22T20:00:00+03:00", "name": "Простоквиз", "price": ["1500 RUB/ком"]},
-      {"time": "2022-08-05T20:00:00+03:00", "name": "РОЖДЁННЫЕ В СССР", "price": ["1500 RUB/ком"]}
+      {"time": "2022-08-05T20:00:00+03:00", "name": "РОЖДЁННЫЕ В СССР", "price": ["1500 RUB/ком"]},
+      {"time": "2022-08-19T20:00:00+03:00", "name": "ГДЕ ЛОГИКА?", "price": ["1500 RUB/ком"]}
     ]
   }
 ]
