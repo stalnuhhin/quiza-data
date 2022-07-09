@@ -8,6 +8,12 @@
     "editors": [
       {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"}
     ],
+    "authors": [
+      {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"},
+      {"name": "Стальнухин Антон", "url": "https://rating.chgk.info/player/30337"},
+      {"name": "Рубанов Иван", "url": "https://rating.chgk.info/player/79944"},
+      {"name": "Вечеринина Ксения", "url": "https://rating.chgk.info/player/5517"}
+    ],
     "synch": {
       "url": "https://rating.chgk.info/tournament/8206",
       "registerUrl": "https://rating.chgk.info/tournament/8206/requests",
@@ -31,6 +37,11 @@
     "level": "{6.5}",
     "editors": [
       {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"}
+    ],
+    "authors": [
+      {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"},
+      {"name": "Рубанов Иван", "url": "https://rating.chgk.info/player/79944"},
+      {"name": "Симонов Александр", "url": "https://rating.chgk.info/player/48055"}
     ],
     "synch": {
       "url": "https://rating.chgk.info/tournament/8115",
