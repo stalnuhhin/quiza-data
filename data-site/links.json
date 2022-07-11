@@ -171,11 +171,6 @@
     "desc": "Платформы, на которых собраны различные игры.",
     "items": [
       {
-        "name": "Find Quiz",
-        "desc": "Найди Квиз в Онлайне.",
-        "url": "https://online.findquiz.ru"
-      },
-      {
         "name": "Quantum",
         "desc": "Не самая понятная система, но какие-то игры проводятся.",
         "url": "https://qgame.online/tournaments"
@@ -189,6 +184,16 @@
         "name": "Текущие игры ЧГК",
         "desc": "Сайт со всеми играми ЧГК, которые можно провести согласно установленным регламентам.",
         "url": "https://rating.chgk.info/synch.php"
+      },
+      {
+        "name": "Find Quiz",
+        "desc": "Найди Квиз в Онлайне.",
+        "url": "https://online.findquiz.ru"
+      },
+      {
+        "name": "WHERE.GAMES",
+        "desc": "Ещё одна площадка для объявления ЧГК-игр.",
+        "url": "http://where.games"
       }
     ]
   }
