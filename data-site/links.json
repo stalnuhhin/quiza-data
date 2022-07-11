@@ -1,83 +1,32 @@
 [
   {
-    "name": "Шоу",
-    "desc": "Видео-контент игр и их разбора.",
+    "name": "ЧГК",
+    "desc": "Полезные ресурсы для игроков «Что? Где? Когда?».",
     "items": [
       {
-        "name": "«Своя игра» на Youtube",
-        "url": "https://www.youtube.com/channel/UCvYkzPH2Dj9BJDL05LgBCsw/videos"
+        "name": "База вопросов",
+        "desc": "Все вопросы игр ЧГК, ССИ и прочего.",
+        "url": "https://db.chgk.info"
       },
       {
-        "name": "«Разборка Павла Ершова» на Youtube",
-        "url": "https://www.youtube.com/c/razborka-online/videos"
+        "name": "Рейтинг",
+        "desc": "Международный рейтинг команд ЧГК.",
+        "url": "https://rating.chgk.info/teams.php"
       },
       {
-        "name": "«Что? Где? Когда?» на Youtube",
-        "url": "https://www.youtube.com/playlist?list=PL39l9SxO4ZYtouUlzx_MokUds7LtArzTq"
+        "name": "Cool Bingo",
+        "desc": "Бинго-факты ЧГК в VK-сообществе",
+        "url": "https://vk.com/coolbingo"
       },
       {
-        "name": "Игры спортивного ЧГК в записи (команда Инк)",
-        "url": "https://www.youtube.com/channel/UC88fK7eoFljNPu5epyFZD6A/videos"
+        "name": "Есть вопросы",
+        "desc": "Система внесения результатов игр ЧГК.",
+        "url": "https://game.gotquestions.online"
       },
       {
-        "name": "Игры спортивного ЧГК в записи (Северная сова)",
-        "url": "https://www.youtube.com/channel/UCupJydpDJ4fjgVDCi7_8-7A/videos"
-      },
-      {
-        "name": "«Игроки»",
-        "url": "https://igroki.tv",
-        "extra": [
-          {
-            "name": "Youtube",
-            "url": "https://www.youtube.com/channel/UCI1mXvlrs4VzEgXdSsVpfMg/videos"
-          }
-        ]
-      },
-      {
-        "name": "Своя игра кино",
-        "url": "https://www.youtube.com/c/KinoSecret_quiz/videos"
-      },
-      {
-        "name": "Что? Где? Говно! - некоторые части Ошуительного Хоу с чёрным ЧГК",
-        "url": "https://www.youtube.com/channel/UCSoYSTOt1g_Vdo8xCJeQpHw/videos"
-      },
-      {
-        "name": "Время подумать на Youtube",
-        "url": "https://www.youtube.com/channel/UC8PsskD8G2fAMKoTNmjr3tA/videos",
-        "tags": ["inactive"]
-      }
-    ]
-  },
-  {
-    "name": "Игры",
-    "desc": "То, что можно поиграть в любой момент.",
-    "items": [
-      {
-        "name": "Свояк в Telegram",
-        "url": "https://t.me/ktoto_zanyal_svoyak",
-        "extra": [
-          {
-            "name": "FAQ",
-            "url": "https://telegra.ph/FAQ-po-Svoej-Igre-02-06"
-          }
-        ]
-      },
-      {
-        "name": "Игры webquiz.net",
-        "url": "https://webquiz.net"
-      },
-      {
-        "name": "Игры sporcle.com (англ.)",
-        "url": "https://www.sporcle.com/quizzes"
-      },
-      {
-        "name": "Игры interoves.ml",
-        "url": "https://interoves.ml"
-      },
-      {
-        "name": "Киноигры клуба Янча",
-        "url": "https://quiz.rusdivx.net",
-        "tags": ["inactive"]
+        "name": "С кем играл?",
+        "desc": "С кем и сколько вы играли на основе сайта рейтинга.",
+        "url": "http://chgk.bodrovis.tech/player_infos"
       }
     ]
   },
@@ -86,19 +35,18 @@
     "desc": "Международная ассоциация интеллектуальных игр.",
     "items": [
       {
-        "name": "Сайт",
+        "name": "Главный сайт",
+        "desc": "Вся информация о МАИИ и все ссылки на ресурсы МАИИ.",
         "url": "https://znatoki.site"
       },
       {
-        "name": "Форум",
-        "url": "https://forum.znatoki.site"
-      },
-      {
         "name": "Рейтинг МАИИ",
+        "desc": "Международный рейтинг команд ЧГК по версии МАИИ.",
         "url": "https://rating.maii.li"
       },
       {
-        "name": "Интеллектуальные игры онлайн в facebook",
+        "name": "Интеллектуальные игры онлайн",
+        "desc": "Facebook-группа по поиску онлайн-игр",
         "url": "https://www.facebook.com/groups/229434871583483"
       }
     ]
@@ -108,69 +56,139 @@
     "desc": "Международная ассоциация клубов «Что? Где? Когда?»",
     "items": [
       {
-        "name": "Сайт",
-        "url": "http://mak-chgk.ru",
-        "tags": ["inactive"]
+        "name": "Главный сайт",
+        "desc": "Вся информация о МАК (сайт не работает).",
+        "url": "http://mak-chgk.ru"
       },
       {
-        "name": "Спортивное ЧГК в facebook",
+        "name": "Спортивное ЧГК",
+        "desc": "Группа в facebook.",
         "url": "https://www.facebook.com/groups/chgk.global"
       },
       {
-        "name": "Комиссия МАК по рейтингу в facebook",
+        "name": "Комиссия МАК по рейтингу",
+        "desc": "Группа в facebook. Прикрыта.",
         "url": "https://www.facebook.com/groups/221412008203179"
       }
     ]
   },
+  {
+    "name": "Игры",
+    "desc": "Видео-контент с играми.",
+    "items": [
+      {
+        "name": "«Своя игра»",
+        "desc": "Записи игр с телевидения на Youtube.",
+        "url": "https://www.youtube.com/c/Свояигрантв/videos"
+      },
+      {
+        "name": "«Разборка»",
+        "desc": "Павел Ершов разбирает взятие вопросов на Youtube.",
+        "url": "https://www.youtube.com/c/razborka-online/videos"
+      },
+      {
+        "name": "ТВ «Что? Где? Когда?»",
+        "desc": "Выпуски игр «Что? Где? Когда?» с Первого канала на Rutube.",
+        "url": "https://rutube.ru/metainfo/tv/24016"
+      },
+      {
+        "name": "ТВ «Что? Где? Когда?»",
+        "desc": "За кадром игр «Что? Где? Когда?» на Rutube.",
+        "url": "https://rutube.ru/channel/24138440/videos"
+      },
+      {
+        "name": "Команда «Инк»",
+        "desc": "Записи ЧГК-игр команды «Инк» на Youtube.",
+        "url": "https://www.youtube.com/channel/UC88fK7eoFljNPu5epyFZD6A/videos"
+      },
+      {
+        "name": "«Северная сова»",
+        "desc": "Несколько игр спортивного ЧГК в записи «Северной совы» на Youtube.",
+        "url": "https://www.youtube.com/channel/UCupJydpDJ4fjgVDCi7_8-7A/videos"
+      },
+      {
+        "name": "«Игроки»",
+        "desc": "Записи игры «Игроки» с вопросами в духе спортивного ЧГК на Youtube.",
+        "url": "https://www.youtube.com/channel/UCI1mXvlrs4VzEgXdSsVpfMg/videos"
+      },
+      {
+        "name": "«КиноСекрет»",
+        "desc": "Записи игр киношной «Своей игры» на Youtube",
+        "url": "https://www.youtube.com/c/KinoSecret_quiz/videos"
+      },
+      {
+        "name": "«Что? Где? Говно!»",
+        "desc": "Некоторые части «Ошуительного Хоу» на Youtube содержат пародию на ЧГК с чёрными вопросами.",
+        "url": "https://www.youtube.com/channel/UCSoYSTOt1g_Vdo8xCJeQpHw/videos"
+      },
+      {
+        "name": "«Время подумать»",
+        "desc": "Несколько викторин на Youtube",
+        "url": "https://www.youtube.com/channel/UC8PsskD8G2fAMKoTNmjr3tA/videos"
+      }
+    ]
+  },
+  {
+    "name": "Поиграть",
+    "desc": "То, что можно поиграть в любой момент.",
+    "items": [
+      {
+        "name": "Свояк в Telegram",
+        "desc": "«Своя игра» в Telegram. Читайте FAQ.",
+        "url": "https://t.me/ktoto_zanyal_svoyak",
+        "extra": [
+          {
+            "name": "FAQ",
+            "url": "https://telegra.ph/FAQ-po-Svoej-Igre-02-06"
+          }
+        ]
+      },
+      {
+        "name": "webquiz.net",
+        "desc": "Пакеты своей игры, которые удобно можно сыграть на сайте.",
+        "url": "https://webquiz.net"
+      },
+      {
+        "name": "sporcle.com",
+        "desc": "Много различных викторин на разные темы. На английском языке.",
+        "url": "https://www.sporcle.com/quizzes"
+      },
+      {
+        "name": "interoves.ml",
+        "desc": "Разнообразные игры.",
+        "url": "https://interoves.ml"
+      },
+      {
+        "name": "Киноигры клуба Янча",
+        "desc": "Много игр по фильмам (угадывание кадров, мелодий и цитат).",
+        "url": "https://quiz.rusdivx.net"
+      }
+    ]
+  },
+
   {
     "name": "Агрегаторы",
     "desc": "Платформы, на которых собраны различные игры.",
     "items": [
       {
         "name": "Find Quiz",
+        "desc": "Найди Квиз в Онлайне.",
         "url": "https://online.findquiz.ru"
       },
       {
         "name": "Quantum",
+        "desc": "Не самая понятная система, но какие-то игры проводятся.",
         "url": "https://qgame.online/tournaments"
       },
       {
         "name": "Quizy.pro",
+        "desc": "Много онлайн игр, которые можно сыграть на этой же платформе.",
         "url": "https://quizy.pro"
       },
       {
-        "name": "Рейтинг ЧГК",
-        "url": "https://rating.chgk.info"
-      }
-    ]
-  },
-  {
-    "name": "ЧГК",
-    "desc": "Интересные сайты для игроков ЧГК.",
-    "items": [
-      {
-        "name": "База вопросов (ЧГК, ССИ и прочее)",
-        "url": "https://db.chgk.info"
-      },
-      {
-        "name": "Бинго-факты ЧГК в VK-сообществе",
-        "url": "https://vk.com/coolbingo"
-      },
-      {
-        "name": "Сайт рейтинга",
-        "url": "https://rating.chgk.info"
-      },
-      {
-        "name": "Есть вопросы? (система внесения данных)",
-        "url": "https://game.gotquestions.online"
-      },
-      {
-        "name": "Статистика (на основе рейтинга)",
-        "url": "http://chgkstat.org"
-      },
-      {
-        "name": "С кем/сколько вы играли (на основе рейтинга)",
-        "url": "http://chgk.bodrovis.tech/player_infos"
+        "name": "Текущие игры ЧГК",
+        "desc": "Сайт со всеми играми ЧГК, которые можно провести согласно установленным регламентам.",
+        "url": "https://rating.chgk.info/synch.php"
       }
     ]
   }
