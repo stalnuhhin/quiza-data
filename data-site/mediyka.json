@@ -1,10 +1,21 @@
 [
   {
+    "num": 83,
+    "date_start": "2022-07-22T19:00:00+03:00",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/801482057955902",
+    "blocks": [
+      {
+        "authors": "Гойдов Михаил",
+        "quantity": 150
+      }
+    ]
+  },
+  {
     "num": 82,
     "date_start": "2022-07-15T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/797323391705102",
     "closed": 1,
-    "blocks": [{"authors": "Хаманов Антон", "status": 1}]
+    "blocks": [{"authors": "Хаманов Антон", "quantity": 180, "status": 1}]
   },
   {
     "num": 81,
@@ -33,7 +44,8 @@
     "num": 79,
     "date_start": "2022-06-24T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/783452546425520",
-    "closed": 1
+    "closed": 1,
+    "blocks": [{"authors": "Крехов Арсений", "status": 1}]
   },
   {
     "num": 78,
