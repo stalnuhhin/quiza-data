@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2022-07-10T12:00:00+03:00",
+    "latestCheck": "2022-07-21T12:00:00+03:00",
     "latestGame": "2021-12-11T15:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -86,6 +86,24 @@
         "name": "Українська ліга. Сезон 2021-2022. Етап 6. Прем'єра!",
         "price": ["600 UAH/ком"],
         "url": ["https://beeclever.space/regform.php?turnir=152"]
+      },
+      {
+        "time": "2022-07-17T20:00:00+03:00",
+        "name": "Onan Cup. Премьера!",
+        "price": ["600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=154"]
+      },
+      {
+        "time": "2022-07-19T20:00:00+03:00",
+        "name": "Українська ліга. Сезон 2021-2022. Етап 6",
+        "price": ["600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=156"]
+      },
+      {
+        "time": "2022-07-23T20:00:00+03:00",
+        "name": "Город грехов - 2022: Hey, Hey, Rise Up!",
+        "price": ["20 USD/ком", "600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=157"]
       }
     ]
   }
