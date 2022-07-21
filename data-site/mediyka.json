@@ -394,6 +394,7 @@
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
         "quantity": 100,
+        "date_pub": "2022-07-22T10:00:00+03:00",
         "status": 25
       },
       {
@@ -402,6 +403,7 @@
         "desc": "В игре 158 вопросов (6 раундов по 5 тем). Все темы игры представляют собой \"Матричный свояк\" по правилам которого все верные ответы должны \"попадать\" в заявленную матрицу.",
         "quantity": 160,
         "size_mb": 125,
+        "date_pub": "2022-07-22T10:00:00+03:00",
         "status": 30
       }
     ]
@@ -948,6 +950,7 @@
         "authors": "Гойдов Михаил",
         "authors_info": "https://www.facebook.com/mihhail.goidov",
         "quantity": 250,
+        "date_pub": "2022-07-22T10:00:00+03:00",
         "status": 25
       }
     ]
@@ -964,6 +967,7 @@
         "authors_info": "https://anton.stalnuhhin.ee",
         "quantity": 265,
         "size_mb": 284,
+        "date_pub": "2022-07-22T10:00:00+03:00",
         "status": 30
       }
     ]
@@ -1026,6 +1030,7 @@
         "description": "В игре 14 тем - 70 вопросов, из них музыкальных - 17 вопросов.",
         "quantity": 70,
         "size_mb": 21,
+        "date_pub": "2022-07-22T10:00:00+03:00",
         "status": 30
       }
     ]
