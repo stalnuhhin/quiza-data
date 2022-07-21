@@ -393,18 +393,23 @@
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
-        "quantity": 100,
+        "quantity": 110,
+        "size_mb": 45,
+        "file_url": "https://bit.ly/20220107_056-1_arsenikrehov",
         "date_pub": "2022-07-22T10:00:00+03:00",
-        "status": 25
+        "status": 40,
+        "new": 1
       },
       {
         "authors": "Стальнухин Дмитрий",
         "authors_info": "https://twitter.com/timquo",
         "desc": "В игре 158 вопросов (6 раундов по 5 тем). Все темы игры представляют собой \"Матричный свояк\" по правилам которого все верные ответы должны \"попадать\" в заявленную матрицу.",
         "quantity": 160,
-        "size_mb": 125,
+        "size_mb": 126,
+        "file_url": "https://bit.ly/20220107_056-2_dmitristalnuhhin",
         "date_pub": "2022-07-22T10:00:00+03:00",
-        "status": 30
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -965,10 +970,11 @@
       {
         "authors": "Стальнухин Антон",
         "authors_info": "https://anton.stalnuhhin.ee",
-        "quantity": 265,
-        "size_mb": 284,
+        "quantity": 284,
+        "file_url": "https://bit.ly/20210205_021_antonstalnuhhin",
         "date_pub": "2022-07-22T10:00:00+03:00",
-        "status": 30
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -1030,8 +1036,10 @@
         "description": "В игре 14 тем - 70 вопросов, из них музыкальных - 17 вопросов.",
         "quantity": 70,
         "size_mb": 21,
+        "file_url": "https://bit.ly/20201218_019_mihhailgoidov",
         "date_pub": "2022-07-22T10:00:00+03:00",
-        "status": 30
+        "status": 40,
+        "new": 1
       }
     ]
   },
