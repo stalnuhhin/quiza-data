@@ -75,8 +75,7 @@
         "size_mb": 45,
         "file_url": "https://bit.ly/20220603_077_aleksandrraldugin",
         "date_pub": "2022-06-21T04:00:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -281,8 +280,7 @@
         "size_mb": 193,
         "file_url": "https://bit.ly/20220225_063_makagonovs",
         "date_pub": "2022-06-21T04:00:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -388,11 +386,12 @@
     "photo_url": "https://www.facebook.com/groups/PohjaOokull/posts/673028164134626",
     "questions_url": "https://www.facebook.com/groups/PohjaOokull/posts/673032020800907",
     "name": "Медийка перед кубком Северной совы",
-    "description": "Дмитрий Стальнухин: В игре 158 вопросов (6 раундов по 5 тем). Все темы игры представляют собой \"Матричный свояк\" по правилам которого все верные ответы должны \"попадать\" в заявленную матрицу.",
+    "description": "У Арсения Крехова в игре 110 вопросов, 30 из которых - музыкальные. В игре Дмитрия Стальнухина 158 вопросов (6 раундов по 5 тем). Все темы игры представляют собой \"Матричный свояк\" по правилам которого все верные ответы должны \"попадать\" в заявленную матрицу.",
     "blocks": [
       {
         "authors": "Крехов Арсений",
         "authors_info": "https://www.facebook.com/krekhov99",
+        "desc": "В игре 110 вопросов, 30 из которых - музыкальные.",
         "quantity": 110,
         "size_mb": 45,
         "file_url": "https://bit.ly/20220107_056-1_arsenikrehov",
@@ -787,8 +786,7 @@
         "size_mb": 73,
         "file_url": "https://bit.ly/20210723_033-1_arsenikrehov",
         "date_pub": "2022-06-21T04:00:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       },
       {
         "authors": "Талисайнен Георгий",
@@ -797,8 +795,7 @@
         "size_mb": 11,
         "file_url": "https://bit.ly/20210723_033-2_georgitalisainen",
         "date_pub": "2022-06-21T04:00:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       },
       {
         "authors": "Хаманов Антон",
@@ -808,8 +805,7 @@
         "size_mb": 9,
         "file_url": "https://bit.ly/20210723_033-3_antonhamanov",
         "date_pub": "2022-06-21T04:00:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -998,8 +994,7 @@
         "size_mb": 262,
         "file_url": "https://bit.ly/20201218_019_mihhailgoidov",
         "date_pub": "2022-06-21T04:00:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -1022,6 +1017,7 @@
     "num": 17,
     "date_start": "2020-12-04T20:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/398815048222607",
+    "description": "В игре Дмитрия Ворошнина 14 тем - 70 вопросов, из них музыкальных - 17 вопросов.",
     "blocks": [
       {
         "authors": "Линник Ольга",
@@ -1032,7 +1028,7 @@
       {
         "authors": "Ворошнин Дмитрий",
         "authors_info": "https://www.facebook.com/dmitri.vorosnin",
-        "description": "В игре 14 тем - 70 вопросов, из них музыкальных - 17 вопросов.",
+        "desc": "В игре 14 тем - 70 вопросов, из них музыкальных - 17 вопросов.",
         "quantity": 70,
         "size_mb": 21,
         "file_url": "https://bit.ly/20201218_019_mihhailgoidov",
