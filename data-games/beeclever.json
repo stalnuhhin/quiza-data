@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2022-07-21T12:00:00+03:00",
+    "latestCheck": "2022-07-30T12:00:00+03:00",
     "latestGame": "2021-12-11T15:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -104,6 +104,30 @@
         "name": "Город грехов - 2022: Hey, Hey, Rise Up!",
         "price": ["20 USD/ком", "600 UAH/ком"],
         "url": ["https://beeclever.space/regform.php?turnir=157"]
+      },
+      {
+        "time": "2022-07-26T20:00:00+03:00",
+        "name": "Синхрон с человеческим лицом",
+        "price": ["20 USD/ком", "600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=158"]
+      },
+      {
+        "time": "2022-07-27T20:00:00+03:00",
+        "name": "Синхрон с человеческим лицом Х. Повтор",
+        "price": ["20 USD/ком", "600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=161"]
+      },
+      {
+        "time": "2022-07-28T20:00:00+03:00",
+        "name": "Город грехов - 2022: Hey, Hey, Rise Up!",
+        "price": ["20 USD/ком", "600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=159"]
+      },
+      {
+        "time": "2022-07-29T20:00:00+03:00",
+        "name": "Город грехов - 2022: Hey, Hey, Rise Up! Дополнительная игра",
+        "price": ["20 USD/ком", "600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=160"]
       }
     ]
   }
