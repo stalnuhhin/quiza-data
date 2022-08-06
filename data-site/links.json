@@ -45,6 +45,16 @@
         "url": "https://znatoki.site"
       },
       {
+        "name": "Рассылка МАИИ",
+        "desc": "Ежемесячная рассылка МАИИ. Собраны все новости в мире интеллектуальных игр.",
+        "url": "https://infomaii.substack.com/archive?sort=new"
+      },
+      {
+        "name": "Турниры разных стран",
+        "desc": "МАИИ собрала ссылки и информацию по разным турнирам.",
+        "url": "https://www.maii.li/p/tournaments"
+      },
+      {
         "name": "Рейтинг МАИИ",
         "desc": "Международный рейтинг команд ЧГК по версии МАИИ.",
         "url": "https://rating.maii.li"
