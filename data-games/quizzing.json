@@ -7,7 +7,7 @@
     "latestCheck": "2022-08-13T12:00:00+03:00",
     "latestGame": "2022-08-21T03:00:00+03:00",
     "priority": 510,
-    "price": ["50 RUB/чел"],
+    "price": ["100 RUB/чел"],
     "games": [
       {"time": "2022-08-12T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Movies100", "url": ["https://vk.com/@quizzing-movies100"]},
       {"time": "2022-08-13T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Movies100", "url": ["https://vk.com/@quizzing-movies100"]},
