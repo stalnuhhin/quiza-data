@@ -3,8 +3,8 @@
     "id": "964fc8f7-e483-46df-a645-f94174128ae5",
     "org": "Ума Палата Online",
     "image": "umkaonline.png",
-    "latestCheck": "2022-07-30T12:00:00+03:00",
-    "latestGame": "2021-11-26T22:00:00+03:00",
+    "latestCheck": "2022-08-12T12:00:00+03:00",
+    "latestGame": "2022-08-10T22:00:00+03:00",
     "priority": 400,
     "hasContent": true,
     "noregistration": true,
@@ -35,7 +35,7 @@
       { "time": "2022-07-07T21:00:00+03:00", "name": "Ума Палата #melomania"},
       { "time": "2022-07-26T21:00:00+03:00", "name": "Ума Палата #cinemania"},
       { "time": "2022-08-02T21:00:00+03:00", "name": "Ума Палата #вечерняяумка"},
-      { "time": "2022-08-04T21:00:00+03:00", "name": "Ума Палата #melomania"}
+      { "time": "2022-08-10T21:00:00+03:00", "name": "Ума Палата #melomania"}
     ]
   }
 ]

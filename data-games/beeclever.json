@@ -4,8 +4,8 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2022-07-30T12:00:00+03:00",
-    "latestGame": "2021-12-11T15:00:00+02:00",
+    "latestCheck": "2022-08-13T12:00:00+03:00",
+    "latestGame": "2022-08-12T12:00:00+02:00",
     "chgk": true,
     "priority": 50,
     "games": [
@@ -128,6 +128,24 @@
         "name": "Город грехов - 2022: Hey, Hey, Rise Up! Дополнительная игра",
         "price": ["20 USD/ком", "600 UAH/ком"],
         "url": ["https://beeclever.space/regform.php?turnir=160"]
+      },
+      {
+        "time": "2022-08-06T20:00:00+03:00",
+        "name": "Conan Cup II: Между землёй и небом. Онлайн-премьера!",
+        "price": ["20 USD/ком", "600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=164"]
+      },
+      {
+        "time": "2022-08-09T20:00:00+03:00",
+        "name": "Conan Cup II: Між землею та небом (укр.)",
+        "price": ["20 USD/ком", "600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=165"]
+      },
+      {
+        "time": "2022-08-12T20:00:00+03:00",
+        "name": "Город грехов - 2022: Hey, Hey, Rise Up!",
+        "price": ["20 USD/ком", "600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=166"]
       }
     ]
   }
