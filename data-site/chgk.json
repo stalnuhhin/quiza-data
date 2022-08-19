@@ -1,5 +1,38 @@
 [
   {
+    "name": "36 цветов: рапсовое поле в грозу",
+    "image": "20220901_36cvetov_02.png",
+    "questionCount": 36,
+    "levelPrediction": "{5.0}",
+    "editors": [
+      {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"}
+    ],
+    "authors": [
+      {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"},
+      {"name": "Стальнухин Антон", "url": "https://rating.chgk.info/player/30337"},
+      {"name": "Вечеринина Ксения", "url": "https://rating.chgk.info/player/5517"},
+      {"name": "Ворошнин Дмитрий", "url": "https://rating.chgk.info/player/95592"},
+      {"name": "Бивейнис Александр", "url": "https://rating.chgk.info/player/150355"}
+    ],
+    "synch": {
+      "url": "https://rating.chgk.info/tournament/8315",
+      "registerUrl": "https://rating.chgk.info/tournament/8315/requests",
+      "start": "01.09.2022",
+      "end": "07.09.2022",
+      "price": "Благотворительный взнос"
+    },
+    "asynch": {
+      "url": "https://rating.chgk.info/tournament/8316",
+      "registerUrl": "https://rating.chgk.info/tournament/8316/requests",
+      "start": "08.09.2022",
+      "end": "05.10.2022",
+      "price": "Благотворительный взнос"
+    },
+    "external": [
+      {"name": "Анонс синхрона в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2202990626530887"}
+    ]
+  },
+  {
     "name": "36 элементов: Веспен",
     "image": "20220725_36elementov_01.png",
     "questionCount": 36,
