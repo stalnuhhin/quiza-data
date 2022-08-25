@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2022-08-20T12:00:00+03:00",
+    "latestCheck": "2022-08-26T12:00:00+03:00",
     "latestGame": "2022-08-12T12:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -146,6 +146,18 @@
         "name": "Город грехов - 2022: Hey, Hey, Rise Up!",
         "price": ["20 USD/ком", "600 UAH/ком"],
         "url": ["https://beeclever.space/regform.php?turnir=166"]
+      },
+      {
+        "time": "2022-08-22T20:00:00+03:00",
+        "name": "Бурштиновий лінґам - 2022. Прем’єра! Онлайн-Занки",
+        "price": ["20 USD/ком", "600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=168"]
+      },
+      {
+        "time": "2022-08-23T20:00:00+03:00",
+        "name": "Мы прачнемся іншымі. Прем’єра! Онлайн-Занки",
+        "price": ["600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=169"]
       }
     ]
   }

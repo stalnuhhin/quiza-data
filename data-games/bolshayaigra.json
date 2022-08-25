@@ -4,7 +4,7 @@
     "org": "Большая игра",
     "image": "bolshayaigra.png",
     "url": ["https://chgk-world.ru/tournaments"],
-    "latestCheck": "2022-08-20T12:00:00+03:00",
+    "latestCheck": "2022-08-26T12:00:00+03:00",
     "latestGame": "2022-08-30T12:00:00+02:00",
     "priority": 40,
     "chgk": true,
@@ -112,9 +112,11 @@
       {"time": "2022-08-27T13:00:00+03:00", "name": "Базовая Лига. Игра 5.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1184"]},
       {"time": "2022-08-27T22:00:00+03:00", "name": "Базовая Лига. Игра 5.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1184"]},
       {"time": "2022-08-28T13:00:00+03:00", "name": "М-лига 29.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1180"]},
+      {"time": "2022-08-28T16:00:00+03:00", "name": "Турнир: Линч: Твин Пикс", "price": ["700 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1188"]},
       {"time": "2022-08-28T22:00:00+03:00", "name": "М-лига 29.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1180"]},
       {"time": "2022-08-29T20:00:00+03:00", "name": "М-лига 29.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1180"]},
-      {"time": "2022-08-30T20:00:00+03:00", "name": "Базовая Лига. Игра 5.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1184"]}
+      {"time": "2022-08-30T20:00:00+03:00", "name": "Базовая Лига. Игра 5.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1184"]},
+      {"time": "2022-08-31T20:00:00+03:00", "name": "Турнир: Линч: Твин Пикс", "price": ["700 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1188"]}
     ]
   }
 ]
