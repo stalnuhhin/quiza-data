@@ -60,9 +60,44 @@
         "url": "https://rating.maii.li"
       },
       {
-        "name": "Игры онлайн",
-        "desc": "Facebook-группа по поиску онлайн-игр",
+        "name": "FB: Спортивные интеллектуальные игры",
+        "desc": "Группа Facebook на 5400+ участников",
+        "url": "https://www.facebook.com/groups/chgk.global"
+      },
+      {
+        "name": "FB: Интеллектуальные игры онлайн",
+        "desc": "Группа Facebook на 1500+ участников",
         "url": "https://www.facebook.com/groups/229434871583483"
+      },
+      {
+        "name": "FB: just_chgk",
+        "desc": "Группа Facebook на 300+ участников",
+        "url": "https://www.facebook.com/groups/justchgk"
+      },
+      {
+        "name": "LJ: Что? Где? Когда? в ЖЖ",
+        "desc": "Группа ЖЖ на 3200+ участников",
+        "url": "https://chgk.livejournal.com"
+      },
+      {
+        "name": "LJ: Спортивные интеллектуальные игры",
+        "desc": "Группа ЖЖ на 1900+ участников",
+        "url": "https://igra1.livejournal.com"
+      },
+      {
+        "name": "VK: Спортивное «Что? Где? Когда?»",
+        "desc": "Группа ВК на 22500+ участников",
+        "url": "https://vk.com/chgkvk"
+      },
+      {
+        "name": "TG: Что? Где? Когда?",
+        "desc": "Группа Telegram на 1500+ участников (зеркало ВК-группы Спортивное «Что? Где? Когда?»)",
+        "url": "https://t.me/chgkvk"
+      },
+      {
+        "name": "TG: Спортивное ЧГК. Новости",
+        "desc": "Группа Telegram на 250+ участников (зеркало ЖЖ-группы Спортивные интеллектуальные игры)",
+        "url": "https://t.me/chgkvk"
       }
     ]
   },
