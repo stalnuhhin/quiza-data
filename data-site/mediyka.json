@@ -1,5 +1,16 @@
 [
   {
+    "num": 88,
+    "date_start": "2022-09-02T19:00:00+03:00",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/828804101890364",
+    "blocks": [
+      {
+        "authors": "Мююрсепп Валерия",
+        "status": 10
+      }
+    ]
+  },
+  {
     "num": 87,
     "date_start": "2022-08-26T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/824761372294637",
