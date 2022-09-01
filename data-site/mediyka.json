@@ -36,10 +36,17 @@
     "num": 84,
     "date_start": "2022-07-29T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/806378084132966",
+    "description": "Тимур сделал игру на 180 вопросах, из которых 30 - музыкальные. Есть некоторое количество туров, завязанных на Эстонию, но не очень много.",
     "blocks": [
       {
         "authors": "Сагитов Тимур",
-        "quantity": 150
+        "authors_info": "https://www.facebook.com/Geodezer",
+        "quantity": 180,
+        "size_mb": 44,
+        "file_url": "https://bit.ly/20220729_084_timursagitov",
+        "date_pub": "2022-10-01T11:30:00+03:00",
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -181,6 +188,7 @@
     "num": 70,
     "date_start": "2022-04-15T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/735595114544597",
+    "description": "Дима составил 30 туров по числам от 1 до 30. В турах разное количество вопросов, очень часто из больше пяти, поэтому в сумме вопросов не 150, а 280. Из них 31 - музыкальные.",
     "blocks": [
       {
         "authors": "Ворошнин Дмитрий",
