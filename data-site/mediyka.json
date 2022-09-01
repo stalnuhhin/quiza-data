@@ -184,7 +184,13 @@
     "blocks": [
       {
         "authors": "Ворошнин Дмитрий",
-        "status": 10
+        "authors_info": "https://www.facebook.com/dmitri.vorosnin",
+        "quantity": 280,
+        "size_mb": 32,
+        "file_url": "https://bit.ly/20220415_070_dmitrivorosnin",
+        "date_pub": "2022-10-01T03:30:00+03:00",
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -440,8 +446,7 @@
         "size_mb": 45,
         "file_url": "https://bit.ly/20220107_056-1_arsenikrehov",
         "date_pub": "2022-07-22T00:10:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       },
       {
         "authors": "Стальнухин Дмитрий",
@@ -451,8 +456,7 @@
         "size_mb": 126,
         "file_url": "https://bit.ly/20220107_056-2_dmitristalnuhhin",
         "date_pub": "2022-07-22T00:10:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -1012,8 +1016,7 @@
         "quantity": 265,
         "file_url": "https://bit.ly/20210205_021_antonstalnuhhin",
         "date_pub": "2022-07-22T00:10:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -1077,8 +1080,7 @@
         "size_mb": 21,
         "file_url": "https://bit.ly/20201218_019_mihhailgoidov",
         "date_pub": "2022-07-22T00:10:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
