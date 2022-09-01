@@ -148,11 +148,17 @@
     "num": 74,
     "date_start": "2022-05-20T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/758929512211157",
+    "description": "30 туров от Леры - 150 вопросов, из них 30 - музыкальные.",
     "blocks": [
       {
         "authors": "Мююрсепп Валерия",
+        "authors_info": "https://www.facebook.com/valeria.muursepp",
         "quantity": 150,
-        "status": 10
+        "size_mb": 28,
+        "file_url": "https://bit.ly/20220520_074_valeriamuursepp",
+        "date_pub": "2022-10-01T12:30:00+03:00",
+        "status": 40,
+        "new": 1
       }
     ]
   },
