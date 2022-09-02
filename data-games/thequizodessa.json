@@ -7,7 +7,6 @@
     "latestCheck": "2022-04-20T12:00:00+03:00",
     "latestGame": "2021-10-29T20:00:00+03:00",
     "priority": 1000,
-    "price": ["100 UAH/чел", "max 500 UAH/ком"],
-    "games": []
+    "price": ["100 UAH/чел", "max 500 UAH/ком"]
   }
 ]

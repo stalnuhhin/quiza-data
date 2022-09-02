@@ -8,7 +8,6 @@
     "latestGame": "2021-07-25T20:00:00+03:00",
     "priority": 1000,
     "name": "City Quiz Online (Киев)",
-    "price": ["300 UAH/ком"],
-    "games": []
+    "price": ["300 UAH/ком"]
   }
 ]

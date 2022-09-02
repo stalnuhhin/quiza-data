@@ -4,22 +4,9 @@
     "org": "Денис Гончар",
     "image": "gonchar2.png",
     "url": ["https://docs.google.com/forms/d/e/1FAIpQLSdZPv5gb1sUW0is24EA1nOrbYfD9P_Vy6nnyWNYC-4rRol0mw/viewform"],
-    "latestCheck": "2021-09-05T12:00:00+03:00",
+    "latestCheck": "2022-09-03T12:00:00+03:00",
     "priority": 30,
     "chgk": true,
-    "templates": {
-      "150": {"price": ["400 RUB/ком", "150 UAH/ком", "6 USD/ком", "8 CAD/ком", "5 EUR/ком"]},
-      "240": {"price": ["800 RUB/ком", "240 UAH/ком", "12 USD/ком", "16 CAD/ком", "10.5 EUR/ком"]},
-      "270": {"price": ["800 RUB/ком", "270 UAH/ком", "12 USD/ком", "16 CAD/ком", "10.5 EUR/ком"]},
-      "300": {"price": ["900 RUB/ком", "300 UAH/ком", "13.5 USD/ком", "18 CAD/ком"]},
-      "330": {"price": ["900 RUB/ком", "330 UAH/ком", "13.5 USD/ком", "18 CAD/ком"]},
-      "360": {"price": ["1000 RUB/ком", "360 UAH/ком", "15 USD/ком", "20 CAD/ком"]},
-      "400": {"price": ["1100 RUB/ком", "400 UAH/ком", "16.5 USD/ком", "22 CAD/ком"]},
-      "430": {"price": ["1200 RUB/ком", "430 UAH/ком", "18 USD/ком", "24 CAD/ком"]},
-      "480": {"price": ["1300 RUB/ком", "480 UAH/ком", "19.5 USD/ком"]},
-      "580": {"price": ["1600 RUB/ком", "580 UAH/ком", "24 USD/ком", "32 CAD/ком"]}
-    },
-    "games": [
-    ]
+    "games": []
   }
 ]

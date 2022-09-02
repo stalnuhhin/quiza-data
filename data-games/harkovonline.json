@@ -8,51 +8,9 @@
       "https://docs.google.com/forms/d/e/1FAIpQLSfOgoaM_1fOULyAKd9pyjzl3dgtSVrNjr20n70MPadnU9SRzg/viewform",
       "https://www.facebook.com/groups/khvip.online/announcements"
     ],
-    "latestCheck": "2022-03-26T12:00:00+03:00",
+    "latestCheck": "2022-09-03T12:00:00+03:00",
     "priority": 30,
     "chgk": true,
-    "templates": {
-      "free": {"free": true, "donation": true},
-      "100": {"price": ["300 RUB/ком", "100 UAH/ком", "4 USD/ком"]},
-      "120": {"price": ["300 RUB/ком", "120 UAH/ком", "4 USD/ком"]},
-      "140": {"price": ["400 RUB/ком", "140 UAH/ком", "6 USD/ком"]},
-      "180": {"price": ["420 RUB/ком", "180 UAH/ком", "6 USD/ком"]},
-      "200": {"price": ["600 RUB/ком", "200 UAH/ком", "8 USD/ком"]},
-      "240": {"price": ["800 RUB/ком", "240 UAH/ком", "10 USD/ком"]},
-      "270": {"price": ["800 RUB/ком", "270 UAH/ком", "11 USD/ком"]},
-      "300": {"price": ["900 RUB/ком", "300 UAH/ком", "12 USD/ком"]},
-      "330": {"price": ["900 RUB/ком", "330 UAH/ком", "13 USD/ком"]},
-      "360": {"price": ["1000 RUB/ком", "360 UAH/ком", "14 USD/ком"]},
-      "390": {"price": ["1100 RUB/ком", "390 UAH/ком", "15 USD/ком"]},
-      "400": {"price": ["1100 RUB/ком", "400 UAH/ком", "15 USD/ком"]},
-      "420": {"price": ["1200 RUB/ком", "420 UAH/ком", "16 USD/ком"]},
-      "450": {"price": ["1200 RUB/ком", "450 UAH/ком", "16 USD/ком"]},
-      "460": {"price": ["1300 RUB/ком", "460 UAH/ком", "17 USD/ком"]},
-      "480": {"price": ["1300 RUB/ком", "480 UAH/ком", "17 USD/ком"]},
-      "510": {"price": ["1500 RUB/ком", "510 UAH/ком", "20 USD/ком"]},
-      "600": {"price": ["1700 RUB/ком", "600 UAH/ком", "21 USD/ком"]}
-    },
-    "games": [
-      {"time": "2022-03-21T19:00:00+02:00", "name": "Персиб XX. День Первый", "price": ["360 UAH/ком", "1300 RUB/ком"]},
-      {"time": "2022-03-21T20:00:00+02:00", "name": "Куб-7. Март", "price": ["360 UAH/ком", "1300 RUB/ком"]},
-      {"time": "2022-03-21T21:00:00+02:00", "name": "Хромоотвод-2", "price": ["330 UAH/ком", "1200 RUB/ком"]},
-      {"time": "2022-03-21T22:00:00+02:00", "name": "Персиб XX. День Второй", "price": ["360 UAH/ком", "1300 RUB/ком"]},
-      {"time": "2022-03-22T19:00:00+02:00", "name": "Лёгкий асинхрон Студ. игр БГУ", "price": ["360 UAH/ком", "1300 RUB/ком"]},
-      {"time": "2022-03-22T20:00:00+02:00", "name": "Серия Premier. Мартовские иды-2022", "price": ["360 UAH/ком", "1300 RUB/ком"]},
-      {"time": "2022-03-22T21:00:00+02:00", "name": "Куб-7. Март", "price": ["360 UAH/ком", "1300 RUB/ком"]},
-      {"time": "2022-03-22T22:00:00+02:00", "name": "Персиб XX. День Первый", "price": ["360 UAH/ком", "1300 RUB/ком"]},
-      {"time": "2022-03-23T19:00:00+02:00", "name": "Хромоотвод-2", "price": ["330 UAH/ком", "1200 RUB/ком"]},
-      {"time": "2022-03-23T20:00:00+02:00", "name": "Сложный асинхрон Студ. игр БГУ", "price": ["360 UAH/ком", "1300 RUB/ком"]},
-      {"time": "2022-03-23T21:00:00+02:00", "name": "Украинский Байрактар", "price": ["500 UAH/ком", "1780 RUB/ком"]},
-      {"time": "2022-03-23T22:00:00+02:00", "name": "Серия Premier. Мартовские иды-2022", "price": ["360 UAH/ком", "1300 RUB/ком"]},
-      {"time": "2022-03-25T20:00:00+02:00", "name": "Синхрон-lite. Выпуск XLII", "url": ["https://www.facebook.com/groups/chgk.global/posts/2085631641600120"]},
-      {"time": "2022-03-25T22:00:00+02:00", "name": "ЧГК по сериалам. Эпизод 5", "url": ["https://www.facebook.com/groups/chgk.global/posts/2085631641600120"]},
-      {"time": "2022-03-26T14:00:00+02:00", "name": "Лига старта. Эпизод XXIII", "url": ["https://www.facebook.com/groups/chgk.global/posts/2085631641600120"]},
-      {"time": "2022-03-26T16:00:00+02:00", "name": "Синхрон-lite. Выпуск XLIV", "url": ["https://www.facebook.com/groups/chgk.global/posts/2085631641600120"]},
-      {"time": "2022-03-26T22:00:00+02:00", "name": "36 оттенков чёрного. Лето", "url": ["https://www.facebook.com/groups/chgk.global/posts/2085631641600120"]},
-      {"time": "2022-03-27T12:00:00+02:00", "name": "Лига старта. Эпизод XXVI", "url": ["https://www.facebook.com/groups/chgk.global/posts/2085631641600120"]},
-      {"time": "2022-03-27T15:00:00+02:00", "name": "ЧГК по сериалам. Эпизод 1", "url": ["https://www.facebook.com/groups/chgk.global/posts/2085631641600120"]},
-      {"time": "2022-03-27T19:00:00+02:00", "name": "Синхрон-lite. Выпуск LI", "url": ["https://www.facebook.com/groups/chgk.global/posts/2085631641600120"]}
-    ]
+    "games": []
   }
 ]

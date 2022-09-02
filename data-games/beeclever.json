@@ -4,160 +4,16 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2022-08-26T12:00:00+03:00",
-    "latestGame": "2022-08-12T12:00:00+02:00",
+    "latestCheck": "2022-09-03T12:00:00+03:00",
+    "latestGame": "2022-09-02T12:00:00+02:00",
     "chgk": true,
     "priority": 50,
     "games": [
       {
-        "time": "2022-05-03T20:00:00+03:00",
-        "name": "Экспансия: Пояс Койпера",
-        "price": ["600 UAH/ком", "20 USD/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=138"]
-      },
-      {
-        "time": "2022-05-10T20:00:00+03:00",
-        "name": "Експансія: Пояс Койпера",
-        "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=139"]
-      },
-      {
-        "time": "2022-05-17T20:00:00+03:00",
-        "name": "Експансія: Пояс Койпера. Додаткова гра",
-        "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=140"]
-      },
-      {
-        "time": "2022-05-31T20:00:00+03:00",
-        "name": "Асинхрон Чемпионата Латвии. Повтор",
-        "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=143"]
-      },
-      {
-        "time": "2022-06-04T20:00:00+03:00",
-        "name": "Українська ліга. Сезон 2021-2022. Етап 5. Прем'єра!",
-        "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=144"]
-      },
-      {
-        "time": "2022-06-07T20:00:00+03:00",
-        "name": "Українська ліга. Сезон 2021-2022. Етап 5",
-        "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=145"]
-      },
-      {
-        "time": "2022-06-14T20:00:00+03:00",
-        "name": "Асинхрон Молодёжного Кубка Европы",
-        "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=146"]
-      },
-      {
-        "time": "2022-06-18T20:00:00+03:00",
-        "name": "Українська ліга. Сезон 2021-2022. Етап 5. Додаткова гра",
-        "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=147"]
-      },
-      {
-        "time": "2022-06-21T20:00:00+03:00",
-        "name": "Экспансия: Линия Кармана. Онлайна-премьера",
-        "price": ["600 UAH/ком", "20 USD/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=148"]
-      },
-      {
-        "time": "2022-06-28T20:00:00+03:00",
-        "name": "Експансія: Лінія Кармана",
-        "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=149"]
-      },
-      {
-        "time": "2022-07-05T20:00:00+03:00",
-        "name": "Експансія: Лінія Кармана",
-        "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=150"]
-      },
-      {
-        "time": "2022-07-07T20:00:00+03:00",
-        "name": "Veidrodis: Paprastas",
-        "price": ["600 UAH/ком", "20 USD/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=151"]
-      },
-      {
-        "time": "2022-07-09T20:00:00+03:00",
-        "name": "Українська ліга. Сезон 2021-2022. Етап 6. Прем'єра!",
-        "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=152"]
-      },
-      {
-        "time": "2022-07-17T20:00:00+03:00",
-        "name": "Onan Cup. Премьера!",
-        "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=154"]
-      },
-      {
-        "time": "2022-07-19T20:00:00+03:00",
-        "name": "Українська ліга. Сезон 2021-2022. Етап 6",
-        "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=156"]
-      },
-      {
-        "time": "2022-07-23T20:00:00+03:00",
-        "name": "Город грехов - 2022: Hey, Hey, Rise Up!",
+        "time": "2022-09-02T20:00:00+03:00",
+        "name": "Янтарный лингам - 2022",
         "price": ["20 USD/ком", "600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=157"]
-      },
-      {
-        "time": "2022-07-26T20:00:00+03:00",
-        "name": "Синхрон с человеческим лицом",
-        "price": ["20 USD/ком", "600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=158"]
-      },
-      {
-        "time": "2022-07-27T20:00:00+03:00",
-        "name": "Синхрон с человеческим лицом Х. Повтор",
-        "price": ["20 USD/ком", "600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=161"]
-      },
-      {
-        "time": "2022-07-28T20:00:00+03:00",
-        "name": "Город грехов - 2022: Hey, Hey, Rise Up!",
-        "price": ["20 USD/ком", "600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=159"]
-      },
-      {
-        "time": "2022-07-29T20:00:00+03:00",
-        "name": "Город грехов - 2022: Hey, Hey, Rise Up! Дополнительная игра",
-        "price": ["20 USD/ком", "600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=160"]
-      },
-      {
-        "time": "2022-08-06T20:00:00+03:00",
-        "name": "Conan Cup II: Между землёй и небом. Онлайн-премьера!",
-        "price": ["20 USD/ком", "600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=164"]
-      },
-      {
-        "time": "2022-08-09T20:00:00+03:00",
-        "name": "Conan Cup II: Між землею та небом (укр.)",
-        "price": ["20 USD/ком", "600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=165"]
-      },
-      {
-        "time": "2022-08-12T20:00:00+03:00",
-        "name": "Город грехов - 2022: Hey, Hey, Rise Up!",
-        "price": ["20 USD/ком", "600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=166"]
-      },
-      {
-        "time": "2022-08-22T20:00:00+03:00",
-        "name": "Бурштиновий лінґам - 2022. Прем’єра! Онлайн-Занки",
-        "price": ["20 USD/ком", "600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=168"]
-      },
-      {
-        "time": "2022-08-23T20:00:00+03:00",
-        "name": "Мы прачнемся іншымі. Прем’єра! Онлайн-Занки",
-        "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=169"]
+        "url": ["https://beeclever.space/regform.php?turnir=171"]
       }
     ]
   }

@@ -7,17 +7,6 @@
     "latestCheck": "2022-07-01T12:00:00+03:00",
     "latestGame": "2021-06-01T20:00:00+03:00",
     "priority": 550,
-    "desc": "Таллинский клуб Что? Где? Когда?",
-    "templates": {
-      "freequiz": {"free": true, "donation": true, "url": ["http://so-va.online/25"]},
-      "450": {"price": ["450 RUB/ком", "5 EUR/ком", "6 USD/ком"], "url": ["http://so-va.online/25"]},
-      "600": {"price": ["600 RUB/ком", "5 EUR/ком"], "chgk": true, "url": ["http://so-va.online/#rec266781550"]},
-      "800": {"price": ["800 RUB/ком", "8 EUR/ком"], "chgk": true, "url": ["http://so-va.online/#rec266781550"]},
-      "900": {"price": ["900 RUB/ком", "10 EUR/ком"], "chgk": true, "url": ["http://so-va.online/#rec266781550"]},
-      "1200": {"price": ["1200 RUB/ком", "12 EUR/ком"], "chgk": true, "url": ["http://so-va.online/#rec266781550"]},
-      "1500": {"price": ["1500 RUB/ком", "15 EUR/ком"], "chgk": true, "url": ["http://so-va.online/#rec266781550"]}
-    },
-    "games": [
-    ]
+    "desc": "Таллинский клуб Что? Где? Когда?"
   }
 ]
