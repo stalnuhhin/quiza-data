@@ -61,9 +61,13 @@
       "end": "21.08.2022",
       "price": "Благотворительный взнос"
     },
+    "packageUrl": "https://bit.ly/CHGK_202208_36_elementov_01",
     "external": [
       {"name": "Анонс синхрона в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2175246775971939"},
-      {"name": "Анонс асинхрона в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2186691021494181"}
+      {"name": "Анонс асинхрона в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2186691021494181"},
+      {"name": "Вопросы в базе", "url": "https://db.chgk.info/tour/36elem_01_u"},
+      {"name": "Вопросы в Telegram", "url": "https://t.me/chgk_36_elementov_01"},
+      {"name": "Вопросы в Telegram (в браузере без комментариев)", "url": "https://t.me/s/chgk_36_elementov_01"}
     ]
   },
   {
