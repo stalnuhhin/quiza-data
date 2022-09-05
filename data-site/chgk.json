@@ -65,9 +65,25 @@
     "external": [
       {"name": "Анонс синхрона в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2175246775971939"},
       {"name": "Анонс асинхрона в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2186691021494181"},
+      {"name": "Запись игры команды \"Инк\"", "url": "https://www.youtube.com/watch?v=03C8ZVJYErQ"},
       {"name": "Вопросы в базе", "url": "https://db.chgk.info/tour/36elem_01_u"},
       {"name": "Вопросы в Telegram", "url": "https://t.me/chgk_36_elementov_01"},
-      {"name": "Вопросы в Telegram (в браузере без комментариев)", "url": "https://t.me/s/chgk_36_elementov_01"}
+      {"name": "Вопросы в Telegram (в браузере без комментариев)", "url": "https://t.me/s/chgk_36_elementov_01"},
+      {"name": "Подведение итогов в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2217113948451888"}
+    ],
+    "resultHtml": [
+      "Привет! Закончился отыгрыш нашего легкого турнира «36 элементов: Веспен». Пришло время рассказать о результатах, поделиться статистикой и, конечно, поздравить победителей.",
+      "Но в первую очередь — если вы пропустили этот турнир и не знаете, <i>что делают с бельгийскими детьми в возрасте пяти лет, а также что общего у Чака Норриса и Игоря Крутого</i> — то мы сделали всё, чтобы знакомство с вопросами было максимально удобным. Заходите на специальный сайт <a href=\"https://quiza.stalnuhhin.ee/games#chgk\">https://quiza.stalnuhhin.ee/games#chgk</a> — там мы собрали в одном месте все ссылки: от базы до повопросного обсуждения в специальном телеграм-канале*. А еще там же можно скачать и презентационный файл онлайн-отыгрыша для тренировок.",
+      "* Кстати, обязательно заходите покритиковать и обсудить наши вопросы (<a href=\"https://t.me/chgk_36_elementov_01\">https://t.me/chgk_36_elementov_01</a>) — ваши замечания обязательно прорастут в хорошие вопросы следующих турниров \uD83C\uDF3F",
+      "И, конечно, ультимативный и самый правильный способ знакомства с пакетом — это просмотр стрима команды «Инк»: <a href=\"https://www.youtube.com/watch?v=03C8ZVJYErQ\">https://www.youtube.com/watch?v=03C8ZVJYErQ</a>. Если вы еще не знакомы с играми «инков», то это как сериал «Друзья», но если бы друзья сидели не в \"Central Perk Cafe\", а в Скайпе, и если бы Джоуи интересовался не девушками, а реконкистой, а вместо «Унаги!» Росс говорил: «мне кажется, что у автора вопроса есть широкий коридор возможностей для улучшения» — словом, намного интереснее оригинального шоу.",
+      "К результатам. <b>В синхронном отыгрыше места поделились следующим образом:</b><ul><li>\uD83E\uDD47Красный пуфик (Белгород), 27/36</li><li>\uD83E\uDD47Один в поле воин (Одесса)</li><li>\uD83E\uDD47Уже да (Санкт-Петербург)</li><li>\uD83E\uDD48Eclipse (Санкт-Петербург), 26/36</li><li>\uD83E\uDD49Beit Grand - Аборигены (Одесса), 25/36</li><li>\uD83E\uDD49Vabank (Минск)</li></ul>",
+      "<b>В «асинхроне» же пришли и победили следующие команды:</b><ul><li>\uD83E\uDD47Минус один (Киев), 33/36</li><li>\uD83E\uDD48senes (Киев), 32/36</li><li>\uD83E\uDD48Инк (Пало-Альто)</li><li>\uD83E\uDD48Крейсер Ляонин (Николаев)</li><li>\uD83E\uDD49Гот, вестгот и вандал (сборная), 31/36</li><li>\uD83E\uDD49Срулики (Донецк)</li></ul>",
+      "На турнир пришло 85+ команд из 36 городов и 10 стран. Спасибо вам всем и обязательно приходите еще! — кстати, у вас есть несколько дней, чтобы сыграть синхронный отыгрыш нашего нового сложного турнира «36 цветов: рапсовое поле в грозу» — <a href=\"https://rating.chgk.info/tournament/8315\">https://rating.chgk.info/tournament/8315</a> (а асинхронный/онлайн отыгрыш стартует уже в ближайший четверг).",
+      "<a href=\"/api/data/images/20220725_36elementov_01_res01.jpg\" target=\"_blank\"><img src=\"/api/data/images/20220725_36elementov_01_res01.jpg\" class=\"img-fluid\" /></a>",
+      "<a href=\"/api/data/images/20220725_36elementov_01_res02.jpg\" target=\"_blank\"><img src=\"/api/data/images/20220725_36elementov_01_res02.jpg\" class=\"img-fluid\" /></a>",
+      "<a href=\"/api/data/images/20220725_36elementov_01_res03.jpg\" target=\"_blank\"><img src=\"/api/data/images/20220725_36elementov_01_res03.jpg\" class=\"img-fluid\" /></a>",
+      "<a href=\"/api/data/images/20220725_36elementov_01_res04.jpg\" target=\"_blank\"><img src=\"/api/data/images/20220725_36elementov_01_res04.jpg\" class=\"img-fluid\" /></a>",
+      "<a href=\"/api/data/images/20220725_36elementov_01_res05.jpg\" target=\"_blank\"><img src=\"/api/data/images/20220725_36elementov_01_res05.jpg\" class=\"img-fluid\" /></a>"
     ]
   },
   {
