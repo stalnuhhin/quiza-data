@@ -4,13 +4,14 @@
     "org": "Quiz Heroes",
     "image": "quizheroes.png",
     "url": ["https://quizheroes.ru","https://ttttt.me/PlagueQuiz","https://www.instagram.com/quizheroes/","https://vk.com/public194290286"],
-    "latestCheck": "2022-09-03T12:00:00+03:00",
+    "latestCheck": "2022-09-10T12:00:00+03:00",
     "latestGame": "2022-09-30T20:00:00+03:00",
     "priority": 400,
     "games": [
       {"time": "2022-09-02T20:00:00+03:00", "name": "BACK TO SCHOOL", "free": true},
       {"time": "2022-09-16T20:00:00+03:00", "name": "РОК-КВИЗ. NEW", "free": true},
-      {"time": "2022-09-30T20:00:00+03:00", "name": "АРЕНА", "free": true}
+      {"time": "2022-09-30T20:00:00+03:00", "name": "АРЕНА", "free": true},
+      {"time": "2022-10-14T20:00:00+03:00", "name": "ЕЩЁ ОДНУ СТРАНИЧКУ", "price": ["1500 RUB/ком"]}
     ]
   }
 ]
