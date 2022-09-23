@@ -1,5 +1,12 @@
 [
   {
+    "num": 91,
+    "date_start": "2022-08-23T19:00:00+03:00",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/843868043717303",
+    "closed": 1,
+    "blocks": [{"authors": "Хаманов Антон", "status": 1}]
+  },
+  {
     "num": 90,
     "date_start": "2022-08-16T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/838409544263153",
