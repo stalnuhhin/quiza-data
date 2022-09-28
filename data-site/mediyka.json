@@ -1,17 +1,24 @@
 [
   {
+    "num": 92,
+    "date_start": "2022-09-30T19:00:00+03:00",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/849115173192590",
+    "closed": 1,
+    "blocks": [{"authors": "Крехов Арсений", "quantity": 150, "status": 1}]
+  },
+  {
     "num": 91,
-    "date_start": "2022-08-23T19:00:00+03:00",
+    "date_start": "2022-09-23T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/843868043717303",
     "closed": 1,
-    "blocks": [{"authors": "Хаманов Антон", "status": 1}]
+    "blocks": [{"authors": "Хаманов Антон", "quantity": 150, "status": 1}]
   },
   {
     "num": 90,
-    "date_start": "2022-08-16T19:00:00+03:00",
+    "date_start": "2022-09-16T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/838409544263153",
     "closed": 1,
-    "blocks": [{"authors": "Крехов Арсений", "status": 1}]
+    "blocks": [{"authors": "Крехов Арсений", "quantity": 150, "status": 1}]
   },
   {
     "num": 89,
