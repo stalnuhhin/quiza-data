@@ -1,4 +1,4 @@
 {
-  "variant": "success",
-  "html": "Приглашаем вас сыграть наш новый асинхрон <a href=\"https://rating.chgk.info/tournament/8316/requests\" target=_blank>36 цветов: рапсовое поле в грозу</a>, доступный с 8 сентября."
+  "variant": "warning",
+  "html": "Сделаны исправления в планировщике. Сложность и редакторы вернулись в таблицу. Сделайте hard refresh, если нет данных.<br/>Приглашаем вас сыграть наш новый асинхрон <a href=\"https://rating.chgk.info/tournament/8316/requests\" target=_blank>36 цветов: рапсовое поле в грозу</a>, доступный с 8 сентября."
 }
