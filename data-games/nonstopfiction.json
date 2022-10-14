@@ -4,7 +4,7 @@
     "org": "Non-Stop Fiction",
     "image": "nonstopfiction.jpeg",
     "url": ["https://t.me/nonstopfiction"],
-    "latestCheck": "2022-10-07T12:00:00+03:00",
+    "latestCheck": "2022-10-14T12:00:00+03:00",
     "latestGame": "2022-09-25T15:00:00+02:00",
     "priority": 200,
     "price": ["350 RUB/ком", "4 USD/ком"],
@@ -24,7 +24,11 @@
       { "time": "2022-10-15T20:00:00+03:00", "name": "NSQ Weekly#34" },
       { "time": "2022-10-16T20:00:00+03:00", "name": "NSQ Weekly#34" },
       { "time": "2022-10-22T20:00:00+03:00", "name": "NSQ Weekly#35" },
-      { "time": "2022-10-23T20:00:00+03:00", "name": "NSQ Weekly#35" }
+      { "time": "2022-10-23T20:00:00+03:00", "name": "NSQ Weekly#35" },
+      { "time": "2022-10-29T20:00:00+03:00", "name": "NSQ Weekly#36" },
+      { "time": "2022-10-30T20:00:00+03:00", "name": "NSQ Weekly#36" },
+      { "time": "2022-11-05T20:00:00+03:00", "name": "NSQ Weekly#37" },
+      { "time": "2022-11-06T20:00:00+03:00", "name": "NSQ Weekly#37" }
     ]
   }
 ]
