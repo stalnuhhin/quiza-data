@@ -4,7 +4,7 @@
     "org": "Мировые квизы по-русски",
     "image": "quizzing.jpg",
     "url": ["https://vk.com/quizzing"],
-    "latestCheck": "2022-10-03T12:00:00+03:00",
+    "latestCheck": "2022-10-20T12:00:00+03:00",
     "latestGame": "2022-09-11T03:00:00+03:00",
     "priority": 510,
     "price": ["50 RUB/чел"],
@@ -27,7 +27,19 @@
       {"time": "2022-10-06T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Sport50 2021-2022", "url": ["https://vk.com/wall-68578986_1184"]},
       {"time": "2022-10-07T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Sport50 2021-2022", "url": ["https://vk.com/wall-68578986_1184"]},
       {"time": "2022-10-08T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Sport50 2021-2022", "url": ["https://vk.com/wall-68578986_1184"]},
-      {"time": "2022-10-09T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Sport50 2021-2022", "url": ["https://vk.com/wall-68578986_1184"]}
+      {"time": "2022-10-09T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Sport50 2021-2022", "url": ["https://vk.com/wall-68578986_1184"]},
+      {"time": "2022-10-18T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities100", "url": ["https://vk.com/wall-68578986_1186"], "price": ["100 RUB/чел"]},
+      {"time": "2022-10-19T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities100", "url": ["https://vk.com/wall-68578986_1186"], "price": ["100 RUB/чел"]},
+      {"time": "2022-10-20T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities100", "url": ["https://vk.com/wall-68578986_1186"], "price": ["100 RUB/чел"]},
+      {"time": "2022-10-21T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities100", "url": ["https://vk.com/wall-68578986_1186"], "price": ["100 RUB/чел"]},
+      {"time": "2022-10-22T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities100", "url": ["https://vk.com/wall-68578986_1186"], "price": ["100 RUB/чел"]},
+      {"time": "2022-10-23T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities100", "url": ["https://vk.com/wall-68578986_1186"], "price": ["100 RUB/чел"]},
+      {"time": "2022-10-24T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities100", "url": ["https://vk.com/wall-68578986_1186"], "price": ["100 RUB/чел"]},
+      {"time": "2022-10-25T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities100", "url": ["https://vk.com/wall-68578986_1186"], "price": ["100 RUB/чел"]},
+      {"time": "2022-10-26T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities100", "url": ["https://vk.com/wall-68578986_1186"], "price": ["100 RUB/чел"]},
+      {"time": "2022-10-27T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities100", "url": ["https://vk.com/wall-68578986_1186"], "price": ["100 RUB/чел"]},
+      {"time": "2022-10-28T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities100", "url": ["https://vk.com/wall-68578986_1186"], "price": ["100 RUB/чел"]},
+      {"time": "2022-10-29T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities100", "url": ["https://vk.com/wall-68578986_1186"], "price": ["100 RUB/чел"]}
     ]
   }
 ]
