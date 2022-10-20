@@ -1,5 +1,23 @@
 [
   {
+    "num": 95,
+    "date_start": "2022-10-21T19:00:00+03:00",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/866494688121305",
+    "blocks": [
+      {
+        "authors": "Сагитов Тимур"
+      }
+    ]
+  },
+  {
+    "num": 93,
+    "name": "Вечер перед Открытым Чемпионатом Эстонии",
+    "date_start": "2022-10-07T22:30:00+03:00",
+    "notice_url": "https://www.facebook.com/groups/oche2022/posts/645628483752007",
+    "closed": 1,
+    "blocks": [{"authors": "Крехов Арсений", "quantity": 50, "status": 1}]
+  },
+  {
     "num": 92,
     "date_start": "2022-09-30T19:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/849115173192590",
