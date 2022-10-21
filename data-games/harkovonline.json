@@ -11,6 +11,18 @@
     "latestCheck": "2022-09-03T12:00:00+03:00",
     "priority": 30,
     "chgk": true,
+    "auto": {
+      "url": "https://docs.google.com/forms/d/e/1FAIpQLSfOgoaM_1fOULyAKd9pyjzl3dgtSVrNjr20n70MPadnU9SRzg/viewform",
+      "rules": [
+        {"code": "AFTER_FIRST", "params": ["role=\"list\""]},
+        {"code": "BEFORE_FIRST", "params": ["role=\"alert\""]},
+        {"code": "SPLIT", "params": ["data-answer-value="], "rules": [
+          {"code": "AFTER_FIRST", "params": ["\""]},
+          {"code": "BEFORE_FIRST", "params": ["\" role=\""]},
+          {"code": "ROW", "delimiter": "xxx", "params": ["NAME"]}
+        ]}
+      ]
+    },
     "games": []
   }
 ]
