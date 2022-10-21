@@ -19,7 +19,7 @@
         {"code": "SPLIT", "params": ["data-answer-value="], "rules": [
           {"code": "AFTER_FIRST", "params": ["\""]},
           {"code": "BEFORE_FIRST", "params": ["\" role=\""]},
-          {"code": "ROW", "delimiter": "-", "params": ["TIME","NAME"]}
+          {"code": "HARKOVONLINE"}
         ]}
       ]
     },

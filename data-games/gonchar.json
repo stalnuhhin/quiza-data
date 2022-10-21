@@ -15,7 +15,7 @@
         {"code": "SPLIT", "params": ["data-value="], "rules": [
           {"code": "AFTER_FIRST", "params": ["\""]},
           {"code": "BEFORE_FIRST", "params": ["\" role=\""]},
-          {"code": "ROW", "delimiter": "-", "params": ["TIME","NAME"]}
+          {"code": "GONCHAR"}
         ]}
       ]
     },
