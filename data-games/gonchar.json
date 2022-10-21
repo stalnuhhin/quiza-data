@@ -12,8 +12,7 @@
       "rules": [
         {"code": "AFTER_FIRST", "params": ["role=\"presentation\""]},
         {"code": "BEFORE_FIRST", "params": ["role=\"alert\""]},
-        {"code": "SPLIT", "params": ["data-value="], "rules": [
-          {"code": "AFTER_FIRST", "params": ["\""]},
+        {"code": "SPLIT", "params": ["data-value=\""], "rules": [
           {"code": "BEFORE_FIRST", "params": ["\" role=\""]},
           {"code": "GONCHAR"}
         ]}
