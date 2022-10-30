@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2022-10-21T12:00:00+03:00",
+    "latestCheck": "2022-11-01T12:00:00+03:00",
     "latestGame": "2022-09-02T12:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -50,6 +50,24 @@
         "name": "Ось мені тут країна. Онлайн-прем’єра",
         "price": ["20 USD/ком", "600 UAH/ком"],
         "url": ["https://beeclever.space/regform.php?turnir=177"]
+      },
+      {
+        "time": "2022-10-25T20:00:00+03:00",
+        "name": "Мы прачнемся іншымі. Last Call!",
+        "price": ["20 USD/ком", "600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=178"]
+      },
+      {
+        "time": "2022-11-01T20:00:00+03:00",
+        "name": "Українська ліга. Сезон 2022-2023. Етап 1. Онлайн-прем’єра!",
+        "price": ["20 USD/ком", "600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=179"]
+      },
+      {
+        "time": "2022-11-06T16:00:00+03:00",
+        "name": "Українська ліга. Сезон 2022-2023. Етап 1",
+        "price": ["20 USD/ком", "600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=180"]
       }
     ]
   }
