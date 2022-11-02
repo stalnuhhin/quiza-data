@@ -4,7 +4,7 @@
     "org": "Денис Гончар",
     "image": "gonchar2.png",
     "url": ["https://docs.google.com/forms/d/e/1FAIpQLSdZPv5gb1sUW0is24EA1nOrbYfD9P_Vy6nnyWNYC-4rRol0mw/viewform"],
-    "latestCheck": "2022-09-03T12:00:00+03:00",
+    "latestCheck": "2022-11-03T12:00:00+03:00",
     "priority": 30,
     "chgk": true,
     "auto": {
@@ -14,7 +14,7 @@
         {"code": "BEFORE_FIRST", "params": ["role=\"alert\""]},
         {"code": "SPLIT", "params": ["data-value=\""], "rules": [
           {"code": "BEFORE_FIRST", "params": ["\" role=\""]},
-          {"code": "GONCHAR"}
+          {"code": "GONCHAR", "params": ["+02:00"]}
         ]}
       ]
     },
