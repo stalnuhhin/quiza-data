@@ -4,7 +4,7 @@
     "org": "Quiz Heroes",
     "image": "quizheroes.png",
     "url": ["https://quizheroes.ru","https://ttttt.me/PlagueQuiz","https://www.instagram.com/quizheroes/","https://vk.com/public194290286"],
-    "latestCheck": "2022-11-07T12:00:00+03:00",
+    "latestCheck": "2022-11-13T12:00:00+03:00",
     "latestGame": "2022-09-30T20:00:00+03:00",
     "priority": 400,
     "games": [
@@ -15,7 +15,8 @@
       {"time": "2022-10-28T20:00:00+03:00", "name": "ГАРРИ ПОТТЕР И АГЕНТЫ QUIZHEROES", "price": ["1500 RUB/ком"]},
       {"time": "2022-11-11T20:00:00+03:00", "name": "ЭЛЕМЕНТАРНО, ВАТСОН!", "price": ["1500 RUB/ком"]},
       {"time": "2022-11-25T20:00:00+03:00", "name": "БЛОКБАСТЕР-КВИЗ", "price": ["1500 RUB/ком"]},
-      {"time": "2022-12-09T20:00:00+03:00", "name": "РЕКЛАМНАЯ ПАУЗА", "price": ["1500 RUB/ком"]}
+      {"time": "2022-12-09T20:00:00+03:00", "name": "РЕКЛАМНАЯ ПАУЗА", "price": ["1500 RUB/ком"]},
+      {"time": "2022-12-24T16:00:00+03:00", "name": "МАНДАРИНОВЫЙ КВИЗ", "price": ["1500 RUB/ком"]}
     ]
   }
 ]
