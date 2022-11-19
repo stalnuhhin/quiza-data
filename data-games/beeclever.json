@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2022-11-13T12:00:00+03:00",
+    "latestCheck": "2022-11-20T12:00:00+03:00",
     "latestGame": "2022-09-02T12:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -32,6 +32,18 @@
         "name": "Українська ліга. Сезон 2022-2023. Етап 1. Додаткова гра",
         "price": ["20 USD/ком", "600 UAH/ком"],
         "url": ["https://beeclever.space/regform.php?turnir=182"]
+      },
+      {
+        "time": "2022-11-15T20:00:00+03:00",
+        "name": "1002 ніч. Прем’єра!",
+        "price": ["14 USD/ком", "420 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=183"]
+      },
+      {
+        "time": "2022-11-18T20:00:00+03:00",
+        "name": "1002 ніч",
+        "price": ["14 USD/ком", "420 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=184"]
       }
     ]
   }
