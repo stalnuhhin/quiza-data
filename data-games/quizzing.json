@@ -4,12 +4,19 @@
     "org": "Мировые квизы по-русски",
     "image": "quizzing.jpg",
     "url": ["https://vk.com/quizzing"],
-    "latestCheck": "2022-10-20T12:00:00+03:00",
+    "latestCheck": "2022-10-28T12:00:00+03:00",
     "latestGame": "2022-09-11T03:00:00+03:00",
     "priority": 510,
     "price": ["50 RUB/чел"],
     "games": [
-      {"time": "2022-10-29T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities100", "url": ["https://vk.com/wall-68578986_1186"], "price": ["100 RUB/чел"]}
+      {"time": "2022-11-20T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Entertainment100", "url": ["https://vk.com/wall-68578986_1188"], "price": ["100 RUB/чел"]},
+      {"time": "2022-11-21T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Entertainment100", "url": ["https://vk.com/wall-68578986_1188"], "price": ["100 RUB/чел"]},
+      {"time": "2022-11-22T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Entertainment100", "url": ["https://vk.com/wall-68578986_1188"], "price": ["100 RUB/чел"]},
+      {"time": "2022-11-23T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Entertainment100", "url": ["https://vk.com/wall-68578986_1188"], "price": ["100 RUB/чел"]},
+      {"time": "2022-11-24T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Entertainment100", "url": ["https://vk.com/wall-68578986_1188"], "price": ["100 RUB/чел"]},
+      {"time": "2022-11-25T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Entertainment100", "url": ["https://vk.com/wall-68578986_1188"], "price": ["100 RUB/чел"]},
+      {"time": "2022-11-26T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Entertainment100", "url": ["https://vk.com/wall-68578986_1188"], "price": ["100 RUB/чел"]},
+      {"time": "2022-11-27T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Entertainment100", "url": ["https://vk.com/wall-68578986_1188"], "price": ["100 RUB/чел"]}
     ]
   }
 ]
