@@ -1,5 +1,16 @@
 [
   {
+    "num": 97,
+    "name": "Благотворительная медийка (на нужды беженцев из Мариуполя)",
+    "date_start": "2022-11-25T20:00:00+03:00",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/891091445661629",
+    "closed": 1,
+    "blocks": [
+      {"authors": "Серебро Анна", "quantity": 100, "status": 1},
+      {"authors": "Байнова Алекс", "quantity": 100, "status": 1}
+    ]
+  },
+  {
     "num": 96,
     "date_start": "2022-11-04T20:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/877107983726642",
@@ -8,7 +19,7 @@
   },
   {
     "num": 95,
-    "date_start": "2022-09-28T20:00:00+03:00",
+    "date_start": "2022-10-28T20:00:00+03:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/871969417573832",
     "closed": 1,
     "blocks": [{"authors": "Крехов Арсений", "quantity": 150, "status": 1}]
