@@ -4,52 +4,16 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2022-11-26T12:00:00+03:00",
-    "latestGame": "2022-09-02T12:00:00+02:00",
+    "latestCheck": "2022-12-04T12:00:00+03:00",
+    "latestGame": "2022-12-06T12:00:00+02:00",
     "chgk": true,
     "priority": 50,
     "games": [
       {
-        "time": "2022-11-01T20:00:00+03:00",
-        "name": "Українська ліга. Сезон 2022-2023. Етап 1. Онлайн-прем’єра!",
+        "time": "2022-12-06T20:00:00+02:00",
+        "name": "Реконкіста. Онлайн-прем’єра",
         "price": ["20 USD/ком", "600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=179"]
-      },
-      {
-        "time": "2022-11-05T16:00:00+03:00",
-        "name": "Ось мені тут країна",
-        "price": ["20 USD/ком", "600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=181"]
-      },
-      {
-        "time": "2022-11-06T16:00:00+03:00",
-        "name": "Українська ліга. Сезон 2022-2023. Етап 1",
-        "price": ["20 USD/ком", "600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=180"]
-      },
-      {
-        "time": "2022-11-08T20:00:00+03:00",
-        "name": "Українська ліга. Сезон 2022-2023. Етап 1. Додаткова гра",
-        "price": ["20 USD/ком", "600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=182"]
-      },
-      {
-        "time": "2022-11-15T20:00:00+03:00",
-        "name": "1002 ніч. Прем’єра!",
-        "price": ["14 USD/ком", "420 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=183"]
-      },
-      {
-        "time": "2022-11-18T20:00:00+03:00",
-        "name": "1002 ніч",
-        "price": ["14 USD/ком", "420 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=184"]
-      },
-      {
-        "time": "2022-11-22T20:00:00+03:00",
-        "name": "1002 ніч",
-        "price": ["14 USD/ком", "420 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=185"]
+        "url": ["https://beeclever.space/regform.php?turnir=187"]
       }
     ]
   }
