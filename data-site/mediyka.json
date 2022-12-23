@@ -1,8 +1,25 @@
 [
   {
+    "num": 99,
+    "date_start": "2022-12-23T19:00:00+02:00",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/912492943521479",
+    "closed": 1,
+    "blocks": [{"authors": "Крехов Арсений", "quantity": 150, "status": 1}]
+  },
+  {
+    "num": 98,
+    "date_start": "2022-12-09T19:00:00+02:00",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/901181231319317",
+    "closed": 1,
+    "blocks": [
+      {"authors": "Линник Ольга", "quantity": 150, "status": 1},
+      {"authors": "Ворошнин Дмитрий", "quantity": 150, "status": 1}
+    ]
+  },
+  {
     "num": 97,
     "name": "Благотворительная медийка (на нужды беженцев из Мариуполя)",
-    "date_start": "2022-11-25T20:00:00+03:00",
+    "date_start": "2022-11-25T20:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/891091445661629",
     "closed": 1,
     "blocks": [
@@ -12,14 +29,14 @@
   },
   {
     "num": 96,
-    "date_start": "2022-11-04T20:00:00+03:00",
+    "date_start": "2022-11-04T20:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/877107983726642",
     "closed": 1,
     "blocks": [{"authors": "Хаманов Антон", "quantity": 150, "status": 1}]
   },
   {
     "num": 95,
-    "date_start": "2022-10-28T20:00:00+03:00",
+    "date_start": "2022-10-28T20:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/871969417573832",
     "closed": 1,
     "blocks": [{"authors": "Крехов Арсений", "quantity": 150, "status": 1}]
