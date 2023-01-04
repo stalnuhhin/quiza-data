@@ -1,5 +1,37 @@
 [
   {
+    "name": "36 элементов: Незерит",
+    "image": "20230108_36elementov_02.jpg",
+    "questionCount": 36,
+    "levelPrediction": "{3.5}",
+    "level": "-",
+    "editors": [
+      {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"}
+    ],
+    "authors": [
+      {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"},
+      {"name": "Ворошнин Дмитрий", "url": "https://rating.chgk.info/player/95592"},
+      {"name": "Юнусова Марина", "url": "https://rating.chgk.info/player/137194"}
+    ],
+    "synch": {
+      "url": "https://rating.chgk.info/tournament/8829",
+      "registerUrl": "https://rating.chgk.info/tournament/8829/requests",
+      "start": "08.01.2023",
+      "end": "15.01.2023",
+      "price": "Благотворительный взнос"
+    },
+    "asynch": {
+      "url": "https://rating.chgk.info/tournament/8830",
+      "registerUrl": "https://rating.chgk.info/tournament/8830/requests",
+      "start": "16.01.2023",
+      "end": "06.02.2023",
+      "price": "Благотворительный взнос"
+    },
+    "external": [
+      {"name": "Анонс синхрона в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2323625774467371"}
+    ]
+  },
+  {
     "name": "36 цветов: рапсовое поле в грозу",
     "image": "20220901_36cvetov_02.jpg",
     "questionCount": 36,
