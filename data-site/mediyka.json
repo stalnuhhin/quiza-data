@@ -1,5 +1,26 @@
 [
   {
+    "num": 101,
+    "date_start": "2023-01-06T19:00:00+02:00",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/922654905838616",
+    "closed": 1,
+    "blocks": [{"authors": "Денис Пастухов", "quantity": 150}]
+  },
+  {
+    "num": 100,
+    "date_start": "2022-12-30T19:00:00+02:00",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/912492943521479",
+    "closed": 1,
+    "blocks": [
+      {"authors": "Крехов Арсений", "quantity": 90, "status": 1},
+      {"authors": "Хаманов Антон", "quantity": 25, "status": 1},
+      {"authors": "Мююрсепп Валерия", "quantity": 25, "status": 1},
+      {"authors": "Серебро Анна", "quantity": 25, "status": 1},
+      {"authors": "Бережинский Александр", "quantity": 60, "status": 1},
+      {"authors": "Гойдов Михаил", "quantity": 50, "status": 1}
+    ]
+  },
+  {
     "num": 99,
     "date_start": "2022-12-23T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/912492943521479",
