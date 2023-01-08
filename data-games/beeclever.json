@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2023-01-01T12:00:00+03:00",
+    "latestCheck": "2023-01-09T12:00:00+03:00",
     "latestGame": "2022-12-06T12:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -32,6 +32,24 @@
         "name": "Кубок Мюнхгаузен: Подвиг второй",
         "price": ["20 USD/ком", "600 UAH/ком"],
         "url": ["https://beeclever.space/regform.php?turnir=194"]
+      },
+      {
+        "time": "2023-01-03T20:00:00+02:00",
+        "name": "36 и 6 котов. Премьера!",
+        "price": ["20 USD/ком", "600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=195"]
+      },
+      {
+        "time": "2023-01-10T20:00:00+02:00",
+        "name": "36 і 6 котів",
+        "price": ["600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=197"]
+      },
+      {
+        "time": "2023-01-13T20:00:00+02:00",
+        "name": "36 и 6 котов",
+        "price": ["20 USD/ком", "600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=196"]
       }
     ]
   }
