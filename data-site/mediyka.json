@@ -154,8 +154,7 @@
         "size_mb": 44,
         "file_url": "https://bit.ly/20220729_084_timursagitov",
         "date_pub": "2022-09-01T11:30:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -266,8 +265,7 @@
         "size_mb": 28,
         "file_url": "https://bit.ly/20220520_074_valeriamuursepp",
         "date_pub": "2022-09-01T12:30:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -313,8 +311,7 @@
         "size_mb": 32,
         "file_url": "https://bit.ly/20220415_070_dmitrivorosnin",
         "date_pub": "2022-09-01T03:30:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -503,15 +500,21 @@
         "description": "В блоке 10 тем (50 вопросов).",
         "quantity": 50,
         "size_mb": 10,
-        "status": 30
+        "file_url": "https://bit.ly/20220204_060-3_antonstalnuhhin",
+        "date_pub": "2023-01-12T11:30:00+03:00",
+        "status": 40,
+        "new": 1
       },
       {
         "authors": "Стальнухин Дмитрий",
         "authors_info": "https://twitter.com/timquo",
         "description": "В игре 125 вопросов (5 раундов по 5 тем). Все темы игры представляют собой \"Матричный свояк\" по правилам которого все верные ответы должны \"попадать\" в заявленную матрицу.",
         "quantity": 125,
-        "size_mb": 74,
-        "status": 30
+        "size_mb": 73,
+        "file_url": "https://bit.ly/20220204_060-4_dmitristalnuhhin",
+        "date_pub": "2023-01-12T11:30:00+03:00",
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -634,7 +637,10 @@
         "desc": "В игре 50 вопросов (2 раунда по 5 тем). Все темы игры представляют собой \"Матричный свояк\" по правилам которого все верные ответы должны \"попадать\" в заявленную матрицу.",
         "quantity": 50,
         "size_mb": 25,
-        "status": 30
+        "file_url": "https://bit.ly/20211217_054-4_dmitristalnuhhin",
+        "date_pub": "2023-01-12T11:30:00+03:00",
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -1022,7 +1028,10 @@
         "quantity": 100,
         "size_mb": 33,
         "description": "20 тем (100 вопросов), из них 20 - музыкальные (One Hit Wonder).",
-        "status": 30
+        "file_url": "https://bit.ly/20210702_030-1_antonstalnuhhin",
+        "date_pub": "2023-01-12T11:30:00+03:00",
+        "status": 40,
+        "new": 1
       },
       {
         "authors": "Мююрсепп Валерия",
@@ -1180,7 +1189,10 @@
         "authors_info": "https://twitter.com/timquo",
         "quantity": 225,
         "size_mb": 63,
-        "status": 30
+        "file_url": "https://bit.ly/20201211_018_dmitristalnuhhin",
+        "date_pub": "2023-01-12T11:30:00+03:00",
+        "status": 40,
+        "new": 1
       }
     ]
   },
@@ -1204,8 +1216,7 @@
         "size_mb": 21,
         "file_url": "https://bit.ly/20201204_017-2_dmitrivoroshnin",
         "date_pub": "2022-09-04T02:30:00+03:00",
-        "status": 40,
-        "new": 1
+        "status": 40
       }
     ]
   },
@@ -1220,7 +1231,10 @@
         "description": "В игре 215 вопросов (43 темы по 5 вопросов). Первые 16 тем общей тематики, остальные 27 — преимущественно про кино.",
         "quantity": 215,
         "size_mb": 40,
-        "status": 30
+        "file_url": "https://bit.ly/20201127_016-1_dmitristalnuhhin",
+        "date_pub": "2023-01-12T11:30:00+03:00",
+        "status": 40,
+        "new": 1
       },
       {"authors": "Талисайнен Георгий", "status": 2}
     ]
