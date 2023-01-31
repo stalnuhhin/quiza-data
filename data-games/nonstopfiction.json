@@ -27,6 +27,48 @@
       { "time": "2023-01-22T20:00:00+03:00", "name": "NSQ Weekly#48" },
       { "time": "2023-01-28T20:00:00+03:00", "name": "NSQ Weekly#50" },
       { "time": "2023-01-29T20:00:00+03:00", "name": "NSQ Weekly#50" },
+      {
+        "time": "2023-01-31T22:00:00+03:00",
+        "name": "Инди-Go",
+        "price": ["18 EUR/ком", "1000 RUB/ком", "9 EUR/3чел", "700 RUB/3чел", "7 EUR/2чел", "500 RUB/2чел", "4 EUR/чел", "300 RUB/чел"],
+        "url": ["https://docs.google.com/forms/d/e/1FAIpQLSeqNY-c8y7BJHK5g3LtdaSEIaJpMu9f56w0uTOM_fDtMgvi5Q/viewform"],
+        "chgk": true
+      },
+      {
+        "time": "2023-02-01T21:00:00+03:00",
+        "name": "Инди-Go",
+        "price": ["18 EUR/ком", "1000 RUB/ком", "9 EUR/3чел", "700 RUB/3чел", "7 EUR/2чел", "500 RUB/2чел", "4 EUR/чел", "300 RUB/чел"],
+        "url": ["https://docs.google.com/forms/d/e/1FAIpQLSeqNY-c8y7BJHK5g3LtdaSEIaJpMu9f56w0uTOM_fDtMgvi5Q/viewform"],
+        "chgk": true
+      },
+      {
+        "time": "2023-02-01T23:00:00+03:00",
+        "name": "Инди-Go",
+        "price": ["18 EUR/ком", "1000 RUB/ком", "9 EUR/3чел", "700 RUB/3чел", "7 EUR/2чел", "500 RUB/2чел", "4 EUR/чел", "300 RUB/чел"],
+        "url": ["https://docs.google.com/forms/d/e/1FAIpQLSeqNY-c8y7BJHK5g3LtdaSEIaJpMu9f56w0uTOM_fDtMgvi5Q/viewform"],
+        "chgk": true
+      },
+      {
+        "time": "2023-02-05T18:00:00+03:00",
+        "name": "Инди-Go",
+        "price": ["18 EUR/ком", "1000 RUB/ком", "9 EUR/3чел", "700 RUB/3чел", "7 EUR/2чел", "500 RUB/2чел", "4 EUR/чел", "300 RUB/чел"],
+        "url": ["https://docs.google.com/forms/d/e/1FAIpQLSeqNY-c8y7BJHK5g3LtdaSEIaJpMu9f56w0uTOM_fDtMgvi5Q/viewform"],
+        "chgk": true
+      },
+      {
+        "time": "2023-02-05T20:00:00+03:00",
+        "name": "Инди-Go",
+        "price": ["18 EUR/ком", "1000 RUB/ком", "9 EUR/3чел", "700 RUB/3чел", "7 EUR/2чел", "500 RUB/2чел", "4 EUR/чел", "300 RUB/чел"],
+        "url": ["https://docs.google.com/forms/d/e/1FAIpQLSeqNY-c8y7BJHK5g3LtdaSEIaJpMu9f56w0uTOM_fDtMgvi5Q/viewform"],
+        "chgk": true
+      },
+      {
+        "time": "2023-02-05T22:00:00+03:00",
+        "name": "Инди-Go",
+        "price": ["18 EUR/ком", "1000 RUB/ком", "9 EUR/3чел", "700 RUB/3чел", "7 EUR/2чел", "500 RUB/2чел", "4 EUR/чел", "300 RUB/чел"],
+        "url": ["https://docs.google.com/forms/d/e/1FAIpQLSeqNY-c8y7BJHK5g3LtdaSEIaJpMu9f56w0uTOM_fDtMgvi5Q/viewform"],
+        "chgk": true
+      },
       { "time": "2023-02-04T20:00:00+03:00", "name": "NSQ Weekly#51" },
       { "time": "2023-02-05T20:00:00+03:00", "name": "NSQ Weekly#51" },
       { "time": "2023-02-11T20:00:00+03:00", "name": "NSQ Weekly#52" },
