@@ -4,7 +4,7 @@
     "image": "20230108_36elementov_02.jpg",
     "questionCount": 36,
     "levelPrediction": "{3.5}",
-    "level": "-",
+    "level": "{3.3}",
     "editors": [
       {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"}
     ],
@@ -18,19 +18,48 @@
       "registerUrl": "https://rating.chgk.info/tournament/8829/requests",
       "start": "08.01.2023",
       "end": "15.01.2023",
-      "price": "Благотворительный взнос"
+      "price": "Благотворительный взнос",
+      "level": "{3.3}"
     },
     "asynch": {
       "url": "https://rating.chgk.info/tournament/8830",
       "registerUrl": "https://rating.chgk.info/tournament/8830/requests",
       "start": "16.01.2023",
-      "end": "06.02.2023",
-      "price": "Благотворительный взнос"
+      "end": "13.02.2023",
+      "price": "Благотворительный взнос",
+      "level": "{2.9}"
     },
     "external": [
       {"name": "Анонс синхрона в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2323625774467371"},
       {"name": "Второй анонс синхрона в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2327595234070425"},
-      {"name": "Второй анонс синхрона в telegram", "url": "https://t.me/c/1564547001/5845"}
+      {"name": "Второй анонс синхрона в telegram", "url": "https://t.me/c/1564547001/5845"},
+      {"name": "Запись игры команды \"Инк\"", "url": "https://www.youtube.com/watch?v=-FBxEuyqD2U"},
+      {"name": "Вопросы в базе", "url": "https://db.chgk.info/tour/36elem_02_u"},
+      {"name": "Вопросы в Telegram", "url": "https://t.me/chgk_36_elementov_02"},
+      {"name": "Вопросы в Telegram (в браузере без комментариев)", "url": "https://t.me/s/chgk_36_elementov_02"},
+      {"name": "Подведение итогов в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2358967477599867"},
+      {"name": "Подведение итогов в telegram", "url": "https://t.me/c/1564547001/8634"}
+    ],
+    "packageUrl": "https://bit.ly/CHGK_202301_36_elementov_02",
+    "resultHtml": [
+      "<b>\uD83C\uDF89 Привет! Закончился отыгрыш нашего легкого турнира серии <b>36 элементов: Незерит</b>. Самое время поделиться результатами и поздравить победителей!",
+      "Но в первую очередь — большое спасибо всем кто сыграл и, особенно, всем, кто перевел деньги в связанные с войной благотворительные фонды*. <i>Отчеты продолжают поступать, и к этому моменты вы собрали уже, как минимум, $470. Спасибо ❤️!</i>",
+      "Мы всегда анонимизируем ваши отчеты о переводах и не храним никакой информации, кроме общей суммы сборов; но, в этот раз — с разрешения представителей площадки — хочется сделать исключение и отдельной строкой поблагодарить <b>Варшавский Клуб интеллектуальных игр</b> и <b>Беларускі Моладзевы Хаб</b> — уже второй раз вы жертвуете половину всех собранных пакетом средств. Это \uD83D\uDD25. Спасибо вам!",
+      "Если вы пропустили игру, но все-таки хотите узнать больше про <i>крафтовую огранку</i> и <i>квазипространственные бомбы</i> — то мы сделали всё, чтобы знакомство с вопросами было максимально удобным. Заходите на <a href=\"https://quiza.stalnuhhin.ee/games#chgk\">https://quiza.stalnuhhin.ee/games#chgk</a>, где мы собрали все ссылки: от базы до повопросного обсуждения в специальном телеграм-канале. Там же можно скачать и презентационный файл онлайн-отыгрыша для тренировок или сыграть вопросы в ютубе, в приятной компании команды «Инк»: <a href=\"https://www.youtube.com/watch?v=-FBxEuyqD2U\">https://www.youtube.com/watch?v=-FBxEuyqD2U</a>.",
+      "<i>[Обязательно заходите покритиковать и обсудить вопросы в специальном телеграм-канале (<a href=\"https://t.me/chgk_36_elementov_02\">https://t.me/chgk_36_elementov_02</a>) — благодаря этому будущие вопросы становятся лучше.]</i>",
+      "К результатам. <b>В синхронном отыгрыше места поделились следующим образом:</b><ul><li>\uD83E\uDD47senes (Киев), 31/36</li><li>\uD83E\uDD48Конец света с последующим симпозиумом (Ереван), 30/36</li><li>\uD83E\uDD491067 (Варшава), 29/36</li><li>\uD83E\uDD49Szopy (Варшава)</li><li>\uD83E\uDD49Шляпа в деле (Санкт-Петербург)</li></ul>",
+      "<b>Синхрон, парный зачет \uD83D\uDC6F:</b><ul><li>\uD83E\uDD47Что бы мне поделать, только бы не думать (Гомель), 17/36</li><li>\uD83E\uDD48Думку гадаю (Днепр), 13/36</li><li>\uD83E\uDD48Жалко Жаргала (Иркутск)</li><li>\uD83E\uDD49Хурма и Ханибэджер (Душенбе), 9/36</li></ul>",
+      "<b>В «асинхроне» же пришли и победили следующие команды:</b><ul><li>\uD83E\uDD47Ах, улий! (Астана), 34/36</li><li>\uD83E\uDD47есть два уголовника (Берлин)</li><li>\uD83E\uDD48Тихий Дон Корлеоне, 33/36</li><li>\uD83E\uDD49Se Humilde, 31/36</li><li>\uD83E\uDD49Инк (Пало-Альто)</li></ul>",
+      "<b>Асинхрон, парный зачет \uD83D\uDC6F:</b><ul><li>\uD83E\uDD47Orange Juice, No Pulp, 27/36</li><li>\uD83E\uDD48Налей ещё вина, 26/36</li><li>\uD83E\uDD49Нехаляльный холодец (Алматы), 25/36</li></ul>",
+      "<i>Отдельная благодарность командам студенческого зачета: «Премия Дарвина» (Казань) и Циклон Глюзмана (Одесса) — вы молодцы, обязательно приходите еще!</i>",
+      "<b>Всего на турнир пришло 90+ команд из 39 городов и 16 стран. Большое вам всем спасибо! ❤️</b>",
+      "* Рекомендуемый список благотворительных фондов можно найти в восьмом пункте регламента турнира по ссылке — <a href=\"https://tinyurl.com/reglament-elem-02-sinhron\">https://tinyurl.com/reglament-elem-02-sinhron</a>. Отдельная благодарность за ваши отчеты о переводах!",
+      "<a href=\"/api/data/images/20230108_36elementov_02_res01.jpg\" target=\"_blank\"><img src=\"/api/data/images/20230108_36elementov_02_res01.jpg\" class=\"img-fluid\" /></a>",
+      "<a href=\"/api/data/images/20230108_36elementov_02_res02.jpg\" target=\"_blank\"><img src=\"/api/data/images/20230108_36elementov_02_res02.jpg\" class=\"img-fluid\" /></a>",
+      "<a href=\"/api/data/images/20230108_36elementov_02_res03.jpg\" target=\"_blank\"><img src=\"/api/data/images/20230108_36elementov_02_res03.jpg\" class=\"img-fluid\" /></a>",
+      "<a href=\"/api/data/images/20230108_36elementov_02_res04.jpg\" target=\"_blank\"><img src=\"/api/data/images/20230108_36elementov_02_res04.jpg\" class=\"img-fluid\" /></a>",
+      "<a href=\"/api/data/images/20230108_36elementov_02_res05.jpg\" target=\"_blank\"><img src=\"/api/data/images/20230108_36elementov_02_res05.jpg\" class=\"img-fluid\" /></a>",
+      "<a href=\"/api/data/images/20230108_36elementov_02_res06.jpg\" target=\"_blank\"><img src=\"/api/data/images/20230108_36elementov_02_res06.jpg\" class=\"img-fluid\" /></a>"
     ]
   },
   {
