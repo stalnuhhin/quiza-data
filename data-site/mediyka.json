@@ -4,35 +4,35 @@
     "date_start": "2023-03-10T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/963758705061569",
     "closed": 1,
-    "blocks": [{"authors": "Крехов Арсений"}]
+    "blocks": [{"authors": "Крехов Арсений", "status": 1}]
   },
   {
     "num": 106,
     "date_start": "2023-03-03T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/959567015480738",
     "closed": 1,
-    "blocks": [{"authors": "Хаманов Антон"}]
+    "blocks": [{"authors": "Хаманов Антон", "status": 1}]
   },
   {
     "num": 105,
     "date_start": "2023-02-24T20:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/955421519228621",
     "closed": 1,
-    "blocks": [{"authors": "Серебро Анна"}]
+    "blocks": [{"authors": "Крехов Арсений", "status": 1}]
   },
   {
     "num": 104,
     "date_start": "2023-02-10T20:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/946129040157869",
     "closed": 1,
-    "blocks": [{"authors": "Крехов Арсений"}]
+    "blocks": [{"authors": "Крехов Арсений", "status": 1}]
   },
   {
     "num": 103,
     "date_start": "2023-01-27T20:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/936684291102344",
     "closed": 1,
-    "blocks": [{"authors": "Серебро Анна"}]
+    "blocks": [{"authors": "Серебро Анна", "status": 1}]
   },
   {
     "num": 102,
