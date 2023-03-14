@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2023-02-19T12:00:00+03:00",
+    "latestCheck": "2023-03-15T12:00:00+03:00",
     "latestGame": "2022-12-06T12:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -98,6 +98,24 @@
         "name": "Українська ліга. Сезон 2022-2023. Етап 3",
         "price": ["600 UAH/ком"],
         "url": ["https://beeclever.space/regform.php?turnir=207"]
+      },
+      {
+        "time": "2023-03-07T20:00:00+02:00",
+        "name": "Реконкіста. Глава третя. Додаткова гра",
+        "price": ["20 USD/ком", "600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=212"]
+      },
+      {
+        "time": "2023-03-12T17:00:00+02:00",
+        "name": "Українська ліга. Сезон 2022-2023. Етап 3. Додаткова гра",
+        "price": ["600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=213"]
+      },
+      {
+        "time": "2023-03-17T20:00:00+02:00",
+        "name": "36 и 6 котов - 2",
+        "price": ["20 USD/ком", "600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=214"]
       }
     ]
   }
