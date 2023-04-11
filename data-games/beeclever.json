@@ -4,16 +4,22 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2023-04-02T12:00:00+03:00",
+    "latestCheck": "2023-04-12T12:00:00+03:00",
     "latestGame": "2022-12-06T12:00:00+02:00",
     "chgk": true,
     "priority": 50,
     "games": [
       {
-        "time": "2023-03-31T20:00:00+03:00",
+        "time": "2023-04-04T20:00:00+03:00",
+        "name": "36 і 6 котів - 2. Додаткова гра",
+        "price": ["600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=220"]
+      },
+      {
+        "time": "2023-04-11T20:00:00+03:00",
         "name": "Українська ліга. Сезон 2022-2023. Етап 4",
         "price": ["600 UAH/ком"],
-        "url": ["https://beeclever.space/regform.php?turnir=219"]
+        "url": ["https://beeclever.space/regform.php?turnir=221"]
       }
     ]
   }
