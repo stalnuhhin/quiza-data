@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2023-04-16T12:00:00+03:00",
+    "latestCheck": "2023-05-01T12:00:00+03:00",
     "latestGame": "2022-12-06T12:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -20,6 +20,30 @@
         "name": "Українська ліга. Сезон 2022-2023. Етап 4",
         "price": ["600 UAH/ком"],
         "url": ["https://beeclever.space/regform.php?turnir=221"]
+      },
+      {
+        "time": "2023-04-23T17:00:00+03:00",
+        "name": "Сhuj Wie",
+        "price": ["420 UAH/ком", "14 USD/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=223"]
+      },
+      {
+        "time": "2023-04-25T20:00:00+03:00",
+        "name": "36 і 6 котів - 2. Last Call!",
+        "price": ["600 UAH/ком", "20 USD/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=224"]
+      },
+      {
+        "time": "2023-04-28T20:00:00+03:00",
+        "name": "36 і 6 котів - 2. Last Call!",
+        "price": ["600 UAH/ком", "20 USD/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=225"]
+      },
+      {
+        "time": "2023-04-30T17:00:00+03:00",
+        "name": "Сhuj Wie",
+        "price": ["420 UAH/ком", "14 USD/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=226"]
       }
     ]
   }
