@@ -4,7 +4,7 @@
     "org": "Bee Clever",
     "image": "beeclever.png",
     "url": ["https://beeclever.space/fasad.php", "https://t.me/Bee_clever", "https://www.facebook.com/BEEEECLEVER/events"],
-    "latestCheck": "2023-05-01T12:00:00+03:00",
+    "latestCheck": "2023-05-09T12:00:00+03:00",
     "latestGame": "2022-12-06T12:00:00+02:00",
     "chgk": true,
     "priority": 50,
@@ -44,6 +44,18 @@
         "name": "Сhuj Wie",
         "price": ["420 UAH/ком", "14 USD/ком"],
         "url": ["https://beeclever.space/regform.php?turnir=226"]
+      },
+      {
+        "time": "2023-05-06T14:00:00+03:00",
+        "name": "Українська ліга. Сезон 2022-2023. Етап 5. Прем’єра!",
+        "price": ["600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=227"]
+      },
+      {
+        "time": "2023-05-09T20:00:00+03:00",
+        "name": "Українська ліга. Сезон 2022-2023. Етап 5",
+        "price": ["600 UAH/ком"],
+        "url": ["https://beeclever.space/regform.php?turnir=229"]
       }
     ]
   }
