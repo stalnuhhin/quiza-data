@@ -7,18 +7,12 @@
     "level": "{-}",
     "editors": [
       {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"},
-      {"name": "Бережинский Александр", "url": "https://rating.chgk.info/player/150951"},
-      {"name": "Стальнухин Антон", "url": "https://rating.chgk.info/player/30337"}
+      {"name": "Бережинский Александр", "url": "https://rating.chgk.info/player/150951"}
     ],
     "authors": [
-      {
-        "name": "Стальнухин Дмитрий",
-        "url": "https://rating.chgk.info/player/101861"
-      },
-      {
-        "name": "Бережинский Александр",
-        "url": "https://rating.chgk.info/player/150951"
-      }
+      {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"},
+      {"name": "Бережинский Александр", "url": "https://rating.chgk.info/player/150951"},
+      {"name": "Стальнухин Антон", "url": "https://rating.chgk.info/player/30337"}
     ],
     "synch": {
       "url": "https://rating.chgk.info/tournament/9390",
