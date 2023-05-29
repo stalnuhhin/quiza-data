@@ -1,5 +1,48 @@
 [
   {
+    "name": "36 цветов: снежинка с вершины Мунамяги",
+    "image": "20220901_36cvetov_02.jpg",
+    "questionCount": 36,
+    "levelPrediction": "{6.3}",
+    "level": "{-}",
+    "editors": [
+      {
+        "name": "Стальнухин Дмитрий",
+        "url": "https://rating.chgk.info/player/101861"
+      },
+      {
+        "name": "Бережинский Александр",
+        "url": "https://rating.chgk.info/player/150951"
+      }
+    ],
+    "authors": [
+      {
+        "name": "Стальнухин Дмитрий",
+        "url": "https://rating.chgk.info/player/101861"
+      },
+      {
+        "name": "Бережинский Александр",
+        "url": "https://rating.chgk.info/player/150951"
+      }
+    ],
+    "synch": {
+      "url": "https://rating.chgk.info/tournament/9390",
+      "registerUrl": "https://rating.chgk.info/tournament/9390/requests",
+      "start": "11.06.2023",
+      "end": "18.06.2023",
+      "price": "Благотворительный взнос",
+      "level": "{-}"
+    },
+    "asynch": {
+      "url": "https://rating.chgk.info/tournament/9391",
+      "registerUrl": "https://rating.chgk.info/tournament/9391/requests",
+      "start": "19.06.2023",
+      "end": "17.07.2023",
+      "price": "Благотворительный взнос",
+      "level": "{-}"
+    }
+  },
+  {
     "name": "36 элементов: Незерит",
     "image": "20230108_36elementov_02.jpg",
     "questionCount": 36,

@@ -1,5 +1,22 @@
 [
   {
+    "num": 110,
+    "date_start": "2023-05-26T19:00:00+03:00",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/1004557947648311",
+    "closed": 1,
+    "blocks": [{"authors": "Гойдов Михаил"}]
+  },
+  {
+    "num": 109,
+    "date_start": "2023-04-21T19:00:00+03:00",
+    "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/985571619546944",
+    "closed": 1,
+    "blocks": [
+      {"authors": "Денис Пастухов", "quantity": 100},
+      {"authors": "Сагитов Тимур", "quantity": 100}
+    ]
+  },
+  {
     "num": 108,
     "date_start": "2023-03-17T19:00:00+02:00",
     "notice_url": "https://www.facebook.com/groups/PohjaOokull/posts/967432721360834",
