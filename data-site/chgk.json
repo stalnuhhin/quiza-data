@@ -1,19 +1,14 @@
 [
   {
     "name": "36 цветов: снежинка с вершины Мунамяги",
-    "image": "20220901_36cvetov_02.jpg",
+    "image": "20230611_36cvetov_03.jpg",
     "questionCount": 36,
     "levelPrediction": "{6.3}",
     "level": "{-}",
     "editors": [
-      {
-        "name": "Стальнухин Дмитрий",
-        "url": "https://rating.chgk.info/player/101861"
-      },
-      {
-        "name": "Бережинский Александр",
-        "url": "https://rating.chgk.info/player/150951"
-      }
+      {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"},
+      {"name": "Бережинский Александр", "url": "https://rating.chgk.info/player/150951"},
+      {"name": "Стальнухин Антон", "url": "https://rating.chgk.info/player/30337"}
     ],
     "authors": [
       {
