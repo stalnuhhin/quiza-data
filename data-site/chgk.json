@@ -29,7 +29,11 @@
       "end": "17.07.2023",
       "price": "Благотворительный взнос",
       "level": "{-}"
-    }
+    },
+    "external": [
+      {"name": "Анонс синхрона в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2430856280410986"},
+      {"name": "Анонс синхрона в telegram", "url": "https://t.me/c/1564547001/19750"}
+    ]
   },
   {
     "name": "36 элементов: Незерит",
