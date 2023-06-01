@@ -4,14 +4,17 @@
     "org": "Quiz Heroes",
     "image": "quizheroes.png",
     "url": ["https://quizheroes.ru","https://ttttt.me/PlagueQuiz","https://www.instagram.com/quizheroes/","https://vk.com/public194290286"],
-    "latestCheck": "2023-05-01T12:00:00+03:00",
+    "latestCheck": "2023-06-02T12:00:00+03:00",
     "latestGame": "2023-01-13T20:00:00+03:00",
     "priority": 400,
     "games": [
       {"time": "2023-04-14T20:00:00+03:00", "name": "СУПЕР-МЕМ", "price": ["1500 RUB/ком"]},
       {"time": "2023-04-28T20:00:00+03:00", "name": "СНОВА В ХОГВАРТС", "price": ["1500 RUB/ком"]},
       {"time": "2023-05-12T20:00:00+03:00", "name": "СОВЕТСКИЕ КОМЕДИИ", "price": ["1500 RUB/ком"]},
-      {"time": "2023-05-26T20:00:00+03:00", "name": "MARVEL-КВИЗ", "price": ["1500 RUB/ком"]}
+      {"time": "2023-05-26T20:00:00+03:00", "name": "MARVEL-КВИЗ", "price": ["1500 RUB/ком"]},
+      {"time": "2023-09-01T20:00:00+03:00", "name": "ШКОЛЬНЫЙ КВИЗ", "price": ["1500 RUB/ком"]},
+      {"time": "2023-09-15T20:00:00+03:00", "name": "ВЛАСТЕЛИН КОЛЕЦ: БРАТСТВО QUIZHEROES", "price": ["1500 RUB/ком"]},
+      {"time": "2023-09-29T20:00:00+03:00", "name": "ВРЕМЯ МУЗЫКИ", "price": ["1500 RUB/ком"]}
     ]
   }
 ]
