@@ -32,7 +32,10 @@
     },
     "external": [
       {"name": "Анонс синхрона в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2430856280410986"},
-      {"name": "Анонс синхрона в telegram", "url": "https://t.me/c/1564547001/19750"}
+      {"name": "Анонс синхрона в telegram", "url": "https://t.me/c/1564547001/19750"},
+      {"name": "Второй анонс синхрона в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2435968819899732"},
+      {"name": "Анонс асинхрона в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2445997912230156"},
+      {"name": "Анонс асинхрона в telegram", "url": "https://t.me/c/1564547001/21284"}
     ]
   },
   {
