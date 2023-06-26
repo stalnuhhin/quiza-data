@@ -4,8 +4,8 @@
     "org": "Мировые квизы по-русски",
     "image": "quizzing.jpg",
     "url": ["https://vk.com/quizzing"],
-    "latestCheck": "2023-05-09T12:00:00+03:00",
-    "latestGame": "2022-12-11T03:00:00+03:00",
+    "latestCheck": "2023-06-27T12:00:00+03:00",
+    "latestGame": "2023-07-09T03:00:00+03:00",
     "priority": 510,
     "price": ["50 RUB/чел"],
     "games": [
@@ -18,7 +18,21 @@
       {"time": "2023-05-11T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Literature100", "url": ["https://vk.com/wall-68578986_1213"], "price": ["100 RUB/чел"]},
       {"time": "2023-05-12T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Literature100", "url": ["https://vk.com/wall-68578986_1213"], "price": ["100 RUB/чел"]},
       {"time": "2023-05-13T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Literature100", "url": ["https://vk.com/wall-68578986_1213"], "price": ["100 RUB/чел"]},
-      {"time": "2023-05-14T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Literature100", "url": ["https://vk.com/wall-68578986_1213"], "price": ["100 RUB/чел"]}
+      {"time": "2023-05-14T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Literature100", "url": ["https://vk.com/wall-68578986_1213"], "price": ["100 RUB/чел"]},
+      {"time": "2023-06-26T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities №2", "url": ["https://vk.com/wall-68578986_1220"], "price": ["100 RUB/чел"]},
+      {"time": "2023-06-27T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities №2", "url": ["https://vk.com/wall-68578986_1220"], "price": ["100 RUB/чел"]},
+      {"time": "2023-06-28T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities №2", "url": ["https://vk.com/wall-68578986_1220"], "price": ["100 RUB/чел"]},
+      {"time": "2023-06-29T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities №2", "url": ["https://vk.com/wall-68578986_1220"], "price": ["100 RUB/чел"]},
+      {"time": "2023-06-30T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities №2", "url": ["https://vk.com/wall-68578986_1220"], "price": ["100 RUB/чел"]},
+      {"time": "2023-07-01T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities №2", "url": ["https://vk.com/wall-68578986_1220"], "price": ["100 RUB/чел"]},
+      {"time": "2023-07-02T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities №2", "url": ["https://vk.com/wall-68578986_1220"], "price": ["100 RUB/чел"]},
+      {"time": "2023-07-03T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities №2", "url": ["https://vk.com/wall-68578986_1220"], "price": ["100 RUB/чел"]},
+      {"time": "2023-07-04T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities №2", "url": ["https://vk.com/wall-68578986_1220"], "price": ["100 RUB/чел"]},
+      {"time": "2023-07-05T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities №2", "url": ["https://vk.com/wall-68578986_1220"], "price": ["100 RUB/чел"]},
+      {"time": "2023-07-06T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities №2", "url": ["https://vk.com/wall-68578986_1220"], "price": ["100 RUB/чел"]},
+      {"time": "2023-07-07T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities №2", "url": ["https://vk.com/wall-68578986_1220"], "price": ["100 RUB/чел"]},
+      {"time": "2023-07-08T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities №2", "url": ["https://vk.com/wall-68578986_1220"], "price": ["100 RUB/чел"]},
+      {"time": "2023-07-09T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Personalities №2", "url": ["https://vk.com/wall-68578986_1220"], "price": ["100 RUB/чел"]}
     ]
   }
 ]
