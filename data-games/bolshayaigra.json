@@ -5,7 +5,7 @@
     "image": "bolshayaigra.png",
     "url": ["https://chgk-world.ru/tournaments"],
     "latestCheck": "2023-06-27T12:00:00+03:00",
-    "latestGame": "2023-06-27T20:00:00+02:00",
+    "latestGame": "2023-06-30T20:00:00+02:00",
     "priority": 40,
     "chgk": true,
     "games": [
@@ -84,7 +84,10 @@
       {"time": "2023-06-25T13:00:00+03:00", "name": "М-лига 39.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1372"]},
       {"time": "2023-06-25T22:00:00+03:00", "name": "М-лига 39.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1372"]},
       {"time": "2023-06-26T20:00:00+03:00", "name": "М-лига 39.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1372"]},
-      {"time": "2023-06-27T20:00:00+03:00", "name": "Базовая Лига. Игра 15.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1376"]}
+      {"time": "2023-06-27T20:00:00+03:00", "name": "Базовая Лига. Игра 15.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1376"]},
+      {"time": "2023-07-02T13:00:00+03:00", "name": "Квиз \"Большая игра\"", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1383"]},
+      {"time": "2023-07-02T22:00:00+03:00", "name": "Квиз \"Большая игра\"", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1383"]},
+      {"time": "2023-07-03T20:00:00+03:00", "name": "Квиз \"Большая игра\"", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1383"]}
     ]
   }
 ]
