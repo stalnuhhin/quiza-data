@@ -68,7 +68,7 @@
     "image": "20230108_36elementov_02.jpg",
     "questionCount": 36,
     "levelPrediction": "{3.5}",
-    "level": "{3.3}",
+    "level": "{3.0}",
     "editors": [
       {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"}
     ],
@@ -135,7 +135,7 @@
     "image": "20220901_36cvetov_02.jpg",
     "questionCount": 36,
     "levelPrediction": "{5.0}",
-    "level": "{6.1}",
+    "level": "{5.6}",
     "editors": [
       {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"}
     ],
@@ -151,14 +151,16 @@
       "registerUrl": "https://rating.chgk.info/tournament/8315/requests",
       "start": "01.09.2022",
       "end": "07.09.2022",
-      "price": "Благотворительный взнос"
+      "price": "Благотворительный взнос",
+      "level": "{6.1}"
     },
     "asynch": {
       "url": "https://rating.chgk.info/tournament/8316",
       "registerUrl": "https://rating.chgk.info/tournament/8316/requests",
       "start": "08.09.2022",
       "end": "05.10.2022",
-      "price": "Благотворительный взнос"
+      "price": "Благотворительный взнос",
+      "level": "{5.2}"
     },
     "external": [
       {"name": "Анонс синхрона в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2202990626530887"},
@@ -191,7 +193,7 @@
     "image": "20220725_36elementov_01.png",
     "questionCount": 36,
     "levelPrediction": "{3.5}",
-    "level": "{4.2}",
+    "level": "{2.3}",
     "editors": [
       {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"}
     ],
@@ -206,14 +208,16 @@
       "registerUrl": "https://rating.chgk.info/tournament/8206/requests",
       "start": "25.07.2022",
       "end": "31.07.2022",
-      "price": "Благотворительный взнос"
+      "price": "Благотворительный взнос",
+      "level": "{4.2}"
     },
     "asynch": {
       "url": "https://rating.chgk.info/tournament/8207",
       "registerUrl": "https://rating.chgk.info/tournament/8207/requests",
       "start": "01.08.2022",
       "end": "21.08.2022",
-      "price": "Благотворительный взнос"
+      "price": "Благотворительный взнос",
+      "level": "{2.6}"
     },
     "packageUrl": "https://bit.ly/CHGK_202208_36_elementov_01",
     "external": [
@@ -247,7 +251,7 @@
     "image": "20220624_36cvetov_01.png",
     "questionCount": 36,
     "levelPrediction": "{4.2}",
-    "level": "{6.5}",
+    "level": "{5.1}",
     "editors": [
       {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"}
     ],
@@ -261,14 +265,16 @@
       "registerUrl": "https://rating.chgk.info/tournament/8115/requests",
       "start": "24.06.2022",
       "end": "30.06.2022",
-      "price": "Благотворительный взнос"
+      "price": "Благотворительный взнос",
+      "level": "{6.1}"
     },
     "asynch": {
       "url": "https://rating.chgk.info/tournament/8116",
       "registerUrl": "https://rating.chgk.info/tournament/8116/requests",
       "start": "01.07.2022",
       "end": "28.07.2022",
-      "price": "Благотворительный взнос"
+      "price": "Благотворительный взнос",
+      "level": "{5.4}"
     },
     "packageUrl": "https://bit.ly/CHGK_202207_36_cvetov_01",
     "external": [
