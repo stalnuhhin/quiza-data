@@ -4,8 +4,8 @@
     "org": "Большая игра",
     "image": "bolshayaigra.png",
     "url": ["https://chgk-world.ru/tournaments"],
-    "latestCheck": "2023-07-07T12:00:00+03:00",
-    "latestGame": "2023-08-01T20:00:00+02:00",
+    "latestCheck": "2023-08-08T12:00:00+03:00",
+    "latestGame": "2023-08-29T20:00:00+02:00",
     "priority": 40,
     "chgk": true,
     "games": [
@@ -111,7 +111,31 @@
       {"time": "2023-07-30T13:00:00+03:00", "name": "М-лига 40.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1387"]},
       {"time": "2023-07-30T22:00:00+03:00", "name": "М-лига 40.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1387"]},
       {"time": "2023-07-31T20:00:00+03:00", "name": "М-лига 40.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1387"]},
-      {"time": "2023-08-01T20:00:00+03:00", "name": "Базовая Лига. Игра 16.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1391"]}
+      {"time": "2023-08-01T20:00:00+03:00", "name": "Базовая Лига. Игра 16.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1391"]},
+      {"time": "2023-08-05T13:00:00+03:00", "name": "Базовая Лига. Игра 17.1", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1412"]},
+      {"time": "2023-08-05T22:00:00+03:00", "name": "Базовая Лига. Игра 17.1", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1412"]},
+      {"time": "2023-08-06T13:00:00+03:00", "name": "М-лига 41.1", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1408"]},
+      {"time": "2023-08-06T22:00:00+03:00", "name": "М-лига 41.1", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1408"]},
+      {"time": "2023-08-07T20:00:00+03:00", "name": "М-лига 41.1", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1408"]},
+      {"time": "2023-08-08T20:00:00+03:00", "name": "Базовая Лига. Игра 17.1", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1412"]},
+      {"time": "2023-08-12T13:00:00+03:00", "name": "Базовая Лига. Игра 17.2", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1413"]},
+      {"time": "2023-08-12T22:00:00+03:00", "name": "Базовая Лига. Игра 17.2", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1413"]},
+      {"time": "2023-08-13T13:00:00+03:00", "name": "М-лига 41.2", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1409"]},
+      {"time": "2023-08-13T22:00:00+03:00", "name": "М-лига 41.2", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1409"]},
+      {"time": "2023-08-14T20:00:00+03:00", "name": "М-лига 41.2", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1409"]},
+      {"time": "2023-08-15T20:00:00+03:00", "name": "Базовая Лига. Игра 17.2", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1413"]},
+      {"time": "2023-08-19T13:00:00+03:00", "name": "Базовая Лига. Игра 17.3", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1414"]},
+      {"time": "2023-08-19T22:00:00+03:00", "name": "Базовая Лига. Игра 17.3", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1414"]},
+      {"time": "2023-08-20T13:00:00+03:00", "name": "М-лига 41.3", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1410"]},
+      {"time": "2023-08-20T22:00:00+03:00", "name": "М-лига 41.3", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1410"]},
+      {"time": "2023-08-21T20:00:00+03:00", "name": "М-лига 41.3", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1410"]},
+      {"time": "2023-08-22T20:00:00+03:00", "name": "Базовая Лига. Игра 17.3", "price": ["900 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1414"]},
+      {"time": "2023-08-26T13:00:00+03:00", "name": "Базовая Лига. Игра 17.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1415"]},
+      {"time": "2023-08-26T22:00:00+03:00", "name": "Базовая Лига. Игра 17.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1415"]},
+      {"time": "2023-08-27T13:00:00+03:00", "name": "М-лига 41.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1411"]},
+      {"time": "2023-08-27T22:00:00+03:00", "name": "М-лига 41.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1411"]},
+      {"time": "2023-08-28T20:00:00+03:00", "name": "М-лига 41.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1411"]},
+      {"time": "2023-08-29T20:00:00+03:00", "name": "Базовая Лига. Игра 17.4", "price": ["1200 RUB/ком"], "url": ["https://chgk-world.ru/tournaments/1415"]}
     ]
   }
 ]
