@@ -4,10 +4,9 @@
     "org": "Мировые квизы по-русски",
     "image": "quizzing.jpg",
     "url": ["https://vk.com/quizzing"],
-    "latestCheck": "2023-08-15T12:00:00+03:00",
-    "latestGame": "2023-08-22T03:00:00+03:00",
+    "latestCheck": "2023-08-24T12:00:00+03:00",
+    "latestGame": "2023-09-03T03:00:00+03:00",
     "priority": 510,
-    "price": ["50 RUB/чел"],
     "games": [
       {"time": "2023-04-01T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Music100", "url": ["https://vk.com/wall-68578986_1205"], "price": ["100 RUB/чел"]},
       {"time": "2023-04-02T00:00:00+03:00", "duration": 24, "name": "Письменная викторина Music100", "url": ["https://vk.com/wall-68578986_1205"], "price": ["100 RUB/чел"]},
@@ -52,7 +51,19 @@
       {"time": "2023-08-17T00:00:00+03:00", "duration": 24, "name": "Научный взрыв #2 (70 вопросов)", "url": ["https://vk.com/wall-68578986_1225"], "price": ["100 RUB/чел"]},
       {"time": "2023-08-18T00:00:00+03:00", "duration": 24, "name": "Научный взрыв #2 (70 вопросов)", "url": ["https://vk.com/wall-68578986_1225"], "price": ["100 RUB/чел"]},
       {"time": "2023-08-19T00:00:00+03:00", "duration": 24, "name": "Научный взрыв #2 (70 вопросов)", "url": ["https://vk.com/wall-68578986_1225"], "price": ["100 RUB/чел"]},
-      {"time": "2023-08-20T00:00:00+03:00", "duration": 24, "name": "Научный взрыв #2 (70 вопросов)", "url": ["https://vk.com/wall-68578986_1225"], "price": ["100 RUB/чел"]}
+      {"time": "2023-08-20T00:00:00+03:00", "duration": 24, "name": "Научный взрыв #2 (70 вопросов)", "url": ["https://vk.com/wall-68578986_1225"], "price": ["100 RUB/чел"]},
+      {"time": "2023-08-23T00:00:00+03:00", "duration": 24, "name": "X Games. Буква К (100 вопросов)", "url": ["https://vk.com/wall-68578986_1227"], "price": ["129 RUB/чел"]},
+      {"time": "2023-08-24T00:00:00+03:00", "duration": 24, "name": "X Games. Буква К (100 вопросов)", "url": ["https://vk.com/wall-68578986_1227"], "price": ["129 RUB/чел"]},
+      {"time": "2023-08-25T00:00:00+03:00", "duration": 24, "name": "X Games. Буква К (100 вопросов)", "url": ["https://vk.com/wall-68578986_1227"], "price": ["129 RUB/чел"]},
+      {"time": "2023-08-26T00:00:00+03:00", "duration": 24, "name": "X Games. Буква К (100 вопросов)", "url": ["https://vk.com/wall-68578986_1227"], "price": ["129 RUB/чел"]},
+      {"time": "2023-08-27T00:00:00+03:00", "duration": 24, "name": "X Games. Буква К (100 вопросов)", "url": ["https://vk.com/wall-68578986_1227"], "price": ["129 RUB/чел"]},
+      {"time": "2023-08-28T00:00:00+03:00", "duration": 24, "name": "X Games. Буква К (100 вопросов)", "url": ["https://vk.com/wall-68578986_1227"], "price": ["129 RUB/чел"]},
+      {"time": "2023-08-29T00:00:00+03:00", "duration": 24, "name": "X Games. Буква К (100 вопросов)", "url": ["https://vk.com/wall-68578986_1227"], "price": ["129 RUB/чел"]},
+      {"time": "2023-08-30T00:00:00+03:00", "duration": 24, "name": "X Games. Буква К (100 вопросов)", "url": ["https://vk.com/wall-68578986_1227"], "price": ["129 RUB/чел"]},
+      {"time": "2023-08-31T00:00:00+03:00", "duration": 24, "name": "X Games. Буква К (100 вопросов)", "url": ["https://vk.com/wall-68578986_1227"], "price": ["129 RUB/чел"]},
+      {"time": "2023-09-01T00:00:00+03:00", "duration": 24, "name": "X Games. Буква К (100 вопросов)", "url": ["https://vk.com/wall-68578986_1227"], "price": ["129 RUB/чел"]},
+      {"time": "2023-09-02T00:00:00+03:00", "duration": 24, "name": "X Games. Буква К (100 вопросов)", "url": ["https://vk.com/wall-68578986_1227"], "price": ["129 RUB/чел"]},
+      {"time": "2023-09-03T00:00:00+03:00", "duration": 24, "name": "X Games. Буква К (100 вопросов)", "url": ["https://vk.com/wall-68578986_1227"], "price": ["129 RUB/чел"]}
     ]
   }
 ]
