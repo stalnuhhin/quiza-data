@@ -1,5 +1,38 @@
 [
   {
+    "name": "36 элементов: Итильдин",
+    "image": "20231008_36elementov_03.jpg",
+    "questionCount": 36,
+    "levelPrediction": "{3.9}",
+    "editors": [
+      {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"},
+      {"name": "Бережинский Александр", "url": "https://rating.chgk.info/player/150951"}
+    ],
+    "authors": [
+      {"name": "Стальнухин Дмитрий", "url": "https://rating.chgk.info/player/101861"},
+      {"name": "Бережинский Александр", "url": "https://rating.chgk.info/player/150951"}
+    ],
+    "synch": {
+      "url": "https://rating.chgk.info/tournament/9804",
+      "registerUrl": "https://rating.chgk.info/tournament/9804/requests",
+      "start": "08.10.2023",
+      "end": "15.10.2023",
+      "price": "Благотворительный взнос"
+    },
+    "asynch": {
+      "url": "https://rating.chgk.info/tournament/9805",
+      "registerUrl": "https://rating.chgk.info/tournament/9805/requests",
+      "start": "16.10.2023",
+      "end": "06.11.2023",
+      "price": "Благотворительный взнос"
+    },
+    "external": [
+      {"name": "Анонс синхрона в facebook", "url": "https://www.facebook.com/groups/chgk.global/posts/2513685618794718"},
+      {"name": "Анонс синхрона в ЖЖ", "url": "https://chgk.livejournal.com/5317502.html"},
+      {"name": "Анонс синхрона в telegram", "url": "https://t.me/c/1564547001/33417"}
+    ]
+  },
+  {
     "name": "36 цветов: снежинка с вершины Мунамяги",
     "image": "20230611_36cvetov_03.jpg",
     "questionCount": 36,
