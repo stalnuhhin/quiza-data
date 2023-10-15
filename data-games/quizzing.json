@@ -4,7 +4,7 @@
     "org": "Мировые квизы по-русски",
     "image": "quizzing.jpg",
     "url": ["https://vk.com/quizzing"],
-    "latestCheck": "2023-09-23T12:00:00+03:00",
+    "latestCheck": "2023-10-15T12:00:00+03:00",
     "latestGame": "2023-09-03T03:00:00+03:00",
     "priority": 510,
     "games": [
@@ -80,7 +80,17 @@
       {"time": "2023-10-05T00:00:00+03:00", "duration": 24, "name": "Культурный вызов №3 (100 вопросов)", "url": ["https://vk.com/@quizzing-pismennyi-kviz-kulturnyi-vyzov-3-registraciya-ploschadok"], "price": ["250 RUB/чел", "150 RUB/чел в ком"]},
       {"time": "2023-10-06T00:00:00+03:00", "duration": 24, "name": "Культурный вызов №3 (100 вопросов)", "url": ["https://vk.com/@quizzing-pismennyi-kviz-kulturnyi-vyzov-3-registraciya-ploschadok"], "price": ["250 RUB/чел", "150 RUB/чел в ком"]},
       {"time": "2023-10-07T00:00:00+03:00", "duration": 24, "name": "Культурный вызов №3 (100 вопросов)", "url": ["https://vk.com/@quizzing-pismennyi-kviz-kulturnyi-vyzov-3-registraciya-ploschadok"], "price": ["250 RUB/чел", "150 RUB/чел в ком"]},
-      {"time": "2023-10-08T00:00:00+03:00", "duration": 24, "name": "Культурный вызов №3 (100 вопросов)", "url": ["https://vk.com/@quizzing-pismennyi-kviz-kulturnyi-vyzov-3-registraciya-ploschadok"], "price": ["250 RUB/чел", "150 RUB/чел в ком"]}
+      {"time": "2023-10-08T00:00:00+03:00", "duration": 24, "name": "Культурный вызов №3 (100 вопросов)", "url": ["https://vk.com/@quizzing-pismennyi-kviz-kulturnyi-vyzov-3-registraciya-ploschadok"], "price": ["250 RUB/чел", "150 RUB/чел в ком"]},
+      {"time": "2023-10-13T00:00:00+03:00", "duration": 24, "name": "Футбол-5 (100 вопросов)", "url": ["https://vk.com/wall-68578986_1232"], "price": ["200 RUB/чел", "150 RUB/чел в ком"]},
+      {"time": "2023-10-14T00:00:00+03:00", "duration": 24, "name": "Футбол-5 (100 вопросов)", "url": ["https://vk.com/wall-68578986_1232"], "price": ["200 RUB/чел", "150 RUB/чел в ком"]},
+      {"time": "2023-10-15T00:00:00+03:00", "duration": 24, "name": "Футбол-5 (100 вопросов)", "url": ["https://vk.com/wall-68578986_1232"], "price": ["200 RUB/чел", "150 RUB/чел в ком"]},
+      {"time": "2023-10-16T00:00:00+03:00", "duration": 24, "name": "Футбол-5 (100 вопросов)", "url": ["https://vk.com/wall-68578986_1232"], "price": ["200 RUB/чел", "150 RUB/чел в ком"]},
+      {"time": "2023-10-17T00:00:00+03:00", "duration": 24, "name": "Футбол-5 (100 вопросов)", "url": ["https://vk.com/wall-68578986_1232"], "price": ["200 RUB/чел", "150 RUB/чел в ком"]},
+      {"time": "2023-10-18T00:00:00+03:00", "duration": 24, "name": "Футбол-5 (100 вопросов)", "url": ["https://vk.com/wall-68578986_1232"], "price": ["200 RUB/чел", "150 RUB/чел в ком"]},
+      {"time": "2023-10-19T00:00:00+03:00", "duration": 24, "name": "Футбол-5 (100 вопросов)", "url": ["https://vk.com/wall-68578986_1232"], "price": ["200 RUB/чел", "150 RUB/чел в ком"]},
+      {"time": "2023-10-20T00:00:00+03:00", "duration": 24, "name": "Футбол-5 (100 вопросов)", "url": ["https://vk.com/wall-68578986_1232"], "price": ["200 RUB/чел", "150 RUB/чел в ком"]},
+      {"time": "2023-10-21T00:00:00+03:00", "duration": 24, "name": "Футбол-5 (100 вопросов)", "url": ["https://vk.com/wall-68578986_1232"], "price": ["200 RUB/чел", "150 RUB/чел в ком"]},
+      {"time": "2023-10-22T00:00:00+03:00", "duration": 24, "name": "Футбол-5 (100 вопросов)", "url": ["https://vk.com/wall-68578986_1232"], "price": ["200 RUB/чел", "150 RUB/чел в ком"]}
     ]
   }
 ]
