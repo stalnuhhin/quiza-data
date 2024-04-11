@@ -1,0 +1,18 @@
+[
+  {
+    "id": "ec0af02f-633c-4499-8672-f92115929d97",
+    "org": "Гладиолус",
+    "image": "gladgame.jpg",
+    "url": ["https://gladgame.ru", "https://t.me/gladgameru"],
+    "latestCheck": "2024-04-11T12:00:00+03:00",
+    "priority": 30,
+    "chgk": true,
+    "auto": {
+      "url": "https://gladgame.ru/GetCurrentGameList.php",
+      "rules": [
+        {"code": "JSON", "params": ["sStartDate:TIME", "sTournamentName:NAME", "sPrice:PRICE"]}
+      ]
+    },
+    "games": []
+  }
+]
