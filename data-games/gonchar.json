@@ -14,7 +14,7 @@
         {"code": "BEFORE_FIRST", "params": ["role=\"alert\""]},
         {"code": "SPLIT", "params": ["data-value=\""], "rules": [
           {"code": "BEFORE_FIRST", "params": ["\" role=\""]},
-          {"code": "GONCHAR", "params": ["+03:00"]}
+          {"code": "GONCHAR", "params": ["+02:00"]}
         ]}
       ]
     },
